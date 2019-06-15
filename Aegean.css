@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Aegean';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Aegean Regular'), local('Aegean-Regular'), url(Aegean.ttf) format('truetype');
+}
