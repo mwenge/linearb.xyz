@@ -146,9 +146,9 @@ function makeMoveLens(lens, img, result, cx, cy) {
   return function(e) {
     result.style.display = "flex";
     lens.style.display = "block";
-    result.style.width = result.parentElement.offsetWidth + "px";
-    result.style.height = (result.parentElement.offsetHeight / 2) + "px";
-    result.style.top = "-" + (result.parentElement.offsetHeight / 2) + "px";
+    result.style.width = (result.parentElement.offsetWidth * 2) + "px";
+    result.style.height = result.parentElement.offsetHeight + "px";
+    result.style.top = "-" + result.parentElement.offsetHeight + "px";
     lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
     lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
 
@@ -192,10 +192,11 @@ function makeMoveLens(lens, img, result, cx, cy) {
   };
 }
 
-function makeHideZoom(lens, result) {
+function makeHideElements(elements) {
   return function(e) {
-    result.style.display = "none";
-    lens.style.display = "none";
+    for (var index in elements) {
+      elements[index].style.display = "none";
+    }
   };
 }
 
@@ -227,13 +228,14 @@ function addImageToItem(item, imageToAdd, name) {
   img.src = imageToAdd;
   img.height = "200";
   img.setAttribute("onerror", "this.src='images/noimagesmall.png'");
+  img.addEventListener("error", makeHideElements([inscriptionImage]));
   imageWrapper.appendChild(img);
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
   lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
   img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
-  itemShell.addEventListener("mouseout", makeHideZoom(lens, itemZoom));
+  itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
 var wordsInCorpus = new Map();
