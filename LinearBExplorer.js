@@ -125,18 +125,19 @@ function updateSearch(event) {
   clearHighlights();
   document.getElementById("search-terms").innerHTML = "";
   var searchTerm = event.target.value;
-  var allContainers = document.getElementsByClassName('item-container');
-  for (var i = 0; i < allContainers.length; i++) {
-    var container = allContainers[i];
-    for (var j = 0; j < container.children.length; j++) {
-      var element = container.children[j];
-      if (searchTerm == "" || element.textContent.includes(searchTerm)) {
-        element.parentElement.style.display = "flex";
-        highlightMatchesInElement(element, searchTerm);
-        break;
-      } else {
-        element.parentElement.style.display = "none";
-      }
+  for (var inscription of inscriptions.values()) {
+    if (searchTerm == "") {
+			if (inscription.element) {
+        inscription.element.style.display = "flex";
+			}
+			continue;
+		}
+    if (inscription.transcription.includes(searchTerm)) {
+      loadInscription(inscription);
+      inscription.element.style.display = "flex";
+      highlightMatchesInElement(inscription.element, searchTerm);
+    } else if (inscription.element) {
+      inscription.element.style.display = "none";
     }
   } 
 }
@@ -237,6 +238,10 @@ function addImageToItem(item, imageToAdd, name) {
 
 var wordsInCorpus = new Map();
 function loadInscription(inscription) {
+  if (inscription.element) {
+    return null;
+  }
+
   var item = document.createElement("div");
   item.className = 'item-container';
   item.id = inscription.name;
@@ -295,6 +300,8 @@ function loadInscription(inscription) {
   inscription.element = item;
 
   container.appendChild(item);
+  inscriptionsToLoad.delete(inscription.name);
+  
   return item;
 }
 
@@ -384,13 +391,21 @@ function updateSearchTerms(evt, name, index) {
 
 function applySearchTerms() {
   var searchTerms = document.getElementById("search-terms");
+  var numberOfSearchTerms = searchTerms.children.length;	
   clearHighlights();
   for (var inscription of inscriptions.values()) {
+    if (!numberOfSearchTerms) {
+      if (inscription.element) {
+        inscription.element.style.display = "flex";
+      }
+      continue;
+    }
+
     var shouldDisplay = true;
-    for (var j = 0; j < searchTerms.children.length; j++) {
+    for (var j = 0; j < numberOfSearchTerms; j++) {
       var element = searchTerms.children[j];
       var searchTerm = element.textContent;
-    var searchTerm = element.textContent.replace(/𐝫/g, "");
+      var searchTerm = element.textContent.replace(/𐝫/g, "");
       if (!inscription.words.includes(searchTerm) &&
           !inscription.words.map(x => x.replace(/𐝫/g, "")).includes(searchTerm)) {
         shouldDisplay = false;
@@ -398,14 +413,20 @@ function applySearchTerms() {
       }
     }
     if (!shouldDisplay) {
-      inscription.element.style.display = "none";
+      if (inscription.element) {
+        inscription.element.style.display = "none";
+      }
       continue;
     }
-    inscription.element.style.display = "flex";
+    var newElement = loadInscription(inscription);
+    if (!newElement) {
+      inscription.element.style.display = "flex";
+    }
     for (index in searchTerms.children) {
       var term = searchTerms.children[index].textContent;
       for (var j = 0; j < inscription.element.children.length; j++) {
         var element = inscription.element.children[j];
+        console.log("highlighting");
         highlightMatchesInElement(element, term);
       }
     }
@@ -451,8 +472,8 @@ function searchForWord(evt, name, index) {
   searchBox.dispatchEvent(new InputEvent("input"));
 }
 
-var loadedInscriptions = 0;
 var inscriptionsAsArray = Array.from(inscriptions.entries());	
+var inscriptionsToLoad = new Map(inscriptions);
 // create config object: rootMargin and threshold
 // are two properties exposed by the interface
 const config = {
@@ -470,10 +491,11 @@ let observer = new IntersectionObserver(function(entries, self) {
     if(entry.isIntersecting) {
       // custom function that copies the path to the img
       // from data-src to src
-		  var inscription = inscriptionsAsArray[loadedInscriptions][1];	
-			var visibleInscription = loadInscription(inscription);
-      observer.observe(visibleInscription);
-			loadedInscriptions++;
+		  var key = inscriptionsToLoad.keys().next().value;	
+      if (key) {
+        var visibleInscription = loadInscription(inscriptions.get(key));
+        observer.observe(visibleInscription);
+      }
       // the image is now in place, stop watching
       self.unobserve(entry.target);
     }
@@ -481,13 +503,10 @@ let observer = new IntersectionObserver(function(entries, self) {
 }, config);
 
 function loadExplorer() {
-  for (var inscription of inscriptions.values()) {
-    var visibleInscription = loadInscription(inscription);
+  for (var i = 0; i < 100; i++) {
+    var key = inscriptionsToLoad.keys().next().value;	
+    var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
-    loadedInscriptions++;
-    if (loadedInscriptions > 100) {
-      break;
-    }
   }
 }
 

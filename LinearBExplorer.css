@@ -51,9 +51,12 @@ img {
   font-family: 'Aegean', serif;
   padding: 10px;
   border: 1px solid grey;
-  max-width: 250px;
+  max-width: 450px;
   position: relative;
   background-color: inherit;
+}
+.item > .img-wrapper {
+  max-width: 250px;
 }
 .masthead {
   font-family: 'Courier', serif;
