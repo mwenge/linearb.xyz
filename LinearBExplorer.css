@@ -33,6 +33,7 @@ img {
   position: absolute;
   height: 80px;
   top: -80px;
+	z-index: 50;
 }
 .img-wrapper {
   position: relative;
@@ -48,12 +49,19 @@ img {
 }
 .item {
   float: left;
-  font-family: 'Aegean', 'Courier', 'Noto Sans Linear A', 'Noto Sans Linear B', sans-serif;
+  font-family: 'Aegean', 'Courier', 'Noto Sans Linear A and B', sans-serif;
   padding: 10px;
   border: 1px solid grey;
   max-width: 450px;
   position: relative;
   background-color: inherit;
+  line-height: 18px;
+}
+.transliteration-item {
+  font-size: 14px;
+  font-weight: 100;
+  color: gray;
+  max-width: 850px;
 }
 .item > .img-wrapper {
   max-width: 250px;
@@ -92,19 +100,18 @@ img {
 }
 
 .comment-box {
-  position: fixed;
+  position: absolute;
   padding: 6px;
-  right: 10px;
-  bottom: 10px;
   color: black;
   background-color: white;
-  height: 50%;
-  width: 40%;
+  width: 100%;
   border: 1px solid black;
   overflow-y: auto;
   font-family: 'Courier', serif;
   font-size: 10px;
   display: none;
+  z-index: 400;
+  box-sizing: border-box;
 }
 
 dt, dd, font {
@@ -168,3 +175,19 @@ dt, dd, font {
   font-family: 'Courier', serif;
   border: 1px solid black;
 }
+#credits {
+  font-family: 'Courier', serif;
+}
+#credits:hover {
+  font-size: 30px;
+}
+.word-tip {
+  position: absolute;
+  font-size: 14px;
+  font-family: 'Courier', serif;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  z-index: 600;
+}
+

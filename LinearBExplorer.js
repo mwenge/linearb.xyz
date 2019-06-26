@@ -63,12 +63,25 @@ function checkKey(e) {
 }
 
 function showCommentaryForInscription(inscription) {
-  inscription = inscription.replace(/[a-z]/g, "");
-  var commentBox = document.getElementById("comment_box");
-  if (commentBox.style.display == "block") {
-    commentBox.style.display = "none";
+  var inscriptionElement = document.getElementById(inscription);
+
+  var commentBox = document.getElementById("comment-box-" + inscription);
+  if (commentBox) {
+    if (commentBox.style.display == "block") {
+      commentBox.style.display = "none";
+      return;
+    }
+    commentBox.style.display = "block";
     return;
   }
+
+  var commentBox = document.createElement("div")
+  commentBox.className = 'comment-box';
+  commentBox.id = 'comment-box-' + inscription;
+  commentBox.style.top = inscriptionElement.offsetHeight + "px";
+  commentBox.addEventListener("click", makeHideElements([commentBox]));
+  inscriptionElement.appendChild(commentBox);
+
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
 			if (xhttp.status == 404) {
@@ -78,6 +91,7 @@ function showCommentaryForInscription(inscription) {
         commentBox.style.display = "block";
       }
   };
+  inscription = inscription.replace(/[a-z]/g, "");
   xhttp.open("GET", "commentary/" + inscription + ".html", true);
   xhttp.send();
 }
@@ -148,9 +162,15 @@ function makeMoveLens(lens, img, result, cx, cy) {
     lens.style.display = "block";
     result.style.width = (result.parentElement.offsetWidth * 2) + "px";
     result.style.height = result.parentElement.offsetHeight + "px";
-    result.style.top = "-" + result.parentElement.offsetHeight + "px";
     lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
     lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
+
+    var availableHeight = result.parentElement.getBoundingClientRect().top;
+    if (availableHeight < (result.parentElement.offsetHeight / 2)) {
+      result.style.top = result.parentElement.offsetHeight + "px";
+    } else {
+      result.style.top = "-" + result.parentElement.offsetHeight + "px";
+    }
 
     /* Calculate the ratio between itemZoom DIV and lens: */
     cx = result.offsetWidth / lens.offsetWidth;
@@ -238,7 +258,6 @@ function addImageToItem(item, imageToAdd, name) {
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
-var wordsInCorpus = new Map();
 function loadInscription(inscription) {
   if (inscription.element) {
     return null;
@@ -253,7 +272,7 @@ function loadInscription(inscription) {
   addImageToItem(item, inscription.tracingImage, inscription.name)
 
   var transcript = document.createElement("div");
-  transcript.className = 'item';
+  transcript.className = 'item text-item';
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.words.length; i++) {
     var word = inscription.words[i];
@@ -263,11 +282,6 @@ function loadInscription(inscription) {
       span.textContent = word;
 
       var searchTerm = word.replace(/𐝫/g, "");
-      if (wordsInCorpus.has(searchTerm)) {
-        wordsInCorpus.set(searchTerm, wordsInCorpus.get(searchTerm) + 1);
-      } else {
-        wordsInCorpus.set(searchTerm, 1);
-      }
       span.id = inscription.name + "-transcription-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
@@ -278,7 +292,7 @@ function loadInscription(inscription) {
   item.appendChild(transcript);
 
   transcript = document.createElement("div");
-  transcript.className = 'item';
+  transcript.className = 'item text-item transliteration-item';
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.translatedWords.length; i++) {
     var word = inscription.translatedWords[i];
@@ -307,12 +321,20 @@ function loadInscription(inscription) {
   return item;
 }
 
-function addWordTip(word) {
+function addWordTip(word, inscription) {
   word = word.replace(/𐝫/g, "");
   if (!wordsInCorpus.has(word)) {
     return;
   }
-  var tip = document.getElementById("tip");
+  var tip = document.getElementById(inscription + "-tip");
+  var inscriptionElement = document.getElementById(inscription);
+  if (!tip) {
+    var tip = document.createElement("div")
+    tip.className = 'word-tip';
+    tip.id = inscription + "-tip";
+    inscriptionElement.appendChild(tip);
+  }
+  tip.style.display = "block";
   tip.innerHTML = "";
 
   var wordCommentElement = document.createElement("div");
@@ -333,15 +355,22 @@ function addWordTip(word) {
       tipText = "There is no other instance of this word."
       break;
     case 1:
-      tipText = wordCount + " other instance of this word. Click word to view it."
+      tipText = wordCount + " other instance of this word. Click to add to filter."
       break;
     default:
-      tipText = wordCount + " other instances of this word. Click word to view them."
+      tipText = wordCount + " other instances of this word. Click to add to filter."
   }
   var wordCommentElement = document.createElement("span");
   wordCommentElement.className = "tip-text";
   wordCommentElement.textContent = tipText;
   tip.appendChild(wordCommentElement);
+
+  var availableHeight = inscriptionElement.getBoundingClientRect().top;
+  if (availableHeight < tip.offsetHeight) {
+    tip.style.top = inscriptionElement.offsetHeight + "px";
+  } else {
+    tip.style.top = "-" + tip.offsetHeight + "px";
+  }
 }
 
 function updateTipText(string) {
@@ -354,13 +383,16 @@ function highlightWords(evt, name, index) {
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
-    addWordTip(element.textContent);
+    addWordTip(element.textContent, name);
     element.style.backgroundColor = "yellow";
   }
 }
 
 function clearHighlight(evt, name, index) {
-  document.getElementById("tip").textContent = "";
+  var tip = document.getElementById(name + "-tip");
+  if (tip) {
+    tip.style.display = "none";
+  }
   var items = ["transcription", "translation"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
