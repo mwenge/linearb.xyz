@@ -279,7 +279,7 @@ function loadInscription(inscription) {
     var elementName = word == "\n" ? "br" : "span";
     var span = document.createElement(elementName);
     if (elementName == "span") {
-      span.textContent = word;
+      span.textContent = word + " ";
 
       var searchTerm = word.replace(/𐝫/g, "");
       span.id = inscription.name + "-transcription-" + i;
@@ -323,6 +323,7 @@ function loadInscription(inscription) {
 
 function addWordTip(word, inscription) {
   word = word.replace(/𐝫/g, "");
+  word = word.replace(/ /g, "");
   if (!wordsInCorpus.has(word)) {
     return;
   }
@@ -406,7 +407,7 @@ function clearHighlight(evt, name, index) {
 
 function updateSearchTerms(evt, name, index) {
   var element = document.getElementById(name + "-transcription-" + index);
-  var searchTerm = element.textContent.replace(/𐝫/g, "");
+  var searchTerm = element.textContent.replace(/𐝫/g, "").replace(/ /g, "");
   var container = document.getElementById("search-terms");
   var existingElement = document.getElementById(searchTerm);
   if (existingElement) {
