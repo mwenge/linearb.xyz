@@ -258,6 +258,16 @@ function addImageToItem(item, imageToAdd, name) {
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
+function getClassForInscriptionSize(wordCount) {
+  if (wordCount > 100) {
+    return "big-inscription";
+  }
+  if (wordCount > 50) {
+    return "medium-inscription";
+  }
+  return "small-inscription";
+}
+
 function loadInscription(inscription) {
   if (inscription.element) {
     return null;
@@ -271,8 +281,9 @@ function loadInscription(inscription) {
   addImageToItem(item, inscription.image, inscription.name)
   addImageToItem(item, inscription.tracingImage, inscription.name)
 
+  var classForSize = getClassForInscriptionSize(inscription.translatedWords.length);
   var transcript = document.createElement("div");
-  transcript.className = 'item text-item';
+  transcript.className = 'item text-item' + " " + classForSize;
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.words.length; i++) {
     var word = inscription.words[i];
@@ -292,7 +303,7 @@ function loadInscription(inscription) {
   item.appendChild(transcript);
 
   transcript = document.createElement("div");
-  transcript.className = 'item text-item transliteration-item';
+  transcript.className = 'item text-item transliteration-item' + " " + classForSize;
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.translatedWords.length; i++) {
     var word = inscription.translatedWords[i];
@@ -324,8 +335,9 @@ function loadInscription(inscription) {
 function addWordTip(word, inscription) {
   word = word.replace(/𐝫/g, "");
   word = word.replace(/ /g, "");
-  if (!wordsInCorpus.has(word)) {
-    return;
+  var wordCount = 0;
+  if (wordsInCorpus.has(word)) {
+    wordCount = wordsInCorpus.get(word) - 1;
   }
   var tip = document.getElementById(inscription + "-tip");
   var inscriptionElement = document.getElementById(inscription);
@@ -338,11 +350,6 @@ function addWordTip(word, inscription) {
   tip.style.display = "block";
   tip.innerHTML = "";
 
-  var wordCommentElement = document.createElement("div");
-  wordCommentElement.className = "lexicon";
-  wordCommentElement.textContent = lexicon.get(word);
-
-  var wordCount = wordsInCorpus.get(word) - 1;
   if (lexicon.has(word)) {
     var wordCommentElement = document.createElement("div");
     wordCommentElement.className = "lexicon";
@@ -384,7 +391,9 @@ function highlightWords(evt, name, index) {
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
-    addWordTip(element.textContent, name);
+    if (item == "transcription") {
+      addWordTip(element.textContent, name);
+    }
     element.style.backgroundColor = "yellow";
   }
 }

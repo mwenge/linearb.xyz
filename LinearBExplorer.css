@@ -47,6 +47,18 @@ img {
   height: 40px;
   z-index: 100;
 }
+.big-inscription {
+  font-size: 12px;
+  line-height: 14px;
+}
+.medium-inscription {
+  font-size: 14px;
+  line-height: 16px;
+}
+.small-inscription {
+  font-size: 16px;
+  line-height: 18px;
+}
 .item {
   float: left;
   font-family: 'Aegean', 'Courier', 'Noto Sans Linear A and B', sans-serif;
@@ -55,10 +67,8 @@ img {
   max-width: 450px;
   position: relative;
   background-color: inherit;
-  line-height: 18px;
 }
 .transliteration-item {
-  font-size: 14px;
   font-weight: 100;
   color: gray;
   max-width: 850px;
@@ -161,7 +171,7 @@ dt, dd, font {
 }
 
 .help-menu {
-  font-size: 15px;
+  font-size: 12px;
   background-color: white;
   padding: 10px;
   position: fixed;
@@ -170,7 +180,7 @@ dt, dd, font {
   left: 0;
   right: 0;
   margin: auto;
-  width: 600px;
+  width: 700px;
   height: 450px;
   font-family: 'Courier', serif;
   border: 1px solid black;
@@ -179,12 +189,13 @@ dt, dd, font {
   font-family: 'Courier', serif;
 }
 #credits:hover {
-  font-size: 30px;
+  font-size: 20px;
+  opacity: 1;
 }
 .word-tip {
   position: absolute;
   font-size: 14px;
-  font-family: 'Courier', serif;
+  font-family: 'Courier', 'Noto Sans Linear A and B', sans-serif;
   color: black;
   background-color: white;
   border: 1px solid black;
