@@ -73,6 +73,29 @@ img {
   color: gray;
   max-width: 850px;
 }
+.other-explorer-container {
+  position: fixed;
+  display: inline-flex;
+  top: 0px;
+  right: 0px;
+  z-index: 100;
+  min-height: 2vh;
+}
+.cretan-explorer {
+  background-color: blue;
+}
+.lineara-explorer {
+  background-color: purple;
+}
+.other-explorer {
+  font-family: 'Courier', serif;
+  opacity: 0.8;
+  font-size: 2vh;
+  color: white;
+  border: white 3px solid;
+  display: inline-block;
+  padding: 1px;
+}
 .item > .img-wrapper {
   max-width: 250px;
 }
