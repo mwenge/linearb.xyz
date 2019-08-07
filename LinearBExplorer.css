@@ -1,3 +1,6 @@
+body {
+  padding-top: 5vh;
+}
 .item-container {
   float: left;
   margin: 10px;
@@ -56,8 +59,8 @@ img {
   line-height: 16px;
 }
 .small-inscription {
-  font-size: 16px;
-  line-height: 18px;
+  font-size: 28px;
+  line-height: 28px;
 }
 .item {
   float: left;
