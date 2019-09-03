@@ -146,7 +146,7 @@ function updateSearch(event) {
 			}
 			continue;
 		}
-    if (inscription.transcription.includes(searchTerm) || inscription.name.includes(searchTerm)) {
+    if (inscription.parsedInscription.includes(searchTerm) || inscription.transcription.includes(searchTerm) || inscription.name.includes(searchTerm)) {
       loadInscription(inscription);
       inscription.element.style.display = "flex";
       highlightMatchesInElement(inscription.element, searchTerm);
