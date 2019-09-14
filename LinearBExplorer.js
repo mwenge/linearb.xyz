@@ -525,22 +525,16 @@ const config = {
   threshold: 0
 };
 
-// register the config object with an instance
-// of intersectionObserver
+// Load inscriptions as they come into view
 let observer = new IntersectionObserver(function(entries, self) {
-  // iterate over each entry
   entries.forEach(entry => {
-    // process just the images that are intersecting.
-    // isIntersecting is a property exposed by the interface
-    if(entry.isIntersecting) {
-      // custom function that copies the path to the img
-      // from data-src to src
+    // Only load new inscriptions if a search isn't active
+    if(entry.isIntersecting && !highlightedSearchElements.length) {
 		  var key = inscriptionsToLoad.keys().next().value;	
       if (key) {
         var visibleInscription = loadInscription(inscriptions.get(key));
         observer.observe(visibleInscription);
       }
-      // the image is now in place, stop watching
       self.unobserve(entry.target);
     }
   });
