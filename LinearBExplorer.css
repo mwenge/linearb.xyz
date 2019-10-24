@@ -124,7 +124,7 @@ input:focus::placeholder { color:transparent; }
 }
 .masthead {
   font-family: 'Courier', serif;
-  background-color: maroon;
+  background-color: #8B668B;
   opacity: 0.8;
   font-size: 4vh;
   color: white;
