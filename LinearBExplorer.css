@@ -7,13 +7,19 @@ body {
   display: flex;
   position: relative;
 }
+.zoomed-item-container {
+  position: fixed;
+  top: 50px;
+  left: 100px;
+  background-color: white;
+  z-index: 100;
+}
 .item-container:hover {
   background-color: #f5f5f0;
 }
 .search {
   font-family: 'Courier', serif;
   width: 200px;
-  min-height: 4vh;
   display: inline-block;
   font-size: 4vh;
   opacity: 0.8;
@@ -21,10 +27,11 @@ body {
   padding: 5px;
 }
 input:focus::placeholder { color:transparent; }
-img {
+.img-wrapper > img {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  mix-blend-mode: multiply;
 }
 .item-shell {
   position: relative;
@@ -36,7 +43,7 @@ img {
   position: absolute;
   height: 80px;
   top: -80px;
-	z-index: 50;
+  z-index: 50;
 }
 .img-wrapper {
   position: relative;
@@ -48,47 +55,63 @@ img {
   /*set the size of the lens:*/
   width: 40px;
   height: 40px;
-  z-index: 100;
 }
-.big-inscription {
-  font-size: 12px;
-  line-height: 14px;
+.result {
+  opacity: 1;
+  font-size: 20px;
+  background-color: slategray;
+  color: white;
+  display: none;
+  padding: 10px;
+  position: fixed;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 360px;
+  height: 30px;
+  text-align: center;
+  animation: blinker 2s linear 1;
+  border-radius: 40px;
+  z-index: 2000;
+  animation-delay: 3s;
 }
-.medium-inscription {
-  font-size: 14px;
-  line-height: 16px;
-}
-.small-inscription {
-  font-size: 28px;
-  line-height: 28px;
+@keyframes blinker {
+  80% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0.1;
+  }
 }
 .item {
   float: left;
-  font-family: 'Aegean', 'Courier', 'Noto Sans Linear A and B', sans-serif;
+  font-family: 'Aegean', 'Noto Sans Linear A and B', 'Courier', sans-serif;
   padding: 10px;
   border: 1px solid grey;
-  max-width: 450px;
+  max-width: 150px;
   position: relative;
   background-color: inherit;
+  line-height: 18px;
+  transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
+}
+.text-item {
+  max-width: 250px;
+  transition: max-width 0.2s;
 }
 .transliteration-item {
+  font-size: 16px;
   font-weight: 100;
   color: gray;
-  max-width: 850px;
+  max-width: 350px;
+  transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
 }
-.other-explorer-container {
-  position: fixed;
-  display: inline-flex;
-  top: 0px;
-  right: 0px;
-  z-index: 100;
-  min-height: 2vh;
-}
-.cretan-explorer {
-  background-color: blue;
-}
-.lineara-explorer {
-  background-color: purple;
+.zoomed-item {
+  max-width: 350px;
+  line-height: 28px;
+  font-size: 20px;
+  transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
 }
 .other-explorer {
   font-family: 'Courier', serif;
@@ -96,11 +119,8 @@ img {
   font-size: 2vh;
   color: white;
   border: white 3px solid;
-  display: inline-block;
+  float: left;
   padding: 1px;
-}
-.item > .img-wrapper {
-  max-width: 250px;
 }
 .masthead {
   font-family: 'Courier', serif;
@@ -118,7 +138,19 @@ img {
   top: 0px;
   left: 0px;
   z-index: 100;
-  min-height: 4vh;
+}
+.linearb-explorer {
+  background-color: maroon;
+}
+.cretan-explorer {
+  background-color: blue;
+}
+.cypro-minoan-explorer {
+  background-color: olive;
+}
+.other-explorer-container {
+  float: left;
+
 }
 .label {
   position: absolute;
@@ -129,12 +161,28 @@ img {
   color: white;
   opacity: 0.5;
 }
+.scribe-label {
+  font-size: 10px;
+  right: auto;
+  left: 0;
+  background-color: gray;
+  z-index: 100;
+}
+.search-term, .scribe-label:hover, .item > span {
+  cursor: pointer;
+}
 .image-label {
   position: fixed;
-  font-size: 10px;
+  font-size: 1vh;
   background-color: gray;
 }
-
+#credits {
+  font-family: 'Courier', serif;
+}
+#credits:hover {
+  font-size: 2vh;
+  opacity: 1;
+}
 .comment-box {
   position: absolute;
   padding: 6px;
@@ -152,6 +200,16 @@ img {
 
 dt, dd, font {
   font-size: 12px;
+}
+.word-tip {
+  position: absolute;
+  font-size: 14px;
+  font-family: 'Courier', serif;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  padding: 2px;
+  z-index: 100;
 }
 .tip {
   position: fixed;
@@ -196,9 +254,55 @@ dt, dd, font {
   color: white;
 }
 
+.word-frequency-1 {
+  background-color: unset;
+}
+.word-frequency-2 {
+  background-color: rgba(230,230,230, 0.5);
+  line-height: initial;
+}
+.word-frequency-3 {
+  background-color: rgba(220, 220, 220, 0.5);
+  line-height: initial;
+}
+.word-frequency-4 {
+  background-color: rgba(200, 200, 200, 0.5);
+  line-height: initial;
+}
+.word-frequency-5 {
+  background-color: rgba(180, 180, 180, 0.5);
+  line-height: initial;
+}
+.word-frequency-6 {
+  background-color: rgba(160, 160, 160, 0.5);
+  line-height: initial;
+}
+.word-frequency-7 {
+  background-color: rgba(150, 150, 150, 0.5);
+  line-height: initial;
+}
+.word-frequency-8 {
+  background-color: rgba(140, 140, 140, 0.5);
+  line-height: initial;
+}
+.word-frequency-8 {
+  background-color: rgba(130, 130, 130, 0.5);
+  line-height: initial;
+}
+.word-frequency-9 {
+  background-color: rgba(120, 120, 120, 0.5);
+  line-height: initial;
+}
+.word-frequency-10 {
+  background-color: rgba(105, 105, 105, 0.5);
+  line-height: initial;
+}
+.word-frequency-none {
+  background-color: unset;
+}
 .help-menu {
-  font-size: 12px;
-  background-color: white;
+  display: none;
+  font-size: 25px;
   padding: 10px;
   position: fixed;
   top:0;
@@ -206,25 +310,12 @@ dt, dd, font {
   left: 0;
   right: 0;
   margin: auto;
-  width: 700px;
-  height: 450px;
+  width: 80%;
+  height: 60%;
   font-family: 'Courier', serif;
-  border: 1px solid black;
+  z-index: 400;
 }
-#credits {
-  font-family: 'Courier', serif;
+.help-menu > span {
+  background-color: yellow;
+  text-transform: uppercase;
 }
-#credits:hover {
-  font-size: 20px;
-  opacity: 1;
-}
-.word-tip {
-  position: absolute;
-  font-size: 14px;
-  font-family: 'Courier', 'Noto Sans Linear A and B', sans-serif;
-  color: black;
-  background-color: white;
-  border: 1px solid black;
-  z-index: 600;
-}
-
