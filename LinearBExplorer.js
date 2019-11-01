@@ -67,6 +67,9 @@ function checkKey(e) {
         result.textContent = "Sorted by edit distance.";
       }
       break;
+    case 84: // 't' - toggle translation
+      toggleTranslation();
+      break;
     case 87: // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
       break;
@@ -197,7 +200,7 @@ function highlightMatchesInElement(element, searchTerm, highlightColor) {
       }
       var translation = document.getElementById(inscription + "-translation-" + j);
       translation.style.backgroundColor = highlightColor;
-      var transcription = document.getElementById(inscription + "-transcription-" + j);
+      var transcription = document.getElementById(inscription + "-transliteration-" + j);
       transcription.style.backgroundColor = highlightColor;
       highlightedSearchElements.push(translation);
       highlightedSearchElements.push(transcription);
@@ -419,28 +422,12 @@ function loadInscription(inscription) {
   }
   item.appendChild(transcript);
 
-  transcript = document.createElement("div");
-  transcript.className = 'item text-item transliteration-item';
-  transcript.setAttribute("inscription", inscription.name);
-  for (var i = 0; i < inscription.transliteratedWords.length; i++) {
-    var word = inscription.transliteratedWords[i];
-    var elementName = word == "\n" ? "br" : "span";
-    var span = document.createElement(elementName);
-    if (elementName == "span") {
-      span.textContent = word + " ";
-      span.className = getClassNameForWord(inscription.words[i]);
-      span.classList.add("word-frequency-none");
-      span.id = inscription.name + "-translation-" + i;
-      span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onclick", "updateSearchTerms(event, '\"" + inscription.words[i] + "\"')");
-    }
-    transcript.appendChild(span);
-  }
-  transcript.appendChild(document.createElement("br"));
-  transcript.appendChild(document.createElement("br"));
+  var transliteration = populateText(inscription, "transliteration", inscription.transliteratedWords);
+  item.appendChild(transliteration);
 
-  item.appendChild(transcript);
+  var translation = populateText(inscription, "translation", inscription.translatedWords);
+  translation.style.display = "none";
+  item.appendChild(translation);
 
   if (inscription.scribe) {
     var label = document.createElement("div");
@@ -461,6 +448,35 @@ function loadInscription(inscription) {
   updateDisplayOfWordFrequency(item, false);
 
   return item;
+}
+
+function populateText(inscription, type, words) {
+  transcript = document.createElement("div");
+  transcript.className = 'item text-item ' + type + '-item';
+  transcript.setAttribute("inscription", inscription.name);
+  for (var i = 0; i < words.length; i++) {
+    var word = words[i];
+    var elementName = word == "\n" ? "br" : "span";
+    var span = document.createElement(elementName);
+    if (elementName == "span") {
+      span.textContent = word + " ";
+      span.className = getClassNameForWord(inscription.words[i]);
+      span.classList.add("word-frequency-none");
+      span.id = inscription.name + "-" + type + "-" + i;
+      span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onclick", "updateSearchTerms(event, '\"" + inscription.words[i] + "\"')");
+    }
+    transcript.appendChild(span);
+  }
+  transcript.appendChild(document.createElement("br"));
+  transcript.appendChild(document.createElement("br"));
+  return transcript;
+}
+
+function toggleTranslation() {
+  Array.prototype.map.call(document.getElementsByClassName("translation-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
+  Array.prototype.map.call(document.getElementsByClassName("transliteration-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
 }
 
 function addWordTip(word, inscription) {
@@ -521,11 +537,11 @@ function updateTipText(string) {
 }
 
 function highlightWords(evt, name, index) {
-  var items = ["transcription", "translation"];
+  var items = ["transliteration", "translation"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
-    if (item == "transcription") {
+    if (item == "transliteration") {
       addWordTip(element.textContent, name);
     }
     if (element.style.backgroundColor) {
@@ -540,7 +556,7 @@ function clearHighlight(evt, name, index) {
   if (tip) {
     tip.style.display = "none";
   }
-  var items = ["transcription", "translation"];
+  var items = ["transliteration", "translation"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
@@ -684,7 +700,7 @@ function updateSortStatus(inscription) {
 }
 
 function searchForWord(evt, name, index) {
-  var element = document.getElementById(name + "-transcription-" + index);
+  var element = document.getElementById(name + "-transliteration-" + index);
   var searchTerm = stripErased(element.textContent);
   var searchBox = document.getElementById("search");
   searchBox.value = searchTerm;
