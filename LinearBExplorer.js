@@ -607,8 +607,10 @@ function loadSearchTerms(key) {
 }
 
 function hasMatch(fullWordMatch, searchTerm, inscription) {
+  
   if (!fullWordMatch) {
     var containsTerm = inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
+    containsTerm |= inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
     return (containsTerm ||
         inscription.transcription.includes(searchTerm) ||
         inscription.name.includes(searchTerm) ||
@@ -618,6 +620,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
   }
 
   var containsTerm = inscription.transliteratedWords.filter(word => word == searchTerm).length > 0;
+  containsTerm |= inscription.translatedWords.filter(word => word == searchTerm).length > 0;
   return (containsTerm ||
       inscription.name == searchTerm ||
       inscription.words.includes(searchTerm) ||
