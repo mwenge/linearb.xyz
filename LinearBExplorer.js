@@ -428,7 +428,7 @@ function loadInscription(inscription) {
   var transliteration = populateText(inscription, "transliteration", inscription.transliteratedWords);
   item.appendChild(transliteration);
 
-  var translation = populateText(inscription, "translation", inscription.translatedWords);
+  var translation = populateText(inscription, "translation", inscription.transliteratedWords.map(x => getDictionaryEntry(x)));
   translation.style.display = "none";
   item.appendChild(translation);
 
@@ -451,6 +451,17 @@ function loadInscription(inscription) {
   updateDisplayOfWordFrequency(item, false);
 
   return item;
+}
+
+function getDictionaryEntry(word) {
+  if (!dictionary.has(word)) {
+    return word;
+  }
+  value = dictionary.get(word);
+  if (value == "") {
+    return word;
+  }
+  return value;
 }
 
 function populateText(inscription, type, words) {
