@@ -292,9 +292,9 @@ function makeHideElements(elements) {
   };
 }
 
-function addImageToItem(item, imageToAdd, name) {
+function addImageToItem(item, imageToAdd, name, stack) {
   var itemShell = document.createElement("div");
-  itemShell.className = 'item-shell';
+  itemShell.className = 'item-shell' + (stack ? ' stacked-item-shell' : '');
   item.appendChild(itemShell);
 
   var itemZoom = document.createElement("div");
@@ -307,7 +307,7 @@ function addImageToItem(item, imageToAdd, name) {
   itemZoom.appendChild(label);
 
   var inscriptionImage = document.createElement("div");
-  inscriptionImage.className = 'item';
+  inscriptionImage.className = 'item' + (stack ? ' stacked-image-item' : '');
   var imageWrapper = document.createElement("div");
   imageWrapper.setAttribute("class", "img-wrapper");
   inscriptionImage.appendChild(imageWrapper);
@@ -391,20 +391,21 @@ function loadInscription(inscription) {
     return null;
   }
 
+  var stack = (inscription.displayHint == "row") ? false : true;
   var item = document.createElement("div");
-  item.className = 'item-container';
+  item.className = 'item-container' + (stack ? ' stacked-item-container' : "");
   item.id = inscription.name;
   item.setAttribute("onclick", "showCommentaryForInscription('" + inscription.name + "')");
 
   inscription.images.forEach( image => {
-    addImageToItem(item, image, inscription.name)
+    addImageToItem(item, image, inscription.name, stack)
   });
   inscription.tracingImages.forEach( image => {
-    addImageToItem(item, image, inscription.name)
+    addImageToItem(item, image, inscription.name, stack)
   });
 
   var transcript = document.createElement("div");
-  transcript.className = 'item text-item';
+  transcript.className = 'item text-item' + (stack ? ' stacked-text-item' : "");
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.words.length; i++) {
     var word = inscription.words[i];
@@ -425,10 +426,10 @@ function loadInscription(inscription) {
   }
   item.appendChild(transcript);
 
-  var transliteration = populateText(inscription, "transliteration", inscription.transliteratedWords);
+  var transliteration = populateText(inscription, "transliteration", inscription.transliteratedWords, stack);
   item.appendChild(transliteration);
 
-  var translation = populateText(inscription, "translation", inscription.transliteratedWords.map(x => getDictionaryEntry(x)));
+  var translation = populateText(inscription, "translation", inscription.transliteratedWords.map(x => getDictionaryEntry(x)), stack);
   translation.style.display = "none";
   item.appendChild(translation);
 
@@ -464,9 +465,9 @@ function getDictionaryEntry(word) {
   return value;
 }
 
-function populateText(inscription, type, words) {
+function populateText(inscription, type, words, stack) {
   transcript = document.createElement("div");
-  transcript.className = 'item text-item ' + type + '-item';
+  transcript.className = 'item text-item ' + type + '-item' + (stack ? ' stacked-text-item' : "")
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < words.length; i++) {
     var word = words[i];

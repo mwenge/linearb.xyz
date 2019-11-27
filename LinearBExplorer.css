@@ -7,6 +7,10 @@ body {
   display: flex;
   position: relative;
 }
+.stacked-item-container {
+  flex-wrap: wrap;
+  max-width: 600px;
+}
 .zoomed-item-container {
   position: fixed;
   top: 50px;
@@ -36,6 +40,9 @@ input:focus::placeholder { color:transparent; }
 .item-shell {
   position: relative;
   display: flex;
+}
+.stacked-item-shell {
+  flex-basis: 100%;
 }
 .item-zoom {
   border: 1px solid grey;
@@ -96,7 +103,11 @@ input:focus::placeholder { color:transparent; }
   line-height: 18px;
   transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
 }
+.stacked-image-item {
+  max-width: 600px;
+}
 .text-item {
+  word-break: break-all;
   max-width: 250px;
   transition: max-width 0.2s;
 }
@@ -106,6 +117,11 @@ input:focus::placeholder { color:transparent; }
   color: gray;
   max-width: 350px;
   transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
+}
+.stacked-text-item {
+  flex-grow: 1;
+  box-sizing: border-box;
+  max-width: 300px;
 }
 .zoomed-item {
   max-width: 350px;
