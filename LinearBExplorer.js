@@ -227,14 +227,21 @@ function updateSearch(event) {
   updateSearchTerms(event, searchTerm);
 }
 
-function makeMoveLens(lens, img, result, cx, cy) {
+function makeMoveLens(lens, img, result, stack) {
   return function(e) {
     result.style.display = "flex";
     lens.style.display = "block";
-    result.style.width = (result.parentElement.offsetWidth * 2) + "px";
-    result.style.height = result.parentElement.offsetHeight + "px";
-    lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
-    lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
+    if (stack) {
+      result.style.width = (result.parentElement.offsetWidth / 2) + "px";
+      result.style.height = result.parentElement.offsetHeight + "px";
+      lens.style.width = (result.parentElement.offsetWidth / 5) + "px";
+      lens.style.height = (result.parentElement.offsetHeight / 2) + "px";
+    } else {
+      result.style.width = (result.parentElement.offsetWidth * 2) + "px";
+      result.style.height = result.parentElement.offsetHeight + "px";
+      lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
+      lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
+    }
 
     var availableHeight = result.parentElement.getBoundingClientRect().top;
     if (availableHeight < (result.parentElement.offsetHeight / 2)) {
@@ -324,8 +331,8 @@ function addImageToItem(item, imageToAdd, name, stack) {
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
-  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
-  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
+  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, stack));
+  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, stack));
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
