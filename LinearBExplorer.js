@@ -68,7 +68,7 @@ function checkKey(e) {
       }
       break;
     case 84: // 't' - toggle translation
-      toggleTranslation();
+      toggleTranslation(document);
       break;
     case 87: // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
@@ -393,6 +393,15 @@ function getClassForInscriptionSize(wordCount) {
   return "medium-inscription";
 }
 
+function displayingTranslation(container) {
+  var lastChild = container.lastChild;
+  if (!lastChild || lastChild.nodeName != "DIV") {
+    return false;
+  }
+  var displayingTranslation = lastChild.getElementsByClassName("translation-item")[0].style.display == "block";
+  return displayingTranslation;
+}
+
 function loadInscription(inscription) {
   if (inscription.element) {
     return null;
@@ -467,7 +476,11 @@ function loadInscription(inscription) {
   item.appendChild(label);
 
   inscription.element = item;
+  if (displayingTranslation(container)) {
+    toggleTranslation(item);
+  }
   container.appendChild(item);
+
   inscriptionsToLoad.delete(inscription.name);
   updateDisplayOfWordFrequency(item, false);
 
@@ -509,9 +522,9 @@ function populateText(inscription, type, words, stack) {
   return transcript;
 }
 
-function toggleTranslation() {
-  Array.prototype.map.call(document.getElementsByClassName("translation-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
-  Array.prototype.map.call(document.getElementsByClassName("transliteration-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
+function toggleTranslation(container) {
+  Array.prototype.map.call(container.getElementsByClassName("translation-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
+  Array.prototype.map.call(container.getElementsByClassName("transliteration-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
 }
 
 function addWordTip(word, inscription) {
