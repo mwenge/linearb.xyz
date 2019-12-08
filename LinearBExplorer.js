@@ -472,7 +472,7 @@ function loadInscription(inscription) {
 
   var label = document.createElement("div");
   label.className = 'label';
-  label.textContent = inscription.name;
+  label.textContent = inscription.label;
   item.appendChild(label);
 
   inscription.element = item;
