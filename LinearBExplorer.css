@@ -94,7 +94,7 @@ input:focus::placeholder { color:transparent; }
 }
 .item {
   float: left;
-  font-family: 'Aegean', 'Noto Sans Linear A and B', 'Courier', sans-serif;
+  font-family: 'Aegean', 'Noto Sans Linear B', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
   padding: 10px;
   border: 1px solid grey;
   max-width: 150px;
@@ -130,7 +130,7 @@ input:focus::placeholder { color:transparent; }
   transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
 }
 .other-explorer {
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   opacity: 0.8;
   font-size: 2vh;
   color: white;
@@ -176,6 +176,7 @@ input:focus::placeholder { color:transparent; }
   padding: 2px;
   color: white;
   opacity: 0.5;
+  font-size: 12px;
 }
 .tag-container {
   position: absolute;
@@ -189,7 +190,7 @@ input:focus::placeholder { color:transparent; }
   border: 1px solid white;
   color: white;
   opacity: 0.5;
-  font-size: 10px;
+  font-size: 8px;
   background-color: gray;
   display: inline;
 }
@@ -202,7 +203,7 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
 }
 #credits {
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
 }
 #credits:hover {
   font-size: 2vh;
@@ -216,7 +217,7 @@ input:focus::placeholder { color:transparent; }
   width: 100%;
   border: 1px solid black;
   overflow-y: auto;
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   font-size: 10px;
   display: none;
   z-index: 400;
@@ -229,7 +230,7 @@ dt, dd, font {
 .word-tip {
   position: absolute;
   font-size: 14px;
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   color: black;
   background-color: white;
   border: 1px solid black;
@@ -243,7 +244,7 @@ dt, dd, font {
   font-size: 18px;
   color: white;
   background-color: gray;
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
 }
 
 .top-right-console {
@@ -337,7 +338,7 @@ dt, dd, font {
   margin: auto;
   width: 80%;
   height: 60%;
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   z-index: 400;
 }
 .help-menu > span {

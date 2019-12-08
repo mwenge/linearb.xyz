@@ -10,3 +10,15 @@
   font-weight: 400;
   src: url(NotoSansLinearA-LinearB.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Noto Sans Linear B';
+  font-style: normal;
+  font-weight: 400;
+  src: url(NotoSansLinearB-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(NotoMono-hinted.ttf) format('truetype');
+}
