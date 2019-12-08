@@ -682,7 +682,7 @@ function applySearchTerms() {
                          .map(x => stripErased(x.textContent));
   clearHighlights();
 
-  for (var inscription of inscriptions.values()) {
+  for (var inscription of linearBInscriptions.values()) {
     if (!numberOfSearchTerms) {
       if (inscription.element) {
         inscription.element.style.display = "flex";
@@ -760,8 +760,8 @@ function searchForWord(evt, name, index) {
   searchBox.dispatchEvent(new InputEvent("input"));
 }
 
-var inscriptionsAsArray = Array.from(inscriptions.entries());	
-var inscriptionsToLoad = new Map(inscriptions);
+var inscriptionsAsArray = Array.from(linearBInscriptions.entries());	
+var inscriptionsToLoad = new Map(linearBInscriptions);
 // create config object: rootMargin and threshold
 // are two properties exposed by the interface
 const config = {
@@ -776,7 +776,7 @@ let observer = new IntersectionObserver(function(entries, self) {
     if(entry.isIntersecting && !highlightedSearchElements.length) {
 		  var key = inscriptionsToLoad.keys().next().value;	
       if (key) {
-        var visibleInscription = loadInscription(inscriptions.get(key));
+        var visibleInscription = loadInscription(linearBInscriptions.get(key));
         observer.observe(visibleInscription);
       }
       self.unobserve(entry.target);
@@ -787,7 +787,7 @@ let observer = new IntersectionObserver(function(entries, self) {
 function loadExplorer() {
   for (var i = 0; i < 20; i++) {
     var key = inscriptionsToLoad.keys().next().value;	
-    var visibleInscription = loadInscription(inscriptions.get(key));
+    var visibleInscription = loadInscription(linearBInscriptions.get(key));
     observer.observe(visibleInscription);
   }
 }
