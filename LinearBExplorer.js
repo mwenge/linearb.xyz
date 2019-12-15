@@ -158,7 +158,7 @@ function getInscriptionHoveredOver() {
   var nn;
   while (n) {
     nn = n;
-    if (nn.className == "item-container") {
+    if (nn.className.includes("item-container")) {
       return nn;
     }
     n = nn.querySelector(":hover");
