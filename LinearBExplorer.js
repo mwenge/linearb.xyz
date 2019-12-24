@@ -119,6 +119,11 @@ function checkKey(e) {
   }
 }
 
+function closeZoomedWindow(e) {
+  zoomItem(null);
+  e.stopPropagation();
+}
+
 function showCommentaryForInscription(inscription) {
   var inscriptionElement = document.getElementById(inscription);
 
@@ -363,6 +368,7 @@ with ({zoomedElement : null}) var zoomItem = function(item) {
   
   Array.prototype.map.call(itemToZoom.getElementsByClassName("item-shell"), x => x.classList.toggle("zoomed-item"));
   Array.prototype.map.call(itemToZoom.getElementsByClassName("item"), x => x.classList.toggle("zoomed-item"));
+  Array.prototype.map.call(itemToZoom.getElementsByClassName("close-window"), x => x.classList.toggle("zoomed-close-window"));
   itemToZoom.classList.toggle("zoomed-item-container");
 }
 
@@ -474,6 +480,13 @@ function loadInscription(inscription) {
   label.className = 'label';
   label.textContent = inscription.label;
   item.appendChild(label);
+
+  var label = document.createElement("div");
+  label.className = "close-window";
+  label.id = inscription.name + "-close-window";
+  label.onclick = closeZoomedWindow;
+  item.appendChild(label);
+
 
   inscription.element = item;
   if (displayingTranslation(container)) {

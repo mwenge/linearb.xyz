@@ -167,7 +167,42 @@ input:focus::placeholder { color:transparent; }
 }
 .other-explorer-container {
   float: left;
-
+}
+.close-window {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  width: 23px;
+  height: 23px;
+  border: 2px solid #eef5df;
+  background-color: gray;
+  opacity: 0.5;
+  border-radius: 50%;
+  display: none;
+}
+.close-window::before, .close-window::after {
+  position: absolute;
+  top: 10px;
+  left: 5px;
+  width: 13px;
+  height: 3px;
+  content: "";
+  background-color: #eef5df;
+  display: block;
+}
+.close-window::before {
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.close-window::after {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.close-window:hover { cursor: pointer; }
+.zoomed-close-window {
+  display: inline-block;
 }
 .label {
   position: absolute;
