@@ -26,7 +26,7 @@ body {
 }
 .search {
   font-family: 'Courier', serif;
-  width: 200px;
+  border-radius: 1em;
   display: inline-block;
   font-size: 4vh;
   opacity: 0.8;
@@ -216,7 +216,7 @@ input:focus::placeholder { color:transparent; }
   font-size: 12px;
 }
 .tag-container {
-  font-family: 'Noto Mono', serif;
+  font-family: 'noto mono', serif;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -225,10 +225,11 @@ input:focus::placeholder { color:transparent; }
 }
 .tag {
   padding: 2px;
-  border: 1px solid white;
-  color: white;
+  border: 1px solid black;
+  border-radius: 2px;
+  color: black;
   opacity: 0.5;
-  font-size: 8px;
+  font-size: 14px;
   background-color: gray;
   display: inline;
 }
@@ -268,11 +269,13 @@ dt, dd, font {
 .word-tip {
   position: absolute;
   font-size: 14px;
-  font-family: 'Noto Mono', serif;
-  color: black;
-  background-color: white;
-  border: 1px solid black;
-  padding: 2px;
+  font-family: 'Courier', serif;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 3px;
+  opacity: 0.6;
   z-index: 100;
 }
 .tip {
@@ -382,4 +385,76 @@ dt, dd, font {
 .help-menu > span {
   background-color: yellow;
   text-transform: uppercase;
+}
+
+.bottom-console {
+  position: fixed;
+  left: 50%; /* horizontally centre */
+  transform: translateX(-50%); /* horizontally centre */
+  bottom: 0;
+  z-index: 5000;
+  font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Emoji', sans-serif;
+}
+.filter-command-container {
+  display: inline-block;
+  text-align: center;
+}
+.filter-label {
+  visibility: hidden;
+  border-radius: 20px;
+  opacity: 0.8;
+  background-color: black;
+  border: 2px white solid;
+  color: white;
+  padding: 3px 5px;
+  font-size: 0.6em;
+}
+.filters-container {
+  white-space: nowrap;
+}
+.filter-command {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  opacity: 0.6;
+  border-radius: 50%;
+  font-size: 1em;
+  width: 3em;
+  height: 3em;
+  line-height: 3em;
+  text-align: center;
+  border: 2px white solid;
+  display: inline-block;
+}
+
+.filter-command-container:hover .filter-command {
+  opacity: 0.8;
+}
+.filter-command-container:hover .filter-label {
+  visibility: visible;
+}
+#filter-details-container, #search-container {
+  position: fixed;
+  left: 50%; /* horizontally centre */
+  transform: translateX(-50%); /* horizontally centre */
+  bottom: 5em;
+  visibility: hidden;
+}
+.filter-tag {
+  cursor: pointer;
+  padding: 3px;
+  border: 1px solid black;
+  border-radius: 3px;
+  color: white;
+  opacity: 0.8;
+  font-size: 0.7em;
+  background-color: black;
+  float: left;
+  margin: 5px;
+}
+.filter-tag:hover {
+  opacity: 1;
+}
+textarea:focus, input:focus{
+  outline: none;
 }

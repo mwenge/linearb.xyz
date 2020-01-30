@@ -34,31 +34,35 @@ result.addEventListener("animationend", function() { result.style.display = "non
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
+  var search = document.getElementById("search");
   if (search == document.activeElement) {
-    return true;
+    return;
   }
-  e = e || window.event;
-  var menu_was_showing = help_menu.style.display != "none";
-  help_menu.style.display = "none";
-  switch(e.keyCode) {
-    case 191: // show help
-      if (e.shiftKey) {
-        if (help_menu.style.display == "block") {
-          help_menu.style.display = "none";
-        } else if (!menu_was_showing) {
-          help_menu.style.display = "block";
-        }
-        break;
+  if (e.defaultPrevented) {
+    return; // Do nothing if the event was already processed
+  }
+  if (e.ctrlKey) {
+    return;
+  }
+  switch(e.key) {
+    case "?": // show help
+      if (help_menu.style.display == "block") {
+        help_menu.style.display = "none";
+      } else {
+        help_menu.style.display = "block";
       }
-      // fall through
-    case 191: // '/' - focus search bar
+      toggleColor(document.getElementById("help-command"));
+      break;
+    case "/": // '/' - focus search bar
       if (search == document.activeElement) {
-        return true;
+        return;
       }
-      search.focus();
-      return false;
-    case 83: // 's' - sort inscriptions by closest edit distance to 
-             // inscription currently hovered over
+      toggleColor(document.getElementById("search-command"));
+      showSearch();
+      break;
+      /*
+    case "s": // 's' - sort inscriptions by closest edit distance to 
+              // inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
         result.style.display = "inline-block";
@@ -67,56 +71,109 @@ function checkKey(e) {
         result.textContent = "Sorted by edit distance.";
       }
       break;
-    case 84: // 't' - toggle translation
+      */
+    case "t": // 't' - toggle translation
       toggleTranslation(document);
+      toggleColor(document.getElementById("translate-command"));
       break;
-    case 87: // 'w' - highlight words according to frequency
+    case "w": // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
+      toggleColor(document.getElementById("word-command"));
       break;
-    case 73: // 'i' - copy image of inscription to clipboard
+    case "i": // 'i' - copy image of inscription to clipboard
       var current = getInscriptionHoveredOver();
+      result.style.animationDelay = "90s";
       result.style.display = "inline-block";
       result.textContent = "Copying Image to clipboard";
       if (current) {
         captureImage(current);
       }
-      result.textContent = "Image copied to clipboard";
       break;
-    case 89: // 'y' - show commentary for inscription currently hovered over
+    case "y": // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
         showCommentaryForInscription(current.id);
       }
       break;
-    case 90: // 'z' - zoom
+    case "Escape":
+      zoomItem(current);
+      break;
+    case "z": // 'z' - zoom
       var current = getInscriptionHoveredOver();
       zoomItem(current);
       break;
-    case 49: // '1 to 9' - save state to 1 to 9
-    case 50: 
-    case 51:
-    case 52:
-    case 53:
-    case 54:
-    case 55:
-    case 56:
-    case 57:
+    case "1": // '1 to 9' - save state to 1 to 9
+    case "2": 
+    case "3":
+    case "4":
+    case "5":
+    case "6":
+    case "7":
+    case "8":
+    case "9":
       result.style.display = "none";
       result.style.display = "inline-block";
-      if (e.shiftKey) {
-        loadSearchTerms(e.keyCode);
-        result.textContent = "Loaded search terms";
-      } else {
-        saveSearchTerms(e.keyCode);
-        result.textContent = "Saved search terms";
-      }
+      saveSearchTerms(e.keyCode);
+      result.textContent = "Saved search terms";
       break;
-    case 67: // 'c' - clear search terms
+    case "!": // '1 to 9' - save state to 1 to 9
+    case "\"": 
+    case "£":
+    case "$":
+    case "%":
+    case "^":
+    case "&":
+    case "*":
+    case "(":
+      result.style.display = "none";
+      result.style.display = "inline-block";
+      loadSearchTerms(e.keyCode);
+      result.textContent = "Loaded search terms";
+      break;
+    case "c": // 'c' - clear search terms
       var container = document.getElementById("search-terms");
       container.innerHTML = "";
       applySearchTerms();
       break;
+    default:
+      return;
   }
+  // Cancel the default action to avoid it being handled twice
+  e.preventDefault();
+}
+
+function showSearch() {
+  var search = document.getElementById('search');
+  var isVisible = search.style.visibility == "visible";
+  if (isVisible) {
+    search.style.visibility = 'hidden';
+    return;
+  }
+
+  var container = document.getElementById("filter-details-container");
+  container.innerHTML = "";
+
+  search.style.visibility = "visible";
+  search.focus();
+  search.addEventListener("keyup", function(event) {
+      if (event.keyCode === 13) {
+        event.preventDefault();
+        updateSearch(event);
+      }
+  }); 
+}
+
+function sendKey(event, keyValue) {
+  var e = new KeyboardEvent("keydown", {
+        bubbles : true,
+        key : keyValue,
+  });
+  document.dispatchEvent(e);
+}
+
+function toggleColor(element) {
+  var color = element.style.backgroundColor;
+  element.style.backgroundColor = color == "purple" ? "black" : "purple";
 }
 
 function closeZoomedWindow(e) {
@@ -176,9 +233,9 @@ var cycleColor = (function () {
   var i = 0;
   return function () {
     i++;
-    red   = Math.sin(frequency*i + 0) * 55 + 200;
-    green = Math.sin(frequency*i + 2) * 55 + 200;
-    blue  = Math.sin(frequency*i + 4) * 55 + 200;
+    red   = Math.round(Math.sin(frequency*i + 0) * 55 + 200);
+    green = Math.round(Math.sin(frequency*i + 2) * 55 + 200);
+    blue  = Math.round(Math.sin(frequency*i + 4) * 55 + 200);
     return "rgba(" + red + ", " + green + ", " + blue + ", 0.5)";
   }
 })();
@@ -458,23 +515,7 @@ function loadInscription(inscription) {
   var tagContainer = document.createElement("div");
   tagContainer.className = 'tag-container';
   item.appendChild(tagContainer);
-
-  if (inscription.scribe) {
-    var label = document.createElement("div");
-    label.className = 'tag';
-    label.textContent = inscription.scribe;
-    tagContainer.appendChild(label);
-    label.setAttribute("onclick", "updateSearchTerms(event, '\"" + inscription.scribe + "\"')");
-  }
-  if (tags.has(inscription.name)) {
-    tags.get(inscription.name).forEach( tag => {
-      var label = document.createElement("div");
-      label.className = 'tag';
-      label.textContent = tag;
-      tagContainer.appendChild(label);
-      label.setAttribute("onclick", "updateSearchTerms(event, '\"" + tag + "\"')");
-    });
-  }
+  inscription.tagContainer = tagContainer;
 
   var label = document.createElement("div");
   label.className = 'label';
@@ -687,17 +728,31 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
       inscription.scribe == searchTerm);
 }
 
+function hasTag(tag, inscription) {
+  return (
+      (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
+      inscription.context == tag ||
+      inscription.findLocation == tag ||
+      inscription.scribe == tag
+      );
+}
+
 function applySearchTerms() {
   var searchTerms = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTerms.children.length;	
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
                          .map(x => stripErased(x.textContent));
+  var numberOfTags = activeTags.length;
+  var hasSearchTerm = (numberOfSearchTerms + numberOfTags > 0)
   clearHighlights();
 
   for (var inscription of linearBInscriptions.values()) {
-    if (!numberOfSearchTerms) {
+    if (!hasSearchTerm) {
       if (inscription.element) {
         inscription.element.style.display = "flex";
+      }
+      if (inscription.tagContainer) {
+        inscription.tagContainer.innerHTML = "";
       }
       continue;
     }
@@ -711,6 +766,14 @@ function applySearchTerms() {
       }
     });
 
+    var tagsToAdd = [];
+    activeTags.forEach( tag => {
+      if (hasTag(tag, inscription)) {
+        shouldDisplay = true;
+        tagsToAdd.push(tag);
+      }
+    });
+
     if (!shouldDisplay) {
       if (inscription.element) {
         inscription.element.style.display = "none";
@@ -721,8 +784,21 @@ function applySearchTerms() {
     if (!newElement) {
       inscription.element.style.display = "flex";
     }
+
+    inscription.tagContainer.innerHTML = "";
+    tagsToAdd.forEach( tag => {
+      var label = document.createElement("div");
+      label.className = 'tag';
+      label.style.backgroundColor = tagColors[tag];
+      label.textContent = tag;
+      inscription.tagContainer.appendChild(label);
+    });
+
     for (index in searchTerms.children) {
       var searchElement = searchTerms.children.item(index);
+      if (!searchElement) {
+        continue;
+      }
       var term = searchElement.textContent;
       for (var j = 0; j < inscription.element.children.length; j++) {
         var element = inscription.element.children[j];
@@ -805,7 +881,95 @@ let observer = new IntersectionObserver(function(entries, self) {
   });
 }, config);
 
+function toggleTag(event, tag) {
+  if (activeTags.includes(tag)) {
+    activeTags.splice(activeTags.indexOf(tag), 1);
+  } else {
+    activeTags.push(tag);
+  }
+  var element = event.target;
+  var color = element.style.backgroundColor;
+  console.log(tagColors[tag]);
+  element.style.color = color == tagColors[tag] ? "white" : "black";
+  element.style.backgroundColor = color == tagColors[tag] ? "black" : tagColors[tag];
+  applySearchTerms();
+}
+
+function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
+  metadata = metadata.filter(function(item, pos, self) {
+        return self.indexOf(item) == pos;
+  });
+
+  var search = document.getElementById("search");
+  search.style.visibility = "hidden";
+  document.getElementById("search-command").style.backgroundColor = "black";
+
+  var container = document.getElementById("filter-details-container");
+  container.innerHTML = "";
+
+  if (container.showing == activeMetadataName) {
+    container.style.visibility = "hidden";
+    container.showing = "";
+    return;
+  }
+  container.showing = activeMetadataName;
+  container.style.visibility = "visible";
+
+  for (var datum of metadata) {
+    var item = document.createElement("div");
+    item.className = 'filter-tag';
+    item.textContent = datum;
+    item.setAttribute("onclick", "toggleMetadatum(event, '" + datum + "', " + activeMetadataName + ", '" + event.target.id + "')");
+    item.style.backgroundColor = activeMetadata.includes(datum) ? tagColors[datum] : "black";
+    item.style.color = activeMetadata.includes(datum) ? "black" : "white";
+    container.appendChild(item);
+  }
+}
+
+var tagColors = {};
+function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
+  if (activeMetadata.includes(datum)) {
+    activeMetadata.splice(activeMetadata.indexOf(datum), 1);
+  } else {
+    activeMetadata.push(datum);
+    if (!tagColors[datum]) {
+      tagColors[datum] = cycleColor(); 
+    }
+  }
+  var element = document.getElementById(commandElementID);
+  element.style.backgroundColor = activeMetadata.length ? "purple" : "black";
+  toggleTag(event, datum);
+}
+
+function loadInscriptionLevelTags() {
+  for (var inscription of linearBInscriptions.values()) {
+    for (var item of [[contexts, inscription.context],
+                      [scribes, inscription.scribe],
+                      [locations, inscription.findLocation],
+                      ]) {
+      var tag = item[1];
+      if (!tag) {
+        continue;
+      }
+      if (item[0].includes(tag)) {
+        continue;
+      }
+      item[0].push(tag);
+    }
+  }
+}
+
+var supports = [];
+var scribes = [];
+var contexts = [];
+var locations = [];
+var activeTags = [];
+var activeLocations = [];
+var activeScribes = [];
+var activeContexts = [];
+var activeTagValues = [];
 function loadExplorer() {
+  loadInscriptionLevelTags();
   for (var i = 0; i < 20; i++) {
     var key = inscriptionsToLoad.next().value;	
     var visibleInscription = loadInscription(linearBInscriptions.get(key));
