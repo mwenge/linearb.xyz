@@ -745,11 +745,11 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
   item.appendChild(itemShell);
 
   if (inscription.site == "Pylos") {
-    itemShell.classList.add("pylos-image");
     if (document.getElementsByClassName("pylos-image-hidden").length > 0 ||
-        document.getElementsByClassName("item-shell").length == 0) {
+        document.getElementsByClassName("pylos-image").length == 0) {
       itemShell.classList.add("pylos-image-hidden");
     }
+    itemShell.classList.add("pylos-image");
   }
 
   var itemZoom = document.createElement("div");
