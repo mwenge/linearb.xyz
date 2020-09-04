@@ -811,7 +811,7 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
     var wordContainer = null;
     for (var i = 0; i < imageCoords.length; i++) {
       var area = imageCoords[i].coords;
-      currentWord = wordIndexForLetterIndex(name, i, currentWord);
+      currentWord = wordIndexForLetterIndex(name, i);
 
       if (currentWord != prevWord) {
         wordContainer = document.createElement("div");
@@ -868,24 +868,6 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
     }
   };
 }
-
-function wordIndexForLetterIndex(name, index, from) {
-  var splitter = new GraphemeSplitter();
-  var words = inscriptions.get(name).words;
-  var letters = 0;
-  for (var i = 0; i < words.length; i++) {
-    var word = words[i];
-    if (word == '\u{1076b}' || word == '\n' || word == '𐄁') {
-      continue;
-    }
-    letters += splitter.countGraphemes(stripErased(word));
-    if (letters > index) {
-      return i;
-    }
-  }
-  return 0;
-}
-
 
 var captureImage = function(root) {
   html2canvas(root, {
@@ -1121,7 +1103,7 @@ function getWordsAsImage(inscription, targetWord) {
     var prevWord = -1;
     var item = null;
     var span = null;
-    var letters = lettersWithImages(inscription.parsedInscription);
+    var letters = lettersWithImages(inscription.name);
 
     var span = document.createElement("div");
     span.className = "tip-display tip-image-display";
@@ -1129,7 +1111,7 @@ function getWordsAsImage(inscription, targetWord) {
 
     for (var i = 0; i < imageCoords.length; i++) {
       var area = imageCoords[i].coords;
-      currentWord = wordIndexForLetterIndex(inscription.name, i, currentWord);
+      currentWord = wordIndexForLetterIndex(inscription.name, i);
 
       if (currentWord != targetWord) {
         continue;

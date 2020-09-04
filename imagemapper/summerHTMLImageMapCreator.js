@@ -512,7 +512,14 @@ var summerHtmlImageMapCreator = (function() {
                       app.loadImage(imageToLoad, imageToLoad != inscription.facsimileImages[0] ? inscription.facsimileImages[0] : null);
                       document.getElementById('title').textContent = inscription.name;
 
-                      var letters =  inscription.words.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
+                      var letters = [];
+                      for (var i = 0; i < inscription.words.length; i++) {
+                        if (inscription.words[i] == inscription.transliteratedWords[i]) {
+                          continue;
+                        }
+                        letters.push(inscription.words[i]);
+                      }
+                      letters =  letters.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
                       letters = letters.join('').replace(/\u{1076b}/gu, "");
                       var splitter = new GraphemeSplitter();
                       
@@ -2783,7 +2790,6 @@ var summerHtmlImageMapCreator = (function() {
             }
         };
     })();
-    get_image.show();
     app.loadNextImage();
 
     /* Buttons and actions */

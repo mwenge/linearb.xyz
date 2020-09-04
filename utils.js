@@ -29,13 +29,43 @@ function stripErased(word) {
   return word.replace(/\u{1076b}/gu, "");
 }
 
-function lettersWithImages(parsedInscription) {
+function lettersWithImages(name) {
   var splitter = new GraphemeSplitter();
-  var letters = stripErased(parsedInscription);
-  letters = letters.replace(/\n/gu, "");
-  letters = letters.replace(/𐄁/gu, "");
-  return splitter.splitGraphemes(letters);
+  var words = inscriptions.get(name).words;
+  var letters = [];
+  for (var i = 0; i < words.length; i++) {
+    var word = words[i];
+    if (word == '\u{1076b}' || word == '\n' || word == '𐄁') {
+      continue;
+    }
+    if (word == inscriptions.get(name).transliteratedWords[i]) {
+      continue;
+    }
+    letters = letters.concat(splitter.splitGraphemes(stripErased(word)));
+  }
+  return letters;
 }
+
+function wordIndexForLetterIndex(name, index) {
+  var splitter = new GraphemeSplitter();
+  var words = inscriptions.get(name).words;
+  var letters = 0;
+  for (var i = 0; i < words.length; i++) {
+    var word = words[i];
+    if (word == '\u{1076b}' || word == '\n' || word == '𐄁') {
+      continue;
+    }
+    if (word == inscriptions.get(name).transliteratedWords[i]) {
+      continue;
+    }
+    letters += splitter.countGraphemes(stripErased(word));
+    if (letters > index) {
+      return i;
+    }
+  }
+  return 0;
+}
+
 
 function getDictionaryEntry(word) {
   if (!dictionary.has(word)) {
