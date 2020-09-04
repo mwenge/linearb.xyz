@@ -502,14 +502,22 @@ var summerHtmlImageMapCreator = (function() {
                   if (!inscription) {
                     continue;
                   }
-                  for (var imageToLoad of [inscription.images[0], inscription.facsimileImages[0]]) {
+                  function isFacsimileImage(img, facsimiles) {
+                    for (var fac of facsimiles) {
+                      if (fac == img) {
+                        return true;
+                      }
+                    }
+                    return false;
+                  }
+                  for (var imageToLoad of [inscription.images, inscription.facsimileImages].flat()) {
                     console.log(imageToLoad);
                     if (coordinates.has(imageToLoad)) {
                       continue;
                     }
                     var inStorage = window.localStorage.getItem(imageToLoad);
                     if (!inStorage) {
-                      app.loadImage(imageToLoad, imageToLoad != inscription.facsimileImages[0] ? inscription.facsimileImages[0] : null);
+                      app.loadImage(imageToLoad, isFacsimileImage(imageToLoad, inscription.facsimileImages));
                       document.getElementById('title').textContent = inscription.name;
 
                       var letters = [];

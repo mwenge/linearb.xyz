@@ -815,8 +815,9 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
 
       if (currentWord != prevWord) {
         wordContainer = document.createElement("div");
-        var wordID = "image-" + imageType + "-" + name + "-word-highlight-" + currentWord;
         wordContainer.className = "word-highlight";
+        var wordID = "image-" + imageType + "-" + name + "-word-highlight-" + currentWord;
+        wordContainer.classList.add(wordID);
         wordContainer.style.top = ((area.y / img.naturalHeight) * 100) + '%';
         wordContainer.style.left = ((area.x / img.naturalWidth) * 100) + '%';
         wordContainer.id = wordID;
@@ -1228,16 +1229,14 @@ function addWordTip(word, name, index) {
 function setHighlightLettersInTranscription(name, index, highlight) {
   var highlightedElements = [];
   for (var imageType of ["photo", "transcription"]) {
-    var element = document.getElementById("image-" + imageType + "-" + name + "-word-highlight-" + index);
-    if (!element) {
-      continue;
-    }
-
-    var elements = element.getElementsByClassName("letter-highlight");
-    Array.from(elements).forEach( element => {
-      element.style.backgroundColor = highlight;
-      element.style.border = highlight != "" ? "0.5px solid black" : "none";
-      highlightedElements.push(element);
+    var els = document.getElementsByClassName("image-" + imageType + "-" + name + "-word-highlight-" + index);
+    Array.from(els).forEach( el => {
+      var elements = el.getElementsByClassName("letter-highlight");
+      Array.from(elements).forEach( element => {
+        element.style.backgroundColor = highlight;
+        element.style.border = highlight != "" ? "0.5px solid black" : "none";
+        highlightedElements.push(element);
+      });
     });
   }
   return highlightedElements;

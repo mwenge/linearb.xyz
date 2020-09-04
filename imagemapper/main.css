@@ -520,7 +520,7 @@ a:link, a:visited {
     display: inline-block;
 }
 #svg rect {
-    stroke-width: 3px;
+    stroke-width: 1px;
     stroke: #F00;
     fill: rgba(255,255,255,0.3);
 }
@@ -562,6 +562,7 @@ a:link, a:visited {
     fill: #FFF;
     stroke: #000;
     stroke-width: 2px;
+    visibility: hidden;
 }
 #svg rect.helper:hover {
     fill: #F00; 

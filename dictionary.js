@@ -996,7 +996,7 @@ var dictionary = new Map([
 ["CYP+KU", ""],
 ["CYP+O", ""],
 ["CYP+PA", ""],
-["DA", ""],
+["DA", "DA"],
 ["DE", ""],
 ["DI", ""],
 ["DI±PTE", ""],
