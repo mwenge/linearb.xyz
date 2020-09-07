@@ -212,6 +212,9 @@ function addLetterImagesToChart(img, image, inscription, container) {
       var area = imageCoords[i].coords;
       var word = letters[i];
 
+      if (area.width < 10) {
+        continue;
+      }
       if (word == "—" || word == '') {
         continue;
       }
@@ -230,7 +233,7 @@ function addLetterImagesToChart(img, image, inscription, container) {
 
         var label = document.createElement("div");
         label.className = "concordance-container-label";
-        label.textContent = word + " in the Cretan Hieroglyphs corpus";
+        label.textContent = word + " in the Linear B corpus";
         d1.appendChild(label);
 
         var filterItem = document.createElement("div");
