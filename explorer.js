@@ -652,33 +652,14 @@ function clearHighlights() {
   highlightedSearchElements = [];
 }
 
-function makeMoveLens(lens, img, result, imageToAdd, name, stack) {
+function makeMoveLens(img, result, imageToAdd, name) {
   return function(e) {
     result.style.display = "flex";
-    lens.style.display = "block";
-    if (stack) {
-      result.style.width = (result.parentElement.offsetWidth / 2) + "px";
-      result.style.height = result.parentElement.offsetHeight + "px";
-      lens.style.width = (result.parentElement.offsetWidth / 5) + "px";
-      lens.style.height = (result.parentElement.offsetHeight / 2) + "px";
-    } else {
-      result.style.width = (result.parentElement.offsetWidth * 2) + "px";
-      result.style.height = result.parentElement.offsetHeight + "px";
-      lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
-      lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
-    }
 
-    var availableHeight = result.parentElement.getBoundingClientRect().top;
-    if (availableHeight < (result.parentElement.offsetHeight / 2)) {
-      result.style.top = result.parentElement.offsetHeight + "px";
-    } else {
-      result.style.top = "-" + result.parentElement.offsetHeight + "px";
-    }
-
+    var lensD = 80;
     /* Calculate the ratio between itemZoom DIV and lens: */
-    var cx = result.offsetWidth / lens.offsetWidth;
-    var cy = result.offsetHeight / lens.offsetHeight;
-    result.style.backgroundSize = (img.width * cx) + "px " + (img.height * cy) + "px";
+    var cx = 200 / lensD;
+    var cy = 200 / lensD;
 
     var pos, x, y;
     /* Prevent any other actions that may occur when moving over the image */
@@ -686,17 +667,15 @@ function makeMoveLens(lens, img, result, imageToAdd, name, stack) {
     /* Get the cursor's x and y positions: */
     pos = getCursorPos(e);
     /* Calculate the position of the lens: */
-    x = pos.x - (lens.offsetWidth / 2);
-    y = pos.y - (lens.offsetHeight / 2);
+    x = pos.x - (lensD / 2);
+    y = pos.y - (lensD / 2);
     /* Prevent the lens from being positioned outside the image: */
-    if (x > img.width - lens.offsetWidth) {x = img.width - lens.offsetWidth;}
+    if (x > img.width - lensD) {x = img.width - lensD;}
     if (x < 0) {x = 0;}
-    if (y > img.height - lens.offsetHeight) {y = img.height - lens.offsetHeight;}
+    if (y > img.height - lensD) {y = img.height - lensD;}
     if (y < 0) {y = 0;}
-    /* Set the position of the lens: */
-    lens.style.left = x + "px";
-    lens.style.top = y + "px";
     /* Display what the lens "sees": */
+    result.style.backgroundSize = (img.width * cx) + "px " + (img.height * cy) + "px";
     result.style.backgroundPosition = "-" + (x * cx) + "px -" + (y * cy) + "px";
 
     function getCursorPos(e) {
@@ -776,23 +755,19 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
   }
   itemShell.appendChild(copyright);
 
-  var lens = document.createElement("div");
-  lens.setAttribute("class", "img-zoom-lens");
-  imageWrapper.appendChild(lens);
-
   var img = document.createElement("img");
   img.src = encodeURIComponent(imageToAdd);
   img.id = "image-" + imageType + "-" + inscription.name;
   img.height = "200";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
-  img.addEventListener("load", addWordsToImage(imageToAdd, inscription.name, imageType, img, imageWrapper, lens, itemZoom, item, stack));
+  img.addEventListener("load", addWordsToImage(imageToAdd, inscription.name, imageType, img, imageWrapper, itemZoom, item, stack));
   imageWrapper.appendChild(img);
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
-  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, inscription.name, stack));
+  img.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, inscription.name, stack));
   itemShell.addEventListener("mousemove", showCopyright(copyright));
-  itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom, copyright]));
+  itemShell.addEventListener("mouseout", makeHideElements([itemZoom, copyright]));
   function showCopyright() {
     return function (e) {
       copyright.style.display = "block";
@@ -800,7 +775,7 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
   }
 }
 
-function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom, item, stack) {
+function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, itemZoom, item, stack) {
   return function(e) {
     if (!coordinates.has(imageToAdd)) {
       return;
@@ -833,7 +808,7 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
       highlight.style.height = ((area.height / img.naturalHeight) * 100) + '%';
       highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
       highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-      highlight.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name, stack));
+      highlight.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, name, stack));
       highlight.addEventListener("mouseenter", highlightWords(name, currentWord));
       highlight.addEventListener("mouseenter", paintHighlightOnZoomImage(itemZoom, img, wordContainer));
       highlight.addEventListener("mouseout", clearHighlight(name, currentWord));
@@ -1218,12 +1193,7 @@ function addWordTip(word, name, index) {
   wordCommentElement.textContent = tipText;
   tip.appendChild(wordCommentElement);
 
-  var availableHeight = inscriptionElement.getBoundingClientRect().top
-  if (availableHeight < tip.offsetHeight) {
-      tip.style.top = inscriptionElement.offsetHeight + "px";
-  } else {
-      tip.style.top = "-" + tip.offsetHeight + "px";
-  }
+  tip.style.top = "-" + tip.offsetHeight + "px";
 }
 
 function setHighlightLettersInTranscription(name, index, highlight) {
