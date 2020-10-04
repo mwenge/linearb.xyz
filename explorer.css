@@ -160,14 +160,12 @@ input:focus::placeholder { color:transparent; }
   flex-grow: 1;
   font-family: 'Merriweather', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
   padding: 10px;
-  max-width: 200px;
   position: relative;
   background-color: inherit;
   line-height: 18px;
 }
 .text-item {
   padding-bottom: 40px;
-  max-width: 250px;
   word-break: break-word;
   border-left: 1px solid grey;
   overflow: hidden;
@@ -184,7 +182,6 @@ input:focus::placeholder { color:transparent; }
   font-size: 14px;
   font-weight: 100;
   color: gray;
-  max-width: 350px;
 }
 .apparatus {
   font-size: 14px;
@@ -773,16 +770,17 @@ textarea:focus, input:focus{
 }
 .item-container-stacked-small {
   flex-wrap: wrap;
-  max-width: 350px;
+}
+.image-item {
+  max-width: 400px;
 }
 .image-item-small {
-  max-width: 350px;
+  max-width: 250px;
 }
 .text-item-stacked, .text-item-stacked-small {
   border-top-right-radius: unset;
   flex-grow: 1;
   box-sizing: border-box;
-  max-width: 300px;
   border-top: 1px solid grey;
   border-left: none;
   padding-bottom: 40px;
