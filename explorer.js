@@ -1717,7 +1717,15 @@ function shuffleImagesToFront(array) {
     return array;
   }
   const hasImage = function(x) { return inscriptions.get(x).facsimileImages.length > 0; }
-  let a1 = shuffle(array.filter((v, i, a) => hasImage(v)));
+  const hasLetterMaps = function(x) { 
+    var imgs = inscriptions.get(x).facsimileImages;
+    if (!imgs.length) {
+      return false;
+    }
+    return imgs.some(v => coordinates.has(v));
+  }
+  let a1 = shuffle(array.filter((v, i, a) => hasLetterMaps(v)));
+  a1 = a1.concat(shuffle(array.filter((v, i, a) => hasImage(v))));
   a1 = a1.concat(shuffle(array.filter((v, i, a) => !hasImage(v))));
   
   return a1;
