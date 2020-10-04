@@ -1163,9 +1163,6 @@ function addWordTip(word, name, index) {
     tip.appendChild(wordCommentElement);
   }
 
-  var wordCommentElement = document.createElement("div");
-  wordCommentElement.className = "lexicon";
-  wordCommentElement.textContent = "Tags: ";
   var tagsForWord = inscriptions.get(name).wordTags[index];
   if (tagsForWord) {
     tagsForWord.forEach(x => {
