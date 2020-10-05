@@ -149,7 +149,7 @@ function hideSearch() {
   element.style.backgroundColor = "black";
   var search = document.getElementById('search');
   search.style.visibility = 'hidden';
-
+  search.parentNode.style.visibility = 'hidden';
 }
 function showSearch() {
   var element = (document.getElementById("search-command"));
@@ -158,6 +158,7 @@ function showSearch() {
   container.innerHTML = "";
 
   search.style.visibility = "visible";
+  search.parentNode.style.visibility = "visible";
   search.value = '';
   search.focus();
   search.addEventListener("keyup", function(event) {
@@ -183,8 +184,6 @@ function autocomplete(inp) {
     var a, i, val = this.value;
     /*close any already open lists of autocompleted values*/
     closeAllLists();
-
-    this.parentNode.style.visibility = "visible";
 
     if (!val) { return false;}
     currentFocus = -1;
