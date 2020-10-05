@@ -29,6 +29,11 @@ function stripErased(word) {
   return word.replace(/\u{1076b}/gu, "");
 }
 
+function ensureValue(v, d) {
+  if (v) { return v;}
+  return d;
+}
+
 function lettersWithImages(name) {
   var splitter = new GraphemeSplitter();
   var words = inscriptions.get(name).words;

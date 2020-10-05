@@ -1390,7 +1390,7 @@ function showWordChart(searchTerm, item) {
         wordContainer.appendChild(tag);
         wordImages.appendChild(wordContainer);
 
-        var tagsForWord = inscription.wordTags[i];
+        var tagsForWord = ensureValue(inscription.wordTags[i], []);
         for (var x of tagsForWord) {
           if (tagsAdded.includes(x)) {
             continue;
