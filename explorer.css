@@ -354,16 +354,17 @@ dt, dd, font {
 }
 .word-tip {
   max-width: 50%;
-  position: absolute;
+  position: fixed;
   font-size: 14px;
   color: white;
   background-color: black;
   border: 1px solid white;
   border-radius: 10px;
   padding: 3px;
-  opacity: 0.8;
+  opacity: 0.9;
   z-index: 100;
   right: 0;
+  top: 0;
 }
 .tip {
   position: fixed;

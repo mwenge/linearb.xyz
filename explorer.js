@@ -764,7 +764,7 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
-  img.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, inscription.name, stack));
+  // img.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, inscription.name, stack));
   itemShell.addEventListener("mousemove", showCopyright(copyright));
   itemShell.addEventListener("mouseout", makeHideElements([itemZoom, copyright]));
   function showCopyright() {
@@ -807,7 +807,7 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, itemZoo
       highlight.style.height = ((area.height / img.naturalHeight) * 100) + '%';
       highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
       highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-      highlight.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, name, stack));
+      // highlight.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, name, stack));
       highlight.addEventListener("mouseenter", highlightWords(name, currentWord));
       highlight.addEventListener("mouseenter", paintHighlightOnZoomImage(itemZoom, img, wordContainer));
       highlight.addEventListener("mouseout", clearHighlight(name, currentWord));
@@ -1116,13 +1116,13 @@ function addWordTip(word, name, index) {
   if (wordsInCorpus.has(word)) {
     wordCount = wordsInCorpus.get(word) - 1;
   }
-  var tip = document.getElementById(name + "-tip");
+  var tip = document.getElementById("inscription-word-tip");
   var inscriptionElement = document.getElementById(name);
   if (!tip) {
     var tip = document.createElement("div")
     tip.className = 'word-tip';
-    tip.id = name + "-tip";
-    inscriptionElement.appendChild(tip);
+    tip.id = "inscription-word-tip";
+    document.body.appendChild(tip);
   }
   tip.style.display = "block";
   tip.innerHTML = "";
@@ -1188,8 +1188,6 @@ function addWordTip(word, name, index) {
   wordCommentElement.className = "tip-text";
   wordCommentElement.textContent = tipText;
   tip.appendChild(wordCommentElement);
-
-  tip.style.top = "-" + tip.offsetHeight + "px";
 }
 
 function setHighlightLettersInTranscription(name, index, highlight) {
@@ -1254,16 +1252,14 @@ function highlightWords(name, index) {
       element.style.backgroundColor = "yellow";
       setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
     }
-    if (e.target.className != "letter-highlight") {
-      var element = document.getElementById(name + "-transcription-" + index);
-      addWordTip(element.textContent, name, index);
-    }
+    var element = document.getElementById(name + "-transcription-" + index);
+    addWordTip(element.textContent, name, index);
   }
 }
 
 function clearHighlight(name, index) {
   return function(evt) {
-    var tip = document.getElementById(name + "-tip");
+    var tip = document.getElementById("inscription-word-tip");
     if (tip) {
       tip.style.display = "none";
     }
