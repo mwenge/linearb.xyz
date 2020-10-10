@@ -318,7 +318,7 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
   display: inline-block;
 }
-.search-term, .tag:hover, .item > span, .zoomed-close-window .imagerights-label:hover {
+.letter-highlight:hover, .search-term, .tag:hover, .item > span, .zoomed-close-window .imagerights-label:hover {
   cursor: pointer;
 }
 .image-label {

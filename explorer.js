@@ -809,7 +809,7 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, itemZoo
       highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
       // highlight.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, name, stack));
       highlight.addEventListener("mouseenter", highlightWords(name, currentWord));
-      highlight.addEventListener("mouseenter", paintHighlightOnZoomImage(itemZoom, img, wordContainer));
+      highlight.addEventListener("click", updateSearchTerms("\"" + inscriptions.get(name).words[currentWord] + "\""));
       highlight.addEventListener("mouseout", clearHighlight(name, currentWord));
       wordContainer.appendChild(highlight);
     }
