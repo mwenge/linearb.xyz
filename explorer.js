@@ -756,7 +756,7 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
 
   var img = document.createElement("img");
   img.src = encodeURIComponent(imageToAdd);
-  img.id = "image-" + imageType + "-" + inscription.name;
+  img.id = "image-" + imageType + "-" + encodeURIComponent(imageToAdd);
   img.height = "200";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
   img.addEventListener("load", addWordsToImage(imageToAdd, inscription.name, imageType, img, imageWrapper, itemZoom, item, stack));
@@ -1099,7 +1099,7 @@ function getWordsAsImage(inscription, targetWord) {
       canvas.height = 50;
       canvas.width = 50 * (area.width / area.height);
       var ctx = canvas.getContext('2d', {alpha: false});
-      var img = document.getElementById("image-" + imgType + "-" + inscription.name);
+      var img = document.getElementById("image-" + imgType + "-" + encodeURIComponent(imgName));
       if (!img) {
         continue;
       }
@@ -1988,9 +1988,7 @@ function loadExplorer() {
     [document.getElementById("contexts-command"), Array.from(contexts.values()).flat(), 'activeContexts'],
     [document.getElementById("tags-command"), Array.from(tags.values()).flat(), 'activeTagValues'],
     [document.getElementById("scribes-command"), scribes, 'activeScribes'],
-    [document.getElementById("supports-command"), supports, 'activeSupports'],
     [document.getElementById("findspots-command"), findspots, 'activeFindspots'],
-    [document.getElementById("findsites-command"), [], 'activeFindsites'],
   ];
   buttonsToAdd.forEach( vals => {
     var name = vals[2];
