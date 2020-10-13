@@ -54,6 +54,10 @@ body {
 .lexicon {
   margin-bottom: 2px;
 }
+.lemma {
+  font-size: 12px;
+  font-style: italic;
+}
 .concordance-label {
   font-family: 'Merriweather', serif;
   font-size: 10px;

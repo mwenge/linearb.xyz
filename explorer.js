@@ -1127,17 +1127,29 @@ function addWordTip(word, name, index) {
   tip.style.display = "block";
   tip.innerHTML = "";
 
+  var entry = {
+    word: "",
+    transcription: "",
+    greek: "",
+    translation: "",
+    interpretations: [],
+  }
+  if (lexicon.has(word)) {
+    entry = lexicon.get(word);
+  }
+  entry.word = word;
+
   var wordCommentElement = document.createElement("div");
   wordCommentElement.className = "lexicon";
-  var wordDisplay = document.createElement("div");
-  wordDisplay.className = "tip-display";
-  wordDisplay.textContent = word;
-  wordCommentElement.appendChild(wordDisplay);
-  var wordDisplay = document.createElement("div");
-  wordDisplay.className = "tip-display";
-  wordDisplay.textContent = inscriptions.get(name).transliteratedWords[index];
-  wordCommentElement.appendChild(wordDisplay);
-
+  for (var key of [entry.word, entry.transcription, entry.greek, entry.translation]) {
+    if (!key) {
+      continue;
+    }
+    var wordDisplay = document.createElement("div");
+    wordDisplay.className = "tip-display";
+    wordDisplay.textContent = key;
+    wordCommentElement.appendChild(wordDisplay);
+  }
   tip.appendChild(wordCommentElement);
 
   var wordCommentElement = document.createElement("div");
@@ -1145,33 +1157,15 @@ function addWordTip(word, name, index) {
   wordCommentElement.appendChild(getWordsAsImage(inscriptions.get(name), index));
   tip.appendChild(wordCommentElement);
 
-  var wordCommentElement = document.createElement("div");
-  wordCommentElement.className = "lexicon";
-  wordCommentElement.textContent = lexicon.get(word);
-
-  if (lexicon.has(word)) {
+  for (var d of entry.interpretations) {
+    if (d.length > 200) {
+      continue;
+    }
     var wordCommentElement = document.createElement("div");
-    wordCommentElement.className = "lexicon";
-    wordCommentElement.textContent = lexicon.get(word);
+    wordCommentElement.className = "lemma";
+    wordCommentElement.textContent = d;
     tip.appendChild(wordCommentElement);
   }
-  if (ligatures.has(word)) {
-    var wordCommentElement = document.createElement("div");
-    wordCommentElement.className = "lexicon";
-    wordCommentElement.textContent = 'Ligature: ' + word + ' = ' + ligatures.get(word).join(' + ');
-    tip.appendChild(wordCommentElement);
-  }
-
-  var tagsForWord = inscriptions.get(name).wordTags[index];
-  if (tagsForWord) {
-    tagsForWord.forEach(x => {
-      var tag = document.createElement("div");
-      tag.className = "tip-tag";
-      tag.textContent = x;
-      wordCommentElement.appendChild(tag);
-    });
-  }
-  tip.appendChild(wordCommentElement);
 
   var tipText = "";
   switch(wordCount) {
@@ -1313,22 +1307,30 @@ function showWordChart(searchTerm, item) {
 
     wordChart.appendChild(wordCommentElement);
 
+    var entry = {
+      word: "",
+      transcription: "",
+      greek: "",
+      translation: "",
+      interpretations: [],
+    }
+    if (lexicon.has(searchTerm)) {
+      entry = lexicon.get(searchTerm);
+    }
+    entry.word = searchTerm;
+
     var wordCommentElement = document.createElement("div");
     wordCommentElement.className = "lexicon";
-    wordCommentElement.textContent = lexicon.get(searchTerm);
-
-    if (lexicon.has(searchTerm)) {
-      var wordCommentElement = document.createElement("div");
-      wordCommentElement.className = "lexicon";
-      wordCommentElement.textContent = lexicon.get(searchTerm);
-      wordChart.appendChild(wordCommentElement);
+    for (var key of [entry.word, entry.transcription, entry.greek, entry.translation]) {
+      if (!key) {
+        continue;
+      }
+      var wordDisplay = document.createElement("div");
+      wordDisplay.className = "tip-display";
+      wordDisplay.textContent = key;
+      wordCommentElement.appendChild(wordDisplay);
     }
-    if (ligatures.has(searchTerm)) {
-      var wordCommentElement = document.createElement("div");
-      wordCommentElement.className = "lexicon";
-      wordCommentElement.textContent = 'Ligature: ' + searchTerm + ' = ' + ligatures.get(searchTerm).join(' + ');
-      wordChart.appendChild(wordCommentElement);
-    }
+    wordChart.appendChild(wordCommentElement);
 
     var wordImages = document.createElement("div");
     wordImages.className = "lexicon";
