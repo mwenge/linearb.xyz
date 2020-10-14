@@ -22544,6 +22544,17 @@ var lexicon = new Map(
         }
     ],
     [
+        "𐀯𐀝𐀗𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym? CAP: KN Mc *150: KN Mc"
+            ],
+            "transcription": "si-nu-mo-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
         "𐀔𐀨𐀕𐀙",
         {
             "greek": "",
@@ -48449,6 +48460,3721 @@ var lexicon = new Map(
             "interpretations": [],
             "transcription": "ο-",
             "translation": "introductory/prothetic world ‘who, in thismanner’ (see also ‘jo-’)"
+        }
+    ],
+    [
+        "𐁐𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*18-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁐𐀵𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "*18-to-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "*22𐀆𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*22-de-so",
+            "translation": ""
+        }
+    ],
+    [
+        "*22𐀊𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: meaning obscure; anthroponym?"
+            ],
+            "transcription": "*22-ja-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "*22𐀋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*22-je",
+            "translation": ""
+        }
+    ],
+    [
+        "*22𐀋𐀖",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*22-je-mi",
+            "translation": ""
+        }
+    ],
+    [
+        "*22𐀪𐀲𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "*22-ri-ta-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "*22𐀴𐀊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*22-ti-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "*22𐀵",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*22-to",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁓𐀏",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*34-ka",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁓𐀐𐀊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*34-ke-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁓𐀐𐀳𐀯",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym or theonym receiving offerings dative plural"
+            ],
+            "transcription": "*34-ke-te-si",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁓𐀐𐀄",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*34-ke-u",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁓𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*34-so",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁓𐀳",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*34-te",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁓𐀵𐀠",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*34-to-pi",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁓𐀿",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Da: tu-ni-ja KN Da: OVIS"
+            ],
+            "transcription": "*34-zo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "*35𐀏𐀳𐀩",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*35-ka-te-re",
+            "translation": ""
+        }
+    ],
+    [
+        "*35𐀐𐀊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*35-ke-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "*35𐀑𐀜𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*35-ki-no-o",
+            "translation": ""
+        }
+    ],
+    [
+        "*35𐀵",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*35-to",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁔𐀅",
+        {
+            "greek": "",
+            "interpretations": [
+                "McArthur 1993: plausible toponym",
+                "Witczak 1992: toponym cf. Ἁλαί Ἀλαι (where *47 = a4) \"\"Myc. -d- and Classical -λ- is irregular though it is attested elsewhere as is da-pu2-ri-to-jo\"\"",
+                "Chadwick & Ventris 1973: toponym? McArthur 1993",
+                "Chadwick & Ventris 1973: allative of *47-da OLE: KN Fp McArthur Jennifer K. 1993 Suplementos a MINOS núm. 9 “Place-Names in the Knossos Tablets Identification and Location” Witczak Krzysztof Tomasz 1992 Kadmos 31 \"\"The Phonetic Value of the Linear B Sign *47\"\""
+            ],
+            "transcription": "*47-da",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁔𐀅𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*47-da-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁔𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*47-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁔𐀓𐀵𐀆",
+        {
+            "greek": "",
+            "interpretations": [
+                "Witczak 1992: toponym allative cf. Ἄκυτος (where *47 = a4) a small island near Crete; its sister island Καῦδα has been proposed for ka-u-da on KN Fs 21. McArthur 1993",
+                "Chadwick & Ventris 1973: toponym allative OLE: KN Fp McArthur Jennifer K. 1993 Suplementos a MINOS núm. 9 “Place-Names in the Knossos Tablets Identification and Location” Witczak Krzysztof Tomasz 1992 Kadmos 31 \"\"The Phonetic Value of the Linear B Sign *47\"\""
+            ],
+            "transcription": "*47-ku-to-de",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁔𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*47-so",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁔𐀰𐀆",
+        {
+            "greek": "",
+            "interpretations": [
+                "Witczak 1992: toponym allative cf. Ἄσος (where *47 = a4) on Crete which has a sanctuary of Zeus Asios McArthur 1993",
+                "Chadwick & Ventris 1973: toponym allative KN Fh: e-ra-deallative KN Fh: OLE McArthur Jennifer K. 1993 Suplementos a MINOS núm. 9 “Place-Names in the Knossos Tablets Identification and Location” Witczak Krzysztof Tomasz 1992 Kadmos 31 \"\"The Phonetic Value of the Linear B Sign *47\"\""
+            ],
+            "transcription": "*47-so-de",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁔𐀲𐀦",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*47-ta-qo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁔𐀴𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN K: a-ro-we me-wo-ni-joanthroponym KN V: a-nu-moanthroponym ja-ma-ra [[po-mi-ni-jo]] ta-za-roanthroponym [[wa-du-na]]"
+            ],
+            "transcription": "*47-ti-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁔𐀄",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*47-u",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁕𐀭𐀫",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*49-sa-ro",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁕𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*49-so",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁕𐀺",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "*49-wo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁖𐀉𐀝𐀏",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Da: do-ti-ja KN Dv: ra-to KN Da KN Dv: OVIS"
+            ],
+            "transcription": "*56-du-nu-ka",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁖𐀂𐀴",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: dative? theonym?",
+                "Chadwick & Ventris 1973: variant spelling of *56-i-ti"
+            ],
+            "transcription": "*56-i-ti",
+            "translation": "god's name"
+        }
+    ],
+    [
+        "𐁖𐀂𐀴𐀋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-i-ti-je",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀒",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ko",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀒𐀸",
+        {
+            "greek": "",
+            "interpretations": [
+                "van Alfen 2008: toponym",
+                "Chadwick & Ventris 1973: toponym   Appears as \"\"ki-nu-qa *56-ko-we\"\" on KN Ap 618+. Appears with sa-qa-re-jo on two KN Dl tablets. Appears as \"\"*56-ko-we / o-pi\"\" on KN Le 5646+. *56-ko-we (KN Db): ru-ki-totoponym *56-ko-we-e (KN Dl): e-ratheonym or toponym *56-ko-we-i (KN Dn): da-*22-totoponym *56-ko-we-i (KN Dm): e-ko-sotoponym LUNA: KN G M: KN Ga MUL: KN Ap OVIS: KN Da KN Db KN Dc KN Dd KN Df KN Dl KN Dn KN Dv TELA+TE: KN Le a-ra-si-jo: KN Df a-ze-ohapax: KN Dv a3-ta-ro-we?ro-u-so: KN Da da-ra-mu-rohapax: KN Dc ka-ptehapax: KN Df ka-*56-nohapax: KN Df ke-to (u-ta-jo): KN Da ki-nu-qahapax: KN Ap no-da-ro: KN Dc o-wi-rohapax: KN Dd sa-nu-we-tahapax: KN Db wi-na-joe-ra ra-su-to ru-ki-to: KN Db wi-*65-te-uhapax: KN Dc van Alfen Peter G. A Companion to Linear B: Mycenaean Greek Texts and their World (ed. Yves Duhoux & Anna Morpurgo-Davies) \"\"The Linear B Inscribed Vases\"\""
+            ],
+            "transcription": "*56-ko-we",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁖𐀒𐀸𐀁",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ko-we-e",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀒𐀸𐀂",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ko-we-i",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀒𐀸𐀂𐀊𐀤",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ko-we-i-ja-qe",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀒𐀸𐀂𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ko-we-i-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀙𐀫",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-na-ro",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀛𐀭𐀲",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ni-sa-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀡𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym?"
+            ],
+            "transcription": "*56-po-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁖𐀢𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-pu-so",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀨𐀓𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Duhoux 2008: \"\"presumably refers to the colour of the cloths; if identical with pa-ra-ku-ja it could perhaps be compared to terms like σμάραγδος 'emerald' or βαρακίς γλαύκινον ἱμάτιον 'bluish green piece of cloth' (Hesychius) (??)\"\"",
+                "Bernabé & Luján 2008: \"\"with pa-ra-ku- colour\"\"",
+                "Chadwick & Ventris 1973: nominative plural neuter description of textiles cf. pa-ra-ku-ja Bernabé Alberto and Eugenio Luján 2008 A Companion to Linear B: Mycenaean Greek Texts and their World (ed. Yves Duhoux and Anna Morpurgo Davies) “Mycenaean Technology” Duhoux Yves 2008 A Companion to Linear B: Mycenaean Greek Texts and their World \"\"Mycenaean Anthology\"\""
+            ],
+            "transcription": "*56-ra-ku-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀪𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym OVIS: KN Db ru-ki-to: KN Db"
+            ],
+            "transcription": "*56-ri-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁖𐁊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "*56-ro2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁖𐀬",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ru",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀬𐀸",
+        {
+            "greek": "",
+            "interpretations": [
+                "Duhoux 2008: probable anthroponym Duhoux Yves 2008 A Companion to Linear B: Mycenaean Greek Texts and their World “Mycenaean Anthology”"
+            ],
+            "transcription": "*56-ru-we",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁖𐀰𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-so-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀴",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-ti",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁖𐀼",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*56-za",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁗𐀳𐀨",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*63-te-ra",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁗𐀳𐀨𐀆",
+        {
+            "greek": "",
+            "interpretations": [
+                "Duhoux 2008: toponym VIN: TH Gp Duhoux Yves 2008 A Companion to Linear B: Mycenaean Greek Texts and their World vol. I \"\"Mycenaean Anthology\"\""
+            ],
+            "transcription": "*63-te-ra-de",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁗𐀄𐀫",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*63-u-ro",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁘𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*64-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "*65𐀜",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*65-no",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁚𐀆",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "*82-de",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁚𐀲",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*82-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁛𐀊𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*83-ja-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁛𐀩𐀍𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*83-re-jo-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁛𐀩𐀳",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "*83-re-te",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀𐁓𐀏",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a-*34-ka",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀*35𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: adjective describing textiles?"
+            ],
+            "transcription": "a-*35-to",
+            "translation": "Chadwick & Ventris 1973: adjective describing textiles?"
+        }
+    ],
+    [
+        "𐀀𐁔",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a-*47",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀𐁔𐀹",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a-*47-wi",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀𐁖𐀅𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a-*56-da-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐁖𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a-*56-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐁘𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 1. (PY Aa PY Ab) ethnic adjective 'women of Asia (=Lydia)' cf. a-si-wi-ja 2. (PY Vn) anthroponym singular of a-*64-ja1",
+                "Chadwick & Ventris 1973: genitive of a-*64-ja1"
+            ],
+            "transcription": "a-*64-ja",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐁘𐀊𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a-*64-ja-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀𐁘𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a-*64-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀*65𐀔",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a-*65-ma",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀*65𐀔𐀙𐀐",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: recipient of offerings theonym? KN Fs: HORD NI"
+            ],
+            "transcription": "a-*65-ma-na-ke",
+            "translation": "god's name"
+        }
+    ],
+    [
+        "𐀀*65𐀙",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: obscure (i.e. not defined)"
+            ],
+            "transcription": "a-*65-na",
+            "translation": "Chadwick & Ventris 1973: obscure (i.e. not defined)"
+        }
+    ],
+    [
+        "𐀀𐁙",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a-*79",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐀆𐁈",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a-de-ra2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐀇*22𐀭",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: obscure (i.e. not known) KN F: GRA+PE NI"
+            ],
+            "transcription": "a-di-*22-sa",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀𐀐𐁀",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'wine jars'? cf. ἄγγος"
+            ],
+            "transcription": "a-ke-a2",
+            "translation": "Chadwick & Ventris 1973: 'wine jars'? cf. ἄγγος"
+        }
+    ],
+    [
+        "𐀀𐀐𐁈𐀳",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'collecting gathering'? cf. ἀγείρω"
+            ],
+            "transcription": "a-ke-ra2-te",
+            "translation": "Chadwick & Ventris 1973: 'collecting gathering'? cf. ἀγείρω"
+        }
+    ],
+    [
+        "𐀀𐀙𐁚",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a-na-*82",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐀚𐁀",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a-ne-a2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐁆𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym cf. a-pu2-we"
+            ],
+            "transcription": "a-pu2-ja",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀀𐁆𐀏",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"ethnic name in -ān; apparently not from *a-pu2 which is a u-stem and would not explain k\"\"",
+                "Chadwick & Ventris 1973: nominative plural in -ānes of a-pu2-ka"
+            ],
+            "transcription": "a-pu2-ka",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀀𐀩𐁋",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Ἀρητίας OVIS: KN Df (pu)-(na)-(so): KN X su-ki-ri-ta: KN Df"
+            ],
+            "transcription": "a-re-ta2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀀𐁊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a-ro2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀇𐀋𐀄",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. a-di-je-wo"
+            ],
+            "transcription": "a2-di-je-u",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁀𐀁𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a2-e-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁀𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀏𐁀𐀑𐀪𐀊𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-ka-a2-ki-ri-ja-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀐𐀳𐀩",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: nominative dual? cf. a-ke-te-re?"
+            ],
+            "transcription": "a2-ke-te-re",
+            "translation": "Chadwick & Ventris 1973: nominative dual? cf. a-ke-te-re?"
+        }
+    ],
+    [
+        "𐁀𐀐𐀺𐀀𐀑𐀪",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-ke-wo-a-ki-ri",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀑𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym"
+            ],
+            "transcription": "a2-ki-ja",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁀𐀑𐀨",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym"
+            ],
+            "transcription": "a2-ki-ra",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁀𐀓𐀖𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym?"
+            ],
+            "transcription": "a2-ku-mi-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁀𐀓𐀛𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a2-ku-ni-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁀𐀔𐀂𐀷",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-ma-i-wa",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀚𐀄𐀳",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym also spelled a-ne-u-te"
+            ],
+            "transcription": "a2-ne-u-te",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁀𐀝𐀕𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. ἄνυμι ἁνύτω"
+            ],
+            "transcription": "a2-nu-me-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁀𐀞𐁀𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-pa-a2-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀞𐀶𐀺𐀳",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym locative"
+            ],
+            "transcription": "a2-pa-tu-wo-te",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁀𐀨𐀏𐀺",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a2-ra-ka-wo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁀𐀨𐀶𐀀",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym",
+                "Chadwick & Ventris 1973: variant spelling of a2-ra-tu-a"
+            ],
+            "transcription": "a2-ra-tu-a",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁀𐀨𐀶𐀷",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-ra-tu-wa",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀪𐀁",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: meaning obscure"
+            ],
+            "transcription": "a2-ri-e",
+            "translation": "Chadwick & Ventris 1973: meaning obscure"
+        }
+    ],
+    [
+        "𐁀𐀪𐀭",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: obscure"
+            ],
+            "transcription": "a2-ri-sa",
+            "translation": "Chadwick & Ventris 1973: obscure"
+        }
+    ],
+    [
+        "𐁀𐀫",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-ro",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a2-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁀𐀲𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-ta-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀳𐀡",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym or anthroponym?"
+            ],
+            "transcription": "a2-te-po",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁀𐀳𐀸",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a2-te-we",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁀𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: meaning obscure"
+            ],
+            "transcription": "a2-to",
+            "translation": "Chadwick & Ventris 1973: meaning obscure"
+        }
+    ],
+    [
+        "𐁀𐀿𐀥𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym?"
+            ],
+            "transcription": "a2-zo-qi-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐁁𐀲",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-a3-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀉𐀫",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-du-ro",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀉𐀺𐀙",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-du-wo-na",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀏𐀙𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"apparently the name of a liquid abbreviated a3\"\""
+            ],
+            "transcription": "a3-ka-na-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀏𐀨",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN L: po-po"
+            ],
+            "transcription": "a3-ka-ra",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀏𐀭𐀔",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'points (for darts and spears)' cf. ἔγχεος αἰχμή"
+            ],
+            "transcription": "a3-ka-sa-ma",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀐𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-ke-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀐𐀄",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"nominative singular describing [[t-ri-po-de|TRIPOD]] cauldron despite failure of concord with dual [[ti-ri-po-de]] [...] adjective 'with goat-head protomes'; or cf. αῖγες 'high waves'?\"\""
+            ],
+            "transcription": "a3-ke-u",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀐𐀷𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Da: ri-jo-no KN Da: OVIS"
+            ],
+            "transcription": "a3-ke-wa-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀐𐀷𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym OVIS: KN Db KN Dv ra-to: KN Dv ru-ki-to: KN Db"
+            ],
+            "transcription": "a3-ke-wa-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀑",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-ki",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀑𐁀𐀪𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym derivative of αἰγιαλός",
+                "Chadwick & Ventris 1973: allative of a3-ki-a2-ri-ja"
+            ],
+            "transcription": "a3-ki-a2-ri-ja",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁁𐀑𐁀𐀪𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym or occupational term? dative cf. αἰγαλός"
+            ],
+            "transcription": "a3-ki-a2-ri-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀑𐀆𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: adjective describing FLAX"
+            ],
+            "transcription": "a3-ki-de-ja",
+            "translation": "Chadwick & Ventris 1973: adjective describing FLAX"
+        }
+    ],
+    [
+        "𐁁𐀑𐀁𐀸",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym dative cf. Αἰγιεύς ethnic of Αἴγιον",
+                "Chadwick & Ventris 1973: genitive of a3-ki-e-we"
+            ],
+            "transcription": "a3-ki-e-we",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀑𐀁𐀺",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-ki-e-wo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀑𐀜",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-ki-no",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀑𐀜𐀃",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"some part of chariot?\"\""
+            ],
+            "transcription": "a3-ki-no-o",
+            "translation": "Chadwick & Ventris 1973: \"\"some part of chariot?\"\""
+        }
+    ],
+    [
+        "𐁁𐀑𐀞𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "McArthur 1993",
+                "Chadwick & Ventris 1973: 'goat-herd' cf. αἴξ + obscure element See PY Ae KN Fh: OLE McArthur Jennifer K. 1993 Suplementos a MINOS núm. 9 “Place-Names in the Knossos Tablets Identification and Location”"
+            ],
+            "transcription": "a3-ki-pa-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀑𐀡",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. αἰγίπους"
+            ],
+            "transcription": "a3-ki-po",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀑𐀡𐀆",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym? cf. a3-ki-po"
+            ],
+            "transcription": "a3-ki-po-de",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁁𐀑𐀯𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-ki-si-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀑𐀷𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-ki-wa-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀑𐀷𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-ki-wa-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀒𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-ko-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀓𐀠𐀴𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Egyptian ethnic Αἰγύπτιος KN Db: su-ri-mo KN Db: OVIS"
+            ],
+            "transcription": "a3-ku-pi-ti-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀓𐀲",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-ku-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀕𐀷",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-me-wa",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀖",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-mi",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀖𐀩𐀸",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: class of sheep \"\"distinguished from e-ka-ra-e-we\"\""
+            ],
+            "transcription": "a3-mi-re-we",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀛𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-ni-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀝𐀕𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. αἴνυμαι"
+            ],
+            "transcription": "a3-nu-me-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀢𐀐𐀚𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym? dative"
+            ],
+            "transcription": "a3-pu-ke-ne-ja",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀭",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'portion'? cf. αἴσα"
+            ],
+            "transcription": "a3-sa",
+            "translation": "Chadwick & Ventris 1973: 'portion'? cf. αἴσα"
+        }
+    ],
+    [
+        "𐁁𐀮𐀷",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-se-wa",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀮𐀸",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym?"
+            ],
+            "transcription": "a3-se-we",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁁𐀰𐀛𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Αἴσων Αἰσονίδης PY Jn 310 AES: [[e-u-do-no]] [[e-u-ru-wo-ta]] po-ro-u-te-u [[qe-ta-wo]] ta-mi-je-u ti-qa-jo [[wi-du-wa-ko]] PY Jn 706 AES: a-no-me-de ke-ta ka-pa-ra2 ku-ri-sa-to ma-ra-si-jo mu-to-na pe-ri-no qi-si-ja-ko"
+            ],
+            "transcription": "a3-so-ni-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀲𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Ga: tu-to AROM: KN Ga? ku-ta-to: KN Ga"
+            ],
+            "transcription": "a3-ta-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀲𐀩𐀄𐀯",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym locative"
+            ],
+            "transcription": "a3-ta-re-u-si",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐁁𐀲𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. a-ta-ro Αἴθαλος"
+            ],
+            "transcription": "a3-ta-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀲𐀫𐀸",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Αἰθαλόεις river in Mysia KN Da: *56-ko-we PY Cn: ro-u-so? KN Da PY Cn: OVIS"
+            ],
+            "transcription": "a3-ta-ro-we",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀳",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: nominative singular of a3-te-re? cf. (*-te *-te-re) a-de-te-re a-ke-te-re ko-re-te-re ma-te-re pi-ri-je-te-re ra-pte-re tu-ka-te-re",
+                "Chadwick & Ventris 1973: 'inlayers'?"
+            ],
+            "transcription": "a3-te",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀳𐀩",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-te-re",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀴𐀍𐀤",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-ti-jo-qe",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀴𐀍𐀦",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Αἰθίοπες (Iliad XXIII 206+)",
+                "Chadwick & Ventris 1973: dative of a3-ti-jo-qo ru-*83-o and pi-ke-re-wo on PY En 74"
+            ],
+            "transcription": "a3-ti-jo-qo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀴𐀝",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-ti-nu",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Αἴθων KN Da: ri-jo-no KN Da: OVIS"
+            ],
+            "transcription": "a3-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀶𐀴𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: ethnic adjective?"
+            ],
+            "transcription": "a3-tu-ti-ja",
+            "translation": "Chadwick & Ventris 1973: ethnic adjective?"
+        }
+    ],
+    [
+        "𐁁𐀷",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: name of an ox? cf. Αἴας"
+            ],
+            "transcription": "a3-wa",
+            "translation": "Chadwick & Ventris 1973: name of an ox? cf. Αἴας"
+        }
+    ],
+    [
+        "𐁁𐀷𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Αἰαίη (Odyssey XII 268)"
+            ],
+            "transcription": "a3-wa-ja",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀷𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Αἰήτης"
+            ],
+            "transcription": "a3-wa-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀷𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "(as a3-wa-(to))",
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "a3-wa-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀹𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-wi-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀺𐀇𐀍𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym genitive?"
+            ],
+            "transcription": "a3-wo-di-jo-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁁𐀺𐀩𐀄",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-wo-re-u",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀺𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: name of ox cf. αἰόλος"
+            ],
+            "transcription": "a3-wo-ro",
+            "translation": "Chadwick & Ventris 1973: name of ox cf. αἰόλος"
+        }
+    ],
+    [
+        "𐁁𐀼",
+        {
+            "greek": "",
+            "interpretations": [
+                "Palaeolexicon: goat"
+            ],
+            "transcription": "a3-za",
+            "translation": "Palaeolexicon: goat"
+        }
+    ],
+    [
+        "𐁁𐀽",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-ze",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀿𐀫𐀤",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-zo-ro-qe",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁁𐀿𐀺",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "a3-zo-wo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁂𐁁𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: annotation to oxen cf. au-to-a3-ta"
+            ],
+            "transcription": "au-a3-ta",
+            "translation": "Chadwick & Ventris 1973: annotation to oxen cf. au-to-a3-ta"
+        }
+    ],
+    [
+        "𐁂𐀵𐁓𐀲𐀨",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym or title?"
+            ],
+            "transcription": "au-to-*34-ta-ra",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁂𐀵𐁀𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "au-to-a2-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁂𐀵𐁁𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "au-to-a3-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀅*22",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*22",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅*22𐀴",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*22-ti",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅*22𐀴𐀊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*22-ti-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅*22𐀴𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*22-ti-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅*22𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym McArthur 1993: ethnic adjective of da-*22-to",
+                "Chadwick & Ventris 1973: ethnic adjective of da-*22-to Ruijgh 1967: toponym in -ία",
+                "Chadwick & Ventris 1973: ethnic adjective of da-*22-to da-*22-to (KN Ce): da-wotoponym ku-do-ni-jatoponym tu-ri-sotoponym da-*22-to (KN Dn): *56-ko-we-idative locative da-*22-to (KN Ga): ku-ta-totoponym da-*22-to (KN Mc): ku-ta-totoponym se-to-i-jatoponym Appears as \"\"da-*22-to  [[ke-nu-wa-so]]\"\" on KN Uf 839. BOS: KN Ce CAP: KN C? KN Mc? CORN: KN Mc DA: KN Ak GRA: KN E HORD: KN F ko-wa: KN Ak ko-wo: KN Ak LANA: KN Dk MUL: KN Ak o LANA: KN Dk o OVIS: KN Dc KN De OLIV: KN E OVIS: KN Da KN Db KN Dc KN Dd KN De KN Dk KN Dn KN Dq KN Dv pa OVIS: KN Dd pe di: KN Ak pe OVIS: KN Dc PYC: KN Ga TA: KN Ak VIR: KN As *142: KN Mc *171: KN Ga a-mu-ta-wo: KN V a-no-zo-jo (genitive): KN Ak a-ri-kohapax: KN Da a-sa-rohapax: KN As a-tohapax: KN As da-ta-ja-rohapax: KN De di-woe-ro-ma-to: KN Dv e-u-ko-rodo-ti-ja ti-ri-to: KN Dd i-ti-nu-rihapax: KN Dq? [[ko-do]]: KN Uf ko-ro: KN De ko-so: KN As [[o-ro-te-wo]]: KN Dq? pa-ra-tohapax: KN Db [[pe-ri-jo-ta]]: KN V [[pi-ra-ki-jo]]: KN V po-ro-u-te-u: KN Dc qa-ra-su-ti-jo: KN Dd sa-ma-ri-jo: KN Da su-di-ni-kohapax: KN De ta-ra-to-nohapax: KN Dc [[wa-wi]]: KN V zo-do-sohapax: KN As McArthur Jennifer K. 1993 Place-Names in the Knossos Tablets Identification and Location (Suplementos a MINOS num. 9) Ruijgh C.J. 1967 Études sur la grammaire et le vocabulaire du grec mycénien Tosa Dygo 2010 106th Annual Meeting of the Archaeological Institute of America (AIA) \"\"The Preservation of Minoan Identity at da-*22-to\"\""
+            ],
+            "transcription": "da-*22-to",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀅*22𐀵𐀤",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*22-to-qe",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅𐁛",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*83",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅𐁛𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym McArthur 1993: toponym allative",
+                "Chadwick & Ventris 1973: dative-locative plural Appears as \"\"da-*83-ja-de / i-je-ro\"\" on KN Fp 363. Appears as \"\"da-*83-ja [[po-pu-re-jo]]\"\" on KN X 976+. OLE: KN Fp? OVIS: KN Dc KN Dv ](ro): KN Dv (a-ka-ta-jo) McArthur Jennifer K. 1993 Suplementos a MINOS núm. 9 “Place-Names in the Knossos Tablets Identification and Location”"
+            ],
+            "transcription": "da-*83-ja",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀅𐁛𐀊𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*83-ja-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅𐁛𐀊𐀂",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-*83-ja-i",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅𐁛𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. da-*83-ja"
+            ],
+            "transcription": "da-*83-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀅𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅𐁆𐀨𐀿",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym? cf. du-pu2-ra-zo"
+            ],
+            "transcription": "da-pu2-ra-zo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀅𐁆𐀪",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "da-pu2-ri",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀅𐀬𐁖",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "da-ru-*56",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀆𐀸𐀫𐁁𐀒𐀨",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "de-we-ro-a3-ko-ra",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀆𐀸𐀫𐁁𐀒𐀨𐀂𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Ramón 2011: name of a Pylos province \"\"[de-we-ro-a3-ko-ra-i-ja and pe-ra3-ko-ra-i-ja] are both compounds or juxtapositions of local adverbs (/deuro/ and /perā/ 'hither' and 'further') and a second element which is itself a compound a3-ko-ra-i-ja /aigolaiā/ 'rocks (cf. λᾶας 'stone') of the goat(s) (αἴξ)' resulting from the univerbation (i.e. union of two words) of *αἰγός (αἰγῶν) and λαία.\"\"",
+                "Chadwick & Ventris 1973: toponym name of the Hither Province Ramón J.L. García 2011 A Companion to Linear B: Mycenaean Greek Texts and their World vol. II (ed. Yves Duhoux and Anna Morpurgo Davies) \"\"Mycenaean Onomastics\"\" Ruijgh 1970 TBD"
+            ],
+            "transcription": "de-we-ro-a3-ko-ra-i-ja",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀇𐁐",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "di-*18",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀇*65𐀞𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym TELA+[TE]]: KN Ln"
+            ],
+            "transcription": "di-*65-pa-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀇𐁙𐀝",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "di-*79-nu",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀇𐁇𐁉",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "di-pte-ra3",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀈𐀨𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "do-ra-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀈𐀨𐁀𐀊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "do-ra-a2-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀉𐁆𐀨𐀿",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN V: da-i-ra di-zo [[o-ro-qa]] pu-ri qe-ro [[su-ko]] [[wa-je]] wi-da-ma-ro KN Da: pa-i-to KN Da: OVIS"
+            ],
+            "transcription": "du-pu2-ra-zo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀉𐁆𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Fh: OLE"
+            ],
+            "transcription": "du-pu2-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀁𐁐",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-*18",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁*65𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "e-*65-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀁*92𐀈𐀔",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-*92-do-ma",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐀐𐁈𐀺𐀚",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-ke-ra2-wo-ne",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐀐𐁈𐀺𐀜",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-ke-ra2-wo-no",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐀔𐁀𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-ma-a2-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐀠𐁑𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Duhoux 2008: 'tyre of a wheel' cf. ἐπίσ(σ)ωτρον (with *19 as zo2 = /tso/) Duhoux Yves 2008 A Companion to Linear B: Mycenaean Greek Texts and their World vol. I \"\"Mycenaean Anthology\"\""
+            ],
+            "transcription": "e-pi-*19-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐀠*65𐀒",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-pi-*65-ko",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐀠𐀦𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-pi-qo-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐁆𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym? M: KN Ga da-wo: KN Ga?"
+            ],
+            "transcription": "e-pu2-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀁𐁉𐀺",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: olive oil cf. ἔλαιον (interesting comment from Melena 1983: \"\"The Greek name for olive /elaiwon/ is a loan borrowed from a Mediterran tongue. Although the phytonym is probably Minoan it has not been elicited in Linear A\"\")",
+                "Chadwick & Ventris 1973: variant spelling of e-ra3-wo Melena José L. 1983 Minos vol. 18 \"\"Olive Oil and Other Sorts of Oil in the Mycenaean Tablets\"\""
+            ],
+            "transcription": "e-ra3-wo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐀪𐁑",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "e-ri-*19",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀁𐁊𐀚",
+        {
+            "greek": "",
+            "interpretations": [
+                ""
+            ],
+            "transcription": "e-ro2-ne",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀁𐁊𐀦",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym Georgiev 1956: anthroponym cf. Ἕλλοψ Georgiev Vladimir 1956 Études Mycéniennes Gif-sur-Yvette 3-7 Avril 1956 “La valeur phonétique de quelques signes du syllabaire Créto-Mycénien B”"
+            ],
+            "transcription": "e-ro2-qo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀁𐀮𐀩𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "e-se-re-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀂*65",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "i-*65",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀂*65𐀐𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "i-*65-ke-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀂*65𐀤",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "i-*65-qe",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀂𐀊𐁆𐀸",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym locative McArtur 1993: ethnic adjective of unattested toponym *i-ja-pu2 or *ja-pu2 Ruijgh 1967 Killen 1974 Melena 1975: ethnic adjective of i-ja-pu2-we LANA: KN Lc? TELA: KN Lc? TELA+TE: KN Lc? Killen John T. 1974 Hermathena 118 \"\"A problem in the Knossos Lc (1) (cloth) tablets\"\" McArthur Jennifer 1993 Suplementos a MINOS núm. 9 \"\"Place-Names in the Knossos Tablets Identification and Location\"\" Melena José L. 1975 Minos Supplement 5 \"\"Studies on some Mycenaean inscriptions from Knossos dealing with textiles\"\" Ruijgh C.J. 1967 Études sur la grammaire et le vocabulaire du grec mycénien"
+            ],
+            "transcription": "i-ja-pu2-we",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀂𐁋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "i-ta2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀊𐁐",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ja-*18",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀊𐁆𐀹𐀊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ja-pu2-wi-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀊𐀸𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ja-we-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐁖𐀙𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ka-*56-na-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀏𐁖𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Df: a-ra-si-joanthroponym ka-pteanthroponym"
+            ],
+            "transcription": "ka-*56-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀏𐁖𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ka-*56-so",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐁖𐀰𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                ""
+            ],
+            "transcription": "ka-*56-so-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐀞𐁈",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 1. description of women \"\"possibly singular of ethnic or descriptive term in -as.\"\" (KN Ak) 2. anthroponym (PY Jn) PY Jn 706 (AES): a-no-me-de a3-so-ni-jo ke-ta ku-ri-sa-to ma-ra-si-jo mu-to-na pe-ri-no qi-si-ja-ko",
+                "Chadwick & Ventris 1973: nominative plural feminine of ka-pa-ra21 PY Aa series (MUL ko-wa ko-wo DA TA): a-ke-ti-ra2 a-ke-ti-ri-ja a-*64-ja [[e-pi-jo-ta-na]] e-pi-ko-o e-wi-ri-pi-ja [[ke-e]] [[ki-ma-ra]] [[ki-ni-di-ja]] ne-we-wi-ja [[o-ti-ri-ja]] po-to-ro-wa-pi re-wo-to-ro-ko-wo ti-nwa-si-ja",
+                "Chadwick & Ventris 1973: genitive plural feminine of ka-pa-ra21 kar WNXVII.76"
+            ],
+            "transcription": "ka-pa-ra2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀏𐀞𐁈𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ka-pa-ra2-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐀞𐁈𐀈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ka-pa-ra2-do",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐁆𐀭𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ka-pu2-sa-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐀨𐁖",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ka-ra-*56",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐀨𐁖𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ka-ra-*56-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀏𐀨𐁚",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ka-ra-*82",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐁋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ka-ta2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀏𐁋𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ka-ta2-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀏𐀶𐁊",
+        {
+            "greek": "",
+            "interpretations": [
+                ""
+            ],
+            "transcription": "ka-tu-ro2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀐𐁛𐁐",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ke-*83-*18",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀐𐁆𐀋𐀄",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ke-pu2-je-u",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀐𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ke-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀑𐁐𐀂𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ki-*18-i-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀑𐀨𐁖𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym?"
+            ],
+            "transcription": "ki-ra-*56-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀑𐁈𐀂𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ki-ra2-i-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀑𐀪𐁚𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ki-ri-*82-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀒𐁐",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ko-*18",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀒𐁀𐀲",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ko-a2-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀒𐀉*22",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ko-du-*22",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀒𐀉*22𐀋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ko-du-*22-je",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀒𐀪𐁀𐀅𐀙",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'coriander (seed)' cf. κορίανδρον κορίαννα κολίανδρον nominative plural neuter sometimes abbreviated to just KO",
+                "Chadwick & Ventris 1973: variant spelling",
+                "Chadwick & Ventris 1973: variant spelling?",
+                "Chadwick & Ventris 1973: nominative singular of ko-ri-a2-da-na"
+            ],
+            "transcription": "ko-ri-a2-da-na",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀒𐀫𐁋",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: neuter plural of ko-ro-to or perhaps 'tassels fringe' cf. κροσσοί TELA2: KN Ld"
+            ],
+            "transcription": "ko-ro-ta2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀓𐁗𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ku-*63-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀓𐀞𐁊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ku-pa-ro2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀓𐀫𐁊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ku-ro-ro2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀓𐁊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Κύριος",
+                "Chadwick & Ventris 1973: genitive of ku-ro2"
+            ],
+            "transcription": "ku-ro2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀓𐁊𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ku-ro2-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀓𐀬𐀱𐁖",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"description of a three-legged vessel possibly a compound of 'gold'\"\""
+            ],
+            "transcription": "ku-ru-su-*56",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀓𐀱𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ku-su-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀓𐀳𐁉",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: feminine ethnic adjective cf. toponym Κύθηρα",
+                "Chadwick & Ventris 1973: genitive plural of ku-te-ra3"
+            ],
+            "transcription": "ku-te-ra3",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀔𐁙",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ma-*79",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀔𐁉𐀷",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Μαρραῖος"
+            ],
+            "transcription": "ma-ra3-wa",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀕𐁜𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "me-*86-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀕𐀝𐁀",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: title of an official cf. Μινύαι",
+                "Chadwick & Ventris 1973: alt. spelling of me-nu-a2 probably an anthroponym at Knossos Appears as \"\"ro-o-wa  e-re-ta  a-pe-o-te  me-nu-wa  a-pe-e-ke  a-re-sa-ni-e\"\" on PY An 724. Appears as \"\"[[ki-nu-ra]]  me-nu-a2\"\" on PY Qa 1301. KN V: di-we-so wi-da-jo etc. BIG: KN Sc TUN: KN Sc ZE: PY Aq *189: PY Qa"
+            ],
+            "transcription": "me-nu-a2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀖𐁈",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"probably a kind of wood for tables\"\""
+            ],
+            "transcription": "mi-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀚𐁀𐀪𐀅",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ne-a2-ri-da",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃*22𐀇",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "o-*22-di",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀃𐁓𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"name of a class of men\"\" Appears as \"\"a2-te-po  de-wi-jo  ko-ma-we  o-*34-ta-qe  u-ru-pi-ja-jo  o-ru-ma-si-ja-jo VIR 30\"\" on PY An 519. Appears as \"\"ku-ru-me-no-jo  o-ka  pe-ri-te-u  wo-ne-wa  a-ti-ja-wo  e-ru-ta-ra  o-*34-ta  me-ta-pi-jo  ke-ki-de  VIR 50\"\" on PY An 654. VIR: PY An"
+            ],
+            "transcription": "o-*34-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐁓𐀲𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-*34-ta-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐁓𐀲𐀤",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-*34-ta-qe",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐀉𐁖𐀫",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-du-*56-ro",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐀏𐁉",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-ka-ra3",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐀠𐁉𐀳𐀩",
+        {
+            "greek": "",
+            "interpretations": [
+                "fittings for beams"
+            ],
+            "transcription": "o-pi-ra3-te-re",
+            "translation": "fittings for beams"
+        }
+    ],
+    [
+        "𐀃𐀩𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-re-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐁋𐀜",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-ta2-no",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐀴𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-ti-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀃𐀴𐁈𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "o-ti-ra2-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀞𐁓𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pa-*34-so",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀞𐀸𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pa-we-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟*65𐀏",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pe-*65-ka",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟𐀑𐀴𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pe-ki-ti-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟𐀑𐀴𐁈𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pe-ki-ti-ra2-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pe-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟𐁈𐀺",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pe-ra2-wo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟𐁉𐀒𐀨𐀂𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Ramón 2011: name of a Pylos province \"\"[de-we-ro-a3-ko-ra-i-ja and pe-ra3-ko-ra-i-ja] are both compounds or juxtapositions of local adverbs (/deuro/ and /perā/ 'hither' and 'further') and a second element which is itself a compound a3-ko-ra-i-ja /aigolaiā/ 'rocks (cf. λᾶας 'stone') of the goat(s) (αἴξ)' resulting from the univerbation (i.e. union of two words) of *αἰγός (αἰγῶν) and λαία.\"\"",
+                "Chadwick & Ventris 1973: toponym name of the Further Province",
+                "Chadwick & Ventris 1973: \"\"variant or erroneous form [of pe-ra3-ko-ra-i-ja]?\"\" Ramón J.L. García 2011 A Companion to Linear B: Mycenaean Greek Texts and their World vol. II (ed. Yves Duhoux and Anna Morpurgo Davies) \"\"Mycenaean Onomastics\"\""
+            ],
+            "transcription": "pe-ra3-ko-ra-i-ja",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀟𐁉𐀦",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pe-ra3-qo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟𐀩𐁚",
+        {
+            "greek": "",
+            "interpretations": [
+                "Duhoux 2008: theonym",
+                "Chadwick & Ventris 1973: theonym dative Georgiev 1956: 'old man' cf. πρέσβυς (with *82 = /qu/)",
+                "Chadwick & Ventris 1973: 'at the shrine of pe-re-*82' probably dative-locative of a derivative adjective Duhoux Yves 2008 A Companion to Linear B: Mycenaean Greek Texts and their World Vol. I \"\"Mycenaean Anthology\"\" Georgiev Vladimir 1956 Études Mycéniennes Gif-sur-Yvette 3-7 Avril 1956 “La valeur phonétique de quelques signes du syllabaire Créto-Mycénien B”"
+            ],
+            "transcription": "pe-re-*82",
+            "translation": "god's name"
+        }
+    ],
+    [
+        "𐀟𐀩𐁚𐀍",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pe-re-*82-jo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀟𐀩𐁚𐀲",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "pe-re-*82-ta",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀠𐁚",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym (Hither Province) cf. Πῖσα but not Pisa on the Alpheios"
+            ],
+            "transcription": "pi-*82",
+            "translation": "place name"
+        }
+    ],
+    [
+        "𐀠𐁚𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pi-*82-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀠𐁈𐀗",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pi-ra2-mo",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀠𐁈𐀲𐀋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pi-ra2-ta-je",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀡𐁓",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "po-*34",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀡𐁓𐀹𐀈",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym BIG: KN Sc"
+            ],
+            "transcription": "po-*34-wi-do",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀡𐀵𐁀𐀊𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "po-to-a2-ja-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁆𐀐𐀥𐀪𐀚",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pu2-ke-qi-ri-ne",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁆𐀐𐀥𐀪𐀚𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. pu2-ke-qi-ri Appears as “(a)-ka-i-je-ja  pu2-ke-qi-ri-ne-ja LANA 2″ on TH Of 27. (see also du-qo-te-ja)"
+            ],
+            "transcription": "pu2-ke-qi-ri-ne-ja",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁆𐀨𐀚𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "pu2-ra-ne-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁆𐁈𐀀𐀑𐀪𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: variant of pu2-ra2-a-ke-re-u?"
+            ],
+            "transcription": "pu2-ra2-a-ki-ri-jo",
+            "translation": "Chadwick & Ventris 1973: variant of pu2-ra2-a-ke-re-u?"
+        }
+    ],
+    [
+        "𐁆𐀩𐀷",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym dative cf. pu-re-wa BIG: KN Sc EQU: KN Sc ku LANA PA: TH Of TUN: KN Sc"
+            ],
+            "transcription": "pu2-re-wa",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁆𐀬𐀅𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. φλυδαρός Palmer 1955: TBD Palmer Leonard R. 1955 TBD"
+            ],
+            "transcription": "pu2-ru-da-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁆𐀳𐀕𐀜",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pu2-te-me-no",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁆𐀳𐀩",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'planters'? cf. φυτεύω pu-te Palmer 1963: TBD Palmer Leonard R. 1963 The Interpretation of Mycenaean Greek Texts"
+            ],
+            "transcription": "pu2-te-re",
+            "translation": ""
+        }
+    ],
+    [
+        "𐁆𐀴𐀊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym Ruijgh 1967: anthroponym hypocoristic of -φυτος Ruijgh C.J. 1967 TBD"
+            ],
+            "transcription": "pu2-ti-ja",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁆𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym dative cf. Πύθος?"
+            ],
+            "transcription": "pu2-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐁆𐀹𐀊𐀤",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "pu2-wi-ja-qe",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀣𐁛𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym? DA: KN Sc"
+            ],
+            "transcription": "qa-*83-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀣𐁈",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Πἀλλας -αντος",
+                "Chadwick & Ventris 1973: dative of qa-ra2",
+                "Chadwick & Ventris 1973: \"\"to the house of\"\" qa-ra2"
+            ],
+            "transcription": "qa-ra2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀣𐁈𐀪",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "qa-ra2-ri",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀣𐁈𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Dl: OVIS LANA"
+            ],
+            "transcription": "qa-ra2-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀣𐁈𐀳",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "qa-ra2-te",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀣𐁈𐀴𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Dg: ti-ri-to"
+            ],
+            "transcription": "qa-ra2-ti-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀣𐁈𐀵𐀆",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "qa-ra2-to-de",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀣𐁈𐀺",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Ce: a-qi-ru"
+            ],
+            "transcription": "qa-ra2-wo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀣𐁋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "qa-ta2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀤𐁊",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'arm-guards' cf. ψέλιον Georgiev 1956: l'épithète d'un vase cf. τέλειος Doric de Crète τέληος KN Sk: [[e-po-mi-jo]] Appears as \"\"qe-ro2 AES *255\"\" on KN K 740. Georgiev Vladimir 1956 Études Mycéniennes Gif-sur-Yvette 3-7 Avril 1956 “La valeur phonétique de quelques signes du syllabaire Créto-Mycénien B”"
+            ],
+            "transcription": "qe-ro2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀤𐀳𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "qe-te-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀨𐁀𐀊",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ra-a2-ja",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀨𐀥𐀴𐁈",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: occupational term",
+                "Chadwick & Ventris 1973: genitive of ra-qi-ti-ra2"
+            ],
+            "transcription": "ra-qi-ti-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀨𐀥𐀴𐁈𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ra-qi-ti-ra2-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀨𐀷𐀨𐁋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ra-wa-ra-ta2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀩𐀄𐀒𐀫𐀃𐁆𐀬",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "re-u-ko-ro-o-pu2-ru",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀪*65",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ri-*65",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀪*65𐀜",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ri-*65-no",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀪𐁚𐀲𐀃",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym genitive"
+            ],
+            "transcription": "ri-*82-ta-o",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀬𐁖𐀨𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Da: pa-i-to KN Da: OVIS"
+            ],
+            "transcription": "ru-*56-ra-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀬𐁛𐀁",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ru-*83-e",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀬𐁛𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ru-*83-o",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀬𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ru-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀬𐀆𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ru-de-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀬𐀏𐁐",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ru-ka-*18",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀬𐀒𐁀𐀐𐀩𐀄𐀳",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ru-ko-a2-ke-re-u-te",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀬𐁋",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ru-ta2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀬𐁋𐀜",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ru-ta2-no",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀭*65",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "sa-*65",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀯𐀊𐁆𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "si-ja-pu2-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀯𐁆",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "si-pu2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀱𐁖𐀲",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "su-*56-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀲*22𐀆𐀰",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ta-*22-de-so",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀲𐁕𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Da: pu-na-so KN Da: OVIS"
+            ],
+            "transcription": "ta-*49-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀲𐀇*22𐀰",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "ta-di-*22-so",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀲𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ta-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀲𐁈𐀵",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym \"\"same as ta-ra-to\"\""
+            ],
+            "transcription": "ta-ra2-to",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀳𐁖",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "te-*56",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀳𐀨𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "te-ra-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀳𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "te-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀳𐀪𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "te-ri-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀳𐀶𐀒𐀺𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "te-tu-ko-wo-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀳𐀄𐀵𐀪*65",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "te-u-to-ri-*65",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀶𐁕𐀖",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "tu-*49-mi",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀶𐁖𐀅𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Dv: OVIS Chadwick John and Michael Ventris 1973 Documents in Myceanaean Greek"
+            ],
+            "transcription": "tu-*56-da-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀄𐁖",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "u-*56",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀄𐀨𐁜",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "u-ra-*86",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀷𐁜𐀩",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "wa-*86-re",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀷𐁀𐀲",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "wa-a2-ta",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀷𐁀𐀳𐀠",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "wa-a2-te-pi",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀷𐁀𐀳𐀸",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "wa-a2-te-we",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀷𐀨𐁋",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "wa-ra-ta2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀸𐁀𐀜𐀂",
+        {
+            "greek": "",
+            "interpretations": [
+                "Melena 1983: OLE for we-a2-no-i \"\"might be explained not as intended for perfuming them but for their cleaning\"\"",
+                "Chadwick & Ventris 1973: \"\"for robes\"\" cf. ἑανός Melena José L. 1983 Minos vol. 18 \"\"Olive Oil and Other Sorts of Oil in the Mycenaean Tablets\"\""
+            ],
+            "transcription": "we-a2-no-i",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀸𐀋𐀐𐁀",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "we-je-ke-a2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀹*65𐀳𐀄",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "wi-*65-te-u",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀹𐀅𐀔𐁋",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Ln: di-*65-pa-ta ko-re-wo ta-su"
+            ],
+            "transcription": "wi-da-ma-ta2",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀹𐀊𐀸𐁈",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "wi-ja-we-ra2",
+            "translation": ""
+        }
+    ],
+    [
+        "𐀺*65𐀫",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym KN Dv: OVIS KN Dv: ru-ki-to Chadwick John and Michael Ventris 1973 Documents in Myceanaean Greek"
+            ],
+            "transcription": "wo-*65-ro",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀺𐁚𐀛𐀍",
+        {
+            "greek": "",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
+            "transcription": "wo-*82-ni-jo",
+            "translation": "personal name"
+        }
+    ],
+    [
+        "𐀽𐁆𐀨𐀃",
+        {
+            "greek": "",
+            "interpretations": [],
+            "transcription": "ze-pu2-ra-o",
+            "translation": ""
         }
     ],
     [
