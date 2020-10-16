@@ -1077,7 +1077,6 @@ function getWordsAsImage(inscription, targetWord) {
                   Array(inscription.facsimileImages.length).fill("transcription")));
 
   var concordanceItem = document.createElement("div");
-  concordanceItem.className = "concordance-item";
   for (var imageInfo of imagesToLoad) {
     var imgName = imageInfo[0];
     var imgType = imageInfo[1];
@@ -1095,10 +1094,11 @@ function getWordsAsImage(inscription, targetWord) {
 
     var span = document.createElement("div");
     span.className = "tip-display tip-image-display";
-    concordanceItem.appendChild(span);
-
     for (var i = 0; i < imageCoords.length; i++) {
       var area = imageCoords[i].coords;
+      if (!area.width) {
+        continue;
+      }
       currentWord = wordIndexForLetterIndex(inscription.name, i);
 
       if (currentWord != targetWord) {
@@ -1118,6 +1118,9 @@ function getWordsAsImage(inscription, targetWord) {
       }
       ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
       span.appendChild(canvas);
+    }
+    if (span.children.length) {
+      concordanceItem.appendChild(span);
     }
   }
   return concordanceItem;
@@ -1321,6 +1324,7 @@ function showWordChart(searchTerm, item) {
     wordChart = document.createElement("div");
     wordChart.className = 'word-tip';
     wordChart.id = 'word-chart';
+    wordChart.style.visibility = "hidden";
     document.body.appendChild(wordChart);
   }
 
