@@ -943,6 +943,7 @@ function loadInscription(inscription) {
     if (elementName == "span") {
       span.textContent = word;
       span.className = getClassNameForWord(word);
+      span.classList.add("word-alignment");
       span.classList.add("word-frequency-none");
       if (word == inscription.transliteratedWords[i]) {
         span.textContent += " ";
@@ -1037,6 +1038,7 @@ function populateText(inscription, type, words, classSuffix) {
     if (elementName == "span") {
       span.textContent = word + " ";
       span.className = getClassNameForWord(inscription.words[i]);
+      span.classList.add("word-alignment");
       span.classList.add("word-frequency-none");
       span.id = inscription.name + "-" + type + "-" + i;
       span.addEventListener("mouseenter", highlightWords(inscription.name, i));

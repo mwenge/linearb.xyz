@@ -298,10 +298,10 @@ var lexicon = new Map(
     [
         "𐀀𐀇𐀪𐀊𐀠𐀤",
         {
-            "greek": "",
+            "greek": "ανδρίαφι",
             "interpretations": [],
             "transcription": "a-di-ri-ja-pi-qe",
-            "translation": ""
+            "translation": "(decorated) with men"
         }
     ],
     [
@@ -318,10 +318,12 @@ var lexicon = new Map(
     [
         "𐀀𐀇𐀪𐀊𐀳𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "ανδριάντει",
+            "interpretations": [
+                "inlaid with a figure of a man"
+            ],
             "transcription": "a-di-ri-ja-te-qe",
-            "translation": ""
+            "translation": "(decorated) with men"
         }
     ],
     [
@@ -909,10 +911,10 @@ var lexicon = new Map(
         {
             "greek": "",
             "interpretations": [
-                ""
+                "leads guides"
             ],
             "transcription": "a-ke-qe",
-            "translation": ""
+            "translation": "leads guides"
         }
     ],
     [
@@ -1028,8 +1030,11 @@ var lexicon = new Map(
     [
         "𐀀𐀐𐀩𐀷𐀤",
         {
-            "greek": "ΑγρέFανδε",
-            "interpretations": [],
+            "greek": "ΑγρέFα",
+            "interpretations": [
+                "Chadwick & Ventris 1973: Hither Province toponym",
+                "Chadwick & Ventris 1973: anthroponym"
+            ],
             "transcription": "a-ke-re-wa-qe",
             "translation": "place name(fem. of ‘Agreus’?)"
         }
@@ -1565,10 +1570,12 @@ var lexicon = new Map(
     [
         "𐀀𐀒𐀰𐀚𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "άξoνες",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'shafts axles' cf. ἄξων"
+            ],
             "transcription": "a-ko-so-ne-qe",
-            "translation": ""
+            "translation": "axles"
         }
     ],
     [
@@ -2196,10 +2203,13 @@ var lexicon = new Map(
     [
         "𐀀𐀘𐀲𐀺𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "ΑμυνθάFων",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Ἀμυθάων",
+                "Chadwick & Ventris 1973: genitive of a-mu-ta-wo"
+            ],
             "transcription": "a-mu-ta-wo-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -4115,9 +4125,11 @@ var lexicon = new Map(
         "𐀀𐀨𐀒𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Ἄρακος OVIS: KN C KN Db KN De VIR: KN As do-ti-ja: KN De ti-ri-to: KN Db"
+            ],
             "transcription": "a-ra-ko-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -5286,9 +5298,11 @@ var lexicon = new Map(
         "𐀀𐀲𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym a-ta + connective enclitic -qe"
+            ],
             "transcription": "a-ta-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -5306,7 +5320,9 @@ var lexicon = new Map(
         "𐀀𐀲𐀨𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: a kind of vessel cf. ἅντλος 'ship's hold' (Odyssey XII 411+) ἀντλίον 'bucket' (Aristophanes)"
+            ],
             "transcription": "a-ta-ra-qe",
             "translation": ""
         }
@@ -7752,9 +7768,11 @@ var lexicon = new Map(
         "𐀆𐀄𐀑𐀍𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "month name (deukios)"
+            ],
             "transcription": "de-u-ki-jo-qe",
-            "translation": ""
+            "translation": "month name (deukios)"
         }
     ],
     [
@@ -8339,10 +8357,10 @@ var lexicon = new Map(
     [
         "𐀇𐀄𐀊𐀍𐀤",
         {
-            "greek": "",
+            "greek": "Διυαίον",
             "interpretations": [],
             "transcription": "di-u-ja-jo-qe",
-            "translation": ""
+            "translation": "sanctuary"
         }
     ],
     [
@@ -8901,13 +8919,12 @@ var lexicon = new Map(
     [
         "𐀈𐀨𐀤",
         {
-            "greek": "",
+            "greek": "δώρα",
             "interpretations": [
-                "Palaima 2011: \"\"unambiguously interpreted as dōra 'gifts'\"\"",
-                "Chadwick & Ventris 1973: 'gifts' cf. δῶρον (Iliad VI.293+) + connective enclitic -qe Palaima Thomas G. 2011 A Companion to Linear B: Mycenaean Greek Texts and their World vol. II (ed. Yves Duhoux and Anna Morpurgo Davies) \"\"Scribes Scribal Hands and Palaeography\"\""
+                "gift"
             ],
             "transcription": "do-ra-qe",
-            "translation": ""
+            "translation": "gifts"
         }
     ],
     [
@@ -9284,10 +9301,10 @@ var lexicon = new Map(
     [
         "𐀉𐀔𐀳𐀤",
         {
-            "greek": "",
+            "greek": "δύματες",
             "interpretations": [],
             "transcription": "du-ma-te-qe",
-            "translation": ""
+            "translation": "related to ‘damos’(family groups?)"
         }
     ],
     [
@@ -9729,10 +9746,12 @@ var lexicon = new Map(
     [
         "𐀁𐀏𐀔𐀳𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "εγμάτει(έγμα)",
+            "interpretations": [
+                "with support"
+            ],
             "transcription": "e-ka-ma-te-qe",
-            "translation": ""
+            "translation": "stay"
         }
     ],
     [
@@ -9963,12 +9982,12 @@ var lexicon = new Map(
     [
         "𐀁𐀐𐀤",
         {
-            "greek": "",
+            "greek": "έχει",
             "interpretations": [
-                "has posses"
+                "has"
             ],
             "transcription": "e-ke-qe",
-            "translation": "has posses"
+            "translation": "he has/to have/they have"
         }
     ],
     [
@@ -10032,10 +10051,12 @@ var lexicon = new Map(
     [
         "𐀁𐀐𐀫𐀦𐀜𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "εγχερόπονοι",
+            "interpretations": [
+                "Chadwick & Ventris 1973: description of men and women Palmer TBD: wage-earners (see VC p. 161) Palmer TBD"
+            ],
             "transcription": "e-ke-ro-qo-no-qe",
-            "translation": ""
+            "translation": "wage-earners"
         }
     ],
     [
@@ -10083,10 +10104,10 @@ var lexicon = new Map(
     [
         "𐀁𐀐𐀯𐀤",
         {
-            "greek": "",
+            "greek": "έγχενσι",
             "interpretations": [],
             "transcription": "e-ke-si-qe",
-            "translation": ""
+            "translation": "spear"
         }
     ],
     [
@@ -10221,10 +10242,12 @@ var lexicon = new Map(
     [
         "𐀁𐀒𐀯𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "έχονσι (>έχουσι)",
+            "interpretations": [
+                "they have"
+            ],
             "transcription": "e-ko-si-qe",
-            "translation": ""
+            "translation": "he has/to have/they have"
         }
     ],
     [
@@ -10634,10 +10657,10 @@ var lexicon = new Map(
         {
             "greek": "",
             "interpretations": [
-                "Chadwick & Ventris 1973: \"\"probably not adjective describing CLOTH but connective\"\" 'and there is (are) among them' cf. ἔνεστί τε ἔνι Appears as \"\"e-ni-qe  pe-ne-we-ta\"\" on KN L 593+. Appears as \"\"e-ni-qe [[e-ra-pe-me-ne]] 'nu-wa-ja'\"\" on KN L 647+. Appears as \"\"e-ni-qe  nu-wa-i-ja\"\" on KN L 5910+. *161: KN L TELA: KN L TUN+KI: KN L"
+                "Chadwick & Ventris 1973: \"\"context obscure\"\" cf. e-ni-qe"
             ],
             "transcription": "e-ni-qe",
-            "translation": ""
+            "translation": "Chadwick & Ventris 1973: \"\"context obscure\"\" cf. e-ni-qe"
         }
     ],
     [
@@ -11017,10 +11040,12 @@ var lexicon = new Map(
     [
         "𐀁𐀠𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "επί",
+            "interpretations": [
+                "on upon"
+            ],
             "transcription": "e-pi-qe",
-            "translation": ""
+            "translation": "towards/on top"
         }
     ],
     [
@@ -11320,10 +11345,17 @@ var lexicon = new Map(
     [
         "𐀁𐀤𐀲𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "επέτας",
+            "interpretations": [
+                "Duhoux 2008: the 'companion'",
+                "Chadwick & Ventris 1973: followers \"\"companions of the king important officers of the court\"\" cf. ἑπέτας",
+                "Chadwick & Ventris 1973: nominative dual of e-qe-ta",
+                "Chadwick & Ventris 1973: dative plural of e-qe-ta",
+                "Chadwick & Ventris 1973: of or belonging to e-qe-ta",
+                "Chadwick & Ventris 1973: of or belonging to e-qe-ta Appears as \"\"e-qe-ta-e  e-ne-ka  (e)-mi-to\"\" on KN Am 821. Appears as \"\"e-qe-ta  e-ki-si-jo\"\" on KN Am 821. Appears as \"\"ko-no-si-jo  e-qe-ta  pi-sa-wa-ta\"\" on KN B 1055. Appears as \"\"e-qe-si-ja  te-tu-ko-wo-a\"\" on KN L 871. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  ro-u-ko  ku-sa-me-ni-jo  [\"\" on PY An 519. Appears as \"\"do-qe-ja  do-e-ra  e-qe-ta-i  e-e-to  [[te-re-te-we]]\"\" on PY An 607. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  a-re-ku-tu-ru-wo  e-te-wo-ke-re-we-i-jo \"\" on PY An 654. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  [[pe-re-qo-ni-jo]]  a-re-i-jo  ne-wo-ki-to  wo-wi-ja  [[ko-ru-ku-ra-i-jo]]\"\" on PY An 656. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  di-wi-je-u \"\" on PY An 656. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  (di)-ko-na-ro  a-da-ra-ti-jo\"\" on PY An 656. Appears as \"\"me-ta-qe  pe-i  [[pe-re-u-ro-ni-jo]]  e-qe-ta \"\" on PY An 656. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  ka-e-sa-me-no  a-pu2-ka \"\" on PY An 656. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  [[ke-ki-jo]]  a-e-ri-qo-ta  e-ra-po  [[ri-me-ne]]  o-ka-ra  [[o-wi-to-no]]\"\" on PY An 657. Appears as \"\"me-ta-qe  pe-i  a3-ko-ta  e-qe-ta\"\" on PY An 657. Appears as \"\"me-ta-qe  pe-i  e-qe-ta  [[wo-ro-tu-mi-ni-jo]]\"\" on PY An 661. Appears as \"\"me-ta-qe  pe-i  e-qe-ta \"\" on PY An 661. Appears as \"\"] e-ko-si-qe  e-qe-ta  ka-ma[\"\" on PY An 724. Appears as \"\"o-da-a2  i-je-re-ja  ka-ra-wi-po-ro-qe  e-qe-ta-qe we-te-re-u-qe  o-na-ta  to-so-de  pe-mo\"\" on PY Ed 317. Appears as \"\"o-da-a2  e-qe-si-jo  do-e-ro  e-ko-si  o-na-ta  to-so-de  pe-mo\"\" on PY Ed 847. Appears as \"\"[[se-we-ri-ko-jo]]  wo-ka  e-qe-si-jo \"\" on PY Sa 753. Appears as \"\"to-sa  e-qe-si-(ja) pa-ra-(ja)\"\" on PY Sa 787. Appears as \"\"a-mo-ta  e-qe-si-ja  [[no-pe-re-a2]]\"\" on PY Sa 790. PY Ed: ka-ra-wi-po-ro we-te-re-u in a -qe list. GRA: PY Ed MUL: PY An ROTA: PY Sa TELA: KN L VIR: KN Am KN B ZE: PY Sa [[*243]]+TE: PY Sa e-ko-so: KN Am ko-no-so: KN B Duhoux Yves 2008 A Companion to Linear B: Mycenaean Greek Texts and their World vol. I \"\"Mycenaean Anthology\"\""
+            ],
             "transcription": "e-qe-ta-qe",
-            "translation": ""
+            "translation": "official title (=‘attendant’)"
         }
     ],
     [
@@ -11795,7 +11827,13 @@ var lexicon = new Map(
         "𐀁𐀩𐀞𐀳𐀍𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: adjective \"\"of an elephant\"\" cf. ἐλεφάντειος (Diosc.)",
+                "Chadwick & Ventris 1973: feminine of e-re-pa-te-jo",
+                "Chadwick & Ventris 1973: instrumental plural feminine of e-re-pa-te-jo",
+                "Chadwick & Ventris 1973: instrumental plural masculine or neuter of e-re-pa-te-jo",
+                "Chadwick & Ventris 1973: variant of e-re-pa-te-jo"
+            ],
             "transcription": "e-re-pa-te-jo-qe",
             "translation": ""
         }
@@ -12802,9 +12840,12 @@ var lexicon = new Map(
         "𐀁𐀴𐀷𐀊𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "McArthur 1993 Ruijgh 1967: anthroponym based on an ethnic adjective of toponym e-ti-wa",
+                "Chadwick & Ventris 1973: anthroponym e-ti-wa-ja + connective enclitic -qe McArthur Jennifer K. 1993 Suplementos a MINOS núm. 9 \"\"Place-names in the Knossos Tablets Identification and Location\"\" Ruijgh C.J. 1967 Études sur la grammaire et le vocabulaire du grec mycénien"
+            ],
             "transcription": "e-ti-wa-ja-qe",
-            "translation": ""
+            "translation": "place name"
         }
     ],
     [
@@ -12992,10 +13033,12 @@ var lexicon = new Map(
     [
         "𐀁𐀄𐀐𐀵𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "εύχετοι",
+            "interpretations": [
+                "wishes declares"
+            ],
             "transcription": "e-u-ke-to-qe",
-            "translation": ""
+            "translation": "he/she wishes"
         }
     ],
     [
@@ -13816,13 +13859,10 @@ var lexicon = new Map(
     [
         "𐀂𐀋𐀵𐀤",
         {
-            "greek": "",
-            "interpretations": [
-                "Chadwick & Ventris 1973: probably third person of middle voice verb",
-                "Chadwick & Ventris 1973: 1. third person plural active voice verb of i-je-to-qe? 2. 'they send'? cf. ἴημι (Docs2)"
-            ],
+            "greek": "ίεντοι",
+            "interpretations": [],
             "transcription": "i-je-to-qe",
-            "translation": ""
+            "translation": "delivered (also with the religious meaning)"
         }
     ],
     [
@@ -13850,10 +13890,12 @@ var lexicon = new Map(
     [
         "𐀂𐀍𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "ιός(>υιός, γιός)",
+            "interpretations": [
+                "son"
+            ],
             "transcription": "i-jo-qe",
-            "translation": ""
+            "translation": "son"
         }
     ],
     [
@@ -14152,10 +14194,12 @@ var lexicon = new Map(
     [
         "𐀂𐀟𐀕𐀆𐀊𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "Ιφεμέδεια(>Ιφιμήδεια)",
+            "interpretations": [
+                "name of a woman"
+            ],
             "transcription": "i-pe-me-de-ja-qe",
-            "translation": ""
+            "translation": "goddess’s name"
         }
     ],
     [
@@ -14373,9 +14417,11 @@ var lexicon = new Map(
         "𐀂𐀦𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "horse"
+            ],
             "transcription": "i-qo-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -16569,10 +16615,12 @@ var lexicon = new Map(
     [
         "𐀏𐀨𐀹𐀡𐀫𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "κλα(δ)Fιφόρος(>κλειδoφόρος)",
+            "interpretations": [
+                "switchman"
+            ],
             "transcription": "ka-ra-wi-po-ro-qe",
-            "translation": ""
+            "translation": "religious title,‘key-bearer?’"
         }
     ],
     [
@@ -16629,10 +16677,12 @@ var lexicon = new Map(
     [
         "𐀏𐀪𐀮𐀄𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "Χαρισεύς",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. ka-ri-si-jo Masson 1967: TBD Heubeck 1957: TBD ka-ri-se-u + connective enclitic qe Heubeck 1957 TBD Masson 1967 TBD"
+            ],
             "transcription": "ka-ri-se-u-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -16758,10 +16808,13 @@ var lexicon = new Map(
     [
         "𐀏𐀬𐀸𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "καρύFει(καρύα)",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'nut boss'? cf. κάρυον",
+                "Chadwick & Ventris 1973: instrumental plural of ka-ru-we"
+            ],
             "transcription": "ka-ru-we-qe",
-            "translation": ""
+            "translation": "nut- tree"
         }
     ],
     [
@@ -17545,10 +17598,10 @@ var lexicon = new Map(
     [
         "𐀐𐀑𐀆𐀤",
         {
-            "greek": "",
+            "greek": "Κελχίδες",
             "interpretations": [],
             "transcription": "ke-ki-de-qe",
-            "translation": ""
+            "translation": "ethnic name of ‘Kelhis’"
         }
     ],
     [
@@ -19498,10 +19551,12 @@ var lexicon = new Map(
     [
         "𐀑𐀺𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "κίFων",
+            "interpretations": [
+                "column"
+            ],
             "transcription": "ki-wo-qe",
-            "translation": ""
+            "translation": "pillar"
         }
     ],
     [
@@ -20331,9 +20386,11 @@ var lexicon = new Map(
         "𐀒𐀫𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: 1. (PY Eq) 'of the lands'? cf. χῶρος (Iliad III.315+) 2. (KN De PY Cn) anthroponym cf. Χοῖρος Χῶλος Appears as \"\"pa-ro  ko-ro OVISf 24 X\"\" on PY Cn 131 with a tablet header of \"\"pi-*82  [[we-re-ke]]\"\". Appears as \"\"ko-ro  to-so-de  pe-mo GRA [\"\" on PY Eq 146. PY Cn 131: [[pi-me-ta]] po-ko-roanthroponym [[wo-ki-to]] etc. GRA: PY Eq OVIS: KN De PY Cn da-*22-to: KN De pi-*82: PY Cn"
+            ],
             "transcription": "ko-ro-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -21746,10 +21803,17 @@ var lexicon = new Map(
     [
         "𐀓𐀬𐀰𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "χρυσός",
+            "interpretations": [
+                "Palaeolexicon: gold Wiktionary: gold cf. χρυσός",
+                "Chadwick & Ventris 1973: instrumental singular \"\"with gold\"\" cf. i-je-ro-jo Palaeolexicon: golden Aura",
+                "Jorro 1985: de materia de oro",
+                "Chadwick & Ventris 1973: genitive singular \"\"of the gold\"\"",
+                "Chadwick & Ventris 1973: instrumental plural feminine adjective \"\"golden\"\" cf. (-wo-ko) a-pu-ko-wo-ko de-ku-tu-wo-ko [[e-ko-so-wo-ko]] e-to-wo-ko i-je-ro-wo-ko ko-wi-ro-wo-ko ku-wa-no-wo-ko no-ri-wo-ko re-wo-to-ro-wo-ko to-ko-so-wo-ko to-ro-no-wo-ko Shelmerdine 2008: goldsmith",
+                "Chadwick & Ventris 1973: goldsmiths cf. χρυσοχόος (Odyssey III 425+) Aura Jorro Francisco 1985 Diccionario Micénico vol. I Shelmerdine Cynthia 2008 A Companion to Linear B: Mycenaean Greek Texts and their World vol. I (ed. Yves Duhoux and Anna Morpurgo Davies) \"\"Mycenaean Society\"\""
+            ],
             "transcription": "ku-ru-so-qe",
-            "translation": ""
+            "translation": "gold"
         }
     ],
     [
@@ -22129,10 +22193,15 @@ var lexicon = new Map(
     [
         "𐀓𐀷𐀜𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "κύFανος(>κύανος)",
+            "interpretations": [
+                "Bernabé & Luján 2008: \"\"(cf. κύανος) must be lapis lazuli or else its cheaper Phoenician substitute a kind of blue vitreous paste\"\"",
+                "Chadwick & Ventris 1973: (inlaid) with lapis-coloured glass cf. κύανος (Iliad XI 24) ku-wa-no + connective enclitic qe cf. e-to-wo-ko-i Shelmerdine 2008: blue glass worker",
+                "Chadwick & Ventris 1973: dative plural for the ku-wa-no workers cf. i-jo-qe do-si-mi-jo-qe",
+                "Chadwick & Ventris 1973: instrumental plural 'with (palm-trees?) of lapis-coloured glass' cf. κυάνεος (Iliad XI 26+) + connective enclitic qe Bernabé Alberto and Eugenio Luján 2008 A Companion to Linear B: Mycenaean Greek Texts and their World (ed. Yves Duhoux and Anna Morpurgo Davies) “Mycenaean Technology” Shelmerdine Cynthia 2008 A Companion to Linear B: Mycenaean Greek Texts and their World vol. I (ed. Yves Duhoux and Anna Morpurgo Davies) \"\"Mycenaean Society\"\""
+            ],
             "transcription": "ku-wa-no-qe",
-            "translation": ""
+            "translation": "gemstone (lapislazuli)"
         }
     ],
     [
@@ -23018,9 +23087,11 @@ var lexicon = new Map(
         "𐀔𐀲𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym with a-ka-re-u-te?"
+            ],
             "transcription": "ma-ta-qe",
-            "translation": ""
+            "translation": "place name"
         }
     ],
     [
@@ -23411,7 +23482,9 @@ var lexicon = new Map(
         "𐀕𐀙𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"'mouth' but context obscure and perhaps a different word\"\" KN Fs: ta-mi-te-mo KN E: GRA KN Fs: FAR HORD NI OLE"
+            ],
             "transcription": "me-na-qe",
             "translation": ""
         }
@@ -23876,10 +23949,10 @@ var lexicon = new Map(
         {
             "greek": "",
             "interpretations": [
-                "Chadwick & Ventris 1973: \"\"and with (them)\"\" cf. μετὰ δέ"
+                "after"
             ],
             "transcription": "me-ta-qe",
-            "translation": "Chadwick & Ventris 1973: \"\"and with (them)\"\" cf. μετὰ δέ"
+            "translation": "after"
         }
     ],
     [
@@ -24538,10 +24611,12 @@ var lexicon = new Map(
     [
         "𐀖𐀲𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "μίνθα(>μέντα)",
+            "interpretations": [
+                "mint"
+            ],
             "transcription": "mi-ta-qe",
-            "translation": ""
+            "translation": "mentha, mint(plant)"
         }
     ],
     [
@@ -26051,10 +26126,10 @@ var lexicon = new Map(
     [
         "𐀜𐀤",
         {
-            "greek": "",
+            "greek": "Λάπανδος",
             "interpretations": [],
             "transcription": "no-qe",
-            "translation": ""
+            "translation": "in the month of Lapatos)"
         }
     ],
     [
@@ -27249,10 +27324,18 @@ var lexicon = new Map(
     [
         "𐀃𐀟𐀫𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "όφελος",
+            "interpretations": [
+                "Palaeolexicon: advantage benefit / debt deficiency Wiktionary deficit under obligation",
+                "Chadwick & Ventris 1973: 1. deficit advantage cf. ὄφελος 2. being under obligation Ruipérez 1985: non-copulative -qe; \"\"[...] according to Greek usage the second -qe [in PY Eb 149] cannot coordinate the personal verb te-re-ja to the particle o-pe-ro.\"\" cf. (-se -ta) a-pe-o?",
+                "Chadwick & Ventris 1973: nominative singular feminine of o-pe-ro2",
+                "Chadwick & Ventris 1973: 3rd person plural present indicative \"\"thus they owe\"\" of o-pe-ro2 cf. (-se -ta) a-pe-o?",
+                "Chadwick & Ventris 1973: accusative singular masculine of o-pe-ro2",
+                "Chadwick & Ventris 1973: nominative plural masculine of o-pe-ro2",
+                "Chadwick & Ventris 1973: 3rd person plural aorist indicative \"\"thus they owed\"\" of o-pe-ro2 o-pe-ro  is always less than or equal to . Interestingly the only contrary evidence appears on PY Ad 679 and the o-pe-ro VIR quantity which is greater than the VIR quantity was erased by the scribe. Ruipérez Martín S. 1985 Tractata Mycenaea \"\"Subjunctive Forms in Mycenaean Texts\"\" kar WNXIII.95"
+            ],
             "transcription": "o-pe-ro-qe",
-            "translation": ""
+            "translation": "debt, liability"
         }
     ],
     [
@@ -27659,10 +27742,12 @@ var lexicon = new Map(
     [
         "𐀃𐀠𐀱𐀒𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "οπισυγός",
+            "interpretations": [
+                "Chadwick & Ventris 1973: 'overseer of figs'? PY Jn 829: du-ma-te ka-ra-wi-po-ro po-ro-ko-re-te o-pi-ka-pe-e-we in a -qe list. PY Jn 881: o-pi-ko-wo"
+            ],
             "transcription": "o-pi-su-ko-qe",
-            "translation": ""
+            "translation": "‘fig- overseer’(see also ‘suza’)"
         }
     ],
     [
@@ -28448,12 +28533,12 @@ var lexicon = new Map(
     [
         "𐀃𐀄𐀤",
         {
-            "greek": "ουκέ(>ούτε)",
+            "greek": "",
             "interpretations": [
-                "neither"
+                "not"
             ],
             "transcription": "o-u-qe",
-            "translation": "neither"
+            "translation": "not"
         }
     ],
     [
@@ -30790,9 +30875,11 @@ var lexicon = new Map(
         "𐀟𐀫𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Πέλλων Φέλλος + connective enclitic -qe"
+            ],
             "transcription": "pe-ro-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -31863,10 +31950,12 @@ var lexicon = new Map(
     [
         "𐀡𐀅𐀒𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "Πόδαργος",
+            "interpretations": [
+                "Chadwick & Ventris 1973: name of ox cf. Πὀδαργος + connective enclitic qe"
+            ],
             "transcription": "po-da-ko-qe",
-            "translation": ""
+            "translation": "personal/animalname"
         }
     ],
     [
@@ -32192,10 +32281,10 @@ var lexicon = new Map(
     [
         "𐀡𐀛𐀐𐀤",
         {
-            "greek": "",
+            "greek": "φοινίκει",
             "interpretations": [],
             "transcription": "po-ni-ke-qe",
-            "translation": ""
+            "translation": "decorated with agriffin or palmtrees/"
         }
     ],
     [
@@ -32411,16 +32500,16 @@ var lexicon = new Map(
             "greek": "φορήναι(>φέρομαι;)",
             "interpretations": [],
             "transcription": "po-re-na",
-            "translation": "attendees insacrificialceremonies"
+            "translation": "attendees in sacrificial ceremonies"
         }
     ],
     [
         "𐀡𐀩𐀙𐀤",
         {
-            "greek": "",
+            "greek": "φορήναι(>φέρομαι;)",
             "interpretations": [],
             "transcription": "po-re-na-qe",
-            "translation": ""
+            "translation": "attendees in sacrificial ceremonies"
         }
     ],
     [
@@ -32624,10 +32713,10 @@ var lexicon = new Map(
     [
         "𐀡𐀫𐀒𐀩𐀳𐀩𐀤",
         {
-            "greek": "",
+            "greek": "προκορέτερες",
             "interpretations": [],
             "transcription": "po-ro-ko-re-te-re-qe",
-            "translation": ""
+            "translation": "official title ‘vice-mayors’(see also ‘koreter’)"
         }
     ],
     [
@@ -32872,10 +32961,12 @@ var lexicon = new Map(
     [
         "𐀡𐀬𐀡𐀆𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "πολυπόδει(πολύπους)",
+            "interpretations": [
+                "octapus"
+            ],
             "transcription": "po-ru-po-de-qe",
-            "translation": ""
+            "translation": "(decorated with an)octopus"
         }
     ],
     [
@@ -33302,10 +33393,10 @@ var lexicon = new Map(
     [
         "𐀡𐀴𐀠𐀤",
         {
-            "greek": "",
+            "greek": "πόρτιφι(πόρτις)",
             "interpretations": [],
             "transcription": "po-ti-pi-qe",
-            "translation": ""
+            "translation": "(decorated  with a)young cow"
         }
     ],
     [
@@ -33654,9 +33745,13 @@ var lexicon = new Map(
         "𐀢𐀙𐀰𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Melena 1976: toponym perhaps classical Πανασός or present-day Nassus",
+                "Chadwick & Ventris 1973: toponym Hallager 1992: personal name cf. pu-na-so",
+                "Chadwick & Ventris 1973: ethnic adjective of pu-na-so pu-na-so + connective enclitic qe Appears as \"\"do-ti-ja / ra-ja  pu-na-so-qe  ra-su-to-qe a-to-mo\"\" on KN C 979+. Appears on tablets with e-me-si-jo at KN De and KN E. pu-na-si-jo (KN B): a-ra-ka-joanthroponym e-wi-to-woanthroponym ma-di-qoanthroponym po-ki-teanthroponym to-wa-noanthroponym pu-na-so (KN Dn): ra-jatoponym GRA: KN E? KO: KN Ga OVIS: KN Da KN Dc KN Dd KN De KN Dn SUS: KN C VIR: KN B ku-ka-no (a-te-jo)hapax: KN Dc mo-qo-so (e-me-si-jo): KN De po-me: KN Dd ta-*49-rohapax: KN Da ti-mi-(nu)-(wo): KN Ga wi-ro-johapax: KN Da Hallager Erik Birgitta P. Hallager and Maria Vlasakis 1992 Kadmos 31 (Band XXXI Heft 1) \"\"New Linear B tablets from Khania\"\" Melena José L. 1976 Minos 15 \"\"Coriander on the Knossos tablets\"\" kar WNXIV.169 OVIS inventory"
+            ],
             "transcription": "pu-na-so-qe",
-            "translation": ""
+            "translation": "place name"
         }
     ],
     [
@@ -34613,10 +34708,10 @@ var lexicon = new Map(
     [
         "𐀤𐀥𐀜𐀵𐀤",
         {
-            "greek": "",
+            "greek": "γεγινωτός(>δινωτός)",
             "interpretations": [],
             "transcription": "qe-qi-no-to-qe",
-            "translation": ""
+            "translation": "made by twisting"
         }
     ],
     [
@@ -35396,9 +35491,11 @@ var lexicon = new Map(
         "𐀦𐀲𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: 1. (PY Na) toponym 2. (MY V) anthroponym + connective enclitic -qe PY Na: SA"
+            ],
             "transcription": "qo-ta-qe",
-            "translation": ""
+            "translation": "place name"
         }
     ],
     [
@@ -38493,9 +38590,11 @@ var lexicon = new Map(
         "𐀬𐀯𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym cf. Λύσις ru-si + connective enclitic -qe"
+            ],
             "transcription": "ru-si-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -40163,10 +40262,10 @@ var lexicon = new Map(
     [
         "𐀰𐀸𐀜𐀤",
         {
-            "greek": "",
+            "greek": "σοFενοί(σοFενός)",
             "interpretations": [],
             "transcription": "so-we-no-qe",
-            "translation": ""
+            "translation": "vine? (plant)"
         }
     ],
     [
@@ -40775,10 +40874,12 @@ var lexicon = new Map(
     [
         "𐀲𐀛𐀒𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "Τάνιχος",
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym anthroponym + connective enclitic -qe"
+            ],
             "transcription": "ta-ni-ko-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -40853,10 +40954,10 @@ var lexicon = new Map(
     [
         "𐀲𐀞𐀤",
         {
-            "greek": "",
+            "greek": "τάρφα",
             "interpretations": [],
             "transcription": "ta-pa-qe",
-            "translation": ""
+            "translation": "thick/close/frequent"
         }
     ],
     [
@@ -41006,10 +41107,13 @@ var lexicon = new Map(
     [
         "𐀲𐀨𐀝𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "θράνυς",
+            "interpretations": [
+                "Chadwick & Ventris 1973: beam footstool cf. θρῆνυς",
+                "Chadwick & Ventris 1973: plural Chadwick John and Michael Ventris 1973 Documents in Myceanean Greek"
+            ],
             "transcription": "ta-ra-nu-qe",
-            "translation": ""
+            "translation": "footstool"
         }
     ],
     [
@@ -41279,9 +41383,11 @@ var lexicon = new Map(
         "𐀲𐀵𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: 1. (KN As as ta-to-qe) anthroponym + connective enclitic -qe 2. (PY Cn) toponym?"
+            ],
             "transcription": "ta-to-qe",
-            "translation": ""
+            "translation": "place name"
         }
     ],
     [
@@ -43167,10 +43273,10 @@ var lexicon = new Map(
     [
         "𐀵𐀍𐀤",
         {
-            "greek": "",
+            "greek": "τοίο(>του, αυτού)",
             "interpretations": [],
             "transcription": "to-jo-qe",
-            "translation": ""
+            "translation": "his"
         }
     ],
     [
@@ -43260,10 +43366,14 @@ var lexicon = new Map(
     [
         "𐀵𐀔𐀒𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "Στόμαργος",
+            "interpretations": [
+                "García Ramón 2011: name of an ox cf. στόμαργος 'noisily prating'",
+                "Chadwick & Ventris 1973: name of an ox cf. στόμαργος 'loud-mouthed'",
+                "Chadwick & Ventris 1973: to-ma-ko + connective enclitic qe García Ramón J.L. 2011 A Companion to Linear B: Mycenaean Greek Texts and their World vol. II (ed. Yves Duhoux and Anna Morpurgo Davies) \"\"Mycenaean Onomastics\"\""
+            ],
             "transcription": "to-ma-ko-qe",
-            "translation": ""
+            "translation": "personal/animalname (= ‘busy with the tongue’)"
         }
     ],
     [
@@ -43382,10 +43492,12 @@ var lexicon = new Map(
     [
         "𐀵𐀜𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "θόρνος(>θρόνος)",
+            "interpretations": [
+                "Chadwick & Ventris 1973: chair cf. θρόνος (Odyssey I 145+)"
+            ],
             "transcription": "to-no-qe",
-            "translation": ""
+            "translation": "chair, throne"
         }
     ],
     [
@@ -43540,10 +43652,14 @@ var lexicon = new Map(
     [
         "𐀵𐀥𐀆𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "τορπίδει",
+            "interpretations": [
+                "Ventris & Chadwick 1973: probably 'with a spiral' to-qi-de + connective enclitic qe",
+                "Chadwick & Ventris 1973: \"\"(dish) decorated with spiral pattern\"\"",
+                "Chadwick & Ventris 1973: dual feminine of to-qi-de"
+            ],
             "transcription": "to-qi-de-qe",
-            "translation": ""
+            "translation": "in/having spirals"
         }
     ],
     [
@@ -44188,10 +44304,12 @@ var lexicon = new Map(
     [
         "𐀶𐀏𐀳𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "θυγάτερ",
+            "interpretations": [
+                "daughter"
+            ],
             "transcription": "tu-ka-te-qe",
-            "translation": ""
+            "translation": "daughter"
         }
     ],
     [
@@ -45729,7 +45847,9 @@ var lexicon = new Map(
         "𐀷𐀜𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: name of ox + connective enclitic qe"
+            ],
             "transcription": "wa-no-qe",
             "translation": ""
         }
@@ -46608,9 +46728,11 @@ var lexicon = new Map(
         "𐀸𐀳𐀩𐀄𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: anthroponym we-te-re-u is i-je-re-u \"\"pa-ro a3-ti-jo-qe\"\" on the PY Eo series. we-te-re-u is i-je-re-u \"\"pa-ro da-mo\"\" on the PY Ep series. PY Ed: ka-ra-wi-po-rotitle e-qe-ta in a -qe list. GRA: PY Eo PY Ep"
+            ],
             "transcription": "we-te-re-u-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -47448,10 +47570,12 @@ var lexicon = new Map(
     [
         "𐀺𐀈𐀸𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "FορδόFεν(> ροδόεν)",
+            "interpretations": [
+                "rose oil"
+            ],
             "transcription": "wo-do-we-qe",
-            "translation": ""
+            "translation": "made with rose oil"
         }
     ],
     [
@@ -47665,10 +47789,13 @@ var lexicon = new Map(
     [
         "𐀺𐀜𐀦𐀰𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "Fοίνωψ",
+            "interpretations": [
+                "Chadwick & Ventris 1973: name of ox cf. Οἴνοψ βόε οἴνοπε",
+                "Chadwick & Ventris 1973: wo-no-qo-so + connective enclitic qe"
+            ],
             "transcription": "wo-no-qo-so-qe",
-            "translation": ""
+            "translation": "personal name"
         }
     ],
     [
@@ -48030,10 +48157,21 @@ var lexicon = new Map(
     [
         "𐀺𐀽𐀤",
         {
-            "greek": "",
-            "interpretations": [],
+            "greek": "Fόρζει(ν)(*Fόρκyω> όργω>έργω)",
+            "interpretations": [
+                "Pylos",
+                "Chadwick & Ventris 1973: \"\"works performs\"\" cf. ἔρδω ῥέζω Pylos cf. (o-) o-a-ke-re-se o-de-ka-sa-to o-di-do-si",
+                "Chadwick & Ventris 1973: variant or erroneous spelling of o-u-wo-ze Pylos cf. (o-u-) o-u-di-do-si",
+                "Chadwick & Ventris 1973: negative of wo-ze Pylos",
+                "Chadwick & Ventris 1973: present infinitive Pylos",
+                "Chadwick & Ventris 1973: error for wo-ze-e Pylos",
+                "Chadwick & Ventris 1973: nominative singular masculine present participle of wo-ze Pylos",
+                "Chadwick & Ventris 1973: nominative plural and dative singular masculine of wo-ze Knossos cf. (-me-no -me-na) a-ja-me-no de-de-me-no qe-qi-no-me-no Killen 2008: \"\"may mean 'in course of production' they might also indicate wheels in process of refurbishment\"\" (KN So)",
+                "Chadwick & Ventris 1973: nominative dual present participle passive: \"\"'being worked on' (i.e. under construction)\"\" Knossos cf. (-me-no -me-na) a-ja-me-na de-de-me-na qe-qi-no-me-na Killen 2008: \"\"may mean 'in course of production' they might also indicate wheels in process of refurbishment\"\" (KN So)",
+                "Chadwick & Ventris 1973: nominative plural neuter Killen J.T. 2008 A Companion to Linear B: Mycenaean Greek Texts and their World \"\"Mycenaean Economy\"\""
+            ],
             "transcription": "wo-ze-qe",
-            "translation": ""
+            "translation": "to work"
         }
     ],
     [
@@ -48145,7 +48283,9 @@ var lexicon = new Map(
         "𐀼𐀔𐀁𐀹𐀊𐀤",
         {
             "greek": "ΖαμαέFια(ι)",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym"
+            ],
             "transcription": "za-ma-e-wi-ja-qe",
             "translation": "ethnic/place name"
         }
@@ -50341,9 +50481,13 @@ var lexicon = new Map(
         "𐀅*22𐀵𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: toponym McArthur 1993: ethnic adjective of da-*22-to",
+                "Chadwick & Ventris 1973: ethnic adjective of da-*22-to Ruijgh 1967: toponym in -ία",
+                "Chadwick & Ventris 1973: ethnic adjective of da-*22-to da-*22-to (KN Ce): da-wotoponym ku-do-ni-jatoponym tu-ri-sotoponym da-*22-to (KN Dn): *56-ko-we-idative locative da-*22-to (KN Ga): ku-ta-totoponym da-*22-to (KN Mc): ku-ta-totoponym se-to-i-jatoponym Appears as \"\"da-*22-to  [[ke-nu-wa-so]]\"\" on KN Uf 839. BOS: KN Ce CAP: KN C? KN Mc? CORN: KN Mc DA: KN Ak GRA: KN E HORD: KN F ko-wa: KN Ak ko-wo: KN Ak LANA: KN Dk MUL: KN Ak o LANA: KN Dk o OVIS: KN Dc KN De OLIV: KN E OVIS: KN Da KN Db KN Dc KN Dd KN De KN Dk KN Dn KN Dq KN Dv pa OVIS: KN Dd pe di: KN Ak pe OVIS: KN Dc PYC: KN Ga TA: KN Ak VIR: KN As *142: KN Mc *171: KN Ga a-mu-ta-wo: KN V a-no-zo-jo (genitive): KN Ak a-ri-kohapax: KN Da a-sa-rohapax: KN As a-tohapax: KN As da-ta-ja-rohapax: KN De di-woe-ro-ma-to: KN Dv e-u-ko-rodo-ti-ja ti-ri-to: KN Dd i-ti-nu-rihapax: KN Dq? [[ko-do]]: KN Uf ko-ro: KN De ko-so: KN As [[o-ro-te-wo]]: KN Dq? pa-ra-tohapax: KN Db [[pe-ri-jo-ta]]: KN V [[pi-ra-ki-jo]]: KN V po-ro-u-te-u: KN Dc qa-ra-su-ti-jo: KN Dd sa-ma-ri-jo: KN Da su-di-ni-kohapax: KN De ta-ra-to-nohapax: KN Dc [[wa-wi]]: KN V zo-do-sohapax: KN As McArthur Jennifer K. 1993 Place-Names in the Knossos Tablets Identification and Location (Suplementos a MINOS num. 9) Ruijgh C.J. 1967 Études sur la grammaire et le vocabulaire du grec mycénien Tosa Dygo 2010 106th Annual Meeting of the Archaeological Institute of America (AIA) \"\"The Preservation of Minoan Identity at da-*22-to\"\""
+            ],
             "transcription": "da-*22-to-qe",
-            "translation": ""
+            "translation": "place name"
         }
     ],
     [
@@ -51213,7 +51357,9 @@ var lexicon = new Map(
         "𐀃𐁓𐀲𐀤",
         {
             "greek": "",
-            "interpretations": [],
+            "interpretations": [
+                "Chadwick & Ventris 1973: \"\"name of a class of men\"\" Appears as \"\"a2-te-po  de-wi-jo  ko-ma-we  o-*34-ta-qe  u-ru-pi-ja-jo  o-ru-ma-si-ja-jo VIR 30\"\" on PY An 519. Appears as \"\"ku-ru-me-no-jo  o-ka  pe-ri-te-u  wo-ne-wa  a-ti-ja-wo  e-ru-ta-ra  o-*34-ta  me-ta-pi-jo  ke-ki-de  VIR 50\"\" on PY An 654. VIR: PY An"
+            ],
             "transcription": "o-*34-ta-qe",
             "translation": ""
         }

@@ -166,7 +166,7 @@ input:focus::placeholder { color:transparent; }
   padding: 10px;
   position: relative;
   background-color: inherit;
-  line-height: 18px;
+  line-height: 22px;
 }
 .text-item {
   padding-bottom: 40px;
@@ -417,46 +417,39 @@ dt, dd, font {
 }
 .word-frequency-2 {
   background-color: rgba(230,230,230, 0.5);
-  line-height: initial;
 }
 .word-frequency-3 {
   background-color: rgba(220, 220, 220, 0.5);
-  line-height: initial;
 }
 .word-frequency-4 {
   background-color: rgba(200, 200, 200, 0.5);
-  line-height: initial;
 }
 .word-frequency-5 {
   background-color: rgba(180, 180, 180, 0.5);
-  line-height: initial;
 }
 .word-frequency-6 {
   background-color: rgba(160, 160, 160, 0.5);
-  line-height: initial;
 }
 .word-frequency-7 {
   background-color: rgba(150, 150, 150, 0.5);
-  line-height: initial;
 }
 .word-frequency-8 {
   background-color: rgba(140, 140, 140, 0.5);
-  line-height: initial;
 }
 .word-frequency-8 {
   background-color: rgba(130, 130, 130, 0.5);
-  line-height: initial;
 }
 .word-frequency-9 {
   background-color: rgba(120, 120, 120, 0.5);
-  line-height: initial;
 }
 .word-frequency-10 {
   background-color: rgba(105, 105, 105, 0.5);
-  line-height: initial;
 }
 .word-frequency-none {
   background-color: unset;
+}
+.word-alignment {
+  vertical-align: bottom;
 }
 .help-menu {
   display: none;
