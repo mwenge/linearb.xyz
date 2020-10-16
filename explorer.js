@@ -1147,9 +1147,7 @@ function addWordTip(word, name, index) {
     translation: "",
     interpretations: [],
   }
-  if (lexicon.has(word)) {
-    entry = lexicon.get(word);
-  }
+	entry = getLexiconEntry(word);
   entry.word = word;
 
   var wordCommentElement = document.createElement("div");
@@ -1294,6 +1292,29 @@ function hideWordChart() {
   wordChart.style.visibility = "hidden";
 }
 
+function getLexiconEntry(word) {
+  var entry = {
+    word: "",
+    transcription: "",
+    greek: "",
+    translation: "",
+    interpretations: [],
+  }
+
+  // Loook for the word with and without a one character suffix, e.g. -qe
+  var splitter = new GraphemeSplitter();
+  var glyphs = splitter.splitGraphemes(word);
+  var trunc = glyphs.slice(0, -1).join('');
+  var words = [word, trunc];
+  for(var w of words) {
+		console.log(w);
+    if (lexicon.has(w)) {
+      return lexicon.get(w);
+    }
+  }
+  return entry;
+}
+
 function showWordChart(searchTerm, item) {
   var wordChart = document.getElementById("word-chart");
   if (!wordChart) {
@@ -1327,9 +1348,7 @@ function showWordChart(searchTerm, item) {
       translation: "",
       interpretations: [],
     }
-    if (lexicon.has(searchTerm)) {
-      entry = lexicon.get(searchTerm);
-    }
+		entry = getLexiconEntry(searchTerm);
     entry.word = searchTerm;
 
     var wordCommentElement = document.createElement("div");
