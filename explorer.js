@@ -1017,11 +1017,22 @@ function loadInscription(inscription) {
   label.onclick = closeZoomedWindow;
   item.appendChild(label);
 
+
   inscription.element = item;
   if (displayingTranslation(container)) {
     toggleTranslation(item);
   }
-  container.appendChild(item);
+
+  var wrapper = document.createElement("div");
+  wrapper.appendChild(item);
+
+  var label = document.createElement("div");
+  label.className = "comment-placeholder";
+  label.id = inscription.name + "-comment-placeholder";
+  wrapper.appendChild(label);
+
+  container.appendChild(wrapper);
+
   updateDisplayOfWordFrequency(item, false);
 
   return item;
@@ -1118,13 +1129,13 @@ function addWordTip(word, name, index) {
   if (wordsInCorpus.has(word)) {
     wordCount = wordsInCorpus.get(word) - 1;
   }
-  var tip = document.getElementById("inscription-word-tip");
+  var tip = document.getElementById(name + "-inscription-word-tip");
   var inscriptionElement = document.getElementById(name);
   if (!tip) {
     var tip = document.createElement("div")
     tip.className = 'word-tip';
-    tip.id = "inscription-word-tip";
-    document.body.appendChild(tip);
+    tip.id = name + "-inscription-word-tip";
+    document.getElementById(name + "-comment-placeholder").appendChild(tip);
   }
   tip.style.display = "block";
   tip.innerHTML = "";
@@ -1255,7 +1266,7 @@ function highlightWords(name, index) {
 
 function clearHighlight(name, index) {
   return function(evt) {
-    var tip = document.getElementById("inscription-word-tip");
+    var tip = document.getElementById(name + "-inscription-word-tip");
     if (tip) {
       tip.style.display = "none";
     }
