@@ -1126,6 +1126,71 @@ function getWordsAsImage(inscription, targetWord) {
   return concordanceItem;
 }
 
+function getLexiconEntry(word) {
+  var entry = {
+    word: "",
+    transcription: "",
+    greek: "",
+    translation: "",
+    interpretations: [],
+  }
+
+  // Loook for the word with and without a one character suffix, e.g. -qe
+  var splitter = new GraphemeSplitter();
+  var glyphs = splitter.splitGraphemes(word);
+  var trunc = glyphs.slice(0, -1).join('');
+  var words = [word, trunc];
+  for(var w of words) {
+    if (lexicon.has(w)) {
+      return lexicon.get(w);
+    }
+  }
+  return entry;
+}
+
+function getLookupCandidates(word, i, words) {
+  var j = i;
+  var w = word;
+  var cands = [];
+  while (["[", "]"].includes(words[j - 1])) {
+    j -= 2;
+    if (j < 0) {
+      break;
+    }
+    w = words[j] + w;
+    cands.push(w);
+  }
+  var candidates = cands;
+
+  var cands = [];
+  for (var w of candidates.concat([word])) {
+    var j = i;
+    while (["[", "]"].includes(words[j + 1])) {
+      j += 2;
+      if (j > words.length) {
+        break;
+      }
+      w = w + words[j];
+      cands.push(w);
+    }
+  }
+  cands.push(word);
+  return candidates.concat(cands);
+}
+
+function searchLexicon(word, i, words) {
+
+  var cands = getLookupCandidates(word, i, words);
+  var entry;
+  for (var cand of cands) {
+    entry = getLexiconEntry(cand);
+    if (entry.translation.length) {
+      return entry;
+    }
+  }
+  return entry;
+}
+
 function addWordTip(word, name, index) {
   word = stripErased(word.trim());
   var wordCount = 0;
@@ -1143,14 +1208,8 @@ function addWordTip(word, name, index) {
   tip.style.display = "block";
   tip.innerHTML = "";
 
-  var entry = {
-    word: "",
-    transcription: "",
-    greek: "",
-    translation: "",
-    interpretations: [],
-  }
-	entry = getLexiconEntry(word);
+  var inscription = inscriptions.get(name);
+	var entry = searchLexicon(word, index, inscription.words);
   entry.word = word;
 
   var wordCommentElement = document.createElement("div");
@@ -1168,7 +1227,7 @@ function addWordTip(word, name, index) {
 
   var wordCommentElement = document.createElement("div");
   wordCommentElement.className = "lexicon";
-  wordCommentElement.appendChild(getWordsAsImage(inscriptions.get(name), index));
+  wordCommentElement.appendChild(getWordsAsImage(inscription, index));
   tip.appendChild(wordCommentElement);
 
   for (var d of entry.interpretations) {
@@ -1295,29 +1354,6 @@ function hideWordChart() {
   wordChart.style.visibility = "hidden";
 }
 
-function getLexiconEntry(word) {
-  var entry = {
-    word: "",
-    transcription: "",
-    greek: "",
-    translation: "",
-    interpretations: [],
-  }
-
-  // Loook for the word with and without a one character suffix, e.g. -qe
-  var splitter = new GraphemeSplitter();
-  var glyphs = splitter.splitGraphemes(word);
-  var trunc = glyphs.slice(0, -1).join('');
-  var words = [word, trunc];
-  for(var w of words) {
-		console.log(w);
-    if (lexicon.has(w)) {
-      return lexicon.get(w);
-    }
-  }
-  return entry;
-}
-
 function showWordChart(searchTerm, item) {
   var wordChart = document.getElementById("word-chart");
   if (!wordChart) {
@@ -1345,14 +1381,7 @@ function showWordChart(searchTerm, item) {
 
     wordChart.appendChild(wordCommentElement);
 
-    var entry = {
-      word: "",
-      transcription: "",
-      greek: "",
-      translation: "",
-      interpretations: [],
-    }
-		entry = getLexiconEntry(searchTerm);
+		var entry = getLexiconEntry(searchTerm);
     entry.word = searchTerm;
 
     var wordCommentElement = document.createElement("div");
@@ -1611,7 +1640,6 @@ function highlightMatchingWordTags(inscription, wordTags, activeWordTags) {
       var highlightColor = tagColors[activeWordTags[j]];
       var translation = document.getElementById(inscription.name + "-translation-" + i);
       if (!translation) {
-        console.log(inscription.name);
         i++;
         continue;
       }
