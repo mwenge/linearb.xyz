@@ -912,9 +912,13 @@ function loadInscription(inscription) {
   if (inscription.element) {
     return null;
   }
+
+  function isASCII(str) {
+        return /^[\x00-\x7F]*$/.test(str);
+  }
   var splitter = new GraphemeSplitter();
-  var letters = splitter.countGraphemes(inscription.transcription);
-  var small = letters < 20 && inscription.site != "Pylos"  ? "-small" : "";
+  var letters = splitter.splitGraphemes(inscription.transcription).filter(w => !isASCII(w)).length;
+  var small = letters < 15 && inscription.site != "Pylos"  ? "-small" : "";
   var stacked = (inscription.displayHint == "row") ? "" : "-stacked";
   var classSuffix = stacked + small;
   var stack = (inscription.displayHint == "row") ? false : true;
