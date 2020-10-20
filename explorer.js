@@ -177,10 +177,12 @@ function autocomplete(inp) {
   var searchHints = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
   searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.name));
   searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.label));
+  searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.scribe).filter((v, i, a) => a.indexOf(v) === i));
   searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.findspot).filter((v, i, a) => a.indexOf(v) === i));
 
   /*execute a function when someone writes in the text field:*/
   inp.addEventListener("input", function(e) {
+    console.log("in here");
     var a, i, val = this.value;
     /*close any already open lists of autocompleted values*/
     closeAllLists();
@@ -219,6 +221,9 @@ function autocomplete(inp) {
     });
 
     function addEntry(e, a, key, value) {
+      if (a.children.length > 10) {
+        return;
+      }
       /*create a DIV element for each matching element:*/
       var b = document.createElement("div");
       b.className = "autocomplete-item"
@@ -1548,6 +1553,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
         inscription.label.includes(searchTerm) ||
         inscription.findspot.includes(searchTerm) ||
         inscription.site.includes(searchTerm) ||
+        inscription.scribe.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
         inscription.words.map(x => stripErased(x)).includes(searchTerm)
         );
