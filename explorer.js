@@ -1138,11 +1138,21 @@ function getLexiconEntry(word) {
   // Loook for the word with and without a one character suffix, e.g. -qe
   var splitter = new GraphemeSplitter();
   var glyphs = splitter.splitGraphemes(word);
-  var trunc = glyphs.slice(0, -1).join('');
-  var words = [word, trunc];
+  var words = [word];
+  for (var i = 0; i < 4; i++) {
+    if (glyphs.length < 3) {
+      break;
+    }
+    glyphs = glyphs.slice(0, -1);
+    var trunc = glyphs.join('');
+    words.push(trunc);
+  }
   for(var w of words) {
     if (lexicon.has(w)) {
-      return lexicon.get(w);
+      var t = lexicon.get(w);
+      if (t.translation.length || t.interpretations.length) {
+        return lexicon.get(w);
+      }
     }
   }
   return entry;
