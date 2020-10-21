@@ -924,8 +924,9 @@ function loadInscription(inscription) {
   var splitter = new GraphemeSplitter();
   var letters = splitter.splitGraphemes(inscription.transcription).filter(w => !isASCII(w)).length;
   var small = letters < 15 && inscription.site != "Pylos"  ? "-small" : "";
+  var large = letters > 75 ? "-large" : "";
   var stacked = (inscription.displayHint == "row") ? "" : "-stacked";
-  var classSuffix = stacked + small;
+  var classSuffix = stacked + small + large;
   var stack = (inscription.displayHint == "row") ? false : true;
 
   var item = document.createElement("div");

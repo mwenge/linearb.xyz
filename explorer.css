@@ -8,7 +8,7 @@ body {
   display: flex;
   flex-flow: row wrap;
 }
-.item-container {
+.item-container, .item-container-large {
   width: fit-content;
   height: fit-content;
   margin: 10px;
@@ -761,11 +761,18 @@ textarea:focus, input:focus{
   flex-wrap: wrap;
   max-width: 400px;
 }
+.item-container-stacked-large {
+  flex-wrap: wrap;
+  max-width: 600px;
+}
 .item-shell-stacked {
   flex-basis: 100%;
 }
 .image-item-stacked {
   max-width: 400px;
+}
+.image-item-stacked-large {
+  max-width: 600px;
 }
 .image-item-stacked-small {
   max-width: 275px;
@@ -775,7 +782,7 @@ textarea:focus, input:focus{
   max-width: 275px;
   min-width: 275px;
 }
-.image-item {
+.image-item, .image-item-large {
   max-width: 400px;
 }
 .image-item-small {
