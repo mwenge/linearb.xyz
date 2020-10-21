@@ -2092,6 +2092,7 @@ function loadExplorer() {
     var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
   }
+  showSearch();
 
   function loadInscriptionLevelTags() {
     for (var inscription of inscriptions.values()) {
