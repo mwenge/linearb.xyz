@@ -76,12 +76,6 @@ function checkKey(e) {
         captureImage(current);
       }
       break;
-    case "y": // 'y' - show commentary for inscription currently hovered over
-      var current = getInscriptionHoveredOver();
-      if (current) {
-        showInscriptionApparatus(current.id);
-      }
-      break;
     case "Escape":
       hideSearch();
       zoomItem(current);
@@ -135,7 +129,7 @@ function checkKey(e) {
 }
 
 function togglePylos() {
-    Array.prototype.map.call(document.getElementsByClassName("pylos-image"), x => x.classList.toggle("pylos-image-hidden"));
+  Array.prototype.map.call(document.getElementsByClassName("pylos-image"), x => x.classList.toggle("pylos-image-hidden"));
 }
 function toggleSearch() {
   if (search.style.visibility == "visible") {
@@ -162,10 +156,10 @@ function showSearch() {
   search.value = '';
   search.focus();
   search.addEventListener("keyup", function(event) {
-      if (event.keyCode === 13) {
-        event.preventDefault();
-        updateSearchTerms(event.target.value)();
-      }
+    if (event.keyCode === 13) {
+      event.preventDefault();
+      updateSearchTerms(event.target.value)();
+    }
   }); 
 }
 
@@ -207,7 +201,7 @@ function autocomplete(inp) {
 
     var syllables = text.split('-');
     var textInGlyphs = syllables.map(syllable => syllableToGlyph.has(syllable)
-                                      ? syllableToGlyph.get(syllable) : "").join('');
+      ? syllableToGlyph.get(syllable) : "").join('');
     var accumulatedOffset = 0;
     if (textInGlyphs == "") {
       return;
@@ -229,12 +223,12 @@ function autocomplete(inp) {
       b.className = "autocomplete-item"
 
       var glyphsInText = splitter.splitGraphemes(key).map(glyph => glyphToSyllable.has(glyph)
-                                        ? glyphToSyllable.get(glyph) : "").join('-');
+        ? glyphToSyllable.get(glyph) : "").join('-');
 
       b.innerHTML = "<div class=\"autocomplete-item-left\">" + key + "</div>";
       if (value) {
         b.innerHTML += "<div class=\"autocomplete-item-right\">" + glyphsInText
-                      + " (" + value + ") </div>";
+          + " (" + value + ") </div>";
       }
       /*insert a input field that will hold the current array item's value:*/
       b.innerHTML += "<input type='hidden' value='" + key  + "'>";
@@ -311,288 +305,6 @@ function autocomplete(inp) {
 function closeZoomedWindow(e) {
   zoomItem(null);
   e.stopPropagation();
-}
-
-var commentaries = {};
-commentaries["HT118"] = "https://docs.google.com/document/d/e/2PACX-1vQN17sMMY9JAehLGo8kfNHNq5qQMZFIhBrZhjuPRZemRXBcbAyxk9uIeLaEHuWFeZQ7-MgPM0iYgB5Y/pub?embedded=true";
-commentaries["HT123+124b"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
-commentaries["HT123+124a"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
-commentaries["HT95a"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
-commentaries["HT95b"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
-
-function showInscriptionApparatus(inscription) {
-  return function(e) {
-    var inscriptionElement = document.getElementById(inscription);
-    var apparatusBox = document.getElementById("apparatus-box-" + inscription);
-    if (apparatusBox) {
-      document.body.offsetTop;
-      apparatusBox.style.top = inscriptionElement.offsetHeight + "px";
-      if (apparatusBox.style.display == "block") {
-        apparatusBox.style.display = "none";
-        return;
-      }
-      apparatusBox.style.display = "block";
-      return;
-    }
-
-    var apparatusBox = document.createElement("div")
-    apparatusBox.className = 'apparatus-box';
-    apparatusBox.id = 'apparatus-box-' + inscription;
-    apparatusBox.style.top = inscriptionElement.offsetHeight + "px";
-    apparatusBox.height = "400px";
-    apparatusBox.addEventListener("click", makeHideElements([apparatusBox]));
-    apparatusBox.style.display = "block";
-
-
-    appendNotesForInscription(inscription);
-    appendFindSpots();
-    appendYoungerCommentaryForInscription(inscription);
-    appendCommentaryForInscription(inscription);
-
-    inscriptionElement.appendChild(apparatusBox);
-
-
-    function appendFindSpots() {
-      var findSpots = [
-        {
-          "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
-          "tag": "Villa Magazine" ,
-          "title": "Hagia Triada Villa Magazine Area",
-          "roomMap": magazineRooms,
-          "productMap": magazineRoomForProduct,
-          "findSpot": "59"
-        },
-        {
-          "imageName": "./images/Hagia-Triada-Portico.jpg" ,
-          "tag": "Portico 11 and Room 13" ,
-          "title": "Hagia Triada Villa Portico Area",
-          "roomMap": porticoRooms,
-          "productMap": null,
-          "findSpot": "findspot"
-        },
-        {
-          "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
-          "tag": "Villa Magazine Room 5" ,
-          "title": "Hagia Triada Villa Magazine Area",
-          "roomMap": magazineRooms,
-          "productMap": magazineRoomForProduct,
-          "findSpot": "5"
-        },
-        {
-          "imageName": "./images/Hagia-Triada-Plan.jpg" ,
-          "tag": "Corridor 9 and Vestibule 26" ,
-          "title": "Hagia Triada",
-          "roomMap": mainPlanRooms,
-          "productMap": null,
-          "findSpot": "9"
-        },
-        {
-          "imageName": "./images/CasaDelLebete.jpg" ,
-          "tag": "Casa Room 9" ,
-          "title": "Hagia Triada 'Casa del Lebete'",
-          "roomMap": casaDelLebeteRooms,
-          "productMap": null,
-          "findSpot": "9"
-        },
-        {
-          "imageName": "./images/CasaDelLebete.jpg" ,
-          "tag": "Casa Room 7" ,
-          "title": "Hagia Triada 'Casa del Lebete'",
-          "roomMap": casaDelLebeteRooms,
-          "productMap": null,
-          "findSpot": "7"
-        },
-        {
-          "imageName": "./images/CasaDelLebete.jpg" ,
-          "tag": "Casa del Lebete" ,
-          "title": "Hagia Triada 'Casa del Lebete'",
-          "roomMap": casaDelLebeteRooms,
-          "productMap": null,
-          "findSpot": null
-        },
-        {
-          "imageName": "./images/Malia-Plan2.jpg" ,
-          "tag": "Malia Palace Room III 8" ,
-          "title": "Malia Palace",
-          "roomMap": maliaRooms,
-          "productMap": null,
-          "findSpot": "8"
-        },
-        {
-          "imageName": "./images/Malia-Plan2.jpg" ,
-          "tag": "Malia South NW Corridor" ,
-          "title": "Malia Palace",
-          "roomMap": maliaRooms,
-          "productMap": null,
-          "findSpot": "NW"
-        },
-        {
-          "imageName": "./images/Malia-Plan2.jpg" ,
-          "tag": "Bastion E" ,
-          "title": "Malia Palace",
-          "roomMap": maliaRooms,
-          "productMap": null,
-          "findSpot": "E"
-        },
-      ];
-      findSpots.forEach(f => appendFindspotAnimation(inscription, f));
-    }
-    function appendFindspotAnimation(inscription, config) {
-      var findspot = inscriptions.get(inscription).findspot;
-      if (findspot != config.tag) {
-        return;
-      }
-
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      apparatusBox.appendChild(commentBox);
-
-      var img = document.createElement("img");
-      img.src = config.imageName;
-      img.addEventListener("load", animateProductAllocation());
-      commentBox.appendChild(img);
-
-      var title = document.createElement("div");
-      title.className = "tip-tag findspot-title";
-      title.textContent = config.title;
-      commentBox.appendChild(title);
-
-      function animateProductAllocation() {
-        return function (e) {
-          if (!config.findSpot) {
-            return;
-          }
-          var area = config.roomMap.get(config.findSpot);
-          var roomElement = document.createElement("div");
-          roomElement.className = "room-highlight";
-          roomElement.style.width = ((area.width / img.naturalWidth) * 100) + '%';
-          roomElement.style.height = ((area.height / img.naturalHeight) * 100) + '%';
-          roomElement.style.top = ((area.y / img.naturalHeight) * 100) + '%';
-          roomElement.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-          commentBox.appendChild(roomElement);
-
-          var product = document.createElement("div");
-          product.textContent = "📍";
-          product.className = "findspot-tag";
-          roomElement.appendChild(product);
-
-          if (!config.productMap) {
-            return;
-          }
-          var inscriptionData = inscriptions.get(inscription);
-
-          for (var i = 0; i < inscriptionData.words.length; i++) {
-            var word = stripErased(inscriptionData.words[i]);
-            if (!config.productMap.has(word)) {
-              continue;
-            }
-            var room = config.productMap.get(word);
-            var area = config.roomMap.get(room);
-
-            var roomID = inscription + "-room-" + room;
-            var productContainer = document.getElementById(roomID);
-            if (!productContainer) {
-              var roomElement = document.createElement("div");
-              roomElement.className = "room-highlight";
-              roomElement.style.width = ((area.width / img.naturalWidth) * 100) + '%';
-              roomElement.style.height = ((area.height / img.naturalHeight) * 100) + '%';
-              roomElement.style.top = ((area.y / img.naturalHeight) * 100) + '%';
-              roomElement.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-              commentBox.appendChild(roomElement);
-              var productContainer = document.createElement("div");
-              productContainer.className = "product-container";
-              productContainer.id = inscription + "-room-" + room;
-              roomElement.appendChild(productContainer);
-            }
-            var product = document.createElement("div");
-            product.id = inscription + "-product-" + i;
-            product.textContent = word;
-            product.className = "product-tag";
-            product.addEventListener("mouseenter", highlightWords(inscription, i));
-            product.addEventListener("mouseout", clearHighlight(inscription, i));
-            productContainer.appendChild(product);
-          }
-        }
-      }
-    }
-
-    function appendCommentaryForInscription(inscription) {
-      if (!commentaries[inscription]) {
-        return;
-      }
-
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      commentBox.id = 'mycomment-box-' + inscription;
-      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
-      apparatusBox.appendChild(commentBox);
-
-      var iframe = document.createElement("iframe")
-      iframe.src = commentaries[inscription];
-      iframe.height = "400px";
-      iframe.style.width = "100%";
-      iframe.addEventListener("click", makeHideElements([iframe]));
-      commentBox.appendChild(iframe);
-    }
-
-    function appendNotesForInscription(inscription) {
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      commentBox.id = 'comment-box-' + inscription;
-      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
-      apparatusBox.appendChild(commentBox);
-
-      inscription = inscription.replace(/[a-z]$/g, "");
-      var commentaries = ["notes/" + inscription]
-      commentBox.innerHTML = "";
-      var failures = 0;
-      commentaries.forEach( commentary => {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onloadend = function() {
-            if (xhttp.status == 404) {
-              failures++;
-            } else {
-              commentBox.innerHTML += xhttp.responseText;
-              commentBox.style.display = "block";
-            }
-            if (failures >= commentaries.length) {
-              commentBox.style.display = "none";
-            }
-        };
-        xhttp.open("GET", commentary, true);
-        xhttp.send();
-      });
-    }
-
-    function appendYoungerCommentaryForInscription(inscription) {
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      commentBox.id = 'comment-box-' + inscription;
-      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
-      apparatusBox.appendChild(commentBox);
-
-      inscription = inscription.replace(/[a-z]$/g, "");
-      var commentaries = ["commentary/" + inscription + ".html"]
-      commentBox.innerHTML = "";
-      var failures = 0;
-      commentaries.forEach( commentary => {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onloadend = function() {
-            if (xhttp.status == 404) {
-              failures++;
-            } else {
-              commentBox.innerHTML += xhttp.responseText;
-              commentBox.style.display = "block";
-            }
-            if (failures >= commentaries.length) {
-              commentBox.style.display = "none";
-            }
-        };
-        xhttp.open("GET", commentary, true);
-        xhttp.send();
-      });
-    }
-  }
 }
 
 function getInscriptionHoveredOver() {
@@ -729,7 +441,7 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
 
   if (inscription.site == "Pylos") {
     if (document.getElementsByClassName("pylos-image-hidden").length > 0 ||
-        document.getElementsByClassName("pylos-image").length == 0) {
+      document.getElementsByClassName("pylos-image").length == 0) {
       itemShell.classList.add("pylos-image-hidden");
     }
     itemShell.classList.add("pylos-image");
@@ -855,10 +567,10 @@ var captureImage = function(root) {
   })
     .then(function(canvas) {
       canvas.toBlob(function(blob) { 
-            const item = new ClipboardItem({ "image/png": blob });
-            navigator.clipboard.write([item]); 
-            result.style.animationDelay = "0s";
-            result.textContent = "Image copied to clipboard";
+        const item = new ClipboardItem({ "image/png": blob });
+        navigator.clipboard.write([item]); 
+        result.style.animationDelay = "0s";
+        result.textContent = "Image copied to clipboard";
       });
     })
 };
@@ -876,7 +588,7 @@ var zoomItem = (function(item) {
     if (!itemToZoom) {
       return;
     }
-    
+
     Array.prototype.map.call(itemToZoom.getElementsByClassName("item-shell"), x => x.classList.toggle("zoomed-item"));
     Array.prototype.map.call(itemToZoom.getElementsByClassName("item"), x => x.classList.toggle("zoomed-item"));
     Array.prototype.map.call(itemToZoom.getElementsByClassName("close-window"), x => x.classList.toggle("zoomed-close-window"));
@@ -919,7 +631,7 @@ function loadInscription(inscription) {
   }
 
   function isASCII(str) {
-        return /^[\x00-\x7F]*$/.test(str);
+    return /^[\x00-\x7F]*$/.test(str);
   }
   var splitter = new GraphemeSplitter();
   var letters = splitter.splitGraphemes(inscription.transcription).filter(w => !isASCII(w)).length;
@@ -932,7 +644,6 @@ function loadInscription(inscription) {
   var item = document.createElement("div");
   item.className = 'item-container item-container' + classSuffix;
   item.id = inscription.name;
-  item.addEventListener("click", showInscriptionApparatus(inscription.name));
   item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
@@ -987,12 +698,12 @@ function loadInscription(inscription) {
   item.appendChild(tagContainer);
 
   var tagsToAdd = [[[inscription.support], 'activeSupports'],
-                   [[inscription.scribe], 'activeScribes'],
-                   [[inscription.findspot], 'activeFindspots'],
-                   [[inscription.site], 'activeFindspots'],
-                   [contexts.get(inscription.name), 'activeContexts'],
-                   [tags.get(inscription.name), 'activeTagValues']]  
-                  .filter(w => w[0] != undefined && w[0] != "");
+    [[inscription.scribe], 'activeScribes'],
+    [[inscription.findspot], 'activeFindspots'],
+    [[inscription.site], 'activeFindspots'],
+    [contexts.get(inscription.name), 'activeContexts'],
+    [tags.get(inscription.name), 'activeTagValues']]  
+    .filter(w => w[0] != undefined && w[0] != "");
 
   tagsToAdd.forEach( tagData => {
     tagData[0].forEach( tag => {
@@ -1082,9 +793,9 @@ function getWordsAsImage(inscription, targetWord) {
   var zip = (...rows) => [...rows[0]].map((_,c) => rows.map(row => row[c]));
   var imagesToLoad = [];
   imagesToLoad = imagesToLoad.concat(zip(inscription.images,
-                  Array(inscription.images.length).fill("photo")));
+    Array(inscription.images.length).fill("photo")));
   imagesToLoad = imagesToLoad.concat(zip(inscription.facsimileImages,
-                  Array(inscription.facsimileImages.length).fill("transcription")));
+    Array(inscription.facsimileImages.length).fill("transcription")));
 
   var concordanceItem = document.createElement("div");
   for (var imageInfo of imagesToLoad) {
@@ -1229,7 +940,7 @@ function addWordTip(word, name, index) {
   tip.innerHTML = "";
 
   var inscription = inscriptions.get(name);
-	var entry = searchLexicon(word, index, inscription.words);
+  var entry = searchLexicon(word, index, inscription.words);
   entry.word = word;
 
   var wordCommentElement = document.createElement("div");
@@ -1401,7 +1112,7 @@ function showWordChart(searchTerm, item) {
 
     wordChart.appendChild(wordCommentElement);
 
-		var entry = getLexiconEntry(searchTerm);
+    var entry = getLexiconEntry(searchTerm);
     entry.word = searchTerm;
 
     var wordCommentElement = document.createElement("div");
@@ -1549,24 +1260,24 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
     var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
     containsTerm |= inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
     return (containsRegEx || containsTerm ||
-        inscription.transcription.includes(searchTerm) ||
-        inscription.name.includes(searchTerm) ||
-        inscription.label.includes(searchTerm) ||
-        inscription.findspot.includes(searchTerm) ||
-        inscription.site.includes(searchTerm) ||
-        inscription.scribe.includes(searchTerm) ||
-        inscription.words.includes(searchTerm) ||
-        inscription.words.map(x => stripErased(x)).includes(searchTerm)
-        );
+      inscription.transcription.includes(searchTerm) ||
+      inscription.name.includes(searchTerm) ||
+      inscription.label.includes(searchTerm) ||
+      inscription.findspot.includes(searchTerm) ||
+      inscription.site.includes(searchTerm) ||
+      inscription.scribe.includes(searchTerm) ||
+      inscription.words.includes(searchTerm) ||
+      inscription.words.map(x => stripErased(x)).includes(searchTerm)
+    );
   }
 
   var containsTerm = inscription.translatedWords.filter(word => word == searchTerm).length > 0;
   containsTerm |= inscription.transliteratedWords.filter(word => word == searchTerm).length > 0;
   return (containsTerm ||
-      inscription.name == searchTerm ||
-      inscription.words.includes(searchTerm) ||
-      inscription.words.map(x => stripErased(x)).includes(searchTerm)
-      );
+    inscription.name == searchTerm ||
+    inscription.words.includes(searchTerm) ||
+    inscription.words.map(x => stripErased(x)).includes(searchTerm)
+  );
 }
 
 function getMatchingSequences(wordTags, activeWordTags) {
@@ -1688,14 +1399,14 @@ function hasWordTagCombination(wordTags, activeWordTags) {
 
 function hasTag(tag, inscription) {
   return (
-      (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
-      (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
-      inscription.support.includes(tag) ||
-      inscription.findspot == tag ||
-      inscription.site == tag ||
-      inscription.name.substr(0, 2) == tag ||
-      inscription.scribe == tag
-      );
+    (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
+    (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
+    inscription.support.includes(tag) ||
+    inscription.findspot == tag ||
+    inscription.site == tag ||
+    inscription.name.substr(0, 2) == tag ||
+    inscription.scribe == tag
+  );
 }
 
 function applySearchTerms() {
@@ -1703,7 +1414,7 @@ function applySearchTerms() {
   var searchTerms = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTerms.children.length;
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
-                         .map(x => stripErased(x.textContent));
+    .map(x => stripErased(x.textContent));
   var numberOfTags = activeTags.length + consoleButtons.get('activeWordTags').currentActiveTags().length;
   var hasSearchTerm = (numberOfSearchTerms + numberOfTags > 0)
   if (!hasSearchTerm) {
@@ -1790,7 +1501,7 @@ function searchForWord(evt, name, index) {
 }
 
 function shuffleImagesToFront(array) {
-  
+
   function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
@@ -1809,7 +1520,7 @@ function shuffleImagesToFront(array) {
   let a1 = shuffle(array.filter((v, i, a) => hasLetterMaps(v)));
   a1 = a1.concat(shuffle(array.filter((v, i, a) => hasImage(v))));
   a1 = a1.concat(shuffle(array.filter((v, i, a) => !hasImage(v))));
-  
+
   return a1;
 }
 
@@ -1842,7 +1553,7 @@ function consoleButton(button, metadata, activeMetadataName) {
 
   button.addEventListener("click", function (event) { 
     metadata = metadata.filter(function(item, pos, self) {
-          return self.indexOf(item) == pos;
+      return self.indexOf(item) == pos;
     });
 
     var search = document.getElementById("search");
@@ -2026,10 +1737,10 @@ function consoleButton(button, metadata, activeMetadataName) {
 function clearTags() {
   var container = document.getElementById("filters-container");
   Array.prototype.map.call(container.getElementsByClassName("filter-command"),
-                           x => x.style.backgroundColor = "black");
+    x => x.style.backgroundColor = "black");
   container = document.getElementById("filter-details-container");
   Array.prototype.map.call(container.getElementsByClassName("filter-tag"),
-                           x => { x.style.backgroundColor = "black"; x.style.color = "white";});
+    x => { x.style.backgroundColor = "black"; x.style.color = "white";});
   container = document.getElementById("filter-details-container");
   if (container) {
     container.innerHTML = "";
@@ -2047,7 +1758,7 @@ let observer = new IntersectionObserver(function(entries, self) {
     var searchTerms = document.getElementById("search-terms");
     var numberOfSearchTerms = searchTerms.children.length;
     if (entry.isIntersecting && !numberOfSearchTerms && !highlightedSearchElements.length
-        && !activeTags.length && !consoleButtons.get('activeWordTags').currentActiveTags().length) {
+      && !activeTags.length && !consoleButtons.get('activeWordTags').currentActiveTags().length) {
       var key = inscriptionsToLoad.next().value;
       if (key) {
         var inscription = inscriptions.get(key);
@@ -2097,9 +1808,9 @@ function loadExplorer() {
   function loadInscriptionLevelTags() {
     for (var inscription of inscriptions.values()) {
       for (var item of [[supports, inscription.support],
-                        [scribes, inscription.scribe],
-                        [findspots, inscription.findspot],
-                        ]) {
+        [scribes, inscription.scribe],
+        [findspots, inscription.findspot],
+      ]) {
         var tag = item[1];
         if (!tag) {
           continue;
