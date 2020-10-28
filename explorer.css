@@ -802,6 +802,27 @@ textarea:focus, input:focus{
 .text-item-stacked.translation-item {
   border-left: 1px solid grey;
 }
+.biblio-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 14px;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 3px;
+  z-index: 9999;
+}
+.biblio-row {
+  display: block;
+}
+.biblio-cell {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 10px;
+}
+.biblio-ref:hover { cursor: pointer; }
 
 [id='Py661'] > .item-shell > .item,
 [id='Py725'] > .item-shell > .item,

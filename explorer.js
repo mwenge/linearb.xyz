@@ -163,6 +163,95 @@ function showSearch() {
   }); 
 }
 
+function createHTMLTemplate(html) {
+      var template = document.createElement('template');
+      html = html.trim(); // Never return a text node of whitespace as the result
+      template.innerHTML = html;
+      return template;
+}
+
+function makeHideApparatus(inscription) {
+  return function(e) {
+    // Hide the word tip
+    var b = document.getElementById(inscription.name + "-biblio-container");
+    if (b) {
+      b.style.display = "none";
+    }
+  };
+}
+function makeShowApparatus(inscription) {
+  return function(e) {
+    // Hide the word tip
+    var t = document.getElementById(inscription.name + "-inscription-word-tip");
+    if (t) {
+      t.style.display = "none";
+    }
+
+    var b = document.getElementById(inscription.name + "-biblio-container");
+    if (b) {
+      b.style.display = "block";
+      return;
+    }
+
+    var commentaries = [
+      documentsInMycenaeanGreek,
+      linearBAnIntroduction,
+      companionToLinearBVol1,
+      companionToLinearBVol2,
+    ];
+    for (var c of commentaries) {
+      var refs = c.comments[inscription.label];
+      if (!refs) {
+        continue;
+      }
+      if (!b) {
+        b = document.createElement("div");
+        b.id = inscription.name + "-biblio-container";
+        b.className = "biblio-container";
+        var p = document.getElementById(inscription.name + "-comment-placeholder");
+        p.append(b);
+      }
+      var cellID = inscription.name + window.btoa(c.name) +  "-refs";
+      var t = "<div class=\"biblio-row\">" +
+                "<div class=\"biblio-cell\"><img src=\"" + c.img + "\" width=\"40\" height=\"50\"></div>" +
+                "<div class=\"biblio-cell\">" +
+                  "<div class=\"biblio-row\">" + c.name + "</div>" +
+                  "<div class=\"biblio-row\" id =\"" + cellID + "\"></div>" +
+                "</div>" +
+              "</div>";
+      var template = createHTMLTemplate(t);
+      var entry = template.content.firstChild.cloneNode(true);
+      console.log(entry);
+      b.append(entry);
+
+      var refCell = document.getElementById(cellID);
+      var span = document.createElement("span");
+      span.className = "biblio-ref";
+      span.textContent = "Open at: ";
+      refCell.appendChild(span);
+      for (var i = 0; i < refs.length; i++) {
+        var ref = refs[i];
+        var span = document.createElement("span");
+        span.className = "biblio-ref";
+        span.textContent = "p. " + ref + ((refs.length - i > 1) ? ", " : "");
+        span.addEventListener("click", showBiblioPreview(c.doc + "#page=" + ref));
+        refCell.appendChild(span);
+      }
+    }
+
+    if (b) {
+      b.addEventListener("mouseover", makeShowApparatus(inscription));
+      b.addEventListener("mouseout", makeHideApparatus(inscription));
+    }
+  };
+}
+
+function showBiblioPreview(src) {
+  return function(e) {
+    window.open(src, '_blank');
+  };
+}
+
 function autocomplete(inp) {
   /*the autocomplete function takes two arguments,
     the text field element and an array of possible autocompleted values:*/
@@ -176,7 +265,6 @@ function autocomplete(inp) {
 
   /*execute a function when someone writes in the text field:*/
   inp.addEventListener("input", function(e) {
-    console.log("in here");
     var a, i, val = this.value;
     /*close any already open lists of autocompleted values*/
     closeAllLists();
@@ -752,6 +840,9 @@ function loadInscription(inscription) {
   label.id = inscription.name + "-comment-placeholder";
   wrapper.appendChild(label);
 
+  wrapper.addEventListener("mouseover", makeShowApparatus(inscription));
+  wrapper.addEventListener("mouseout", makeHideApparatus(inscription));
+
   container.appendChild(wrapper);
 
   updateDisplayOfWordFrequency(item, false);
@@ -923,6 +1014,12 @@ function searchLexicon(word, i, words) {
 }
 
 function addWordTip(word, name, index) {
+  // Hide the bibliography when displaying a word tip
+  var biblio = document.getElementById(name + "-biblio-container");
+  if (biblio) {
+    biblio.style.display = "none";
+  }
+
   word = stripErased(word.trim());
   var wordCount = 0;
   if (wordsInCorpus.has(word)) {

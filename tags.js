@@ -168,9 +168,6 @@ for (var inscription of inscriptions.values()) {
   if (!context) {
     continue;
   }
-  if (!periodNames.has(context)) {
-    console.log("Missing context: " + context);
-  }
   contexts.set(key, [periodNames.get(context)]);
 }
 
