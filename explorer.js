@@ -189,6 +189,9 @@ function makeShowApparatus(inscription) {
 
     var b = document.getElementById(inscription.name + "-biblio-container");
     if (b) {
+      if (b.style.display === "block") {
+        return;
+      }
       b.style.display = "block";
       return;
     }
@@ -221,7 +224,6 @@ function makeShowApparatus(inscription) {
               "</div>";
       var template = createHTMLTemplate(t);
       var entry = template.content.firstChild.cloneNode(true);
-      console.log(entry);
       b.append(entry);
 
       var refCell = document.getElementById(cellID);
