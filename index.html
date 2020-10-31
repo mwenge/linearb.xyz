@@ -50,32 +50,21 @@
   <div class="sort-status" id="sort-status" onclick="resetSort(event)"></div>
   <div class="search-terms" id="search-terms"></div>
 </div>
-<div class="help-menu" id="help_menu" onclick="(function(){ help_menu.style.display='none';})();">
-<span>  &nbsp;Click on words to filter inscriptions.<br></span>
-<span>  <br></span>
-<span>  &nbsp;'<b>w</b>' - highlight words according to frequency in the corpus.<br></span>
-<span>  <br></span>
-<span>  &nbsp;'<b>1 to 9</b>' - save the current search terms under that number. <br></span>
-<span>  &nbsp;'<b>Shift + 1 to 9</b>' - retrieve the search terms saved under that number. <br></span>
-<span>  &nbsp;'<b>/</b>' - Search for an inscription. To use regular expressions, precede regular<br></span>
-<span style="white-space: pre;">              expression operators with a '\', e.g. -JA\$ to search for -JA<br></span>
-<span style="white-space: pre;">              at the end of words.<br></span>
-<span>  <br></span>
-<span>  &nbsp;Hover the mouse over an inscription and press:<br></span>
-<span>  &nbsp;'<b>i</b>' - to copy an image of the inscription to the clipboard.<br></span>
-<span>  &nbsp;'<b>y</b>' - to show John Younger's commentary for the inscription.<br></span>
-<span>  &nbsp;'<b>t</b>' - to toggle between translation and transliteration.<br></span>
-<span>  &nbsp;'<b>z</b>' - to zoom/unzoom an inscription.<br></span>
-  <br>
-  <a href="https://linearb.xyz" target="_blank">
-    <div class="other-explorer linearb-explorer">Linear B</div>
-  </a>
-  <a href="https://linear0.xyz" target="_blank">
-    <div class="other-explorer cretan-explorer">Cretan Hieroglyphics</div>
-  </a>
-  <a href="https://linearc.xyz" target="_blank">
-    <div class="other-explorer cypro-minoan-explorer">Cypro-Minoan</div>
-  </a>
+<div class="help-menu" id="help_menu">
+  <div style="width: 100%; height: 100%;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/urlheDEcV2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <span>  &nbsp;Click on words to filter inscriptions.<br></span>
+  <span>  <br></span>
+  <span>  &nbsp;'<b>w</b>' - highlight words according to frequency in the corpus.<br></span>
+  <span>  <br></span>
+  <span>  &nbsp;'<b>1 to 9</b>' - save the current search terms under that number. <br></span>
+  <span>  &nbsp;'<b>Shift + 1 to 9</b>' - retrieve the search terms saved under that number. <br></span>
+  <span>  &nbsp;'<b>/</b>' - Search for an inscription. To use regular expressions, precede regular<br></span>
+  <span style="white-space: pre;">              expression operators with a '\', e.g. -JA\$ to search for -JA<br></span>
+  <span style="white-space: pre;">              at the end of words.<br></span>
+  <span>  <br></span>
+  <span>  &nbsp;'<b>t</b>' - to toggle between translation and transliteration.<br></span>
 </div>
 <div id="search-container">
   <input type="search" class="search" id="search" placeholder="e.g. HT112"></input>

@@ -1872,6 +1872,7 @@ function loadExplorer() {
 
   document.getElementById("search-command").addEventListener("click", toggleSearch);
   document.getElementById("help-command").addEventListener("click", sendKey('?'));
+  document.getElementById("help_menu").addEventListener("click", sendKey('?'));
   document.getElementById("clear-command").addEventListener("click", sendKey('c'));
   autocomplete(document.getElementById("search"));
 

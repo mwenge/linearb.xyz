@@ -457,18 +457,16 @@ dt, dd, font {
 }
 .help-menu {
   display: none;
-  font-size: 25px;
+  font-size: 15px;
   padding: 10px;
   position: fixed;
-  top:0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
+  left: 50%; /* horizontally centre */
+  transform: translateX(-50%); /* horizontally centre */
+  top: 0;
+  font-family: 'Noto Mono', serif;
+  z-index: 9000;
   width: 80%;
   height: 60%;
-  font-family: 'Noto Mono', serif;
-  z-index: 400;
 }
 .help-menu > span {
   background-color: yellow;
