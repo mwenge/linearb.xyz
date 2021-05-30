@@ -1610,13 +1610,6 @@ function shuffleImagesToFront(array) {
 
 // Shuffle the inscriptions so we display a different group at the top every time
 var inscriptionsToLoad = shuffleImagesToFront(Array.from(inscriptions.keys()))[Symbol.iterator]();
-// create config object: rootMargin and threshold
-// are two properties exposed by the interface
-const config = {
-  rootMargin: '0px 0px 50px 0px',
-  threshold: 0
-};
-
 var tagColors = {};
 function consoleButton(button, metadata, activeMetadataName) {
   var activeMetadata = [];
@@ -1835,6 +1828,13 @@ function clearTags() {
 
 var activeTags = [];
 
+// create config object: rootMargin and threshold
+// are two properties exposed by the interface
+const config = {
+  rootMargin: '0px 0px 40% 0px',
+  threshold: 0.5
+};
+
 // Load inscriptions as they come into view
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
@@ -1843,14 +1843,16 @@ let observer = new IntersectionObserver(function(entries, self) {
     var numberOfSearchTerms = searchTerms.children.length;
     if (entry.isIntersecting && !numberOfSearchTerms && !highlightedSearchElements.length
       && !activeTags.length && !consoleButtons.get('activeWordTags').currentActiveTags().length) {
-      var key = inscriptionsToLoad.next().value;
-      if (key) {
-        var inscription = inscriptions.get(key);
-        if (!inscription.element) {
-          loadInscription(inscription);
+      [1,2].forEach( x => { 
+        var key = inscriptionsToLoad.next().value;
+        if (key) {
+          var inscription = inscriptions.get(key);
+          if (!inscription.element) {
+            loadInscription(inscription);
+          }
+          observer.observe(inscription.element);
         }
-        observer.observe(inscription.element);
-      }
+      });
       self.unobserve(entry.target);
     }
   });
