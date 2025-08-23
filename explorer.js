@@ -249,10 +249,10 @@ function autocomplete(inp) {
     /*append the DIV element as a child of the autocomplete container:*/
     this.parentNode.insertBefore(a, document.getElementById("search"));
 
-    var text = event.target.value;
+    var text = event.target.value.toLowerCase();
     if (text.length > 2) {
       searchHints.forEach( hint => {
-        if (hint.includes(text)) {
+        if (hint.toLowerCase().includes(text)) {
           addEntry(this, a, hint, "");
         }
       });
@@ -1327,18 +1327,19 @@ function loadSearchTerms(key) {
 
 function hasMatch(fullWordMatch, searchTerm, inscription) {
   searchTerm = searchTerm.replace(/\\/g, "");
+  let searchTermLower = searchTerm.toLowerCase();
   var re = new RegExp(searchTerm);
   if (!fullWordMatch) {
     var containsRegEx = inscription.translatedWords.filter(word => re.test(word)).length > 0;
     containsRegEx |= inscription.transliteratedWords.filter(word => re.test(word)).length > 0;
-    var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
-    containsTerm |= inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
+    var containsTerm = inscription.translatedWords.filter(word => word.toLowerCase().includes(searchTermLower)).length > 0;
+    containsTerm |= inscription.transliteratedWords.filter(word => word.toLowerCase().includes(searchTermLower)).length > 0;
     return (containsRegEx || containsTerm ||
       inscription.transcription.includes(searchTerm) ||
-      inscription.name.includes(searchTerm) ||
-      inscription.label.includes(searchTerm) ||
+      inscription.name.toLowerCase().includes(searchTermLower) ||
+      inscription.label.toLowerCase().includes(searchTermLower) ||
       inscription.findspot.includes(searchTerm) ||
-      inscription.site.includes(searchTerm) ||
+      inscription.site.toLowerCase().includes(searchTermLower) ||
       inscription.scribe.includes(searchTerm) ||
       inscription.words.includes(searchTerm) ||
       inscription.words.map(x => stripErased(x)).includes(searchTerm)
@@ -1583,9 +1584,9 @@ function shuffleImagesToFront(array) {
     }
     return array;
   }
-  const hasImage = function(x) { return inscriptions.get(x).facsimileImages.length > 0; }
+  const hasImage = function(x) { return inscriptions.get(x).images.length > 0; }
   const hasLetterMaps = function(x) { 
-    var imgs = inscriptions.get(x).facsimileImages;
+    var imgs = inscriptions.get(x).images;
     if (!imgs.length) {
       return false;
     }
