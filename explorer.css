@@ -754,9 +754,6 @@ textarea:focus, input:focus{
 .pylos-image {
   display: flex;
 }
-.pylos-image-hidden {
-  display: none;
-}
 .item-container-stacked {
   flex-wrap: wrap;
   max-width: 400px;

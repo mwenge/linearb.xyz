@@ -81,9 +81,6 @@ function checkKey(e) {
       hideSearch();
       zoomItem(current);
       break;
-    case "p": // 'z' - zoom
-      togglePylos();
-      break;
     case "z": // 'z' - zoom
       var current = getInscriptionHoveredOver();
       zoomItem(current);
@@ -129,9 +126,6 @@ function checkKey(e) {
   e.preventDefault();
 }
 
-function togglePylos() {
-  Array.prototype.map.call(document.getElementsByClassName("pylos-image"), x => x.classList.toggle("pylos-image-hidden"));
-}
 function toggleSearch() {
   if (search.style.visibility == "visible") {
     hideSearch();
@@ -509,10 +503,6 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
   item.appendChild(itemShell);
 
   if (inscription.site == "Pylos") {
-    if (document.getElementsByClassName("pylos-image-hidden").length > 0 ||
-      document.getElementsByClassName("pylos-image").length == 0) {
-      itemShell.classList.add("pylos-image-hidden");
-    }
     itemShell.classList.add("pylos-image");
   }
 
