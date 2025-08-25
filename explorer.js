@@ -173,6 +173,7 @@ function makeShowApparatus(inscription) {
     linearBAnIntroduction,
     companionToLinearBVol1,
     companionToLinearBVol2,
+    palaceNestor1,
   ];
 
   var b;
