@@ -174,6 +174,7 @@ function makeShowApparatus(inscription) {
     companionToLinearBVol1,
     companionToLinearBVol2,
     palaceNestor1,
+    palaceNestor2,
   ];
 
   var b;
