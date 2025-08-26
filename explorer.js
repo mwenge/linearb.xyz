@@ -175,6 +175,7 @@ function makeShowApparatus(inscription) {
     companionToLinearBVol2,
     palaceNestor1,
     palaceNestor2,
+    newDocumentsInMycenaeanGreek,
   ];
 
   var b;
