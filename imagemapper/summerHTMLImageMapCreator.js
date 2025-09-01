@@ -417,7 +417,7 @@ var summerHtmlImageMapCreator = (function() {
             toJSON : function() {
                 var obj = {
                     areas : [],
-                    img : state.image.src
+                    img : state.image.src.substring(3)
                 };
     
                 utils.foreach(state.areas, function(x) {
@@ -444,6 +444,7 @@ var summerHtmlImageMapCreator = (function() {
             return {
                 save : function() {
                     var result = areasIO.toJSON();
+                    console.log(state.image.src, state.image.src.substring(3));
                     window.localStorage.setItem(state.image.src.substring(3), result);
                     console.info('Editor ' + result + ' saved');
                     console.info(result.img);
@@ -498,7 +499,6 @@ var summerHtmlImageMapCreator = (function() {
                 for (var i = 0; i < 4000; i++) {
                   var key = inscriptionsToLoad.next().value;
                   var inscription = inscriptions.get(key);
-                  console.log(key);
                   if (!inscription) {
                     continue;
                   }
@@ -511,7 +511,6 @@ var summerHtmlImageMapCreator = (function() {
                     return false;
                   }
                   for (var imageToLoad of [inscription.images, inscription.facsimileImages].flat()) {
-                    console.log(imageToLoad);
                     if (coordinates.has(imageToLoad)) {
                       continue;
                     }
@@ -534,7 +533,6 @@ var summerHtmlImageMapCreator = (function() {
                       var inscriptionElement = document.getElementById("inscription");
                       inscriptionElement.textContent = "";
                       var graphemes = splitter.splitGraphemes(letters);
-                      console.log(graphemes.length);
                       for (var grapheme of graphemes) {
                         var span = document.createElement("span");
                         span.textContent = grapheme;
@@ -1056,7 +1054,6 @@ var summerHtmlImageMapCreator = (function() {
      * @returns {Array} - array with areas
      */
     Area.createAreasFromJSONImageMap = function(imagemap) {
-        console.log(imagemap);
         for (var area of imagemap) {
             Area.fromJSON({
                 type : "rectangle",
@@ -2329,7 +2326,6 @@ var summerHtmlImageMapCreator = (function() {
      * @returns {Polygon} - created polygon
      */
     Polygon.createAndStartDrawing = function(firstPointCoords) {
-        console.log(firstPointCoords);
         var newArea = new Polygon({
             points : [firstPointCoords],
             isOpened : true
@@ -2510,7 +2506,6 @@ var summerHtmlImageMapCreator = (function() {
             if (!coordinates.has(image)) {
               return;
             }
-            console.log(image);
             if (Area.createAreasFromJSONImageMap(coordinates.get(image))) {
                 app.loadImage(image);
                 hide();
@@ -2961,6 +2956,9 @@ var summerHtmlImageMapCreator = (function() {
         edit.addEventListener('click', onEditButtonClick, false);
         new_image.addEventListener('click', onNewImageButtonClick, false);
         show_help.addEventListener('click', onShowHelpButtonClick, false);
+
+        // Enable rectangles by default.
+        rectangle.click();
     })();
 
 })();
