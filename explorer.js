@@ -209,12 +209,18 @@ function makeShowApparatus(inscription) {
     span.className = "biblio-ref";
     span.textContent = "Open at: ";
     refCell.appendChild(span);
-    for (var i = 0; i < refs.length; i++) {
+    const MAX_REFS = 4;
+    for (var i = 0; i < Math.min(MAX_REFS,refs.length); i++) {
       var ref = refs[i];
       var span = document.createElement("span");
       span.className = "biblio-ref";
       span.textContent = "p. " + ref + ((refs.length - i > 1) ? ", " : "");
       span.addEventListener("click", showBiblioPreview(c.doc + "#page=" + ref));
+      refCell.appendChild(span);
+    }
+    if (refs.length > MAX_REFS) {
+      var span = document.createElement("span");
+      span.textContent = " and more.";
       refCell.appendChild(span);
     }
   }
