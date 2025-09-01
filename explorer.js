@@ -1593,7 +1593,7 @@ function shuffleImagesToFront(array) {
     if (!imgs.length) {
       return false;
     }
-    return imgs.some(v => coordinates.has(v));
+    return imgs.some(v => coordinates.has(v) && coordinates.get(v).length > 0);
   }
   let a1 = shuffle(array.filter((v, i, a) => hasLetterMaps(v)));
   a1 = a1.concat(shuffle(array.filter((v, i, a) => hasImage(v))));
