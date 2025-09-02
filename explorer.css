@@ -756,7 +756,7 @@ textarea:focus, input:focus{
 }
 .item-container-stacked {
   flex-wrap: wrap;
-  max-width: 400px;
+  max-width: 500px;
 }
 .item-container-stacked-large {
   flex-wrap: wrap;
