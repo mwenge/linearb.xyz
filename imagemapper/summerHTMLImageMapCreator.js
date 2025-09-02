@@ -2967,19 +2967,33 @@ var summerHtmlImageMapCreator = (function() {
             
             e.preventDefault();
         }
+
+        function onDownloadButtonClick(e) {
+            app.download();
+            e.preventDefault();
+        }
         
-        save.addEventListener('click', onSaveButtonClick, false);
+        function onNextButtonClick(e) {
+            app.saveInLocalStorage();
+            app.clear()
+            app.loadNextImage();
+        }
+        /*
         load.addEventListener('click', onLoadButtonClick, false);
-        rectangle.addEventListener('click', onShapeButtonClick, false);
         circle.addEventListener('click', onShapeButtonClick, false);
-        polygon.addEventListener('click', onShapeButtonClick, false);
-        clear.addEventListener('click', onClearButtonClick, false);
         from_html.addEventListener('click', onFromHtmlButtonClick, false);
         from_imagemap.addEventListener('click', onFromImageMapButtonClick, false);
         to_html.addEventListener('click', onToHtmlButtonClick, false);
         preview.addEventListener('click', onPreviewButtonClick, false);
-        edit.addEventListener('click', onEditButtonClick, false);
         new_image.addEventListener('click', onNewImageButtonClick, false);
+        save.addEventListener('click', onSaveButtonClick, false);
+        clear.addEventListener('click', onClearButtonClick, false);
+         */
+        next.addEventListener('click', onNextButtonClick, false);
+        rectangle.addEventListener('click', onShapeButtonClick, false);
+        polygon.addEventListener('click', onShapeButtonClick, false);
+        edit.addEventListener('click', onEditButtonClick, false);
+        download.addEventListener('click', onDownloadButtonClick, false);
         show_help.addEventListener('click', onShowHelpButtonClick, false);
 
         // Enable rectangles by default.

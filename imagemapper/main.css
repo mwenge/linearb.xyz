@@ -310,10 +310,15 @@ a:link, a:visited {
     box-sizing: border-box;
 }
 .detail_panel {
+    width:70%;
     margin-top: 20px;
     position: absolute;
     top: 80%;
     left: 50px;
+    cursor: move;
+}
+#rects::before {
+  content: "So far: ";
 }
 
 .error#url {
