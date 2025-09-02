@@ -581,7 +581,7 @@ var summerHtmlImageMapCreator = (function() {
               }
               let a = document.createElement('a');
               a.href = "data:application/octet-stream," + encodeURIComponent(output);
-              a.download = 'letters-' + new Date().toISOString() + '.txt';
+              a.download = 'LinearB-ImageMap-' + new Date().toISOString() + '.txt';
               a.click();
             },
             preview : (function() {

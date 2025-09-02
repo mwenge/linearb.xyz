@@ -310,12 +310,12 @@ a:link, a:visited {
     box-sizing: border-box;
 }
 .detail_panel {
-    width:70%;
-    margin-top: 20px;
     position: absolute;
     top: 80%;
     left: 50px;
     cursor: move;
+    z-index: 99999;
+    max-width: 40%;
 }
 #rects::before {
   content: "So far: ";
@@ -445,42 +445,33 @@ a:link, a:visited {
 #target, #rects {
     font-size: 20px;
     text-align: center;
-    width: 50%;
     border-radius: 5px;
     background: rgba(0,0,0,0.9);
-    margin-left: 35%;
     z-index: 1002;
     color: #FFF;
     position: relative;
     overflow: hidden;
     display: block;
-    margin: 0 auto;
 }
 #title {
     font-size: 1vw;
     text-align: center;
-    width: 50%;
     border-radius: 5px;
     background: rgba(0,0,0,0.9);
-    margin-left: 35%;
     z-index: 1002;
     color: #FFF;
     position: relative;
     overflow: hidden;
     display: block;
-    margin: 0 auto;
 }
 #inscription {
     font-family: 'LinearA';
     font-size: 2vw;
-    width: 50%;
     border-radius: 5px;
     background: rgba(0,0,0,0.9);
-    margin-left: 35%;
     z-index: 1002;
     color: #FFF;
     position: relative;
-    margin: 0 auto;
     overflow-wrap: break-word;
 }
 #from_imagemap_wrapper, #from_html_wrapper {
