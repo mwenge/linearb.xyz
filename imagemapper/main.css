@@ -311,6 +311,9 @@ a:link, a:visited {
 }
 .detail_panel {
     margin-top: 20px;
+    position: absolute;
+    top: 80%;
+    left: 50px;
 }
 
 .error#url {
