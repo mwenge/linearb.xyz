@@ -310,7 +310,7 @@ a:link, a:visited {
     box-sizing: border-box;
 }
 .detail_panel {
-    position: absolute;
+    position: fixed;
     top: 80%;
     left: 50px;
     cursor: move;
