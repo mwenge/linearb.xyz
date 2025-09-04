@@ -30258,7 +30258,7 @@ var lexicon = new Map(
             "greek": "σπέρμον",
             "interpretations": [],
             "transcription": "pe-mo",
-            "translation": ""
+            "translation": "seed"
         }
     ],
     [
