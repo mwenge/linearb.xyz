@@ -6,6 +6,10 @@
  * Released under the MIT license
  */
 
+/*
+ * Drag support for the inscription panel. Allows the user
+ * to drag it out of the way of the image.
+ */
 function drag_start(event) {
   var style = window.getComputedStyle(event.target, null);
   event.dataTransfer.setData("text/plain",
@@ -30,7 +34,9 @@ dm.addEventListener('dragstart',drag_start,false);
 document.body.addEventListener('dragover',drag_over,false);
 document.body.addEventListener('drop',drop,false); 
 
-
+/*
+ * The App itself.
+ */
 var summerHtmlImageMapCreator = (function() {
     'use strict';
     
@@ -519,6 +525,32 @@ var summerHtmlImageMapCreator = (function() {
                 };
                 return this;
             },
+            updateInscriptionPanel : function(inscription) {
+                document.getElementById('title').textContent = inscription.name;
+
+                var letters = [];
+                for (var i = 0; i < inscription.words.length; i++) {
+                  if (inscription.words[i] == inscription.transliteratedWords[i]) {
+                    continue;
+                  }
+                  letters.push(inscription.words[i]);
+                }
+                letters =  letters.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
+                letters = letters.join('').replace(/\u{1076b}/gu, "");
+                var splitter = new GraphemeSplitter();
+                
+                var inscriptionElement = document.getElementById("inscription");
+                inscriptionElement.textContent = "";
+                var graphemes = splitter.splitGraphemes(letters);
+                for (var grapheme of graphemes) {
+                  var span = document.createElement("span");
+                  span.textContent = grapheme;
+                  inscriptionElement.appendChild(span);
+                }
+                var letterCount = splitter.countGraphemes(letters);
+                document.getElementById('target').textContent = "Target: " + letterCount;
+                document.getElementById("rects").textContent = "";
+            },
             loadNextImage : function() {
                 var inscriptionsToLoad = Array.from(inscriptions.keys())[Symbol.iterator]();
                 for (var i = 0; i < 4000; i++) {
@@ -542,30 +574,7 @@ var summerHtmlImageMapCreator = (function() {
                     var inStorage = window.localStorage.getItem(imageToLoad);
                     if (!inStorage) {
                       app.loadImage(imageToLoad, isFacsimileImage(imageToLoad, inscription.facsimileImages));
-                      document.getElementById('title').textContent = inscription.name;
-
-                      var letters = [];
-                      for (var i = 0; i < inscription.words.length; i++) {
-                        if (inscription.words[i] == inscription.transliteratedWords[i]) {
-                          continue;
-                        }
-                        letters.push(inscription.words[i]);
-                      }
-                      letters =  letters.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
-                      letters = letters.join('').replace(/\u{1076b}/gu, "");
-                      var splitter = new GraphemeSplitter();
-                      
-                      var inscriptionElement = document.getElementById("inscription");
-                      inscriptionElement.textContent = "";
-                      var graphemes = splitter.splitGraphemes(letters);
-                      for (var grapheme of graphemes) {
-                        var span = document.createElement("span");
-                        span.textContent = grapheme;
-                        inscriptionElement.appendChild(span);
-                      }
-                      var letterCount = splitter.countGraphemes(letters);
-                      document.getElementById('target').textContent = "Target: " + letterCount;
-                      document.getElementById("rects").textContent = "";
+                      app.updateInscriptionPanel(inscription);
                       return this;
                     }
                   }
@@ -2818,7 +2827,7 @@ var summerHtmlImageMapCreator = (function() {
             }
         };
     })();
-    app.loadNextImage();
+
 
     /* Buttons and actions */
     var buttons = (function() {
@@ -3000,5 +3009,37 @@ var summerHtmlImageMapCreator = (function() {
         rectangle.click();
     })();
 
+    window.onload = function() {
+      /*
+       * If we've been passed an image to load, then load it.
+       */
+      if (tryWord()) {
+        return;
+      }
+      /* 
+       * Start the app by loading an available image
+       */
+
+      app.loadNextImage();
+
+      function tryWord() {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (!urlParams.get('inscription')) {
+          return false;
+        }
+        const key = urlParams.get('inscription').replace(/'/g, "\"");
+        if (!key) {
+          return false;
+        }
+        var inscription = inscriptions.get(key);
+        if (!inscription) {
+          return false;
+        }
+        const imgURL = inscription.images[0];
+        app.loadImage(imgURL, false);
+        app.updateInscriptionPanel(inscription);
+        return true;
+      }
+    };
 })();
 
