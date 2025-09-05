@@ -82,10 +82,10 @@ body {
   font-size: 4vh;
   border: none;
   border-bottom: gray 3px solid;
-  padding: 5px;
-  padding-left: .5em;
+  padding: 0.2vw;
+  padding-left: 0.3vw;
   background-color: rgba(255, 255, 255, 0.6);
-  max-width: 500px;
+  max-width: 20vw;
 }
 input:focus::placeholder { color:transparent; }
 .comment-box {
@@ -364,7 +364,7 @@ dt, dd, font {
 }
 .word-tip {
   position: absolute;
-  font-size: 14px;
+  font-size: 1.5vh;
   color: white;
   background-color: black;
   border: 1px solid white;
@@ -386,9 +386,11 @@ dt, dd, font {
 
 .top-right-console {
   position: fixed;
-  right: 0;
+  left: 18vh;
   top:0;
-  padding: 10px;
+  padding: 0.2vw;
+  font-size: 3vh;
+  z-index: 99999;
 }
 
 .search-terms {
@@ -396,14 +398,12 @@ dt, dd, font {
 }
 
 .sort-status, .search-term {
-  margin: 10px;
-  padding: 5px;
-  font-size: 25px;
-  border: 1px solid black;
+  margin: 0.2vw;
+  padding: 0.2vw;
+  border: 0.1vw solid black;
   background-color: gray;
   opacity: 0.5;
-  float: right;
-  clear: both;
+  float: left;
 }
 
 .sort-status { display: none; }
@@ -482,6 +482,7 @@ dt, dd, font {
   transform: translateX(-50%); /* horizontally centre */
   bottom: 0;
   z-index: 5000;
+  font-size: 2vh;
   font-family: 'Routed', 'Noto Symbols', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Routed', 'Noto Mono' sans-serif;
 }
 .filter-command-container {
@@ -507,10 +508,9 @@ dt, dd, font {
   color: white;
   opacity: 0.6;
   border-radius: 50%;
-  font-size: 1em;
-  width: 3em;
-  height: 3em;
-  line-height: 3em;
+  width: 5vh;
+  height: 5vh;
+  line-height: 5vh;
   text-align: center;
   border: 2px white solid;
   display: inline-block;
@@ -522,10 +522,9 @@ dt, dd, font {
   color: white;
   opacity: 0.6;
   border-radius: 50%;
-  font-size: 1em;
-  width: 3em;
-  height: 3em;
-  line-height: 3em;
+  width: 5vh;
+  height: 5vh;
+  line-height: 5vh;
   text-align: center;
   border: 2px white solid;
   display: inline-block;
@@ -555,9 +554,10 @@ dt, dd, font {
   position: fixed;
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
-  bottom: 5em;
+  bottom: 10vh;
   visibility: hidden;
   z-index: 1500;
+  font-size: 1vh;
 }
 #filter-details-container {
   background-color: rgba(0,0,0,0.1);
@@ -766,7 +766,7 @@ textarea:focus, input:focus{
   flex-basis: 100%;
 }
 .image-item-stacked {
-  max-width: 400px;
+  max-width: 500px;
 }
 .image-item-stacked-large {
   max-width: 600px;
@@ -780,7 +780,7 @@ textarea:focus, input:focus{
   min-width: 275px;
 }
 .image-item, .image-item-large {
-  max-width: 400px;
+  max-width: 500px;
 }
 .image-item-small {
   max-width: 200px;
@@ -803,7 +803,7 @@ textarea:focus, input:focus{
   position: absolute;
   left: 0;
   top: 0;
-  font-size: 14px;
+  font-size: 1.5vh;
   color: white;
   background-color: black;
   border: 1px solid white;
