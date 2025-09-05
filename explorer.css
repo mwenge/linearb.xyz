@@ -53,6 +53,7 @@ body {
 }
 .lexicon {
   margin-bottom: 2px;
+  line-height: 1.5vh;
 }
 .lemma {
   font-size: 12px;
@@ -592,7 +593,7 @@ area {
 }
 .tip-image-display {
   padding: 0;
-  max-height: 50px;
+  max-height: 8vh;
 }
 .word-image-label {
   padding: 3px;

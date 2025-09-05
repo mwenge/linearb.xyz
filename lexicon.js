@@ -8728,7 +8728,9 @@ var lexicon = new Map(
         {
             "greek": "δοέλα (>δούλη)",
             "interpretations": [
-                "Palaeolexicon: DO-E-RA female slave Wiktionary slave (female) Chadwick & Ventris: maid-servant bondwoman slave Masculine form: do-e-ro p. 540"
+                "Palaeolexicon: DO-E-RA female slave Wiktionary slave (female)",
+                "Chadwick & Ventris: maid-servant bondwoman slave",
+              "Masculine form: do-e-ro p. 540"
             ],
             "transcription": "do-e-ra",
             "translation": "slave (fem.)"
