@@ -32,7 +32,7 @@ var result = document.getElementById("result");
 result.addEventListener("animationend", function() { result.style.display = "none"; result.style.animationDelay = "0s";});
 
 const searchHiddenEvent = new Event("searchhidden");
-console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
+console.log("If you have any feedback open a ticket at https://github.com/mwenge/linearb.xyz/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
   var search = document.getElementById("search");
@@ -207,7 +207,7 @@ function makeShowApparatus(inscription) {
     var refCell = document.getElementById(cellID);
     var span = document.createElement("span");
     span.className = "biblio-ref";
-    span.textContent = "Open at: ";
+    span.textContent = "";
     refCell.appendChild(span);
     const MAX_REFS = 4;
     for (var i = 0; i < Math.min(MAX_REFS,refs.length); i++) {
@@ -542,7 +542,8 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
   var img = document.createElement("img");
   img.src = encodeURIComponent(imageToAdd);
   img.id = "image-" + imageType + "-" + encodeURIComponent(imageToAdd);
-  img.height = "200";
+  img.style.maxHeight = "500px";
+  img.style.maxWidth = "500px";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
   img.addEventListener("load", addWordsToImage(imageToAdd, inscription.name, imageType, img, imageWrapper, itemZoom, item, stack));
   imageWrapper.appendChild(img);
@@ -799,6 +800,7 @@ function loadInscription(inscription) {
   label.className = "label";
   label.textContent = inscription.label;
   item.appendChild(label);
+  label.addEventListener("click", updateSearchTerms(inscription.label));
 
   var label = document.createElement("div");
   label.className = "close-window";
@@ -999,11 +1001,6 @@ function addWordTip(word, name, index) {
   var wordCount = 0;
   if (wordsInCorpus.has(word)) {
     wordCount = wordsInCorpus.get(word) - 1;
-  }
-
-  var bib = document.getElementById(name + "-biblio-container");
-  if (bib) {
-    bib.style.visibility = "hidden";
   }
 
   var tip = document.getElementById(name + "-inscription-word-tip");

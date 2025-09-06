@@ -8708,7 +8708,7 @@ var lexicon = new Map(
         {
             "greek": "δόνδε (>δώ)",
             "interpretations": [
-                "Chadwick & Spyropoulos 1975: to the house of (a human) δῶ + allative Chadwick John and Theodoros Spyropoulos     1975 The Thebes Tablets II"
+                "Chadwick & Spyropoulos 1975: to the house of (a human) δῶ + allative"
             ],
             "transcription": "do-de",
             "translation": "referring to the ‘domos’ (δόμος)=house, dwelling"
@@ -8741,7 +8741,7 @@ var lexicon = new Map(
         {
             "greek": "",
             "interpretations": [
-                "Chadwick & Ventris 1973: male slave servant bondman See main entry do-e-ra.",
+                "Chadwick & Ventris 1973: male slave servant bondman",
                 "Chadwick & Ventris 1973: dative plural",
                 "Chadwick & Ventris 1973: genitive singular Iliad VI.463: δούλιον 'bondage'"
             ],
@@ -23677,7 +23677,8 @@ var lexicon = new Map(
             "greek": "μελιδάματες",
             "interpretations": [
                 "Chadwick & Ventris 1973: title of an official perhaps \"\"superintendants [sic] of honey\"\" cf. du-ma",
-                "Chadwick & Ventris 1973: variant spelling of me-ri-da-ma-te? Palaeolexicon: honey administrators Chadwick & Ventirs 1973: dative plural of me-ri-da-ma-te",
+                "Chadwick & Ventris 1973: variant spelling of me-ri-da-ma-te? Palaeolexicon: honey administrators",
+                "Chadwick & Ventirs 1973: dative plural of me-ri-da-ma-te",
                 "Chadwick & Ventris 1973: error for me-ri-du-ma-te"
             ],
             "transcription": "me-ri-da-ma-te",
@@ -24212,7 +24213,9 @@ var lexicon = new Map(
                 "Chadwick & Ventris 1973: smaller younger Duhoux 2008: smaller lesser",
                 "Chadwick & Ventris 1973: Alternate spelling of me-wi-jo",
                 "Chadwick & Ventris 1973: Nominative plural of me-wi-jo",
-                "Chadwick & Ventris 1973: Nominative plural of me-u-jo μείων less p. 561 Duhoux Yves 2008. A Companion to Linear B: Mycenaean Greek Texts and their World \"\"Mycenaean Anthology\"\" p. 281 321 Heubeck 1963 TBD p. 199-200"
+                "Chadwick & Ventris 1973: Nominative plural of me-u-jo μείων less p. 561",
+                "Duhoux Yves 2008. A Companion to Linear B: Mycenaean Greek Texts and their World \"\"Mycenaean Anthology\"\" p. 281 321",
+              "Heubeck 1963 TBD p. 199-200"
             ],
             "transcription": "me-wi-jo",
             "translation": "smaller(one person)"
