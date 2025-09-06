@@ -259,7 +259,7 @@ function autocomplete(inp) {
     this.parentNode.insertBefore(a, document.getElementById("search"));
 
     var text = event.target.value.toLowerCase();
-    if (text.length > 2) {
+    if (text.length > 1) {
       searchHints.forEach( hint => {
         if (hint.toLowerCase().includes(text)) {
           addEntry(this, a, hint, "");
@@ -1285,7 +1285,7 @@ function showWordChart(searchTerm, item) {
   }
 }
 
-function updateSearchTerms(searchTerm) {
+function addToSearchTerms(searchTerm, callback=null) {
   return function(evt) {
     if (!searchTerm.length) {
       return;
@@ -1301,6 +1301,12 @@ function updateSearchTerms(searchTerm) {
     item.textContent = searchTerm;
     item.id = "search-for-" + searchTerm;
     item.setAttribute("term", searchTerm);
+
+    // Allow us to clear any tag filters from the search
+    if (callback) {
+      item.addEventListener("click", callback(searchTerm));
+    }
+
     item.addEventListener("click", removeFilter);
     item.addEventListener("mouseenter", showWordChart(searchTerm, item));
     item.addEventListener("mouseout", hideWordChart);
@@ -1311,6 +1317,16 @@ function updateSearchTerms(searchTerm) {
     item.setAttribute("highlightColor", color);
 
     container.appendChild(item);
+    if (!evt) {
+      return;
+    }
+    evt.stopPropagation();
+  }
+}
+
+function updateSearchTerms(searchTerm) {
+  return function(evt) {
+    addToSearchTerms(searchTerm)();
     applySearchTerms();
     if (!evt) {
       return;
@@ -1751,6 +1767,7 @@ function consoleButton(button, metadata, activeMetadataName) {
       activeTags.splice(activeTags.indexOf(tag), 1);
     } else {
       activeTags.push(tag);
+      addToSearchTerms(tag, toggleMetadatum)();
     }
     var element = event.target;
     // Don't change the color of the tag if it is not being clicked from the menu

@@ -372,7 +372,7 @@ dt, dd, font {
   border-radius: 10px;
   padding: 3px;
   opacity: 0.96;
-  z-index: 100;
+  z-index: 9999999;
   right: 0;
   top: 0;
 }
@@ -810,7 +810,7 @@ textarea:focus, input:focus{
   border: 1px solid white;
   border-radius: 10px;
   padding: 3px;
-  z-index: 999;
+  z-index: 9999999;
   display: none;
 }
 .biblio-container:hover { display: block; }
