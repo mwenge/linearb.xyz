@@ -786,6 +786,23 @@ function loadInscription(inscription) {
       tagContainer.appendChild(label);
     });
   });
+
+  // Add a tag if image needs marking up.
+  for (var imageToLoad of [inscription.images, inscription.facsimileImages].flat()) {
+    if (coordinates.has(imageToLoad)) {
+      continue;
+    }
+    var label = document.createElement("div");
+    label.className = 'tag';
+    if (!tagColors[tag]) {
+      tagColors[tag] = cycleColor(); 
+    }
+    label.style.backgroundColor = tagColors[tag];
+    label.innerHTML = `<a href="imagemapper/?inscription=${inscription.name}" target="_blank">Needs Markup</a>`;
+    tagContainer.appendChild(label);
+    break;
+  }
+
   var paddingFactor = Math.ceil(tagsToAdd.length / 2);
   var paddingToAdd = 20 * paddingFactor;
   // Apply padding to image item so that the tags fit and item separators display properly

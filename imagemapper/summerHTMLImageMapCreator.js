@@ -3052,10 +3052,15 @@ var summerHtmlImageMapCreator = (function() {
         if (!inscription) {
           return false;
         }
-        const imgURL = inscription.images[0];
-        app.loadImage(imgURL, false);
-        app.updateInscriptionPanel(inscription);
-        return true;
+        for (var imageToLoad of [inscription.images, inscription.facsimileImages].flat()) {
+          if (coordinates.has(imageToLoad)) {
+            continue;
+          }
+          const imgURL = inscription.images[0];
+          app.loadImage(imgURL, false);
+          app.updateInscriptionPanel(inscription);
+          return true;
+        }
       }
     };
 })();
