@@ -219,6 +219,7 @@ var summerHtmlImageMapCreator = (function() {
                 DELETE : 46,
                 I      : 73,
                 S      : 83,
+                U      : 85,
                 N      : 78,
                 C      : 67,
                 O      : 79,
@@ -398,6 +399,10 @@ var summerHtmlImageMapCreator = (function() {
                         info.unload();
                     }
                     
+                    break;
+
+                case KEYS.U:
+                    app.undo();
                     break;
                 
                 case KEYS.I:
@@ -636,6 +641,12 @@ var summerHtmlImageMapCreator = (function() {
                 }
                 code.hide();
                 info.unload();
+                return this;
+            },
+            undo : function() {
+                state.areas.pop();
+                document.getElementById("inscription").children[state.areas.length].style.color = "white";
+                domElements.svg.removeChild(domElements.svg.childNodes[domElements.svg.childNodes.length-1]);
                 return this;
             },
             removeObject : function(obj) {
@@ -2977,6 +2988,11 @@ var summerHtmlImageMapCreator = (function() {
             e.preventDefault();
         }
 
+        function onUndoButtonClick(e) {
+            app.undo();
+            e.preventDefault();
+        }
+
         function onDownloadButtonClick(e) {
             app.download();
             e.preventDefault();
@@ -3002,6 +3018,7 @@ var summerHtmlImageMapCreator = (function() {
         rectangle.addEventListener('click', onShapeButtonClick, false);
         polygon.addEventListener('click', onShapeButtonClick, false);
         edit.addEventListener('click', onEditButtonClick, false);
+        undo.addEventListener('click', onUndoButtonClick, false);
         download.addEventListener('click', onDownloadButtonClick, false);
         show_help.addEventListener('click', onShowHelpButtonClick, false);
 
