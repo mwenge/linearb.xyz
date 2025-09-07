@@ -542,8 +542,6 @@ function addImageToItem(item, imageToAdd, inscription, imageType, stack, classSu
   var img = document.createElement("img");
   img.src = encodeURIComponent(imageToAdd);
   img.id = "image-" + imageType + "-" + encodeURIComponent(imageToAdd);
-  img.style.maxHeight = "500px";
-  img.style.maxWidth = "500px";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
   img.addEventListener("load", addWordsToImage(imageToAdd, inscription.name, imageType, img, imageWrapper, itemZoom, item, stack));
   imageWrapper.appendChild(img);
