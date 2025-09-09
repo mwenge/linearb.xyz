@@ -86,7 +86,7 @@ body {
   padding: 0.2vw;
   padding-left: 0.3vw;
   background-color: rgba(255, 255, 255, 0.6);
-  max-width: 20vw;
+  max-width: 50vw;
 }
 input:focus::placeholder { color:transparent; }
 .comment-box {
@@ -375,7 +375,7 @@ dt, dd, font {
   border-radius: 10px;
   padding: 3px;
   opacity: 0.96;
-  z-index: 9999999;
+  z-index: 999999;
   right: 0;
   top: 0;
 }
@@ -567,6 +567,7 @@ dt, dd, font {
   visibility: hidden;
   z-index: 1500;
   font-size: 1vh;
+  z-index: 9999999;
 }
 #filter-details-container {
   background-color: rgba(0,0,0,0.1);
@@ -727,15 +728,13 @@ textarea:focus, input:focus{
   flex-direction: column-reverse;
   border-bottom: none;
   border-top: none;
-  z-index: 99;
+  z-index: 9999999;
   /*position the autocomplete items to be the same width as the container:*/
   left: 0;
   right: 0;
-  padding-left: .5em;
-  max-width: 500px;
+  max-width: 50vw;
 }
 .autocomplete-items div {
-  padding: 5px;
   cursor: pointer;
 }
 .autocomplete-item:hover {
@@ -818,7 +817,7 @@ textarea:focus, input:focus{
   border: 1px solid white;
   border-radius: 10px;
   padding: 3px;
-  z-index: 9999999;
+  z-index: 999999;
   display: none;
 }
 .biblio-container:hover { display: block; }
@@ -857,4 +856,34 @@ textarea:focus, input:focus{
 [id='Py212'] > .item-shell > .item
 {
   max-width: 1200px;
+}
+
+/* Mobiles */
+@media only screen 
+  and (min-device-width: 280px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2),
+  only screen 
+  and (min-device-width: 280px) 
+  and (max-device-width: 480px)
+  and (min-device-pixel-ratio: 2),
+  {
+	#filters-container { display: none; }
+	#credits { display: none; }
+	#search-container { bottom: 1vh; }
+	body { padding-top: 5vh; }
+	.search {
+    font-size: 8vw;
+   }
+  .word-tip {
+    display: none !important;
+   }
+}
+
+/* Mobiles */
+@media only screen 
+  and (min-device-width: 700px) 
+  and (max-device-width: 768px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	body { padding-top: 5vh; }
 }
