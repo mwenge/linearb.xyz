@@ -18,7 +18,8 @@
 <script src="../html2canvas.min.js"></script>
 <script src="../LinearBInscriptions.js"></script>
 <script src="../annotations.js"></script>
-<script src="../tags.js"></script>
+<script src="../groups.js"></script>
+<script src="../contexts.js"></script>
 <script src="../imagemaps.js"></script>
 <script src="../grapheme.js"></script>
 <script src="../utils.js"></script>
@@ -68,41 +69,28 @@
 <div class="bottom-console">
   <div class="filters-container">
     <div class="filter-command-container">
-      <div class="filter-command" id="numbers-command"
-        onclick="loadChart(event, 'number');">𐄏</div>
-      <div class="filter-label">Numbers</div>
-    </div>
     <div class="filter-command-container">
       <div class="filter-command" id="words-command"
-        onclick="loadChart(event, 'word');">W</div>
+        onclick="toggleDisplayType(event);">W</div>
       <div class="filter-label">Words</div>
     </div>
     <div class="filter-command-container">
-      <div class="filter-command" id="ideograms-command"
-        onclick="loadChart(event, 'ideogram');">𐘃</div>
-      <div class="filter-label">Ideograms</div>
-    </div>
-    <div class="filter-command-container">
       <div class="filter-command" id="letters-command" style="background-color: purple;"
-        onclick="loadChart(event, 'letter');">C</div>
+        onclick="toggleDisplayType(event);">C</div>
       <div class="filter-label">Characters</div>
     </div>
     <div class="filter-command-container">
       <div class="display-command" id="facsimiles-command" style="background-color: purple;"
-        onclick="toggleFacsimiles(event);">🖋</div>
+        onclick="toggleImageType(event);">🖋</div>
       <div class="filter-label">Facsimiles</div>
     </div>
     <div class="filter-command-container">
       <div class="display-command" id="photos-command" style="background-color: black;"
-        onclick="togglePhotos(event);">📷</div>
+        onclick="toggleImageType(event);">📷</div>
       <div class="filter-label">Photos</div>
-    </div>
-    <div class="filter-command-container">
-      <div class="filter-command" id="search-command" onclick="sendKey(event, '/')">&#128269;</div>
-      <div class="filter-label">Search</div>
     </div>
   </div>
 </div>
 <script>
-initializeChart();
+loadChart();
 </script>
