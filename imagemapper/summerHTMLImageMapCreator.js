@@ -536,8 +536,14 @@ var summerHtmlImageMapCreator = (function() {
                 domElements.img.src = '../' + encodeURIComponent(url);
                 state.image.src = '../' + url;
 
-                let comparisonImage = `images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
-                domElements.comparison.src = (facsimiles.includes(comparisonImage)) ? "" : encodeURIComponent("../" + comparisonImage);
+                // If it's a photo, show a facsimile for side by side comparison.
+                if (facsimiles.includes(url)) {
+                  let comparisonImage = `images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
+                  domElements.comparison.src = encodeURIComponent("../" + comparisonImage);
+                  domElements.comparison.style.display = "block";
+                } else {
+                  domElements.comparison.style.display = "none";
+                }
                 
                 domElements.img.onload = function() {
                     get_image.hideLoadIndicator().hide();
