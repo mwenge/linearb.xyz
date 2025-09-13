@@ -309,6 +309,14 @@ a:link, a:visited {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+#comparison_image {
+    position: fixed;
+    top: 20%;
+    left: 250px;
+    cursor: move;
+    z-index: 99999;
+    max-width: 40%;
+}
 .detail_panel {
     position: fixed;
     top: 80%;

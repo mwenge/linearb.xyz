@@ -11,15 +11,28 @@
  * to drag it out of the way of the image.
  */
 function drag_start(event) {
+  const allowed = ["comparison_image","detail_panel"];
+  if (!allowed.includes(event.target.id)) {
+    return;
+  }
   var style = window.getComputedStyle(event.target, null);
   event.dataTransfer.setData("text/plain",
-    (parseInt(style.getPropertyValue("left"),10) - event.clientX) + ',' + (parseInt(style.getPropertyValue("top"),10) - event.clientY));
+    `
+    {
+    "name": "${event.target.id}",
+    "left": ${(parseInt(style.getPropertyValue("left"),10) - event.clientX)},
+    "top": ${(parseInt(style.getPropertyValue("top"),10) - event.clientY)}
+    }
+    `
+  )
 } 
 function drop(event) {
-  var offset = event.dataTransfer.getData("text/plain").split(',');
-  var dm = document.getElementById('detail_panel');
-  dm.style.left = (event.clientX + parseInt(offset[0],10)) + 'px';
-  dm.style.top = (event.clientY + parseInt(offset[1],10)) + 'px';
+  let data = event.dataTransfer.getData("text/plain");
+  console.log(data);
+  data = JSON.parse(data);
+  var dm = document.getElementById(data.name);
+  dm.style.left = (event.clientX + parseInt(data.left,10)) + 'px';
+  dm.style.top = (event.clientY + parseInt(data.top,10)) + 'px';
   event.preventDefault();
   return false;
 }
@@ -30,6 +43,8 @@ function drag_over(event) {
 } 
 
 var dm = document.getElementById('detail_panel');
+dm.addEventListener('dragstart',drag_start,false);
+dm = document.getElementById('comparison_image');
 dm.addEventListener('dragstart',drag_start,false);
 document.body.addEventListener('dragover',drag_over,false);
 document.body.addEventListener('drop',drop,false); 
@@ -185,7 +200,7 @@ var summerHtmlImageMapCreator = (function() {
                 wrapper : utils.id('wrapper'),
                 svg : utils.id('svg'),
                 img : utils.id('img'),
-                comparison : utils.id('comp_img'),
+                comparison : utils.id('comparison_image'),
                 container : utils.id('image'),
                 map : null
             },
@@ -515,12 +530,13 @@ var summerHtmlImageMapCreator = (function() {
                 domElements.container.style.height = height + 'px';
                 return this;
             },
-            loadImage : function(url, comp) {
+            loadImage : function(url) {
                 get_image.showLoadIndicator();
                 domElements.img.src = '../' + encodeURIComponent(url);
                 state.image.src = '../' + url;
 
-                domElements.comparison.src = '../' + encodeURIComponent(comp);
+                let comparisonImage = `../images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
+                domElements.comparison.src = encodeURIComponent(comparisonImage);
                 
                 domElements.img.onload = function() {
                     get_image.hideLoadIndicator().hide();
@@ -557,7 +573,9 @@ var summerHtmlImageMapCreator = (function() {
                 document.getElementById("rects").textContent = "";
             },
             loadNextImage : function() {
-                var inscriptionsToLoad = Array.from(inscriptions.keys())[Symbol.iterator]();
+                var allInscriptions = tagValues.map(x => x[0])  // Do any tagged ones first.
+                allInscriptions = allInscriptions.concat(inscriptions.keys()); // Add the rest.
+                var inscriptionsToLoad = Array.from(allInscriptions)[Symbol.iterator]();
                 for (var i = 0; i < 4000; i++) {
                   var key = inscriptionsToLoad.next().value;
                   var inscription = inscriptions.get(key);
