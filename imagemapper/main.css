@@ -312,7 +312,7 @@ a:link, a:visited {
 #comparison_image {
     position: fixed;
     top: 20%;
-    left: 250px;
+    left: 750px;
     cursor: move;
     z-index: 99999;
     max-width: 40%;
