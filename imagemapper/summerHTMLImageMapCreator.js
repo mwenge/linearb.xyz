@@ -367,7 +367,7 @@ var summerHtmlImageMapCreator = (function() {
                     if (state.isDraw) {
                         state.isDraw = false;
                         state.newArea.remove();
-                        state.areas.pop();
+                        app.cancel();
                         app.removeAllEvents();
                     } else if (state.appMode === 'editing') {
                         state.selectedArea.redraw();
@@ -530,13 +530,14 @@ var summerHtmlImageMapCreator = (function() {
                 domElements.container.style.height = height + 'px';
                 return this;
             },
-            loadImage : function(url) {
+            loadImage : function(url, facsimiles) {
+
                 get_image.showLoadIndicator();
                 domElements.img.src = '../' + encodeURIComponent(url);
                 state.image.src = '../' + url;
 
-                let comparisonImage = `../images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
-                domElements.comparison.src = encodeURIComponent(comparisonImage);
+                let comparisonImage = `images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
+                domElements.comparison.src = (facsimiles.includes(comparisonImage)) ? "" : encodeURIComponent("../" + comparisonImage);
                 
                 domElements.img.onload = function() {
                     get_image.hideLoadIndicator().hide();
@@ -582,21 +583,13 @@ var summerHtmlImageMapCreator = (function() {
                   if (!inscription) {
                     continue;
                   }
-                  function isFacsimileImage(img, facsimiles) {
-                    for (var fac of facsimiles) {
-                      if (fac == img) {
-                        return true;
-                      }
-                    }
-                    return false;
-                  }
                   for (var imageToLoad of [inscription.images, inscription.facsimileImages].flat()) {
                     if (coordinates.has(imageToLoad)) {
                       continue;
                     }
                     var inStorage = window.localStorage.getItem(imageToLoad);
                     if (!inStorage) {
-                      app.loadImage(imageToLoad, isFacsimileImage(imageToLoad, inscription.facsimileImages));
+                      app.loadImage(imageToLoad, inscription.facsimileImages);
                       app.updateInscriptionPanel(inscription);
                       return this;
                     }
@@ -661,9 +654,12 @@ var summerHtmlImageMapCreator = (function() {
                 info.unload();
                 return this;
             },
-            undo : function() {
+            cancel : function() {
                 state.areas.pop();
                 document.getElementById("inscription").children[state.areas.length].style.color = "white";
+            },
+            undo : function() {
+                app.cancel();
                 domElements.svg.removeChild(domElements.svg.childNodes[domElements.svg.childNodes.length-1]);
                 return this;
             },
