@@ -631,13 +631,6 @@ a:link, a:visited {
   and (min-device-pixel-ratio: 2),
   {
   .detail_panel {
-      position: fixed;
-      top: auto;
-      bottom: 0;
-      left: 0;
-      cursor: move;
-      z-index: 99999;
-      width: 100%;
       font-size: 3vh;
       max-width: 100%;
   }
