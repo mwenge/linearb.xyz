@@ -176,7 +176,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py648_PN_0.jpg"
             ],
-            "label": "PY Es 648 + fr. $644$",
+            "label": "PY Es 648 + fr.",
             "name": "Py648",
             "parsedInscription": "          a-ne-o    do-so-mo  po-se-da-o-ne     GRA   T   5\n        *34-ke-te-si    do-so-mo                         GRA   V   1\n        we-da-ne-wo    do-so-mo                      GRA   V   1\n        di-wi-je-we    do-so-mo                         GRA   V   1\n                                                         vac.",
             "scribe": "",
@@ -498,7 +498,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py958_PN_0.jpg"
             ],
-            "label": "PY Xn 958 $-$ (Ci)",
+            "label": "PY Xn 958 (Ci)",
             "name": "Py958",
             "parsedInscription": "                        sup. mut.\n                             ]vest.[\n                             ]na     [\n                          inf. mut.",
             "scribe": "",
@@ -726,7 +726,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py371_PN_0.jpg"
             ],
-            "label": "PY Eo 371 [+] 1160 + fr. + fr. $149$",
+            "label": "PY Eo 371 [+] 1160 + fr. + fr.",
             "name": "Py371",
             "parsedInscription": "                                         ke-ra-me-wo    wa-na-ka-te-ro\n        pi-ri[-]ta-wo    ko-to-na⌞ ⌟ki-ti-me-na                                  GRA   [   1   T   1",
             "scribe": "",
@@ -1011,7 +1011,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1037_PN_0.jpg"
             ],
-            "label": "PY Na 1037 $106$",
+            "label": "PY Na 1037",
             "name": "Py1037",
             "parsedInscription": "                  SA     ]6",
             "scribe": "",
@@ -1048,7 +1048,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py808_PN_0.jpg"
             ],
-            "label": "PY Ea 808 $28$",
+            "label": "PY Ea 808",
             "name": "Py808",
             "parsedInscription": "                                                          pa-ro    da-mo\n        ka-ra-pi    e-te-do-mo    e-ke    o-na-to              GRA     1",
             "scribe": "",
@@ -1762,7 +1762,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py347_PN_0.jpg"
             ],
-            "label": "PY Eb 347 [+] 1354 $149$",
+            "label": "PY Eb 347 [+] 1354",
             "name": "Py347",
             "parsedInscription": "        ko-ri-si-ja    te-o-jo    do-e-ra    e-ke-qe    o-na[-to ]ke-ke-me-na    ko-to[-na\n             pa-ro    da-mo             GRA   1   ⟦  T   8  ⟧[              ]     vacat                         [",
             "scribe": "",
@@ -1867,7 +1867,7 @@ var inscriptions = new Map(
                 "images/photos/Py1326_PN_1.jpg",
                 "images/photos/Py1326_PN_2.jpg"
             ],
-            "label": "PY Wr 1326 $-$ (Ciii)",
+            "label": "PY Wr 1326 (Ciii)",
             "name": "Py1326",
             "parsedInscription": "α\n        sigillum\nβ\n                         ]jo\nγ\n        de-mi-ni-jo",
             "scribe": "",
@@ -2418,7 +2418,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py18_PN_0.jpg"
             ],
-            "label": "PY An 18 $-$",
+            "label": "PY An 18",
             "name": "Py18",
             "parsedInscription": "        e-re-u-te-ri-[\n        te-ko-to-na-pe   VIR   [\n        i-na-ni-ja              VIR   1[       ]ja       VIR   [\n        re-si-we-i             VIR[   ]1   a-se-e   VIR   1\n                                        vac.\n        te-re-ne-we    to-ko-do-mo   a-pe-o   VIR   1\n        i-na-ne                  VIR   1       te-ko-to-na-pe   1\n                                        vac.\n        qo-u-ko-ro   ti-no     VIR   90\n                                   vac.\n      pa-ki-ja-si    to-so    te-[\n                   VIR   254[                                  ]   vac.",
             "scribe": "",
@@ -2708,7 +2708,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1429_PN_0.jpg"
             ],
-            "label": "PY Mb 1429 $1412$",
+            "label": "PY Mb 1429",
             "name": "Py1429",
             "parsedInscription": "                                ]*146   4",
             "scribe": "",
@@ -2745,7 +2745,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py519_PN_0.jpg"
             ],
-            "label": "PY An 519 + fr. $657$",
+            "label": "PY An 519 + fr.",
             "name": "Py519",
             "parsedInscription": "        to-ro-o    o-ka    ro-o-wa  \n        ka-da-si-jo    mo-ro-qa    zo-wo \n        ki-ri-ja-i-jo    wa-tu-wa-o-ko    mu-to-na\n        o-ka-ra3    a2-ra-tu-wa     VIR   110\n                                            vac.\n        ke-wo-no-jo    o-ka    ka-ke[\n        tu-si-je-u    po-te-u⌞ ⌟e-ta-wo-ne-u[\n        a-pi-te-wa    i-wa-so                  VIR   60[\n                                            vac.\n      a2-te-po    de-wi-jo    ko-ma-we  \n      o-*34-ta-qe    u-ru-pi-ja-jo  \n      o-ru-ma-si-ja-jo                           VIR   30\n                                         vac.\n      pi-ru-te    ku-re-we                    VIR   50\n      me-ta-qe    pe-i    e-qe-ta    ro-u-ko\n      ku-sa-me-ni-jo                               [\n                          vac.                           [",
             "scribe": "",
@@ -2974,7 +2974,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1208_PN_0.jpg"
             ],
-            "label": "PY Fr 1208 $1203$ (Cii)",
+            "label": "PY Fr 1208 (Cii)",
             "name": "Py1208",
             "parsedInscription": "                           wo-]do-we     OLE   PO   3   S   2   V   4",
             "scribe": "",
@@ -3193,7 +3193,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py689_PN_0.jpg"
             ],
-            "label": "PY Ad 689 $290$",
+            "label": "PY Ad 689",
             "name": "Py689",
             "parsedInscription": "                       a-so-qi-je-ja\n        pu-ro   mi-ra-ti-ja-o   ko-wo   VIR   2   ko-wo",
             "scribe": "",
@@ -3329,7 +3329,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1148_PN_0.jpg"
             ],
-            "label": "PY Wa 1148 $287$",
+            "label": "PY Wa 1148",
             "name": "Py1148",
             "parsedInscription": "                                  a-]mo-ta    e-qe-si-ja\n                                  we-]je-ke-a",
             "scribe": "",
@@ -3381,7 +3381,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py924_PN_0.jpg"
             ],
-            "label": "PY Na 924 $106$",
+            "label": "PY Na 924",
             "name": "Py924",
             "parsedInscription": "                                                    to-sa         SA   10\n        ri-sa-pi     SA                 me-to-re    e-re-u-te-ro-se",
             "scribe": "",
@@ -3633,7 +3633,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1226_PN_0.jpg"
             ],
-            "label": "PY Fr 1226 $1202$",
+            "label": "PY Fr 1226",
             "name": "Py1226",
             "parsedInscription": "        ro-u-si-jo    a-ko-ro    te-o-i    pa-ko-we     OLE+PA   V   3\n                                                        vac.",
             "scribe": "",
@@ -3688,7 +3688,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py304_PN_0.jpg"
             ],
-            "label": "PY Ea 304 [+] 1023 $28$",
+            "label": "PY Ea 304 [+] 1023",
             "name": "Py304",
             "parsedInscription": "        ke-re-te-u    e-ke⌞ ⌟o-na-to    pa-ro  sa-ke-re-we          GRA[   ]   T   6",
             "scribe": "",
@@ -3752,7 +3752,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py294_PN_0.jpg"
             ],
-            "label": "PY Eb 294 $149$",
+            "label": "PY Eb 294",
             "name": "Py294",
             "parsedInscription": "        o-pe-te-re-u    qe-ja-me-no    e-ke-qe    ke-ke-me-na    ko-to-na\n          to-so-de    pe-mo            GRA   2      T   5",
             "scribe": "",
@@ -4114,7 +4114,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py614_PN_0.jpg"
             ],
-            "label": "PY An 614 + frr.(11) [+] frr. [+] frr. [+] fr. + fr. + 1126 [+] 1510 + fr. + fr. + fr. + 1508 + 1127 + fr. $657$",
+            "label": "PY An 614 + frr.(11) [+] frr. [+] frr. [+] fr. + fr. + 1126 [+] 1510 + fr. + fr. + fr. + 1508 + 1127 + fr.",
             "name": "Py614",
             "parsedInscription": "                              ]-ne-[•]    ki[\n                     ]ko-do-[•]-no           VIR[\n        ]wa-ja[        ]na-ro   e-qe-ta    vest.[\n              ]   ko-[ro]-ku-ra-i-jo  VIR  1[                       ]   ⟦a2-te-ro⟧\n                                       ]vest.[     ]e-o-te[     ]VIR 30[     ]   vacat\n                             ] vac.        [      ] vac.                         [           ]o\n                           ]a-pe-e-si[   ]                            VIR   [      ]   vacat\n   reliqua pars sine regulis",
             "scribe": "",
@@ -4501,7 +4501,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py507_PN_0.jpg"
             ],
-            "label": "PY Na 507 $106$",
+            "label": "PY Na 507",
             "name": "Py507",
             "parsedInscription": "        e-ko-so-no    SA   ⌞4[",
             "scribe": "",
@@ -4544,7 +4544,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py567_PN_0.jpg"
             ],
-            "label": "PY Na 567 $106?$",
+            "label": "PY Na 567",
             "name": "Py567",
             "parsedInscription": "        sup. mut.\n                                      ]u-te-ro     SA   10",
             "scribe": "",
@@ -5656,7 +5656,7 @@ var inscriptions = new Map(
                 "images/photos/Py269_PN_1.jpg",
                 "images/photos/Py269a.jpg"
             ],
-            "label": "PY Eo 269 $149$",
+            "label": "PY Eo 269",
             "name": "Py269",
             "parsedInscription": "lat. sup.\n        ka-ra-*56-so    te-o-jo    do-e-ro    e-ke-qe    o-na-to    pa-ro    a-ka-ta-jo  to-so-de  pe-mo     GRA   T   2\nr.\n                                       ko-to-na    ki-ti-me-na\n        a-ka-ta-jo-jo    ka-na-pe-wo    to-so-de    pe-mo       GRA   3   T   2",
             "scribe": "",
@@ -6082,7 +6082,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py432_PN_0.jpg"
             ],
-            "label": "PY Xa 432 $-$ (Ci)",
+            "label": "PY Xa 432 (Ci)",
             "name": "Py432",
             "parsedInscription": "        po-ra-[\n        inf. mut.",
             "scribe": "",
@@ -6125,7 +6125,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py101_PN_0.jpg"
             ],
-            "label": "PY An 101 $-$",
+            "label": "PY An 101",
             "name": "Py101",
             "parsedInscription": "                                ]to-mo   VIR   1   po-me  [•~•]   VIR   1\n                                ]                               vac.",
             "scribe": "",
@@ -6192,7 +6192,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1297_PN_0.jpg"
             ],
-            "label": "PY Qa 1297 $1295$",
+            "label": "PY Qa 1297",
             "name": "Py1297",
             "parsedInscription": "        a-pi-a2-ro       *189   5",
             "scribe": "",
@@ -6787,7 +6787,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py655_PN_0.jpg"
             ],
-            "label": "PY Cn 655 $719$",
+            "label": "PY Cn 655",
             "name": "Py655",
             "parsedInscription": "           ma-ro-pi    qe-re-wa-o      pa-ra-jo                        OVIS:m   136\n           ma-ro-pi    to-ro-wi-ko    pa-ra-jo                         OVIS:m   133[\n        ma-ro-pi      ke-ro-wo-jo                                              OVIS:m   85\n        ma-ro-pi⌞ ⌟ra-pa-sa-ko-jo                                         OVIS:m   69\n        ma-ro-pi    pu-wi-no    a-pi-me-de-o    a-ko-ra         OVIS:m   190\n        ma-ro-pi    i-wa-so    we-da-ne-wo    a-ko-ra          OVIS:m   70\n        ma-ro-pi    ti-ke-wo    pa-ra-jo                                      OVIS:m   70\n        ma-ro-pi    o-ka-ri-jo    pa-ra-jo                                    OVIS:m   95\n        ma-ro-pi    e-ti-ra-wo    pa-ra-jo                                   OVIS:m  70\n      ma-ro-pi    a-ta-ma-ne-u    pa-ra-jo                            OVIS:m   60\n      ma-ro-pi    qi-ri-ta-ko    a-ke-o-jo    a-ko-ra            OVIS:m   90[\n      ma-ro-pi    a-ri-wo    a-ke-o-jo    a-ko-ra                     [                 ]14\n      ma-ro-pi    ro-ki-jo    we-da-ne-wo    a-ko-ra              [             ]80\n      ma-ro-pi    o-pe-re-ta    we-da-ne-wo                            OVIS:f   86\n      ma-ro-pi    po-ro-qa-ta-jo    we-da-ne-wo                    OVIS:f   63\n      ma-ro-pi    to-ru-ko-ro    we-da-ne-wo                         OVIS:f   88\n      ma-ro-pi    ma-ma-ro    we-da-ne-wo                            OVIS:m   90\n      ma-]ro-pi    ma-du-ro⌞ ⌟we-da-ne-wo                         OVIS:m   100\n      ma-ro-]pi    se-no    we-da-ne-wo                                   OVIS:f   40\n      ma-ro-]pi    ta-ta-ke-u    [we-]da-ne-wo                       OVIS:f   30",
             "scribe": "",
@@ -7232,7 +7232,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py580_PN_0.jpg"
             ],
-            "label": "PY Ab 580 $186$",
+            "label": "PY Ab 580",
             "name": "Py580",
             "parsedInscription": "                                    ]GRA   10   TA   DA\n                                    ]NI   10",
             "scribe": "",
@@ -7403,7 +7403,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py881_PN_0.jpg"
             ],
-            "label": "PY Jn 881 [+] 896 + fr. $310$",
+            "label": "PY Jn 881 [+] 896 + fr.",
             "name": "Py881",
             "parsedInscription": "            e-re-e-we    o-pi-ko-wo     AES   M   1\n        o-pi-su-ko                                    AES   M   4   N   2\n                                                vac.\n             ]qa-te[        ]    ke-ro-te      AES   M   2\n                             ]ja    [•~•]  vacat  [               ]  vacat\n                                          ]jo    a-to-mo[\n                                                     mutila\n        vestigia\n                                                        ]   AES   N   3\n                                                     ]   AES   M   1\n        vacat\n        vacat\n        vacat",
             "scribe": "",
@@ -8194,7 +8194,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py765_PN_0.jpg"
             ],
-            "label": "PY Ae 765 + fr. $-$",
+            "label": "PY Ae 765 + fr.",
             "name": "Py765",
             "parsedInscription": "        pe-re-ke-we   VIR   13",
             "scribe": "",
@@ -8931,7 +8931,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1382_PN_0.jpg"
             ],
-            "label": "PY Xa 1382 $-$ (Cii)",
+            "label": "PY Xa 1382 (Cii)",
             "name": "Py1382",
             "parsedInscription": "                                ]ra-na-i  [",
             "scribe": "",
@@ -9042,7 +9042,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1379_PN_0.jpg"
             ],
-            "label": "PY Mb 1379 $1412$",
+            "label": "PY Mb 1379",
             "name": "Py1379",
             "parsedInscription": "        pa-ro na-me[     *146",
             "scribe": "",
@@ -9154,7 +9154,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py29_PN_0.jpg"
             ],
-            "label": "PY Ea 29 $28$",
+            "label": "PY Ea 29",
             "name": "Py29",
             "parsedInscription": "        e-ro2-qo  ra-pte    e-ke    o-na-to    pa-ro    i-ma-di-jo   GRA   T   1",
             "scribe": "",
@@ -9210,7 +9210,7 @@ var inscriptions = new Map(
                 "images/photos/Py623_PN_0.jpg",
                 "images/photos/Py623_PN_1.jpg"
             ],
-            "label": "PY La 623 [+] 625 $626$",
+            "label": "PY La 623 [+] 625",
             "name": "Py623",
             "parsedInscription": "        po-to-ro-wa-pi    [     ]pte-we   34[\nv.↓\n        ko-u-ra   TELA+PA [ qs]   vacat",
             "scribe": "",
@@ -10154,7 +10154,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1359.jpg"
             ],
-            "label": "PY Wr 1359 $622$",
+            "label": "PY Wr 1359",
             "name": "Py1359",
             "parsedInscription": "α\n           VIN   supra sigillum\nβ\n        e-ti-wa-[\nγ\n           vac.",
             "scribe": "",
@@ -10339,7 +10339,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py514_PN_0.jpg"
             ],
-            "label": "PY Na 514 $106$",
+            "label": "PY Na 514",
             "name": "Py514",
             "parsedInscription": "                               ]pa-ri-so    ke-ki-de    e-ko-si   SA   30",
             "scribe": "",
@@ -11038,7 +11038,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py639.jpg"
             ],
-            "label": "PY Xa 639 $-$ (Cii)",
+            "label": "PY Xa 639 (Cii)",
             "name": "Py639",
             "parsedInscription": "        a-si-ja-ti-ja    e-te-wa-jo            o[",
             "scribe": "",
@@ -12225,7 +12225,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py770_PN_0.jpg"
             ],
-            "label": "PY Aa 770 $240$",
+            "label": "PY Aa 770",
             "name": "Py770",
             "parsedInscription": "        ki-si-wi-ja   MUL   6   ko-wa   4   ko-wo   6   TA   1",
             "scribe": "",
@@ -12280,7 +12280,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py61_PN_0.jpg"
             ],
-            "label": "PY Aa 61 $60$",
+            "label": "PY Aa 61",
             "name": "Py61",
             "parsedInscription": "        pu-ro ze-pu2-ra3   MUL   26   ko-wa   15   ko-wo   10   DA   1   TA   1",
             "scribe": "",
@@ -12629,7 +12629,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py156_PN_0.jpg"
             ],
-            "label": "PY Eb 156 [+] 157 $149$",
+            "label": "PY Eb 156 [+] 157",
             "name": "Py156",
             "parsedInscription": "                                                                        wo-ze-qe\n      e-u-ru-wo-ta    te-o-jo    do-e-ro    ka-ma-e-u[   e-ke-qe  o-na-to   ]to-so-de    pe-mo   GRA   1[   T   3\n           a3-ti-jo-qo    e-ke-qe    to-jo-qe    au-to-jo    ka-ma-o    [             to-so-]de    pe-mo   GRA[",
             "scribe": "",
@@ -12747,7 +12747,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1135_PN_0.jpg"
             ],
-            "label": "PY Xn 1135 $-$ (Ci)",
+            "label": "PY Xn 1135 (Ci)",
             "name": "Py1135",
             "parsedInscription": "                           sup. mut.\n                             ]ti-wo[\n                             ]-ta[\n                               inf. mut.",
             "scribe": "",
@@ -13525,7 +13525,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py456_PN_0.jpg"
             ],
-            "label": "PY Mn 456 $90$",
+            "label": "PY Mn 456",
             "name": "Py456",
             "parsedInscription": "                                     vest.\n        re[                  ]ro           *146   5\n        ko-ro-jo-wo-wi-ja      *146   2\n        si-re-wa                        *146   2\n        me-te-to                        *146   1\n        e-wi-te-wi-jo                *146   1\n        ro-u-so                           *146   1\n        e-ri-no-wo-te               *146   1\n        sa-ri-nu-wo-te             *146   1\n      e-pi-qo-ra2                  *146   1   [",
             "scribe": "",
@@ -13708,7 +13708,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py389_PN_0.jpg"
             ],
-            "label": "PY Jn 389 $310$",
+            "label": "PY Jn 389",
             "name": "Py389",
             "parsedInscription": "              a-ka-si-jo-ne    ka-ke-we    ta-ra-si-ja    e-ko-te\n        pi-ra-me-no     AES   M   3   ma-u-ti-jo     AES   M   3   e-do-mo-ne-u   AES   M   3\n        ka-ra-wi-ko   AES   M   1   N   2   pi-we-ri-ja-ta     AES   M   1   N   2\n        sa-mu-ta-jo     AES   M   1   N   2   wa-u-do-no       AES   M   1   N   2   ⟦        ⟧\n        ka-ra-pa-so     AES   M   1   N   2   pi-ta-ke-u           AES   M   1   N   2\n        mo-re-u            AES   M   1   N   2   ti-ta-[•-]wo        AES   M   3\n        to-so-de    e-pi-da-to    ka-ko    pa-si                      AES   M   6\n        to-so-de          ka-ko       AES   M   27\n                                                                      vac.\n      to-so-de    a-ta-ra-si-jo    ka-ke-we  \n      te-te-re-u  1       pa-pa-jo   1   pi-ro-we-ko   1   a2-nu-me-no   1\n      ko-so-u-to   1",
             "scribe": "",
@@ -14260,7 +14260,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1224_PN_0.jpg"
             ],
-            "label": "PY Fr 1224 $1202$",
+            "label": "PY Fr 1224",
             "name": "Py1224",
             "parsedInscription": "                               pa-ko-we    e-ti-we\n        pa-ki-ja-ni-jo-jo  me-no    po-se-da-o-ne     OLE+PA   Z   2",
             "scribe": "",
@@ -14509,7 +14509,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py149_PN_0.jpg"
             ],
-            "label": "PY Eb 149 [+] 940 $149$",
+            "label": "PY Eb 149 [+] 940",
             "name": "Py149",
             "parsedInscription": "        te-re-ta    su-ko[   po-ro-du-                                              ]o-pe-ro-qe    te-re-ja-e    o-u-qe    te-re-ja\n        du-wo-u-pi-de    [     to-so-de pe-mo   GRA   10     ]                                          vacat",
             "scribe": "",
@@ -14667,7 +14667,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py270_PN_0.jpg"
             ],
-            "label": "PY Ea 270 $28$",
+            "label": "PY Ea 270",
             "name": "Py270",
             "parsedInscription": "                                                    ko-to-na\n        a-pi-a2-ro    e-ke    qo-qo-ta-o⌞ ⌟pe-re-qo-no-jo          GRA   T   6",
             "scribe": "",
@@ -14728,7 +14728,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py671_PN_0.jpg"
             ],
-            "label": "PY Ad 671 $290$",
+            "label": "PY Ad 671",
             "name": "Py671",
             "parsedInscription": "        ka-ru-ti-je-ja-o-qe                                                                 o   VIR   5\n        pu-ro    a-pu-ko-wo-ko⌞ ⌟pa-ke-te-ja-o-qe   VIR   3   ko-wo   4",
             "scribe": "",
@@ -14904,7 +14904,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py866_PN_0.jpg"
             ],
-            "label": "PY Eb 866 $149$",
+            "label": "PY Eb 866",
             "name": "Py866",
             "parsedInscription": "                                        ke-ke-me-na    ko-to-na    pa-ro    da-mo\n        ma-ra3-wa    te-o-jo    do-e-ra    e-ke-qe    o-na-to                 GRA   [   T   2",
             "scribe": "",
@@ -15156,7 +15156,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py210_PN_0.jpg"
             ],
-            "label": "PY Ab 210 $186$",
+            "label": "PY Ab 210",
             "name": "Py210",
             "parsedInscription": "                                                                                                 GRA  3   T   6   TA[\n        a-pu-ko-wo-ko   MUL   8   ko-wa   7   ko-wo   8   NI   3   T   6        [",
             "scribe": "",
@@ -15367,7 +15367,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py529_PN_0.jpg"
             ],
-            "label": "PY Na 529 $106$",
+            "label": "PY Na 529",
             "name": "Py529",
             "parsedInscription": "                                  to-sa-de    a3-ki-de-ja    e-re-u-te-ra   SA   5\n        ]pi     SA   18  to-sa-de    ka-ke[-we   ]e-re-u-te-ra    SA   17",
             "scribe": "",
@@ -16116,7 +16116,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py89_PN_0.jpg"
             ],
-            "label": "PY Aa 89 $60$",
+            "label": "PY Aa 89",
             "name": "Py89",
             "parsedInscription": "        a-ra-ka-te-ja   MUL   37   ko-wa   26   ko-wo   16   TA   1",
             "scribe": "",
@@ -16353,7 +16353,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1244_PN_0.jpg"
             ],
-            "label": "PY Fr 1244 $-$ (Cii)",
+            "label": "PY Fr 1244 (Cii)",
             "name": "Py1244",
             "parsedInscription": "        me-ki-to-de[                                          OLE",
             "scribe": "",
@@ -16463,7 +16463,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py11.jpg"
             ],
-            "label": "PY Mm 11 + 14 + frr.(7) $90$",
+            "label": "PY Mm 11 + 14 + frr.(7)",
             "name": "Py11",
             "parsedInscription": "        si-[•]-i-ja               [        ]   *249   2\n        ja-ke-te-re   RI   M   100[   ] ME  8[\n        me-wi-te-jo [             ]te-re   ME[\n        de-so-mo[           ]66[\n        ra-pa-i-pi-jo-i   RI   M   2   O  10[\n        *152   1051[     ]  vac.\n                ]i[              ]   *249   4\n              ]vest. [           ]ME   600\n           ]te[                      ]ME   600\n            *152   55\n                  vac.",
             "scribe": "",
@@ -16838,7 +16838,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py16.jpg"
             ],
-            "label": "PY Fa 16 $138$",
+            "label": "PY Fa 16",
             "name": "Py16",
             "parsedInscription": "        i-qo  CYP+O  8   T   2   V 1⟦                        ⟧",
             "scribe": "",
@@ -17435,7 +17435,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py685_PN_0.jpg"
             ],
-            "label": "PY Ad 685 $290$",
+            "label": "PY Ad 685",
             "name": "Py685",
             "parsedInscription": "        o-wi-to-no   to-sa-me-ja-o   ko-wo   VIR   3   ko-wo",
             "scribe": "",
@@ -17601,7 +17601,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py664_PN_0.jpg"
             ],
-            "label": "PY Ad 664 $290$",
+            "label": "PY Ad 664",
             "name": "Py664",
             "parsedInscription": "        pu-ro   ra-u-ra-ti-jo   ze-pu2-ra-o   ko-wo   ri-ne-ja-o   VIR   4   ko-wo   3",
             "scribe": "",
@@ -17748,7 +17748,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1107_PN_0.jpg"
             ],
-            "label": "PY Xa 1107 $-$",
+            "label": "PY Xa 1107",
             "name": "Py1107",
             "parsedInscription": "                                ]6[\n                             inf. mut.",
             "scribe": "",
@@ -17794,7 +17794,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1197_PN_0.jpg"
             ],
-            "label": "PY Cn 1197 $131$",
+            "label": "PY Cn 1197",
             "name": "Py1197",
             "parsedInscription": "             a-si-ja-ti-ja        [\n        wa-e-ro                   OVIS:m    1[\n        ti-ko-ro                   OVIS:m   1   [\n        e-sa-re-we             OVIS   3[\n        e-re-e-we               OVIS:m   [\n                              vac.                      [",
             "scribe": "",
@@ -19207,7 +19207,7 @@ var inscriptions = new Map(
                 "images/photos/Py1332_PN_0.jpg",
                 "images/photos/Py1332_PN_1.jpg"
             ],
-            "label": "PY Wr 1332 $1331$ (Ci)",
+            "label": "PY Wr 1332 (Ci)",
             "name": "Py1332",
             "parsedInscription": "α\n        WI   supra sigillum\nβ\n        o-pa\nγ\n         vac.",
             "scribe": "",
@@ -20419,7 +20419,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py745_PN_0.jpg"
             ],
-            "label": "PY Ab 745 $186$",
+            "label": "PY Ab 745",
             "name": "Py745",
             "parsedInscription": "                                                                                       GRA   T   5\n        pa-ke-te-ja    ri-ne-ja   MUL   2   ko-wo   1   NI   T   5",
             "scribe": "",
@@ -21063,7 +21063,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1238_PN_0.jpg"
             ],
-            "label": "PY Fr 1238 $1202$",
+            "label": "PY Fr 1238",
             "name": "Py1238",
             "parsedInscription": "                                 ]so-de   wo-do-we     OLE   S   1",
             "scribe": "",
@@ -21364,7 +21364,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1441_PN_0.jpg"
             ],
-            "label": "PY Qa 1441 $1295$",
+            "label": "PY Qa 1441",
             "name": "Py1441",
             "parsedInscription": "                                   ]o    *189   1   [",
             "scribe": "",
@@ -21482,7 +21482,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py6_PN_0.jpg"
             ],
-            "label": "PY Un 6 [+] 1439 $6$",
+            "label": "PY Un 6 [+] 1439",
             "name": "Py6",
             "parsedInscription": "fragmentum separatum\n        po-]se-da-o[\n           ] vacat [\nr.\n                   mutila\n        po-se-da[-o-ne    ]   BOS:f   [qs]   OVIS:f   [qs ]SUS+KA   1   SUS:f   2\n                    angustum\n        pe-re-*82   BOS:f   1     OVIS:f 1     SUS+KA   1     SUS:f   2\n        pe-re-*82   BOS:f   1     OVIS:f 1     SUS+KA   1     SUS:f   2\n                    angustum\n        *146   37   *166+WE[  qs  ]LANA   5\n        A±RE±PA   S   1   V   2[\n        BOS:m   2   BOS:f   2   OVIS:x[ qs\nv.\n              ]i-je-re-ja         TELA+TE[ qs\n        ka-]ra-wi-po-ro   TELA+TE[ qs\nlat. dex.\n            ] ⟦WE   30⟧\nr\n                       vacat\n        vestigia\n        po-se-da-o-ne  [\n        po-de-da-o-ne  [      •]:f\n        vestigia\nv\n        vestigia\n                                 i-]je-re-ja     TELA+TE  [\n                                 ka-ra-]wi-po-ro   TELA+TE  [",
             "scribe": "",
@@ -22038,7 +22038,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py862_PN_0.jpg"
             ],
-            "label": "PY Eb 862 $149$",
+            "label": "PY Eb 862",
             "name": "Py862",
             "parsedInscription": "        ko-i-ro    e-ke-qe    o-na-to    ke-ke-me-na    ko-to-na\n        ka-ma-e-u    wo-zo                                                       to-so-de  pe-mo     GRA   T   3",
             "scribe": "",
@@ -22258,7 +22258,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1309_PN_0.jpg"
             ],
-            "label": "PY Qa 1309 $1295$",
+            "label": "PY Qa 1309",
             "name": "Py1309",
             "parsedInscription": "                                    *189     ]1",
             "scribe": "",
@@ -22469,7 +22469,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1041_PN_0.jpg"
             ],
-            "label": "PY Na 1041 $106$",
+            "label": "PY Na 1041",
             "name": "Py1041",
             "parsedInscription": "                                                   ke\n        ko-ro-du-wo    we-da-ne-wo   SA   10",
             "scribe": "",
@@ -23274,7 +23274,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py249.jpg"
             ],
-            "label": "PY Un 249 + frr.(3) $-$ (Cii)",
+            "label": "PY Un 249 + frr.(3) (Cii)",
             "name": "Py249",
             "parsedInscription": "                          po-ti-ni-ja-we-jo\n      pi-ra-jo    a-re-pa-zo[-o        ]  ku-pa-ro2         AROM   2   T   5\n        wi-ri-za                                          LANA   2   [        ]*157   10\n                                vac.                                   [              ]   KA±PO       T   6\n                                                         vac.\n                                                         vac.",
             "scribe": "",
@@ -23510,7 +23510,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py468_PN_0.jpg"
             ],
-            "label": "PY Ab 468 [+] fr. $186$",
+            "label": "PY Ab 468 [+] fr.",
             "name": "Py468",
             "parsedInscription": "        ]                   [   ]GRA   1   [T 5] TA\n        ]                   [   ]NI   1   T   5",
             "scribe": "",
@@ -23836,7 +23836,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py64_PN_0.jpg"
             ],
-            "label": "PY Aq 64 $64$",
+            "label": "PY Aq 64",
             "name": "Py64",
             "parsedInscription": "                                            ]-re-wi-jo-te\n                                ]-ja   mo-ro-qa    to-to    we-to    o-a-ke-re-se                  ZE   1   *171   3\n        ka-do-wo    mo-ro-qa           o-u-qe    a-ke-re-se                                       ZE   1\n        ru-ro    mo-ro-qa                    o-u-qe    a-ke-re-se                                       ZE     1\n        ku-ru-me-no    mo-ro-qa    i-te-re-wa    ko-re-te    to-to    we-to⌞ ⌟o-a-ke-re-se *171   6\n        pe-ri-mo    ti-mi-ti-ja    ko-re-te    to-to-we-to⌞ ⌟o-a-ke-re-se           ZE   1             *171   3\n                                                                                                                                     o-a-ke-re-se\n      pe-ri-me-de-o    i-*65    po-so-ri-jo-no    te-ra-ni-ja    a-ke-re-se    to-to-we-to        *171   12\n        po-ki-ro-qo    e-qe-o    a-to-mo                                                                       ZE   1\n                                                 vac.\n                                              vac.\n                                              vac.\n      o-da-a2    ko-to-na e-ko-te\n      e-ta-wo-ne-u    to-to-we-to    o-a-ke-re-se                                                 ZE   1             *171   6\n      a-qi-zo-we    to-to    to-to    we-to    o-a-ke-re-se                                    ZE   1   [\n      ne-qe-u    e-te-wo-ke-re-we-i-jo    to-to    we-to    o-a-ke-re-se         ZE   1   [\n      me-wi    e-ru-ta-ra    me-ta-pa    ki-e-wo    to-to-we-to    o-a-ke-re-se   ZE   1   [\n                                              vac.\n                                              vac.\n                                              vac.\n                                              vac.\n                                              vac.\n                                              vac.\n                                              vac.",
             "scribe": "",
@@ -24301,7 +24301,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1278_PN_0.jpg"
             ],
-            "label": "PY Ac 1278 $1272$ (Ciii)",
+            "label": "PY Ac 1278 (Ciii)",
             "name": "Py1278",
             "parsedInscription": "        te-mi-ti-jo     VIR   17   o-pe-ro   VIR [",
             "scribe": "",
@@ -24450,7 +24450,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1179_PN_0.jpg"
             ],
-            "label": "PY Na 1179 $106$",
+            "label": "PY Na 1179",
             "name": "Py1179",
             "parsedInscription": "                           ]ti-e-si   SA   4[",
             "scribe": "",
@@ -24549,7 +24549,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1329_PN_0.jpg"
             ],
-            "label": "PY Wr 1329 $-$",
+            "label": "PY Wr 1329",
             "name": "Py1329",
             "parsedInscription": "α\n        sigillum\nβ\n        20\nγ\n        vac.",
             "scribe": "",
@@ -24813,7 +24813,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py604_PN_0.jpg"
             ],
-            "label": "PY Na 604 $106$",
+            "label": "PY Na 604",
             "name": "Py604",
             "parsedInscription": "        e-wi-ku-wo-te     SA   10",
             "scribe": "",
@@ -24998,7 +24998,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py28_PN_0.jpg"
             ],
-            "label": "PY Ea 28 [+] fr. $28$",
+            "label": "PY Ea 28 [+] fr.",
             "name": "Py28",
             "parsedInscription": "        ti-ri-da-ro  /  ra-pte    e-ke    ka-ma        GRA[ qs]   vacat",
             "scribe": "",
@@ -25163,7 +25163,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1397_PN_0.jpg"
             ],
-            "label": "PY Mb 1397 $1412$",
+            "label": "PY Mb 1397",
             "name": "Py1397",
             "parsedInscription": "        a3-ki-po-de      *146[",
             "scribe": "",
@@ -27158,7 +27158,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py874_PN_0.jpg"
             ],
-            "label": "PY Eb 874 [+] 902 $149$",
+            "label": "PY Eb 874 [+] 902",
             "name": "Py874",
             "parsedInscription": "        ta-ta-ro  e-ke-qe  o-na-to  ]ke-ke-me-na    ko-to-na[   ]\n              pa-ro  da-mo  ko-to-no-]o-ko                 to-so-de    pe-mo[   ]   GRA   V   3",
             "scribe": "",
@@ -27249,7 +27249,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py537_PN_0.jpg"
             ],
-            "label": "PY Na 537 $106$",
+            "label": "PY Na 537",
             "name": "Py537",
             "parsedInscription": "                              ]ki-ti-to   SA   3",
             "scribe": "",
@@ -27468,7 +27468,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py473_PN_0.jpg"
             ],
-            "label": "PY Eb 473 $149$",
+            "label": "PY Eb 473",
             "name": "Py473",
             "parsedInscription": "        a-pi-me-de    e-ke-qe    e-to-ni-jo    ke-ke-me-na-o    ko-to-na-o\n          to-so-de    pe-mo           GRA   4     T   6",
             "scribe": "",
@@ -27532,7 +27532,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py326_PN_0.jpg"
             ],
-            "label": "PY Ad 326 $290$",
+            "label": "PY Ad 326",
             "name": "Py326",
             "parsedInscription": "        re-u-ko-to-ro   ri-ne-ja-o   a-*64-ja-o   ko-wo   VIR   3   ko-wo   9",
             "scribe": "",
@@ -27619,7 +27619,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py369_PN_0.jpg"
             ],
-            "label": "PY Eb 369 $149$",
+            "label": "PY Eb 369",
             "name": "Py369",
             "parsedInscription": "        wa-na-ta-]jo    e-ke-qe    o-na-to    ke-ke-me-na    ko-to-na\n        pa-ro     ]da-mo    ko-to-no-o-ko    to-so-de    pe-mo           GRA     T   5",
             "scribe": "",
@@ -27698,7 +27698,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1171_PN_0.jpg"
             ],
-            "label": "PY Xn 1171 $-$",
+            "label": "PY Xn 1171",
             "name": "Py1171",
             "parsedInscription": "                          sup. mut.\n                            ]-ta[\n                              inf. mut.",
             "scribe": "",
@@ -27809,7 +27809,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1092_PN_0.jpg"
             ],
-            "label": "PY Na 1092 $106$",
+            "label": "PY Na 1092",
             "name": "Py1092",
             "parsedInscription": "        a2-ma-i-wa   SA   6",
             "scribe": "",
@@ -28138,7 +28138,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1405_PN_0.jpg"
             ],
-            "label": "PY Mb 1405 $1398$ (Cii)",
+            "label": "PY Mb 1405 (Cii)",
             "name": "Py1405",
             "parsedInscription": "        u-ma[                                                           *146",
             "scribe": "",
@@ -28589,7 +28589,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1166_PN_0.jpg"
             ],
-            "label": "PY Xn 1166 $-$",
+            "label": "PY Xn 1166",
             "name": "Py1166",
             "parsedInscription": "                        sup. mut.\n                             ]re-[\n                             inf. mut.",
             "scribe": "",
@@ -28953,7 +28953,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py142_PN_0.jpg"
             ],
-            "label": "PY Ae 142 $142$",
+            "label": "PY Ae 142",
             "name": "Py142",
             "parsedInscription": "        wi-ja-da-ra    wo-we-u⌞ ⌟ko-wo   VIR   1",
             "scribe": "",
@@ -29002,7 +29002,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1274_PN_0.jpg"
             ],
-            "label": "PY Ac 1274 + fr.(3) $1272$ (Ciii)",
+            "label": "PY Ac 1274 + fr.(3) (Ciii)",
             "name": "Py1274",
             "parsedInscription": "                                    VIR     ]4   o-pe-ro   VIR   13",
             "scribe": "",
@@ -29491,7 +29491,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py713_PN_0.jpg"
             ],
-            "label": "PY Ta 713 $641$",
+            "label": "PY Ta 713",
             "name": "Py713",
             "parsedInscription": "            to-pe-za    ra-e-ja    ku-te-se-jo    e-ka-ma-pi    e-re-pa-te-jo-qe    a-pi-qo-to    e-ne-wo-pe-za    qe-qi-no-me-na    to-qi-de   1\n        to-pe-za    e-re-pa-te-ja    po-ro-e-ke    pi-ti-ro2-we-sa    we-pe-za    qe-qi-no-me-na    to-qi-de   1   ⟦to-pe-za⟧\n            to-pe-za    ku-te-se-ja    e-re-pa-te-jo    e-ka-ma-pi    a-pi-qo-to    e-ne-wo-pe-za    ko-ki-re-ja",
             "scribe": "",
@@ -29911,7 +29911,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py957_PN_0.jpg"
             ],
-            "label": "PY Eb 957 $149$",
+            "label": "PY Eb 957",
             "name": "Py957",
             "parsedInscription": "        e-ke-qe  o-]na-to\n                              deest",
             "scribe": "",
@@ -29989,7 +29989,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py20_PN_0.jpg"
             ],
-            "label": "PY Vn 20 $-$",
+            "label": "PY Vn 20",
             "name": "Py20",
             "parsedInscription": "            o-a2    e-pi-de-da-to\n        pa-ra-we-wo    wo-no\n        pi-*82-de   50\n        me-ta-pa-de   50\n        pe-to-no-de   100\n        pa-ki-ja-na-de   35\n        a-pu2-de   35\n        a-ke-re-wa-de   30\n        e-ra-to-de   50\n      ka-ra-do-ro-de   40\n      ri-jo-de              20\n                         vac.",
             "scribe": "",
@@ -30418,7 +30418,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py380_PN_0.jpg"
             ],
-            "label": "PY Ad 380 $290$",
+            "label": "PY Ad 380",
             "name": "Py380",
             "parsedInscription": "        pu-ro   mi-ra-ti-ja-o   a-ra-te-ja-o   ko-wo   3",
             "scribe": "",
@@ -30744,7 +30744,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1053_PN_0.jpg"
             ],
-            "label": "PY Na 1053 [+] fr. $106$",
+            "label": "PY Na 1053 [+] fr.",
             "name": "Py1053",
             "parsedInscription": "        ru-ke-wo-wo-wi-ja     SA[  ]10",
             "scribe": "",
@@ -30787,7 +30787,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py747_PN_0.jpg"
             ],
-            "label": "PY Eb 747 $149$",
+            "label": "PY Eb 747",
             "name": "Py747",
             "parsedInscription": "        a-da-ma-o    e-ke-qe    o-na-to    ke-me-na    ko-to-na\n          pa-ro    da-mo    ko-to-no-o-ko             to-so-de    pe-mo       GRA   T   4[",
             "scribe": "",
@@ -30914,7 +30914,7 @@ var inscriptions = new Map(
                 "images/photos/Py626_PN_0.jpg",
                 "images/photos/Py626_PN_1.jpg"
             ],
-            "label": "PY La 626 $626$",
+            "label": "PY La 626",
             "name": "Py626",
             "parsedInscription": "                sup. mut.\n        ]*166[+WE]   2   a-*35-to   3[\n        ]a-ro-ta           TELA+PA   1    [\nv.\n           ]ku   X   1   o   1                          [\n                inf. mut.",
             "scribe": "",
@@ -31322,7 +31322,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py640_PN_0.jpg"
             ],
-            "label": "PY La 640 $628$ (Ciii)",
+            "label": "PY La 640 (Ciii)",
             "name": "Py640",
             "parsedInscription": "        ]*166+WE   62   *160   13",
             "scribe": "",
@@ -31919,7 +31919,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py710_PN_0.jpg"
             ],
-            "label": "PY Ta 710 $641$",
+            "label": "PY Ta 710",
             "name": "Py710",
             "parsedInscription": "        ta-ra-nu    a-ja-me-no    e-re-pa-te-jo    au-de-pi    so-we-no-qe       *220   1\n                                                                             vac.",
             "scribe": "",
@@ -32729,7 +32729,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py299_PN_0.jpg"
             ],
-            "label": "PY An 299 + frr. $-$",
+            "label": "PY An 299 + frr.",
             "name": "Py299",
             "parsedInscription": "                                ]ta     VIR   [\n                                  ]we-jo         VIR   ⌞4[",
             "scribe": "",
@@ -33178,7 +33178,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py410_PN_0.jpg"
             ],
-            "label": "PY Jn 410 + 413 + frr.(7) + frr. + 1065 + 1067 $310$",
+            "label": "PY Jn 410 + 413 + frr.(7) + frr. + 1065 + 1067",
             "name": "Py410",
             "parsedInscription": "                                   ]ta-ra-si[-ja   e-ko-te\n        deest\n        we-[\n        u-de-wi-ni-jo[                         AES   ]M   6[\n              vac.[\n        to-so-de    ka-ko    AES [  L  ]1      M[  qs\n               vacat   [   ]   vacat\n        to-so-de    a-ta-ra-si-jo[   ka-ke-we   ] ⟦   ⟧\n        ke-ro 1 de-ko-to-jo  do[-e-ro ] vacat",
             "scribe": "",
@@ -34373,7 +34373,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py259_PN_0.jpg"
             ],
-            "label": "PY Ea 259 $28$",
+            "label": "PY Ea 259",
             "name": "Py259",
             "parsedInscription": "                              u-me-ta-qe    a-po  \n        o-ke-u    e-ke    o-na-to    pa-ro    da-mo          GRA   T   2",
             "scribe": "",
@@ -34727,7 +34727,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py551_PN_0.jpg"
             ],
-            "label": "PY Na 551 $106$",
+            "label": "PY Na 551",
             "name": "Py551",
             "parsedInscription": "        a-pa-ta     SA   6",
             "scribe": "",
@@ -35050,7 +35050,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py686_PN_0.jpg"
             ],
-            "label": "PY Ad 686 $290$",
+            "label": "PY Ad 686",
             "name": "Py686",
             "parsedInscription": "         o-u-pa-ro-ke-ne-to    ka-wo-ta-ra[   ]po-ro\n        pu-ro   ke-re-za    ra-wi-ja-ja-o⌞ ⌟ko-wo           VIR 15",
             "scribe": "",
@@ -35405,7 +35405,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py344_PN_0.jpg"
             ],
-            "label": "PY Ae 344 + frr. $142$",
+            "label": "PY Ae 344 + frr.",
             "name": "Py344",
             "parsedInscription": "        pi-ro-wo-na    wi-do-wo-i-jo    i-*65   VIR   1",
             "scribe": "",
@@ -35535,7 +35535,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py330_PN_0.jpg"
             ],
-            "label": "PY Ma 330 + fr. $90$",
+            "label": "PY Ma 330 + fr.",
             "name": "Py330",
             "parsedInscription": "           e-sa-re-wi-ja   *146   42     RI   M   42   KE   M   12     *152   18     O   M   8     ME   900   [\n        pe-ru-si-nu-wo   o-pe-ro        *152   6                                                                                        [\n                                                                                                  vac.                                                                  [",
             "scribe": "",
@@ -37018,7 +37018,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py491_PN_0.jpg"
             ],
-            "label": "PY Cn 491 + 1116 + frr.(4) $131$",
+            "label": "PY Cn 491 + 1116 + frr.(4)",
             "name": "Py491",
             "parsedInscription": "                               sup. mut.\n                           ]OVIS:m  60  X [\n                         ]e-u   OVIS:f   40[\n                    ]pi-ta     OVIS:f   10[\n                  ]re-ro        CAP [qs\n               ]pe-se-to        CAP:f   2⌜6⌝\n        ]    e-ta-wo-jo     CAP   12\n        ]     vac.               [",
             "scribe": "",
@@ -37175,7 +37175,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py890_PN_0.jpg"
             ],
-            "label": "PY Eb 890 [+] 898 [+] 933 $149$",
+            "label": "PY Eb 890 [+] 898 [+] 933",
             "name": "Py890",
             "parsedInscription": "        ka-ta-no[   te-o-jo do-e-]ro    e-ke-qe    o-na-to[   ke-]ke-me-na    ko-to[-na\n             pa-ro[   da-mo             ]   GRA     T   2                  [                      ]                            vac.   [",
             "scribe": "",
@@ -37797,7 +37797,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1402_PN_0.jpg"
             ],
-            "label": "PY Mb 1402 $-$ (Ci)",
+            "label": "PY Mb 1402 (Ci)",
             "name": "Py1402",
             "parsedInscription": "                            ]ka-te     *146   5",
             "scribe": "",
@@ -38394,7 +38394,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1267_PN_0.jpg"
             ],
-            "label": "PY Sa 1267 $287$",
+            "label": "PY Sa 1267",
             "name": "Py1267",
             "parsedInscription": "        e-te-wa-jo    wo-ka    we-je-ke-e     ROTA+TE   ZE   2",
             "scribe": "",
@@ -39896,7 +39896,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py632_PN_0.jpg"
             ],
-            "label": "PY La 632 $632$ (Ciii)",
+            "label": "PY La 632 (Ciii)",
             "name": "Py632",
             "parsedInscription": "        pa-wo-ko   LANA[",
             "scribe": "",
@@ -40236,7 +40236,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py858_PN_0.jpg"
             ],
-            "label": "PY Eb 858 $149$",
+            "label": "PY Eb 858",
             "name": "Py858",
             "parsedInscription": "           mu-ti    te-o-jo    do-e-ra    e[-ke-qe  o-na-to  ke-ke-me-na  ko-to-na\n        pa-ro    da-mo            GRA   [T   1",
             "scribe": "",
@@ -40652,7 +40652,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py453_PN_0.jpg"
             ],
-            "label": "PY Cn 453 [+] 836 $925$",
+            "label": "PY Cn 453 [+] 836",
             "name": "Py453",
             "parsedInscription": "                                                                                                                                                     CAP:f\n      ka-pe-se-wa-o    wo-wo    pa-ro[                                ]ne    a-ko-so-ta-o    a-ko-ra  46\n                   inf. mut.                                          [                             ]     reliqua pars sine regulis",
             "scribe": "",
@@ -40740,7 +40740,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1474.jpg"
             ],
-            "label": "PY Xn 1474 $-$",
+            "label": "PY Xn 1474",
             "name": "Py1474",
             "parsedInscription": "                           sup. mut.\n                            ]a2[\n                          inf. mut.",
             "scribe": "",
@@ -41400,7 +41400,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1223_PN_0.jpg"
             ],
-            "label": "PY Fr 1223 $-$",
+            "label": "PY Fr 1223",
             "name": "Py1223",
             "parsedInscription": "               ]ti-no-de    e-ra-wo pa-ko-we    we-a-re-pe     OLE+A   S   2\n                        ]wo-do-we-qe  we-a-re-pe     OLE+A   S   2",
             "scribe": "",
@@ -41918,7 +41918,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1232_PN_0.jpg"
             ],
-            "label": "PY Fr 1232 + fr. $-$ (Cii)",
+            "label": "PY Fr 1232 + fr. (Cii)",
             "name": "Py1232",
             "parsedInscription": "        di-pi-si-jo-i    po-ro-wi-to    pa-ko-we     OLE+PA   S   1\n                                                        vac.",
             "scribe": "",
@@ -42337,7 +42337,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py7.jpg"
             ],
-            "label": "PY Fn 7 + fr. + 1427 $-$",
+            "label": "PY Fn 7 + fr. + 1427",
             "name": "Py7",
             "parsedInscription": "                                                      ]2   OLIV   T   2\n                                                      ]   OLIV   T   1\n        to]-ko-do-mo   HORD[ ]Z   3       VIR   20[\n        pi-ri-e-te-re    HORD[ ]Z   3         VIR   5\n        pa-te-ko-to⌜ ⌝HORD[   ]V   2   [\n               vacat\n        qa-ra2-te    o[-pi-me-]ne[                  ]OLIV   6\n        pa-ka    o-pi-me-ne    [                         OLIV   qs\n        pa-te-ko-to    o-pi-me-ne[   ]HORD   1  [\n      pi-ri-e-te-si    o-pi-me-ne[   ]HORD   1   T   4[\n      to-ko-do-mo    o-pi-me-ne[   ]HORD   7[   ]5\n      vac.",
             "scribe": "",
@@ -43557,7 +43557,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py401_PN_0.jpg"
             ],
-            "label": "PY Wa 401 $-$",
+            "label": "PY Wa 401",
             "name": "Py401",
             "parsedInscription": "                                ]vac.[\n                                ]ta    a-ko-[",
             "scribe": "",
@@ -44436,7 +44436,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1425_PN_0.jpg"
             ],
-            "label": "PY Eb 1425 $149$",
+            "label": "PY Eb 1425",
             "name": "Py1425",
             "parsedInscription": "        ]    ke-ke-me-na[     ko-to-na\n        ]          vac.           [                                                        GRA",
             "scribe": "",
@@ -45094,7 +45094,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py199_PN_0.jpg"
             ],
-            "label": "PY An 199 $172$",
+            "label": "PY An 199",
             "name": "Py199",
             "parsedInscription": "        e-ke-ro-qo-no   VIR   12   ko-wo   1\n        a-ro-po                VIR   3      ko-wo   1[",
             "scribe": "",
@@ -45158,7 +45158,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py652_PN_0.jpg"
             ],
-            "label": "PY Es 652 [+] fr. + fr. [+] 1453 $644$",
+            "label": "PY Es 652 [+] fr. + fr. [+] 1453",
             "name": "Py652",
             "parsedInscription": "               ku-da-ma-ro  do-so-mo]    po-se-da-o-ne          GRA   T   7\n        *34[-ke-te-si do-so-mo                   ]                               GRA     V   3\n        we-da-ne-wo[    do-so-mo                ]                            GRA     V   3\n        di-wi[-]je-we[    do-so-mo                   ]                         GRA     V   3\n            vac.  [                                                       ]                     vac.\n            vac.  [                                                       ]                     vac.",
             "scribe": "",
@@ -45324,7 +45324,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1320_PN_0.jpg"
             ],
-            "label": "PY Un 1320 [+] 1442 + 1447 + 1448 + 1455 + frr.(13) + frr.(4) $-$ (Cii)",
+            "label": "PY Un 1320 [+] 1442 + 1447 + 1448 + 1455 + frr.(13) + frr.(4) (Cii)",
             "name": "Py1320",
             "parsedInscription": "        ka-ra[                ]ru-wa\n            [                             ]        A   5\n        vest. [                                A ]4\n                       ] vest. [\n                            ]jo          [       A\n        pa-ro    ]a-ke-ra-wo    A[\n        pa-ro    ]e-ri-we-ro      A   3\n        pa-ro    e-u-ka-no          A   2\n        pa-ro    ru-na                  A   1\n             vac.\n             vac.",
             "scribe": "",
@@ -45751,7 +45751,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py544_PN_0.jpg"
             ],
-            "label": "PY Na 544 [+] 1094 $106$",
+            "label": "PY Na 544 [+] 1094",
             "name": "Py544",
             "parsedInscription": "        sa-ri-nu[-wo-]te     SA   40",
             "scribe": "",
@@ -47333,7 +47333,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py830_PN_0.jpg"
             ],
-            "label": "PY An 830 + 907 + fr. + frr. + fr. $615$",
+            "label": "PY An 830 + 907 + fr. + frr. + fr.",
             "name": "Py830",
             "parsedInscription": "                                                                      ] vest.  [\n                                                                      ] ke-ke-me[-no\n        di-ri-wa-sa[\n        ma-ra-ti-sa          [\n                vac.       [                    ]  vac.                                                  [\n                                                                                                    -no\n      a-te-re-wi-ja    e-so    ko-re-te-ri-jo    ke-ke-me-  DA  30  [\n            vac.                                                                                                    [\n        e-sa-re-wi-ja    ro-ro-ni-ja    te-u-po-ro [    ] vac.                   [\n                           ]no                    DA   50                 [\n                             ]qo-u-ko-ro   VIR   18 [               ] vac.\n                    qo-]u-ko-ro    ra-wa-ra-ti-ja   VIR   66\n      o-pi-da-mi-jo    pi-*82    qo-u[-ko-]ro   VIR   60\n      a2-ki-ja    qo-u-ko-ro                                   VIR   60[\n          vac.                                                        [\n      ]  vac.                                              [\n                  ] vac.                          [",
             "scribe": "",
@@ -47628,7 +47628,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py222_PN_0.jpg"
             ],
-            "label": "PY Ma 222 + fr. $90$",
+            "label": "PY Ma 222 + fr.",
             "name": "Py222",
             "parsedInscription": "            a-ke-re-wa  *146   23   RI   M   23     KE   M   7  *152   10              O   M   5   ME   500\n        a-pu-do-si          *146 10   o   13   RI   M   22  o   M   1   KE   M   7  *152   8  o  2   O   M   5   ME   500                [\n                                                                                            vac.                                                                                                              [",
             "scribe": "",
@@ -48184,7 +48184,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1415_PN_0.jpg"
             ],
-            "label": "PY Wp 1415 $-$ (Ciii)",
+            "label": "PY Wp 1415 (Ciii)",
             "name": "Py1415",
             "parsedInscription": "α\n        pa-ke-te-re   supra sigillum\nβ\n          vac.\nγ\n          vac.",
             "scribe": "",
@@ -48283,7 +48283,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py162_PN_0.jpg"
             ],
-            "label": "PY Mn 162 [+] 1011 $90$",
+            "label": "PY Mn 162 [+] 1011",
             "name": "Py162",
             "parsedInscription": "      sup. mut.\n                                                 ] vacat\n                                         *146]   4\n                                         *146]   4\n              deest\n                                       ]   *146   4\n              ]ka-sa-ta            *146   4\n        pa-ro    ke-ku-ro   *146   4\n        a-sa-ti-ja                    *146 4\n                  vac.\n               vac.",
             "scribe": "",
@@ -48460,7 +48460,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py807_PN_0.jpg"
             ],
-            "label": "PY Aa 807 $240$",
+            "label": "PY Aa 807",
             "name": "Py807",
             "parsedInscription": "        ke-re-za    ra-wi-ja-ja   MUL   26   ko-wa   7   ko-wo   7   DA   1   TA   1",
             "scribe": "",
@@ -48818,7 +48818,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py646_PN_0.jpg"
             ],
-            "label": "PY Es 646 $644$",
+            "label": "PY Es 646",
             "name": "Py646",
             "parsedInscription": "                   ko-pe-re-u    po-se-da-o-ne    do-so-mo       GRA   1   T   5\n        *34-ke-te-si    do-so-mo                                                GRA         T   1   V   4\n        we-da-ne-we    do-so-mo                                             GRA          T   1   V   4\n        di-wi-je-we    do-so-mo                                                GRA           T   1   V   4\n                                                         vac.",
             "scribe": "",
@@ -49212,7 +49212,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py547_PN_0.jpg"
             ],
-            "label": "PY Na 547 $106$",
+            "label": "PY Na 547",
             "name": "Py547",
             "parsedInscription": "        ke-re-ti-wo     SA   30",
             "scribe": "",
@@ -49319,7 +49319,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py393_PN_0.jpg"
             ],
-            "label": "PY Ma 393 $90$",
+            "label": "PY Ma 393",
             "name": "Py393",
             "parsedInscription": "            ]za-ma-e-wi-ja  *146   28   RI   M   28   KE   M   8  *152   12     O   M   5     ME   600\n        ]a-pu-do-si  *146   20   a-ne-ta-de  *146   1   RI   M   21              KE   M   5   o   M   1            *152   8   O   M   6        ME   450\n          ]             o-da-a2    ma-ra-ne-ni-jo    o-u-di-do-si      *146   7   RI   M   7   KE   M   2       *152   3   0   M   2         ME   150",
             "scribe": "",
@@ -49530,7 +49530,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py516_PN_0.jpg"
             ],
-            "label": "PY Na 516 $106$",
+            "label": "PY Na 516",
             "name": "Py516",
             "parsedInscription": "                            ]e-ko-si\n                            ]ko-ro-ku-ra-i-jo   SA   10",
             "scribe": "",
@@ -49982,7 +49982,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1464_PN_0.jpg"
             ],
-            "label": "PY Xn 1464 $-$",
+            "label": "PY Xn 1464",
             "name": "Py1464",
             "parsedInscription": "                            ]-ri-[\n                              inf. mut.",
             "scribe": "",
@@ -50516,7 +50516,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py974_PN_0.jpg"
             ],
-            "label": "PY Fn 974 $79$",
+            "label": "PY Fn 974",
             "name": "Py974",
             "parsedInscription": "                               ]     HORD   1[\n                                       inf. mut.",
             "scribe": "",
@@ -51151,7 +51151,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1437_PN_0.jpg"
             ],
-            "label": "PY Wr 1437 $-$",
+            "label": "PY Wr 1437",
             "name": "Py1437",
             "parsedInscription": "α\n        A±RE±PA[   supra sigillum\nβ\n        vac.\nγ\n        deest",
             "scribe": "",
@@ -51536,7 +51536,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py493_PN_0.jpg"
             ],
-            "label": "PY Vn 493 + fr. + frr. $-$ (Ci)",
+            "label": "PY Vn 493 + fr. + frr. (Ci)",
             "name": "Py493",
             "parsedInscription": "             a-ke-ro    e-po    a-ke-ra2-te\n        pa-wa-wo    ti-mi-ti-ja                                 20\n        o-to-ro-[     ]    e-sa-re-wi-ja    za-ma-e-wi-ja-qe     50\n        po-ro-u[-te-]u    e-ra-te-re-wa-pi                            20\n                                                             ]-ja                                20\n                                                      ]-re-wi-ja-qe                     50\n                                                             ]                  vac.\n                                                         ]                                         40\n                                                           me-]ta-pa-qe                20\n                                                      pe-]to-no                          25\n                                                        ]ja    a-ke-re-wa-qe     20\n                                                              reliqua pars sine regulis",
             "scribe": "",
@@ -51848,7 +51848,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1242_PN_0.jpg"
             ],
-            "label": "PY Fr 1242 $1217$ (Cii)",
+            "label": "PY Fr 1242 (Cii)",
             "name": "Py1242",
             "parsedInscription": "            a-ro-pa\n        e-ra3-wo    e-pi[                                OLE",
             "scribe": "",
@@ -52166,7 +52166,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py654_PN_0.jpg"
             ],
-            "label": "PY An 654 $657$",
+            "label": "PY An 654",
             "name": "Py654",
             "parsedInscription": "        ku-ru-me-no-jo    o-ka    pe-ri-te-u  \n        wo-ne-wa    a-ti-ja-wo    e-ru-ta-ra  \n        o-*34-ta    me-ta-pi-jo     ke-ki-de  \n        VIR   50\n                                    vac.\n        u-pi-ja-ki-ri-jo    ku-re-we      VIR   60\n        me-ta-qe    pe-i    e-qe-ta  \n        a-re-ku-tu-ru-wo    e-te-wo-ke-re-we\n        i-jo \n                                 vac.\n      ta-ti-qo-we-wo    o-ka    to-wa  \n      po-ki-ro-qo    pe-ri-no    de-u-ka-ri-jo  \n      ra-pe-do    do-qo-ro    pe-ri-ra-wo  \n      e-no-wa-ro    to-so-de    pe-di-je-we  \n      wa-wo-u-de    ke-ki-de    VIR   10\n      u-ru-pi-ja-jo     VIR  10  ku-re-we   VIR   20\n      i-wa-so               VIR  10\n      o-ka-ra3             VIR  10",
             "scribe": "",
@@ -52720,7 +52720,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py339_PN_0.jpg"
             ],
-            "label": "PY Eb 339 [+] 409 $149$",
+            "label": "PY Eb 339 [+] 409",
             "name": "Py339",
             "parsedInscription": "        i-je-re-ja    pa-ki-ja-na    e-ke-qe[     o-na-to ke-ke-me-na     ]     X\n           ko-to-na    pa-ro⌞ ⌟da-mo [                                   to-so-de   ]pe-mo     GRA   T   4",
             "scribe": "",
@@ -52940,7 +52940,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py113_PN_0.jpg"
             ],
-            "label": "PY Xa 113 $-$ (Ci)",
+            "label": "PY Xa 113 (Ci)",
             "name": "Py113",
             "parsedInscription": "        pa-ki-ja-ne    te-re[\n                vac. [\n                vac. [",
             "scribe": "",
@@ -52995,7 +52995,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py815_PN_0.jpg"
             ],
-            "label": "PY Aa 815 $240$",
+            "label": "PY Aa 815",
             "name": "Py815",
             "parsedInscription": "        a-ke-ti-ra2   MUL   38   ko-wa   33   ko-wo   16   DA   1   TA   1",
             "scribe": "",
@@ -53088,7 +53088,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py732_PN_0.jpg"
             ],
-            "label": "PY Wa 732 $733$ (Cii)",
+            "label": "PY Wa 732 (Cii)",
             "name": "Py732",
             "parsedInscription": "                             ]to-ra-ke\n                                 ]   vacat",
             "scribe": "",
@@ -53250,7 +53250,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py47_PN_0.jpg"
             ],
-            "label": "PY Un 47 $138$",
+            "label": "PY Un 47",
             "name": "Py47",
             "parsedInscription": "        ro-u-so    ro-u-si-jo    a-ko-ro[\n        NI   T   9   V   3                       i[\n        CYP+O   3   T   4   V   1      VIN [\n        HORD   41   T   1   V   4         ka[\n        OVIS:m   13   OVIS:f 8         WE[",
             "scribe": "",
@@ -53389,7 +53389,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py397_PN_0.jpg"
             ],
-            "label": "PY Ma 397 + fr. [+] 1048 $90$",
+            "label": "PY Ma 397 + fr. [+] 1048",
             "name": "Py397",
             "parsedInscription": "        a-[•]-ta2  *146   24   RI   M   24         KE   M   2[     *152   10     O   M   5                                            ]  ME   500        [\n        pe-ru-si-nu-wo    o-pe-ro     *152   1   O   M  1        [                                                                              ]          vac.          [\n        o-da-a2    ]ka-ke-we    o-u-di-do-si             *146   2   RI   2  *152[   1                                               ME   ]25          [",
             "scribe": "",
@@ -53791,7 +53791,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py705_PN_0.jpg"
             ],
-            "label": "PY Ep 705 $74$",
+            "label": "PY Ep 705",
             "name": "Py705",
             "parsedInscription": "        ma-ra3-wa    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke[-me-na  ko-to-na  pa-ro  da-mo  to-so  pe-mo         GRA   ]T   2\n        ka-ta-no    te-o-jo    do-e-ro    o-na-to    e-ke[   ke-ke-me-na  ko-to-na  pa-ro  da-mo  to-so  pe-]mo              GRA   T   2\n        du-ni-jo    te-o-jo    do-e-ro    o-na-to    e[-ke  ke-ke-me-na  ko-to-na  pa-ro  da-mo  to-]so  pe-mo                GRA   T   1\n        e-sa-ro    te-o-jo    do-e-ro    o-na-to[   e-ke  ke-ke-me-na  ko-to-na  pa-]ro    da-mo    to-so  pe-mo               GRA   V   2\n        ka-ra-u-du-ro    te-o-jo    do-e-ro    o-na-to    e-ke    [ke-ke-me-na ko-]to-na    pa-ro    da-mo  to-so  pe-mo      GRA   T   2\n        to-ro-ja    te-o-jo    do-e-ra  o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo  to-so  pe-mo                    GRA   T   1\n        o-re-a2    te-o-jo    do-e-ro    o-na-to    e-ke⌞ ⌟ke-ke-me-na    ko[-to-]na    pa-ro    da-mo    to-so    pe-mo      GRA   V   2\n        e-ko-to    te-o-jo    do-e-ro    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so    pe-mo            GRA   T   2\n        pu-ko-wo    te-o-jo    do-e-ro⌞ ⌟o-na-to    e-ke    ke-ke-me-na[  ko-to-na  pa-ro da-]mo⌞ ⌟to-so  pe-mo             GRA   T   2\n      ta-ra-mi-ka    te-o-jo⌞ ⌟do-e-ra    o-na-to    e-ke    ke-ke[-me-na  ko-to-na  pa-ro  da-]mo    to-so  pe-mo           GRA   T   1   V[",
             "scribe": "",
@@ -54612,7 +54612,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1341_PN_0.jpg"
             ],
-            "label": "PY Vn 1341 $-$ (Ciii)",
+            "label": "PY Vn 1341 (Ciii)",
             "name": "Py1341",
             "parsedInscription": "               sup. mut.\n        ]-te-de-ta    ki-wa-ra-e-ru\n                                        po-ti-ni-ja\n        to-ka-te-ri-ja    ki-wa-ro\n                              [•]-ku-da-ru-e\n        ku-[•]-ka⌞  ⌟ki-wa-ra   5\n        du-[                  ]pa-ta-jo   200\n                                                        ] vac.\n                   inf. mut.",
             "scribe": "",
@@ -54833,7 +54833,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py531_PN_0.jpg"
             ],
-            "label": "PY Na 531 $106$",
+            "label": "PY Na 531",
             "name": "Py531",
             "parsedInscription": "        te-se-e     SA   18",
             "scribe": "",
@@ -55032,7 +55032,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py482_PN_0.jpg"
             ],
-            "label": "PY Va 482 $-$",
+            "label": "PY Va 482",
             "name": "Py482",
             "parsedInscription": "                                                                                     qe-qi-no-me-no\n        e-re-pa    a-no-po    a-ko-so-ta    ZE       e-wi-su-*79-ko   4   ro-i-ko   2",
             "scribe": "",
@@ -55378,7 +55378,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1025_PN_0.jpg"
             ],
-            "label": "PY Na 1025 $106$",
+            "label": "PY Na 1025",
             "name": "Py1025",
             "parsedInscription": "                                                 e-re-u-]te-ra     SA   1 [\n                                                 e-re-u-]te-ra    SA 1 [",
             "scribe": "",
@@ -55822,7 +55822,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py471_PN_0.jpg"
             ],
-            "label": "PY Eo 471 [+] 855 $149$",
+            "label": "PY Eo 471 [+] 855",
             "name": "Py471",
             "parsedInscription": "        a-]i[-qe-wo ko-]to-na    ki[-ti-]me-na                                                     GRA   1   T   2\n        ta-ra2-to[   te-o-]jo    do-e-ro    e-ke-qe⌞ ⌟o-na-to    pa-ro    a-i-qe-we     GRA   T   1   V   3",
             "scribe": "",
@@ -56860,7 +56860,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1236_PN_0.jpg"
             ],
-            "label": "PY Fr 1236 $1202$",
+            "label": "PY Fr 1236",
             "name": "Py1236",
             "parsedInscription": "        pa-ki-ja-ni-jo    a-ko-ro    u-po-jo    po-ti-ni-ja     OLE+PA   S   1   V   1\n                                                       vac.",
             "scribe": "",
@@ -57907,7 +57907,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py599_PN_0.jpg"
             ],
-            "label": "PY Cn 599 $4$",
+            "label": "PY Cn 599",
             "name": "Py599",
             "parsedInscription": "                                        pa-ro\n         wa-no-jo    wo-wo    ne-ti-ja-no  a-ke-o-jo     CAP:m   100\n            a2-ne-u-te    pa-ro    ka-so    a-ko-so-ta-o             CAP:m   45\n            a2-pa-tu-wo-te    pa-ro    a-ke-ra-wo    a-ke-o-jo     CAP:m   90\n            a2-pa-tu-wo-te    pa-ro    ru-we-ta    a-ke-o-jo          CAP:f   40\n            a2-pa-tu-wo-te    pa-ro    a-wo-i-jo                               CAP:f   50\n            wa-no-jo   wo-wo    pa-ro    ke-re-no    a-ke-o-jo     CAP:f   80\n            a2-pa-tu-wo-te    pa-ro    e-zo-wo                                  SUS:f   30\n        e-ko-me-no    pa-ro    ti-ri-po-di-ko                                  SUS:f 57",
             "scribe": "",
@@ -58377,7 +58377,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1168_PN_0.jpg"
             ],
-            "label": "PY Xn 1168 $-$",
+            "label": "PY Xn 1168",
             "name": "Py1168",
             "parsedInscription": "                                sup. mut.\n                                ]jo[\n                                  ]we[\n                                  inf. mut.",
             "scribe": "",
@@ -58444,7 +58444,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py659_PN_0.jpg"
             ],
-            "label": "PY En 659 $74$",
+            "label": "PY En 659",
             "name": "Py659",
             "parsedInscription": "             qe-re-qo-ta-o    ki-ti-me-na    to-so-de    pe-mo     GRA   2   T   3\n          o-da-a2    o-na-te-re    e-ko-si    qe-re-qo-ta-o    ko-to-na\n        ra-su-ro    te-o-jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo     GRA   T   1\n        we-te-re-u    i-e-re-u    o-na-to    e-ke    to-so-de    pe-mo                  GRA   T   1\n        tu-ri-ja-ti    te-o-jo    do-e-ra    e-ke     pa-ro    pe-re-qo-ta    pe-qo-ta    to-so    pe-mo     GRA   T   9\n        ta-ra2-to    te-o-jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo     GRA   V   3\n                                                                                            vac.\n        a-da-ma-o-jo    ko-to-na    ki-ti-me-na⌞ ⌟to-so-de    pe-mo                 GRA   1   T   8\n        o-da-a2    o-to-te-re    e-ko-si    a-da-ma-o-jo    ko-to-na\n      ta-ra2-to    te-o-na    do-e-ro⌞ ⌟o-na-to    e-ke    to-so-de    pe-mo   GRA   T   2   V   4\n                                                                                         vac.\n      a-i-qe-wo    ko-to-na    ki-ti-me-na    to-so-de    pe-mo       GRA   1   T   2\n      o-da-a2    ta-ra2-to    te-o-jo    do-e-ro    o-na-to⌞ ⌟e-ke    to-so-de    pe-mo   GRA   T   1   V   3\n                                                                                         vac.\n      ra-ku-ro-jo    ko-to-na    ki-ti-me[-na   ]to-so-de    pe-mo     GRA   1   T   1   V   3\n      o-da-a2    i-ra-ta    te-o-jo    do-e[-ro  o-]na-to    e-ke    to-so-de    pe-mo       GRA   V   3\n                                                                                         vac.\n      a-ka-ta[-jo-]jo    ko-to-na    ki-ti-me-na    to-so-de    pe-mo     GRA   3   T   2\n        o-da-a2⌞ ⌟ka-ra-*56[-so  te-]o-jo[  do-]e-ro    o-na-to    e-ke    to-so-de pe-mo     GRA   T   2",
             "scribe": "",
@@ -59849,7 +59849,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py477_PN_0.jpg"
             ],
-            "label": "PY Eb 477 $149$",
+            "label": "PY Eb 477",
             "name": "Py477",
             "parsedInscription": "          we-te-re-u    o-pi-ti-ni-ja-ta    e-ke-qe    o-na-to    ke-ke-me-na\n        ko-to-na                                                     to-so-de    pe-mo                             GRA   1   T ⟦  8  ⟧",
             "scribe": "",
@@ -62085,7 +62085,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py356_PN_0.jpg"
             ],
-            "label": "PY Ab 356 [+] 1049 $186$",
+            "label": "PY Ab 356 [+] 1049",
             "name": "Py356",
             "parsedInscription": "                                                                                                              GRA   2   T   2   DA\n        pu-ro      ra-qi-ti-ra2   MUL   6   ko-wa   3   ko[-wo   ]1   NI   2   T   2",
             "scribe": "",
@@ -62417,7 +62417,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py277_PN_0.jpg"
             ],
-            "label": "PY Ab 277 $186$",
+            "label": "PY Ab 277",
             "name": "Py277",
             "parsedInscription": "                                                                                        GRA   3   DA   TA\n        o-wi-to-no   MUL   8   ko-wa   5   ko-wo   2   NI   3",
             "scribe": "",
@@ -62704,7 +62704,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1103_PN_0.jpg"
             ],
-            "label": "PY Ab 1103 $186$",
+            "label": "PY Ab 1103",
             "name": "Py1103",
             "parsedInscription": "                                    GRA   ]1 TA   [\n                                    NI       ]1         [",
             "scribe": "",
@@ -62811,7 +62811,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py809_PN_0.jpg"
             ],
-            "label": "PY Ea 809 [+] 1483 $28$",
+            "label": "PY Ea 809 [+] 1483",
             "name": "Py809",
             "parsedInscription": "                                    ra-wa-ke-si-jo-jo    a-mo-te-wo\n        ke-]re-te-u⌞ ⌟e-ke    o-na-to    ke-ke-me-na    ko-to-na [ ]GRA  T  2",
             "scribe": "",
@@ -63147,7 +63147,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1355.jpg"
             ],
-            "label": "PY Fr 1355 $-$ (Cii)",
+            "label": "PY Fr 1355 (Cii)",
             "name": "Py1355",
             "parsedInscription": "        te-o-i    a-ro-pa    pu-[                        OLE",
             "scribe": "",
@@ -63252,7 +63252,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1237_PN_0.jpg"
             ],
-            "label": "PY Fr 1237 + fr. + 1239 $-$ (Cii)",
+            "label": "PY Fr 1237 + fr. + 1239 (Cii)",
             "name": "Py1237",
             "parsedInscription": "                                 ]to-no         [        ]     OLE+A   V   1",
             "scribe": "",
@@ -63347,7 +63347,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py706_PN_0.jpg"
             ],
-            "label": "PY Jn 706 $658$",
+            "label": "PY Jn 706",
             "name": "Py706",
             "parsedInscription": "        ka-ke-we    ta-ra-si-ja    e-ko-si    pa-to-wo-te\n        ke-ta                 AES   M   5\n        pe-ri-no           AES   M   3\n        ku-ri-sa-to      AES   M[\n        a-no-me-de           AES   [\n        qi-si-ja-ko              AES [\n        mu-to-na                AES[\n        ka-ra-u-ko             AES[\n        ma-ra-si-jo        [   AES\n      ka-pa-ra2              AES   M    5\n      a3-so-ni-jo            AES   M    5\n                                             vac.\n      to-so-de  ka-ko  e-ko-si\n      AES   L    1 [               ]                      vac.\n          vac.   [                     ]                      vac.\n      to-so-de    a-ta-ra-si-jo    ka-ri-si-jo     1[\n          ko-a2-ta               1   ko-do-ro               1[\n                           a-ka-ma-wo        1                   [\nv.\n        to-so-de    do-e-ro\n                                  ]                     1\n                                   ]                    1\n                                    ]                   1\n                                     ]                  1\n                                      ]                 1\n                                    vac.\n                                    vac.\n                                    vac.\n                                  vac.\n                                  vac.\n                                  vac.",
             "scribe": "",
@@ -64137,7 +64137,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1315_PN_0.jpg"
             ],
-            "label": "PY Ub 1315 $-$",
+            "label": "PY Ub 1315",
             "name": "Py1315",
             "parsedInscription": "                  ]-wo-ja a-ni-ja    te-u-ke-pi    5 di-pte-ra3   e-ru-ta-ra   1⌞6[\n        ro-u-si-je-wi-ja   6             ra-pte-ri-ja   a-ni-ja   3\n                                                                                                                                                                     2\n      ne-wa    a-ni-ja    a-na-pu-ke     5   dwo   2   a-pu-ke   9   a-ni-ja-e-e-ro-pa-jo-qe-ro-sa\n                                                                    1\n      a-pe-ne-wo   4   a-pu-ke    a-pe-ne-wo   ne-wa   po-qe-wi-ja   ZE   11",
             "scribe": "",
@@ -64465,7 +64465,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1362_PN_0.jpg"
             ],
-            "label": "PY Na 1362 $106$",
+            "label": "PY Na 1362",
             "name": "Py1362",
             "parsedInscription": "                           ]SA[",
             "scribe": "",
@@ -64623,7 +64623,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1419_PN_0.jpg"
             ],
-            "label": "PY Xa 1419 $995$",
+            "label": "PY Xa 1419",
             "name": "Py1419",
             "parsedInscription": "        di-wo-nu-so[\n        tu-ni-jo[\nv.\n        i-pe-ne-o[\n        wo-no-wa-ti-si[",
             "scribe": "",
@@ -64923,7 +64923,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1149_PN_0.jpg"
             ],
-            "label": "PY Xa 1149 [+] fr. $-$",
+            "label": "PY Xa 1149 [+] fr.",
             "name": "Py1149",
             "parsedInscription": "                             ]21[     ] vacat\n                               inf. mut.",
             "scribe": "",
@@ -65160,7 +65160,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py289_PN_0.jpg"
             ],
-            "label": "PY Ad 289 + 681 + 687 $290$",
+            "label": "PY Ad 289 + 681 + 687",
             "name": "Py289",
             "parsedInscription": "        ]e-pi-ja-ta-ni-ja⌞ ⌟ri-ne-ja-o  ko[-wo]   VIR   7   ko-wo   3",
             "scribe": "",
@@ -65227,7 +65227,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py295_PN_0.jpg"
             ],
-            "label": "PY Ad 295 $290$",
+            "label": "PY Ad 295",
             "name": "Py295",
             "parsedInscription": "        ke-e    ri-ne-ja-o    ko-wo   VIR   8   ko-wo   5",
             "scribe": "",
@@ -65557,7 +65557,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py868_PN_0.jpg"
             ],
-            "label": "PY Cr 868 + 875 $868$ (Ci)",
+            "label": "PY Cr 868 + 875 (Ci)",
             "name": "Py868",
             "parsedInscription": "        a3-se-we                 [CERV qs\n        ne-se-e-we              CERV[ qs\n        te-re-ne-wi-ja        CERV[ qs\n        na-pe-re-wa           CERV[ qs\n              ]to-na-pe [ ]    CERV[ qs\n            ]na-wo                 CERV 1\n        qe-re-me-ti-wo    CERV 1\n                vac.\n                vac.\n              vac.\ninf. mut.",
             "scribe": "",
@@ -66245,7 +66245,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py104_PN_0.jpg"
             ],
-            "label": "PY Na 104 $106$",
+            "label": "PY Na 104",
             "name": "Py104",
             "parsedInscription": "                                      to-sa-]de      e-we-da-si[\n                            SA     to-sa-]de⌞ ⌟ka-ke-u-si[",
             "scribe": "",
@@ -66502,7 +66502,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py554_PN_0.jpg"
             ],
-            "label": "PY Ab 554 $186$",
+            "label": "PY Ab 554",
             "name": "Py554",
             "parsedInscription": "                                                                                            GRA   2   T[   qs\n        ne-wo-pe-o     MUL   7   ko-wa   5   ko-wo   5   NI   2[     T",
             "scribe": "",
@@ -66581,7 +66581,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py692_PN_0.jpg"
             ],
-            "label": "PY Jn 692 $310$",
+            "label": "PY Jn 692",
             "name": "Py692",
             "parsedInscription": "                                                              e-ko-te\n        na-i-se-wi-jo     ka-ke-we    ta-ra-si-ja  \n        ri-ja-ko   AES   M   6   a-pe-te-u     AES   M   6\n                                                 vac.\n        to-so-de    a-ta-ra-si-jo    ka-ke-we\n        ra-ma-jo   1   ma-no-u-ro   1\n        re-u-si-wo   1   ke-ki   1   ri-ku-we   1\n        po-ti-na-jo   1",
             "scribe": "",
@@ -66866,7 +66866,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1027_PN_0.jpg"
             ],
-            "label": "PY Na 1027 $337$ (Cii)",
+            "label": "PY Na 1027 (Cii)",
             "name": "Py1027",
             "parsedInscription": "        e-na-po-ro       SA   70",
             "scribe": "",
@@ -66936,7 +66936,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py993_PN_0.jpg"
             ],
-            "label": "PY Eb 993 + 1047 $149$",
+            "label": "PY Eb 993 + 1047",
             "name": "Py993",
             "parsedInscription": "                    ]ke-ke-me-na    ko-to-na\n        GRA   ]     vac.",
             "scribe": "",
@@ -67151,7 +67151,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py578_PN_0.jpg"
             ],
-            "label": "PY Ab 578 $186$",
+            "label": "PY Ab 578",
             "name": "Py578",
             "parsedInscription": "                                                                                                         GRA   2   T   4   TA\n        pu-ro    pe-ki-ti-ra2   MUL   7   ko-wa   4   ko-wo   4   NI   2   T   4",
             "scribe": "",
@@ -67487,7 +67487,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py58_PN_0.jpg"
             ],
-            "label": "PY Na 58 $106$",
+            "label": "PY Na 58",
             "name": "Py58",
             "parsedInscription": "        a-pi-no-e-wi-jo[     SA     qs",
             "scribe": "",
@@ -68360,7 +68360,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py627_PN_0.jpg"
             ],
-            "label": "PY La 627 $622?$",
+            "label": "PY La 627",
             "name": "Py627",
             "parsedInscription": "        ]    te-ro-a    a-ro[",
             "scribe": "",
@@ -68942,7 +68942,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py172_PN_0.jpg"
             ],
-            "label": "PY An 172 $172$",
+            "label": "PY An 172",
             "name": "Py172",
             "parsedInscription": "                             ]ra-pte      wo-wi-ja-ta\n                       ]  pe-re-ku-ta\n                ]ki-jo-qe-u     e-ro-ma-to         VIR   1\n              ]mi-to-no         e-ro-ma-to         VIR   1\n        mu-ko                     e-ro-ma-to          VIR   1\n        da-ka-sa-na-ta     e-ro-ma-to           VIR   1\n        di-wo                       e-ro-ma-to           VIR   1\n        sa-ri-qo-ro            a-we-u-pi             VIR   1\n        ma-ta-i                   a-we-u-pi             VIR   1\n           ]-a2-ta               ro-o-wa          [    VIR   1\n      o-nu[       ]               ta-ra-ke-wi[  ]    VIR   1\n                                    vac.\n                                    vac.",
             "scribe": "",
@@ -69838,7 +69838,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py721_PN_0.jpg"
             ],
-            "label": "PY Ta 721 $641$",
+            "label": "PY Ta 721",
             "name": "Py721",
             "parsedInscription": "            ta-ra-nu    a-ja-me-no    e-re-pa-te-jo    au-de-pi    to-qi-de-qe    ka-ru-we-qe        *220   1\n        ta-ra-nu-we    a-ja-me-no    e-re-pa-te-jo    au-de-pi    so-we-no-qe    to-qi-de-qe     *220   3\n        ta-ra-nu    a-ja-me-no    e-re-pa-te-jo    au-de-pi    so-we-no-qe                  *220   1\n        ta-ra-nu    a-ja-me-no    e-re-pa-te-jo    au-de-pi    so-we-no-qe               *220   1\n        ta-ra-nu     a-ja-me-no    e-re-pa-te-jo    au-de-pi                                          *220   1",
             "scribe": "",
@@ -70671,7 +70671,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1412_PN_0.jpg"
             ],
-            "label": "PY Mn 1412 $1412$",
+            "label": "PY Mn 1412",
             "name": "Py1412",
             "parsedInscription": "        pa-ro    ka-ra-[\n        pa-qo-si-jo                                 *146\n        o-no-ka-ra[                                 *146\n        ma-to-pu-ro  [                            *146\n        da-nu-wa-a-ri[                           *146\n        po-ro[                                           *146\n           inf. mut.",
             "scribe": "",
@@ -70821,7 +70821,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py585_PN_0.jpg"
             ],
-            "label": "PY Ab 585 $186$",
+            "label": "PY Ab 585",
             "name": "Py585",
             "parsedInscription": "                                    ] 6 [",
             "scribe": "",
@@ -70927,7 +70927,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1336_PN_0.jpg"
             ],
-            "label": "PY Mb 1336 $-$",
+            "label": "PY Mb 1336",
             "name": "Py1336",
             "parsedInscription": "                                      ]jo     *146   11[",
             "scribe": "",
@@ -71467,7 +71467,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1227_PN_0.jpg"
             ],
-            "label": "PY Fr 1227 $1202$",
+            "label": "PY Fr 1227",
             "name": "Py1227",
             "parsedInscription": "        wa-na-ka-te    wa-na-so-i    [     ]   S   1   V   1",
             "scribe": "",
@@ -71519,7 +71519,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py905_PN_0.jpg"
             ],
-            "label": "PY Eb 905 [+] 909 $149$",
+            "label": "PY Eb 905 [+] 909",
             "name": "Py905",
             "parsedInscription": "        mi-ra    te[-o-jo  do-e-ra  e-ke-qe  o-na-to  ke-ke-me-na  ]ko-to-na  [\n          pa-ro  da-mo[   to-so-de  pe-mo            GRA   T   1              ]  vacat           [",
             "scribe": "",
@@ -72302,7 +72302,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py629_PN_0.jpg"
             ],
-            "label": "PY Ae 629 $626$",
+            "label": "PY Ae 629",
             "name": "Py629",
             "parsedInscription": "                                    ]-ti   MUL   20[",
             "scribe": "",
@@ -72613,7 +72613,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py917_PN_0.jpg"
             ],
-            "label": "PY Wa 917 $106$",
+            "label": "PY Wa 917",
             "name": "Py917",
             "parsedInscription": "                                 ]o-da-sa-to    a-ko-so[-ta\n                                   ]e-qe-ta    e-re-u-te-re[",
             "scribe": "",
@@ -72949,7 +72949,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py757_PN_0.jpg"
             ],
-            "label": "PY Ea 757 $28$",
+            "label": "PY Ea 757",
             "name": "Py757",
             "parsedInscription": "                                     qo-qo-ta-o\n        e-u-me-ne    e-ke    o-na    ke-ke-me-na    ko-to-na        GRA     T   2",
             "scribe": "",
@@ -73401,7 +73401,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py403_PN_0.jpg"
             ],
-            "label": "PY Sa 403 + frr. $287$",
+            "label": "PY Sa 403 + frr.",
             "name": "Py403",
             "parsedInscription": "                               ]   ROTA   ZE   2",
             "scribe": "",
@@ -73635,7 +73635,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py657_PN_0.jpg"
             ],
-            "label": "PY An 657 $657$",
+            "label": "PY An 657",
             "name": "Py657",
             "parsedInscription": "        o-u-ru-to  o-pi-a2-ra  e-pi-ko-wo \n        ma-re-wo    o-ka    o-wi-to-no  \n        a-pe-ri-ta-wo    o-re-ta    e-te-wa    ko-ki-jo  \n        su-we-ro-wi-jo    o-wi-ti-ni-jo    o-ka-ra3   VIR   50\n                                          vac.\n        ne-da-wa-ta-o    o-ka    e-ke-me-de  \n        a-pi-je-ta    ma-ra-te-u    ta-ni-ko  \n        a2-ru-wo-te    ke-ki-de    ku-pa-ri-si-jo   VIR   20\n                                          vac.\n      a3-ta-re-u-si    ku-pa-ri-si-jo    ke-ki-de   VIR   10\n      me-ta-qe    pe-i    e-qe-ta    ke-ki-jo  \n      a-e-ri-qo-ta        e-ra-po    ri-me-ne  \na                           o-wi-\nb    o-ka-ra      -to-no   VIR   30   ke-ki-de-qe    a-pu2-ka-ne  \nA        VIR   20     me-ta-qe    pe-i    a3-ko-ta   e-qe-ta  \nB                                        vac.",
             "scribe": "",
@@ -74242,7 +74242,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1235_PN_0.jpg"
             ],
-            "label": "PY Fr 1235 $1202$",
+            "label": "PY Fr 1235",
             "name": "Py1235",
             "parsedInscription": "        wa-]na-so-i    wa-na-ka-te    pa-ko[-we     ]OLE+PA   1\n        ]wa-na-so-i    po-ti-ni-ja    pa-ko-we     OLE+PA   V   3",
             "scribe": "",
@@ -74473,7 +74473,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py109_PN_0.jpg"
             ],
-            "label": "PY Ea 109 $28$",
+            "label": "PY Ea 109",
             "name": "Py109",
             "parsedInscription": "        a-pi-a2-ro    e-ke    su-qo-ta-o    ko-to-na              GRA   2   T   5",
             "scribe": "",
@@ -74598,7 +74598,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py321_PN_0.jpg"
             ],
-            "label": "PY Eb 321 [+] 327 [+] 1153 + frr.(3) $149$",
+            "label": "PY Eb 321 [+] 327 [+] 1153 + frr.(3)",
             "name": "Py321",
             "parsedInscription": "        ki-ri-te-wi-ja    e-ko-si-qe    o[-]na[-to  ke-ke-]me-na-o\n            ko[-to-na-o  pa-ro  da-mo                                  to-so-]de    pe-mo   GRA   1   T   9",
             "scribe": "",
@@ -74754,7 +74754,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py221_PN_0.jpg"
             ],
-            "label": "PY Ma 221 $90$",
+            "label": "PY Ma 221",
             "name": "Py221",
             "parsedInscription": "        pa-ki-ja-pi      *146   22     RI   M   22       KE   M   7       *152   10         O   M   4[     ]   ME   400[\n            o-da-a2    ka-ke-we    o-u-di-do-si    *146   1   RI   M   1  *152   1   O   M   1   ME   20",
             "scribe": "",
@@ -75002,7 +75002,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py645_PN_0.jpg"
             ],
-            "label": "PY Es 645 $644$",
+            "label": "PY Es 645",
             "name": "Py645",
             "parsedInscription": "                se-no         po-se-da-o-ne  do-so-mo     GRA   T   5\n        *34-ke-te-si    do-so-mo                                  GRA            V   2\n        we-da-ne-wo   do-so-mo                                GRA            V   2\n        di-wi-je-we    do-so-mo                                   GRA           V   2\n                                                        vacat",
             "scribe": "",
@@ -75279,7 +75279,7 @@ var inscriptions = new Map(
             "imageRights": "© University of Cincinnati",
             "imageRightsURL": "http://calibra.classics.cam.ac.uk/",
             "images": [],
-            "label": "PY Eb 1349 $149$",
+            "label": "PY Eb 1349",
             "name": "Py1349",
             "parsedInscription": "        ]ke-ke-me[-na  ko-to-na\n         ]     vac.     [       GRA\n             inf. mut.",
             "scribe": "",
@@ -75669,7 +75669,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1409_PN_0.jpg"
             ],
-            "label": "PY Mn 1409 $1412$",
+            "label": "PY Mn 1409",
             "name": "Py1409",
             "parsedInscription": "           sup. mut.\n            ]vest.[\n        qe-re-me[                              *146\n                 vac.   [\n           inf. mut.",
             "scribe": "",
@@ -75992,7 +75992,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py799_PN_0.jpg"
             ],
-            "label": "PY Ea 799 $28$",
+            "label": "PY Ea 799",
             "name": "Py799",
             "parsedInscription": "        ru-ko-ro    e-ke    o-na-to    me-ri-te-wo    ko-to-na        GRA     T   3",
             "scribe": "",
@@ -76187,7 +76187,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py711_PN_0.jpg"
             ],
-            "label": "PY Ta 711 $641$",
+            "label": "PY Ta 711",
             "name": "Py711",
             "parsedInscription": "            o-wi-de    pu2-ke-qi-ri    o-te    wa-na-ka    te-ke    au-ke-wa    da-mo-ko-ro\n        qe-ra-na    wa-na-se-wi-ja    qo-u-ka-ra    ko-ki-re-ja     *204VAS   1   qe-ra-na    a-mo-te-wi-ja    ko-ro-no-we-sa\n          qe-ra-na    wa-na-se-wi-ja    ku-na-ja    qo-u-ka-ra    to-qi-de-we-sa                *204VAS   1",
             "scribe": "",
@@ -76924,7 +76924,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py831_PN_0.jpg"
             ],
-            "label": "PY Nn 831 $106$",
+            "label": "PY Nn 831",
             "name": "Py831",
             "parsedInscription": "               ko-ri[                        ]no    ⟦do-so-mo⟧\n          u-re[                              ]                        SA   4\n        a-mo-ke-re-[     ]                                    SA   1\n        e-re-e-u                                                    SA   2\n        qo-u-ko-ro       [                              ]       SA   2\n        a-ro-je-u              [                               ]   SA   1   [\n        a-mu-ta-wo          [                         ]       SA   4\n        e-po-me-ne-u[       ]                               SA   4\n        ko-re-te [                          ]                      SA   24\n      po-me-ne     [                                      ]   SA   2\n      ka-ke-u[                                ]                  SA   1\n                         vac.\n                         vac.\n                         vac.\n                         vac.",
             "scribe": "",
@@ -77584,7 +77584,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py797_PN_0.jpg"
             ],
-            "label": "PY Sa 797 $287$",
+            "label": "PY Sa 797",
             "name": "Py797",
             "parsedInscription": "        a-te-wo-jo    wo-ka    we-je-ke-e     ROTA+TE   ZE   1   [",
             "scribe": "",
@@ -77695,7 +77695,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1176_PN_0.jpg"
             ],
-            "label": "PY Eb 1176 $149$",
+            "label": "PY Eb 1176",
             "name": "Py1176",
             "parsedInscription": "        te-te-re-u    i-je-re-ja    pa-ki-ja-na    do-e-ro  \n        e-ke-qe    o-na-to    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so-de[   pe-mo   GRA   V   3",
             "scribe": "",
@@ -77824,7 +77824,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py678_PN_0.jpg"
             ],
-            "label": "PY Ad 678 $290$",
+            "label": "PY Ad 678",
             "name": "Py678",
             "parsedInscription": "        po-to-ro-wa-pi   ri-ne-ja-o   ko-wo   VIR   ko-wo   1   [",
             "scribe": "",
@@ -77873,7 +77873,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py941_PN_0.jpg"
             ],
-            "label": "PY Na 941 $106$",
+            "label": "PY Na 941",
             "name": "Py941",
             "parsedInscription": "                                                    e-re-u-te-ro     SA   14\n        e-ko-me-no   SA   20     to-sa-de    ka-ke-we",
             "scribe": "",
@@ -78587,7 +78587,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py53_PN_0.jpg"
             ],
-            "label": "PY Pa 53 $49$ (Ciii)",
+            "label": "PY Pa 53 (Ciii)",
             "name": "Py53",
             "parsedInscription": "        pa-ro    re-u-ka-so          DE   *169   7   [",
             "scribe": "",
@@ -78733,7 +78733,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py213_PN_0.jpg"
             ],
-            "label": "PY Eq 213 $74$",
+            "label": "PY Eq 213",
             "name": "Py213",
             "parsedInscription": "          o-wi-de    a-ko-so-ta    to-ro-qe-jo-me-no    a-ro-u-ra    a2-ri-sa  \n        a-ke-re-wa    o-ro-jo    to-so-de    pe-mo     GRA   8\n        o-da-a2    e-ri-no-wo-to    o-ro-jo    to-so-de    pe-mo     GRA   20\n        o-da-a2    ko-tu-wo    o-ro-jo    to-so-de    pe-mo     GRA   20\n        o-da-a2    po-ti-ni-ja-we-jo-jo    o-te-pe-o-jo    o-ro-jo    to-so-de    pe-mo     GRA   6\n        o-da-a2    ko-no    o-ro-jo    to-so    pe-mo     GRA   40\n                                                                                   vacat",
             "scribe": "",
@@ -79043,7 +79043,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py818_PN_0.jpg"
             ],
-            "label": "PY Eb 818 $149$",
+            "label": "PY Eb 818",
             "name": "Py818",
             "parsedInscription": "        ke-ke-me-na    ko-to-na    a-no-no    to-so-de  pe-mo   GRA   1   T   1         [",
             "scribe": "",
@@ -79386,7 +79386,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py193_PN_0.jpg"
             ],
-            "label": "PY Ma 193 $90$",
+            "label": "PY Ma 193",
             "name": "Py193",
             "parsedInscription": "          ri-jo         *146   17   RI   M   17     KE   M   5     *152   7          O   M   4     ME   362\n        pe-ru-si-nu    o-pe-ro      *146   2    O   M   4                  ME   362\n               o-da-a2    ka-ke-we    o-u-di-do-si  *146   4   RI   M    4   ME   40     o-da-a2    pe-ra3-qo  *146   1  *152   1[     ]ME 10[",
             "scribe": "",
@@ -79603,7 +79603,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py415_PN_0.jpg"
             ],
-            "label": "PY Jn 415 + frr.(3) $310$",
+            "label": "PY Jn 415 + frr.(3)",
             "name": "Py415",
             "parsedInscription": "          ru-ko-a2-ke-re-u-te       ka-ke-we        ta-ra-si-ja       e-ko-te\n        re-u-ko-ro-o-pu2-ru   AES   M   5   a3-ta-ro      AES   M   5\n        wi-du-wo-i-jo       AES   M   5            ke-ti-ro      AES   M   5\n        a-me-no                  AES   M   5            pa-pu-so   AES   M   5\n        a-ka-sa-no              AES   M   4\n                                                                  vac.\n        to-so-de   [     ]     ka-ko     AES     ⟦M⟧   L   1   M   4\n                                                                  vac.\n        to-so-]de    a-ta-ra-si-jo    ka-ke-we\n               ]me-no   1   na-wa-to   1   [•]-te-re-ro   1\n      ru-ki-jo   1   a-na-te-u 1\n                                                                vac.\n                                                                vac.",
             "scribe": "",
@@ -80036,7 +80036,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py680_PN_0.jpg"
             ],
-            "label": "PY Ad 680 $290$",
+            "label": "PY Ad 680",
             "name": "Py680",
             "parsedInscription": "                      pu-ro\n        ko-ro-ki-ja-o   ko-wo   VIR   5",
             "scribe": "",
@@ -80506,7 +80506,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py972_PN_0.jpg"
             ],
-            "label": "PY Fn 972 $79$",
+            "label": "PY Fn 972",
             "name": "Py972",
             "parsedInscription": "                               sup. mut.\n                               ]     HORD[\n                               inf. mut.",
             "scribe": "",
@@ -80825,7 +80825,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py913_PN_0.jpg"
             ],
-            "label": "PY Eb 913 [+] 935 $149$",
+            "label": "PY Eb 913 [+] 935",
             "name": "Py913",
             "parsedInscription": "        ]e-ko-to    te-o-jo    do-e-ro[    e-ke-]qe    o-na-to[\n            pa-ro    da-mo                     [             ]GRA   T   1   V[ 3",
             "scribe": "",
@@ -80916,7 +80916,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1322_PN_0.jpg"
             ],
-            "label": "PY Un 1322 + fr. $-$ (Cii)",
+            "label": "PY Un 1322 + fr. (Cii)",
             "name": "Py1322",
             "parsedInscription": "                                 ]     GRA[ qs\n               ]no[        ]o-no[        ]                 GRA   6   NI   [qs\n        de-ku-tu-wo-ko[          ]o-no            GRA   2   NI   2\n        i-te-we    o-no[               ]           GRA   12\n        we-a2-no[     ]-no    re-po-to             *146   GRA   5\n        we-[                    ]no[                             ]*146   GRA   15\n        vestigia",
             "scribe": "",
@@ -81513,7 +81513,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py278_PN_0.jpg"
             ],
-            "label": "PY Eo 278 $149$",
+            "label": "PY Eo 278",
             "name": "Py278",
             "parsedInscription": "        ti-qa-jo    po-me    e-ke-qe    dwo    ko-to-no     GRA   [8   T   3",
             "scribe": "",
@@ -81902,7 +81902,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py693_PN_0.jpg"
             ],
-            "label": "PY Jn 693 $310$",
+            "label": "PY Jn 693",
             "name": "Py693",
             "parsedInscription": "          a[-ke-]re-wa    ka-ke-we    ta-ra-si-ja    e-ko-te\n                          ]-ro     AES   M   4   e-u-wa-re   AES   M   4\n                                  ]   AES   M   8\n                                                                    vac.\n          a-pu2-we    ka-ke-we    ta-ra-si-ja    e-ko-te\n        te-u-to           AES   M   4       o-ke-te-u      AES   M   4\n        pe-ri-qo-ta   AES   M   4        a-me-to        AES   M   4\n        ta-re-u           AES   M   3  e-u-po-ro-wo  AES   M   4  tu-ri-jo   AES   M   3\n                                                                    vac.\n      a-ta-ra-si-jo       ta-na-wo   1   pe-qe-u   1\n                                                                 vac.\n                                                                 vac.\n                                                                 vac.",
             "scribe": "",
@@ -82231,7 +82231,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py417_PN_0.jpg"
             ],
-            "label": "PY Ab 417 + fr. [+] 1050 $186$",
+            "label": "PY Ab 417 + fr. [+] 1050",
             "name": "Py417",
             "parsedInscription": "                                                                                                         GRA   6[\n        pu-ro    o-ti-ra2   MUL   21   ko[-wa        ko-wo   ]   8   NI   6   [",
             "scribe": "",
@@ -82485,7 +82485,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py72_PN_0.jpg"
             ],
-            "label": "PY Ae 72 $8$",
+            "label": "PY Ae 72",
             "name": "Py72",
             "parsedInscription": "                                                         tu-ra-te-u\n        ko-ro-ja-ta    i-na-ni-ja    su-ra-te    du-ni-jo-jo    me-tu-ra    su-ra-se   VIR   1",
             "scribe": "",
@@ -82543,7 +82543,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py305_PN_0.jpg"
             ],
-            "label": "PY Ea 305 $28$",
+            "label": "PY Ea 305",
             "name": "Py305",
             "parsedInscription": "                                                         qo-qo-ta-o\n        ke-re-te-u  e-ke-na-to    to    ke-ke-me-na  ko-to-na          GRA   T   1",
             "scribe": "",
@@ -83306,7 +83306,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py762_PN_0.jpg"
             ],
-            "label": "PY Aa 762 $240$",
+            "label": "PY Aa 762",
             "name": "Py762",
             "parsedInscription": "        ke-re-za    we-we-si-je-ja   MUL   22   ko-wa   6   ko-wo   11   DA   1   TA   1",
             "scribe": "",
@@ -83524,7 +83524,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py102_PN_0.jpg"
             ],
-            "label": "PY Ea 102 + 107 $28$",
+            "label": "PY Ea 102 + 107",
             "name": "Py102",
             "parsedInscription": "        di-wo-nu-so-jo    e-ka-ra  GRA  2  T  6  [",
             "scribe": "",
@@ -84014,7 +84014,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py741_PN_0.jpg"
             ],
-            "label": "PY Sh 741 $733$ (Cii)",
+            "label": "PY Sh 741 (Cii)",
             "name": "Py741",
             "parsedInscription": "        ARM   1   me-zo-a2    O   20   me-u-jo-a2   O   10   ko-ru-to   O   4   PA   2",
             "scribe": "",
@@ -84498,7 +84498,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py424_PN_0.jpg"
             ],
-            "label": "PY An 424 + fr. + fr. + fr. $298$",
+            "label": "PY An 424 + fr. + fr. + fr.",
             "name": "Py424",
             "parsedInscription": "        pi[-*82]    ra-pte-re     VIR   12   pu-ka-wo     VIR   6          te-u-ta-ra-ko-ro[   VIR\n        ka-ra-do-ro    ra-pte-re   VIR[     ]1   sa-ri-nu-wo-te    ra-pte-re   VIR   10[\n        ke-ra-ti-jo-jo    wo-wo    me-ri-du-ma-te        VIR   2      da-ko-ro     VIR   2   [",
             "scribe": "",
@@ -84776,7 +84776,7 @@ var inscriptions = new Map(
             "imageRights": "© University of Cincinnati",
             "imageRightsURL": "http://calibra.classics.cam.ac.uk/",
             "images": [],
-            "label": "PY Xn 1071 $-$",
+            "label": "PY Xn 1071",
             "name": "Py1071",
             "parsedInscription": "                            sup. mut.\n                             ]wo    [\n                                 ]ka-ni[\n                              inf. mut.",
             "scribe": "",
@@ -85415,7 +85415,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py785_PN_0.jpg"
             ],
-            "label": "PY Aa 785 $240$",
+            "label": "PY Aa 785",
             "name": "Py785",
             "parsedInscription": "        a-da-ra-te-ja   MUL   1   TA   1",
             "scribe": "",
@@ -85458,7 +85458,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py882_PN_0.jpg"
             ],
-            "label": "PY Ea 882 $28$",
+            "label": "PY Ea 882",
             "name": "Py882",
             "parsedInscription": "                             ]ru-ko-ro  ra-wa-ke-si-jo     GRA[",
             "scribe": "",
@@ -85641,7 +85641,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1342_PN_0.jpg"
             ],
-            "label": "PY Xa 1342 + fr. $-$ (Ciii)",
+            "label": "PY Xa 1342 + fr. (Ciii)",
             "name": "Py1342",
             "parsedInscription": "          ]to-so-o    qe-[\n        e-ni    a-pu-ki-si[\n        vacat [",
             "scribe": "",
@@ -85814,7 +85814,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py891_PN_0.jpg"
             ],
-            "label": "PY Aa 891 $240$",
+            "label": "PY Aa 891",
             "name": "Py891",
             "parsedInscription": "        pe-ki-ti[          MUL",
             "scribe": "",
@@ -85962,7 +85962,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py36_PN_0.jpg"
             ],
-            "label": "PY Eq 36 + 1451 + 1452 + frr.(7) [+] 887 $74$",
+            "label": "PY Eq 36 + 1451 + 1452 + frr.(7) [+] 887",
             "name": "Py36",
             "parsedInscription": "                                                             ]-we-jo      wa-tu \n                                                           ]    a-de-te\n                                           to-]so-de    pe-mo    GRA   2\n        o-da-a2                                 ]a-de-te      ⟦e-ke           ⟧\n                                                to-so-]de⌞ ⌟pe-mo     GRA  2\n        o-da-a2                                                            ]ni-ja-de  \n            mutila\n                                                                deest\n            mutila\n      to-so-de  pe-mo         ]GRA   1   o-da-a2[\n                                                    ]ke-me      to-so-de    ⟦   ⟧\n      pe-mo   GRA   qs    o-]da-a2    a-ta-wo-ne-jo \n                                      ]pa-ra-jo    po-ne-to-qe-mi  \n                           ]•-•    to-so-de    pe-mo        GRA  4\n      o-da-]a2          po-se-da-o-no[  ]do-e-ro    pa-•-•    o-na-•\n      to-]so-de  pe[-mo        GRA        ]T ⌞4[               ]vac.[",
             "scribe": "",
@@ -86610,7 +86610,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1443_PN_0.jpg"
             ],
-            "label": "PY Xa 1443 $-$ (Ci)",
+            "label": "PY Xa 1443 (Ci)",
             "name": "Py1443",
             "parsedInscription": "                              ]ko-wo   [",
             "scribe": "",
@@ -86735,7 +86735,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py328_PN_0.jpg"
             ],
-            "label": "PY Cn 328 + fr. $131$",
+            "label": "PY Cn 328 + fr.",
             "name": "Py328",
             "parsedInscription": "           ro-u-so         we-re-ke  \n        a-ka-na-jo       ma-ro            OVIS:m   200   X\n        a-ka-na-jo       ko-wa-to      CAP:m   50   X\n        a-ka-na-jo       ra-mi-ni-jo     CAP:f   40   X\n        a                          ma-ra-te-u                OVIS:f   10   X\n                                    da-to-re-u                 CAP:m   30\n                                    wo-ki-ro                    CAP:f   20   X\n                                    ma-ra                         OVIS:f   50   X\n                                    ma-ra                         CAP   40\n                                   ke-zo                       OVIS:m     40   X\n                                   po-ri-ko                   OVIS:m   170   X\n                                   wi-sa[-]to              ]OVIS:f      60   X\n                                   a-[•]-to                    OVIS:m    40   X\n                                   pu-za-ko                 CAP:m   X   40\n                                   a3-ta-ro-we           OVIS:f       70   X\n                vac.",
             "scribe": "",
@@ -87018,7 +87018,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py309_PN_0.jpg"
             ],
-            "label": "PY Ea 309 $28$",
+            "label": "PY Ea 309",
             "name": "Py309",
             "parsedInscription": "                            ]  wo-ze     GRA     10[",
             "scribe": "",
@@ -87099,7 +87099,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py764_PN_0.jpg"
             ],
-            "label": "PY Aa 764 $240$",
+            "label": "PY Aa 764",
             "name": "Py764",
             "parsedInscription": "        me-re-ti-ri-ja   MUL   6   ko-wa   8 ko-wo   1",
             "scribe": "",
@@ -87148,7 +87148,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py978_PN_0.jpg"
             ],
-            "label": "PY Ab 978 + fr. $186$",
+            "label": "PY Ab 978 + fr.",
             "name": "Py978",
             "parsedInscription": "                                         sup. mut.\n                                    ]4⌟   ko-wo   3[",
             "scribe": "",
@@ -87203,7 +87203,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py628_PN_0.jpg"
             ],
-            "label": "PY La 628 $628$ (Ciii)",
+            "label": "PY La 628 (Ciii)",
             "name": "Py628",
             "parsedInscription": "        ]ti     *160   10[",
             "scribe": "",
@@ -87822,7 +87822,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py19_PN_0.jpg"
             ],
-            "label": "PY Vn 19 $-$ (Cii)",
+            "label": "PY Vn 19 (Cii)",
             "name": "Py19",
             "parsedInscription": "        pi-*82    sa-pi-de[\n        me-ta-pa    sa-pi-de[\n        pe-to-no    sa-pi-de   200[\n        pa-ki-ja-ne⌞ ⌟sa-pi-de   80[\n                                    sa-pi-]de   60\n                               ]sa-pi-de   40\n                           ]ro    sa-pi[-de\n                                   ]sa[-pi-de\n                                  inf. mut.",
             "scribe": "",
@@ -88104,7 +88104,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py543_PN_0.jpg"
             ],
-            "label": "PY Na 543 + frr.(3) $106$",
+            "label": "PY Na 543 + frr.(3)",
             "name": "Py543",
             "parsedInscription": "                                      e-ko-si\n        ka-ra-do-ro    ko-ro-ku-ra-i-jo     SA   30",
             "scribe": "",
@@ -88243,7 +88243,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py224_PN_0.jpg"
             ],
-            "label": "PY Eo 224 $149$",
+            "label": "PY Eo 224",
             "name": "Py224",
             "parsedInscription": "                    a-ma-ru-ta-o    ko-to-na    ki-ti-me-na                                     ⟦GRA⟧                 GRA   2   T[   3\n           so-u-ro⌞ ⌟te-o-jo    do-e-ro    e-ke-qe    o-na-to⌞ ⌟pa-ro    pa-ra-ko                 GRA          V   3[\n        e-do-mo-ne-u    te-o-jo do-e-ro    e-ke-qe    o[-na-to]    pa-ro    pa-ra-ko           GRA         T   1\n        e-sa-ro    te-o-jo    do-e-ro    e-ke-qe    o-na[-to   ]pa-ro    a-ma-ru-ta                   GRA          V   3\n        wa-na-ta-jo    te-re-ta    e-ke-qe    o-na-to            pa-ro    a-ma-ru-ta                     GRA         T\n        e-ra-ta-ra    i-je-re-ja    do-e-ra    pa-ki-ja-na    e-ke-qe    pa-ro    a-ma-ru-ta     GRA        T   1\n        po-so-re-ja    te-o-jo    do-e-ra    e-ke-qe    o-na-to    pa-ro    ta-ta-ro                   GRA        T   1   V   3\n           i-je-re-ja    pa-ki-ja-na      e-ke-qe    o-na-to    pa-ro⌞ ⌟a-ma-ru-ta                    GRA        T   3",
             "scribe": "",
@@ -89273,7 +89273,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py847_PN_0.jpg"
             ],
-            "label": "PY Ed 847 $74$",
+            "label": "PY Ed 847",
             "name": "Py847",
             "parsedInscription": "        o-da-a2    e-qe-si-jo    do-e-ro    e-ko-si    o-na-ta\n        ⟦ku-su-qa⟧    to-so-de  pe-mo   GRA   1   T   3   V   4",
             "scribe": "",
@@ -89632,7 +89632,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py722_PN_0.jpg"
             ],
-            "label": "PY Ta 722 $641$",
+            "label": "PY Ta 722",
             "name": "Py722",
             "parsedInscription": "             ta-ra-nu    a-ja-me-no    e-re-pa-te-jo    a-to-ro-qo    i-qo-qe            po-ru-po-de-qe    po-ni-ke-qe     *220   1\n        ta-ra-nu    a-ja-me-no    e-re-pa-te-jo    ka-ra-a-pi    re-wo-te-jo    so-we-no-qe                           *220   1\n          ta-ra-nu    a-ja-me-no    e-re-pa-te-ja-pi    ka-ru-pi     *220   1   ta-ra-nu    a-ja-me-no    e-re-pa-te-ja-pi    ka-ru-pi     *220   1",
             "scribe": "",
@@ -90025,7 +90025,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py438_PN_0.jpg"
             ],
-            "label": "PY Jo 438 + fr. + frr. [+] 590 $-$ (Ci)",
+            "label": "PY Jo 438 + fr. + frr. [+] 590 (Ci)",
             "name": "Py438",
             "parsedInscription": "                                                                                   ]ko-re-te\n        a-ko[                                                                   ]AUR   M   1\n        e-re-[                                                                   ]AUR   N   1\n        po-ro-ko-re[-te                                                  AUR   ]N   2\n        do-ri-ka-o    mo-ro[-qa                                  AUR   ]N   1\n        ru-ro    mo-ro-qa                                              AUR   [     ]   1\n        ne-da-wa-ta                                                        AUR   [qs  ]\n        e-ke-me-de                                                         AUR   N[ qs ]\n        ro-]u-so    ko-re-te                                           AUR   P ⌞4[    ]\n      pa-ki-ja-ni[-ja   ko-]re-te[                        ]     AUR   P   4[     ]     X\n      a-pu2-ja    ko-re-te[                                       ]AUR   P   5\n      ka-ra-do-ro    ko-re-te[                                 ]AUR   P   5             X\n                           ]ko-re-te[                           ]           AUR   P   5             X\n                                                                         ]           AUR   N   1\n                                           ]ma                                   AUR   P   6             X\n      wo-no[               ]ma                                           AUR   N   1\n      qo-wo[                   ]mo-ro[-qa            ]            AUR   N   1\n      a-ka-wo                                                                AUR   P   3             X\n      e-re-e    po-ro-ko-re-te                                   AUR   P   3             X\n      a-ke-ro    qa-si-re-u                                         AUR   P   3              X\n      te-po-se-u    ti-nwa-si-jo  /  ko-re-te  //   AUR   N   1\n      po-ki-ro-qo                                                         AUR   N   1\n      au-ke-wa                                                             AUR   N   1\n      ti-mi-ti-ja    ko-re-te                                        AUR   P   6\n      i-te-re-wa                                                            AUR   P   6             X\n      pi-*82                                                                   AUR   P   6             X\n      e-ra-te-re-wa-o    ko-re-te                             AUR   P   6\n              a-ke-re-wa    ko-re-te                              AUR   P   5[   ]      X\nlat. sin.\n        po-so-ri-jo [     ]ma   AUR   P   X[             ]-jo  a-to-mo   AUR   P   3     X\nfragmentum separatum\n        ]vest. [\n         ]ki[",
             "scribe": "",
@@ -90908,7 +90908,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py593_PN_0.jpg"
             ],
-            "label": "PY Xn 593 $-$ (Ci)",
+            "label": "PY Xn 593 (Ci)",
             "name": "Py593",
             "parsedInscription": "                             sup. mut.\n                             ]    wo-tu-ko-[\n                             ]  po-ki[\n                              inf. mut.",
             "scribe": "",
@@ -91016,7 +91016,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py610_PN_0.jpg"
             ],
-            "label": "PY An 610 + frr.(9) + frr.(7) + fr. [+] 1151 $1$",
+            "label": "PY An 610 + frr.(9) + frr.(7) + fr. [+] 1151",
             "name": "Py610",
             "parsedInscription": "           me-za-[wo-]ne    e-re-ta  [ ]  vac.   [\n        vestigia[ ]          ki-ti-ta     VIR  46        [\n        me-]ta-ki-ti-ta                       VIR  19 [                                  ]vac.\n                ]wa    ki-ti-ta                 VIR  36  [                                 ]vac.\n        me-ta-ki-ti-ta                  [ ]   VIR  3    [\n        e-wi-ri-po                    VIR   9     po-si-ke-te-re   [                           VIR\n        a-ke-re-wa                   VIR   25   wo-qe-we          [                          VIR\n        ri-jo                                VIR   24   wi-nu-ri-jo[                                  VIR\n        te-ta-ra-ne                   VIR   31          me-ta-ki[-ti-ta                      VIR\n      a-po-ne-we                  VIR   37         me-ta[-ki-ti-ta       ]vac.[  VIR qs\n      ma-ra-ne-nu-we        VIR   40          po-ti-ja-ke-e                        VIR  ⌞6[\n      za-ku-si-jo                   VIR   7                za-e-to-ro                         VIR   3\n      da-mi-ni-jo[ ]               VIR   40              e-ke-ra2-wo-no              VIR   40[\n      we-da-ne-wo   VIR   20       ko-ni-jo   126 me-ta-ki-ti-ta  VIR   26\n      po-ku-ta                  VIR   10     we-re-ka-ra    te-qa-ta-qe          VIR   20\n                     vac.                                                                                   [\n                     vac.                                                                          [\n            ]       vac.                                                        [\n               ]    vac.                                            [",
             "scribe": "",
@@ -91511,7 +91511,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py324_PN_0.jpg"
             ],
-            "label": "PY Fn 324 + 1454 + frr.(12) + fr. $324$ (Ciii)",
+            "label": "PY Fn 324 + 1454 + frr.(12) + fr. (Ciii)",
             "name": "Py324",
             "parsedInscription": "               e-ti-me-de-i                 HORD   T   2   V   3   te-wa-jo            HORD   T   2   [\n        ]mo-ke-re-we-i                  HORD   T   1            qo-re-po-u-ti      HORD   T   2   V   4\n        •]-re-jo-de                          HORD   T   1   V   2   a-*64-jo             HORD   T   1   V   2\n        se-we-ri-wo-wa-zo          HORD   T   1   V   2   a-ka-ma-jo        HORD   T   1   V   2\n        o-[   ]ke-we                         HORD   T   3   o[-]ke-te-i                     HORD   T   1   V   2\n                 ]de-ra-wo                  HORD   T   1   V   2   ne-qa-sa-ta       HORD   T   1   V   2\n                 ]-me-ni-jo                   HORD   T   [  ] V   2   i-ja-me-i           HORD   T   1   V   2\n                 ]ru-[      ]                      HORD   T   1   V   2   o-pe-ro              HORD   T   1   V   2\n                         ]   vac.\n                   ]we  [            ]       HORD   T   1   pa-ra-ke-se-we           HORD   V   3\n                   ]   ⟦vest.⟧               [              ]   pi-ja-ma-so                        HORD   T   1\n                  ]wo-ni                     HORD[  ]   a-ta-o / ti-nwa-si-jo       HORD   T   1   V   2\n                                                  ] HORD  [   ]   T   1   re-wa-o               HORD   T   1   V   2\n                 ]   vacat                   [      ]   vacat   [   ]   vacat\n                 ] HORD [      ]    a[         ] HORD   V   1   po-no-qa-ta       HORD   V   1\n        ]-re-[  HORD  ]  V  2  Z  2   ke-ro-u-te[ ]  HORD  V  2     o-qa-wo-ni    HORD   1\n        ]-ta-ki-jo   HORD   V   2   pi-re-ta        HORD   V   1\n                      vac.\n                      vac.\n                      vac.\n                      vac.\n                      vac.\n                     ]te-pi-ja-qe         HORD [    ]2   to-qi-da-so                   HORD   V   2\n             vac.   [           ]   vac.\n             vac.   [           ]   vac.\n      e-u-ru-po-to-re-mo-jo    do-e-ro-i   HORD   T   1   [\n      ]                         V   2\n      ko-pa-wi-jo   HORD   T   1   [\n                   vac.   [\nv.→\n        ke-sa-me-no    ke-me-ri-jo     HORD   T   2\n    reliqua pars sine regulis",
             "scribe": "",
@@ -92559,7 +92559,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py146_PN_0.jpg"
             ],
-            "label": "PY Eq 146 + frr.(3) + frr. $74$",
+            "label": "PY Eq 146 + frr.(3) + frr.",
             "name": "Py146",
             "parsedInscription": "         o-da-a2⌞ ⌟te-re-ta    e-[\n        ko-ro    to-so-de    pe-mo ⟦GRA          ⟧  GRA  [\n        o-da-a2    po-ro-te-u    e-ke    to-so-de    pe-mo     GRA   1\n        o-da-a2    re-pi-ri-jo    e-ke    to-so-de    pe-mo     GRA   1\n        o-da-a2    a-de-me-we    e-ke    to-so-de  pe-mo    GRA   1   V   3\n                                                       vac.\n                                                       vac..\n                                                       vac.\n        o-da-]a2    [           ]-me-no    i-ja-te    o-na-to  \n      e-]ke    to-so-de⌞ ⌟pe-mo     GRA 1\n      o-da-a2    a-si-wi-jo    i-qo-na-to-mo  \n      o-na-to    e-ke[     to-]so-de  pe-mo     GRA   T   7\n                                                     vac.\n                                                     vac.\n                                                     vac.\n                                                         to-so-de  pe-]mo     GRA   T   3",
             "scribe": "",
@@ -93111,7 +93111,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py312_PN_0.jpg"
             ],
-            "label": "PY Er 312 + fr. $312$",
+            "label": "PY Er 312 + fr.",
             "name": "Py312",
             "parsedInscription": "        wa-na-ka-te-ro    te-me-no              [\n        to-so-jo  pe-ma     GRA   30\n        ra-wa-ke-si-jo    te-me-no     GRA   10\n                                       vac.\n        te-re-ta-o[       ]to-so  pe-ma     GRA   30\n        to-so-de    te-re-ta     VIR   3\n        wo-ro-ki-jo-ne-jo    e-re-mo\n            to-so-jo    pe-ma     GRA ⌞6[\n                                       vac.",
             "scribe": "",
@@ -93520,7 +93520,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1040_PN_0.jpg"
             ],
-            "label": "PY Na 1040 $106$",
+            "label": "PY Na 1040",
             "name": "Py1040",
             "parsedInscription": "        ri-so-we-ja      SA   6",
             "scribe": "",
@@ -94513,7 +94513,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py246_PN_0.jpg"
             ],
-            "label": "PY Na 246 $106$",
+            "label": "PY Na 246",
             "name": "Py246",
             "parsedInscription": "        a-pa-ri-ka-na-we-ja       SA   15",
             "scribe": "",
@@ -95271,7 +95271,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py488_PN_0.jpg"
             ],
-            "label": "PY Sa 488 $287$",
+            "label": "PY Sa 488",
             "name": "Py488",
             "parsedInscription": "        ku-pa-ri-se-ja          ROTA+TE   ZE   1   MO   1",
             "scribe": "",
@@ -95317,7 +95317,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py123_PN_0.jpg"
             ],
-            "label": "PY Ma 123 $90$",
+            "label": "PY Ma 123",
             "name": "Py123",
             "parsedInscription": "            ti-mi-to-a-ke-e  *146   24   RI   M   24   KE   M   7  *152   10     O   M   5   ME   500\n        a-pu-do-si  *146   21  o  2   RI   M            KE   M  *152                 O   M        ME\n          o-da-a2    ka-ke-we    o-u-di-do-si  *146   1   RI     M 1                ME   10",
             "scribe": "",
@@ -95781,7 +95781,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py262_PN_0.jpg"
             ],
-            "label": "PY Na 262 [+] 284 $106$",
+            "label": "PY Na 262 [+] 284",
             "name": "Py262",
             "parsedInscription": "                                                       [e-re-]u-te-ra     SA   10\n        po-to-ro-wa-pi    SA   30[   to-]sa-de    e-re-e-wo",
             "scribe": "",
@@ -95854,7 +95854,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py90_PN_0.jpg"
             ],
-            "label": "PY Ma 90 $90$",
+            "label": "PY Ma 90",
             "name": "Py90",
             "parsedInscription": "           me-ta-pa  *146   28   RI   M   28   KE   M   8   *152   12   O   M   6   ME   600\n                                                                                  *152[   ]1\n      o-da-a2    ka-ke-we    o-u-di-do-si  *146   1   RI   M   1[   ]  ku-re-we    o-u-di-do-si  *146   4   RI   M   4   *152   2   KE   M   1   N   2   ME   100",
             "scribe": "",
@@ -96201,7 +96201,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1366_PN_0.jpg"
             ],
-            "label": "PY Mb 1366 $1412$",
+            "label": "PY Mb 1366",
             "name": "Py1366",
             "parsedInscription": "        di-wi-jo     *146   2",
             "scribe": "",
@@ -96452,7 +96452,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1367_PN_0.jpg"
             ],
-            "label": "PY Mn 1367 $1412$",
+            "label": "PY Mn 1367",
             "name": "Py1367",
             "parsedInscription": "                                         sup. mut.\n                                 ]        *146   26\n                                 ]        vac.",
             "scribe": "",
@@ -96560,7 +96560,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1276_PN_0.jpg"
             ],
-            "label": "PY Ac 1276 $1272$ (Ciii)",
+            "label": "PY Ac 1276 (Ciii)",
             "name": "Py1276",
             "parsedInscription": "        pi-*82   ⟦               ⟧     VIR   20   [",
             "scribe": "",
@@ -97218,7 +97218,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py198_PN_0.jpg"
             ],
-            "label": "PY Na 198 [+] 525 $106$",
+            "label": "PY Na 198 [+] 525",
             "name": "Py198",
             "parsedInscription": "       e-u-ta-re-wo wo-wo    SA   6",
             "scribe": "",
@@ -97258,7 +97258,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py606_PN_0.jpg"
             ],
-            "label": "PY Na 606 $106$",
+            "label": "PY Na 606",
             "name": "Py606",
             "parsedInscription": "        me-sa-po     SA   5",
             "scribe": "",
@@ -98133,7 +98133,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py827_PN_0.jpg"
             ],
-            "label": "PY Ea 827 $28$",
+            "label": "PY Ea 827",
             "name": "Py827",
             "parsedInscription": "        ke-re-u    e-ke    o-na-to    pa-ro    i[                                          GRA",
             "scribe": "",
@@ -99132,7 +99132,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py845_PN_0.jpg"
             ],
-            "label": "PY Jn 845 $310$",
+            "label": "PY Jn 845",
             "name": "Py845",
             "parsedInscription": "                                        ]ka-ke-we    ta-ra-si-ja    e-ko-te\n        po-ru-qo-ta       AES   M   1   N   2   sa-ri-qo-ro     AES   M   1   N   2\n        pu-ke-se-ro       AES   M   1   N   2   re-qo-we        AES   M   1   N   2\n        qe-ta-ra-je-u     AES   M   1   N   2     du-re-u         AES   M   1   N   2\n        a-pa-je-u    AES   M   1   N   2         pa-pa-ra-ko      AES   M   1   N   2\n        ⟦                                                                                                                            ⟧\n             e-ri-ko-wo    qa-si-re-u  1\n             to-so-de    ka-ko     AES   M   12\n                                                             vac.\n           to-so-de    a-ta-ra-si-jo\n      po-so-ro  1  na-pu-ti-jo  1  ma-ta-ko  1\n      ku-ke-re-u  1  a-ti-ja-wo  1  wa-ra-ko-no  1\n      qe-re-me-ne-u  1\n                                                          vac.",
             "scribe": "",
@@ -99539,7 +99539,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py707_PN_0.jpg"
             ],
-            "label": "PY Ta 707 + fr. $641$",
+            "label": "PY Ta 707 + fr.",
             "name": "Py707",
             "parsedInscription": "                    ku-te-ta-jo\n           to-no    ku-ru-sa-pi    o-pi-ke-re-mi-ni-ja-pi    o-ni-ti-ja-pi   1   ta-ra-nu-qe    a-ja-me-no    e-re-pa-te-jo    au-de-pi   1\n        to-no    ku-te-se-jo    e-re-pa-te-ja-pi    o-pi-ke-re-mi-ni-ja-pi    se-re-mo-ka-ra-o-re    qe-qi-no-me-na    a-di-ri-ja-te-qe    po-ti-pi-qe   1\n          ta-ra-nu    ku-te-so    a-ja-me-no    e-re-pa-te-jo    au-de-pi\n                                                                                                                                       vac.",
             "scribe": "",
@@ -99772,7 +99772,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py159_PN_0.jpg"
             ],
-            "label": "PY Eb 159 [+] 1351 $149$",
+            "label": "PY Eb 159 [+] 1351",
             "name": "Py159",
             "parsedInscription": "        pe-re-qo-ta⌞ ⌟pa-da-je-u    i-je-ro[-wo-ko     e-]ke-qe\n        ka-ma    si-ri-jo-jo⌞ ⌟ra-ke             [                    to-so-]de    pe-mo     GRA   2",
             "scribe": "",
@@ -99948,7 +99948,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1241_PN_0.jpg"
             ],
-            "label": "PY Fr 1241 $1202$",
+            "label": "PY Fr 1241",
             "name": "Py1241",
             "parsedInscription": "                            ]qe-te-jo    jo[\n                            OLE      ]1   S[",
             "scribe": "",
@@ -100006,7 +100006,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py76_PN_0.jpg"
             ],
-            "label": "PY Aa 76 $60$",
+            "label": "PY Aa 76",
             "name": "Py76",
             "parsedInscription": "        po-to-ro-wa-pi   MUL   4   ko-wa   4   ko-wo   3   DA   1   TA   1",
             "scribe": "",
@@ -100161,7 +100161,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py131_PN_0.jpg"
             ],
-            "label": "PY Cn 131 $131$",
+            "label": "PY Cn 131",
             "name": "Py131",
             "parsedInscription": "                        pi-*82        we-re-ke\n        pa-ro    pi-me-ta    X        OVIS:m   200  pa-ro    o-ku-ka                   OVIS:m  X   130[\n        pa-ro    ku-pi-ri-jo           OVIS:m   50 X  pa-ro    a-ka-ma-wo           OVIS:m   120 X\n        pa-ro    ko-ru-no               OVIS:m  100   X   pa-ro    ne-ri-to               OVIS:m   30 X\n        pa-ro    po-ro-u-te-we     OVIS:m   90   X  pa-ro    o-wa-ko                CAP:f   54 X\n        ma-ro-pi    to-ro-wi          OVIS:m   130   X  pa-ro    a-no-po              OVIS:m   130 X\n        pa-ro    ke-ro-wo               OVIS:m   130   X  pa-ro    ra-pa-sa-ko       OVIS:m   91 X\n        pa-ro    po-ke-we              OVIS:f   27   X  pa-ro    a-ri-wo-ne  X              OVIS:m   100\n        pa-ro    a-we-ke-se-we   OVIS:m   170   X  pa-ro  po-ko-ro                OVIS:m   100 X\n      pa-ro    e-ti-ra-wo            OVIS:m   100   X  pa-ro    a-ta-ma-ne-we   OVIS:m   140 X\n      pa-ro    se-no                     OVIS:f   44   X  pa-ro    ko-ro                          OVIS:f   24 X\n      pa-ro    do-qo-no   X        OVIS:m   80  pa-ro    wo-ki-to   X                  OVIS:m   73\n      pa-ro    me-te-we             OVIS:m   163  X  pa-ro    ke-sa-me-no        OVIS:f   40 X\n      ]pa-ro    pu-wi-no            CAP:f   55\n                                                                                 vac.",
             "scribe": "",
@@ -100953,7 +100953,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py699_PN_0.jpg"
             ],
-            "label": "PY Aa 699 $240$",
+            "label": "PY Aa 699",
             "name": "Py699",
             "parsedInscription": "        ti-nwa-si-ja   MUL   9   ko-wa   4   ko-wo   3   DA   1   TA[   1",
             "scribe": "",
@@ -101295,7 +101295,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py487_PN_0.jpg"
             ],
-            "label": "PY Sa 487 $287$",
+            "label": "PY Sa 487",
             "name": "Py487",
             "parsedInscription": "        ke-ro-ke-re-we-o    wo-ka we-je-ke-e    ROTA+TE   ZE   2[",
             "scribe": "",
@@ -102016,7 +102016,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py207_PN_0.jpg"
             ],
-            "label": "PY An 207 [+] 279 + fr. [+] 449 [+] 360 + frr. $-$",
+            "label": "PY An 207 [+] 279 + fr. [+] 449 [+] 360 + frr.",
             "name": "Py207",
             "parsedInscription": "            deest\n            deest\n                              ]mi[                            VIR qs\n                              ]-jo[           ]                VIR   10 [\n                              ]pi-ri-je-te-re            VIR   2 [\n        re-ka-ta-]ne    a-de-te-re            VIR   2\n        re-ka[-ta]-ne    ke-ra-me-we     VIR   2\n        re-ka-ta-ne    da-ko-ro                VIR   12\n        wa-a2-te-we    po-ku-ta             VIR   10\n      a-nu-wa    ku-ru-so-wo-ko        VIR   4\n             ]ko⌞ ⌟me-ri-da-ma-te             VIR   2\n                  ]-jo    to-ko-so-wo-ko        VIR   5[\n      a-pi-no[-e-wi-jo                             ]  VIR[ ]1\n      so-ro-pe-o    ra-pte-re              [     VIR ] 3\n      ko-ri-si-jo⌞ ⌟ra-pte-re              [     VIR   qs\n      ka-ro-ke-e    ra-pte-re              [     VIR     qs\n      ra-ni-jo-ne    ra-pte-re                   VIR [qs\n           ]ka-si-da    ra-pte-re                  VIR   20[\n                ]                            vac.                           [",
             "scribe": "",
@@ -103288,7 +103288,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py921_PN_0.jpg"
             ],
-            "label": "PY Ad 921 $290$",
+            "label": "PY Ad 921",
             "name": "Py921",
             "parsedInscription": "        ko-ri-to   te-pe-ja-o   ko-wo   VIR   ⟦30⟧   ko-wo   1",
             "scribe": "",
@@ -103417,7 +103417,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py212_PN_0.jpg"
             ],
-            "label": "PY Ep 212 $74$",
+            "label": "PY Ep 212",
             "name": "Py212",
             "parsedInscription": "            re-ka    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so  pe-mo                  GRA   T   6\n          e-ri-ko-wo    te-o-jo    do-e-ro    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so  pe-mo            GRA   V   3\n        e-ko-to    te-o-jo    do-e-ro    o-na-to⌞ ⌟e-ke    ke-ke-me-na    ko-to-na    ko-na    pa-ro    da-mo    to-so  pe-mo     GRA   T   1   V   3\n        ko-ri-si-ja⌞ ⌟te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so  pe-mo                GRA   1\n        e-pa-sa-na-ti    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo  to-so  pe-mo               GRA   T   3\n        mu-ti-ri    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo  to-so  pe-mo                         GRA   T   1\n        ka-wa-do-ro    te-o-jo    do-e-ro    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so    pe-mo          GRA      V   3\n          ko-sa-ma-to    te-o-jo    do-e-ro    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to  pe-mo                 GRA   T   1\n            i-do-me-ne-ja    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo  to-so  pe-mo            GRA   T   1   V   3\n           ra-su-ro    te-o-jo  do-e-ro    o-na-to⌞ ⌟e-ke⌞ ⌟ke-ke-me-na    ko-to-na[   pa-ro ]da-mo    to-so  pe-mo                   GRA   T   2",
             "scribe": "",
@@ -103977,7 +103977,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py566_PN_0.jpg"
             ],
-            "label": "PY Eb 566 $149$",
+            "label": "PY Eb 566",
             "name": "Py566",
             "parsedInscription": "        ra-ku-ro    e-ke-qe    ke-ke-me-na    ko-to-na    [\n          ko-to-no-o-ko                                                              to-so[-de  pe-mo   GRA",
             "scribe": "",
@@ -104097,7 +104097,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1400_PN_0.jpg"
             ],
-            "label": "PY Mb 1400 $-$",
+            "label": "PY Mb 1400",
             "name": "Py1400",
             "parsedInscription": "                            ]*146  2  [",
             "scribe": "",
@@ -104137,7 +104137,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1170_PN_0.jpg"
             ],
-            "label": "PY Xn 1170 $-$",
+            "label": "PY Xn 1170",
             "name": "Py1170",
             "parsedInscription": "                             sup. mut.\n                             ]ke[\n                              inf. mut.",
             "scribe": "",
@@ -104230,7 +104230,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py744_PN_0.jpg"
             ],
-            "label": "PY Sh 744 $733$ (Cii)",
+            "label": "PY Sh 744 (Cii)",
             "name": "Py744",
             "parsedInscription": "        ARM   1 me-zo-a2   O   20   me-u-jo-a2   O   10   ko-ru-to    O   4   PA   2",
             "scribe": "",
@@ -104988,7 +104988,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1014_PN_0.jpg"
             ],
-            "label": "PY Ae 1014 $-$ (Ciii)",
+            "label": "PY Ae 1014 (Ciii)",
             "name": "Py1014",
             "parsedInscription": "                                    ]ja   ko-wo   1",
             "scribe": "",
@@ -105186,7 +105186,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py167_PN_0.jpg"
             ],
-            "label": "PY Xn 167 $-$ (Ci)",
+            "label": "PY Xn 167 (Ci)",
             "name": "Py167",
             "parsedInscription": "                            sup. mut.\n                             ]-ki-ri-[\n                             inf. mut.",
             "scribe": "",
@@ -105347,7 +105347,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py539_PN_0.jpg"
             ],
-            "label": "PY Ep 539 + fr. + fr. + fr. $74$",
+            "label": "PY Ep 539 + fr. + fr. + fr.",
             "name": "Py539",
             "parsedInscription": "                pi-ro-na    te-o-jo    do-e-ra    o-na-to    e-ke    ke[-ke-me-na  ko-to-na\n              e-ri-qi-ja    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me[-na   ko-to-na\n             i-na    te-o-jo    do-e-ro    o-na-to  e-ke    ke-ke-me-na  ko-to[-na  pa-ro  da-mo\n            po-so-re-ja⌞ ⌟te-o-jo    do-e-ra    o[-na-]to    e-ke    ke-ke[-me-na  ko-to-na\n           po-so-re-ja    te[-o-jo ]do-e-ra    o-na-to    e-ke    pa-ro[                              ]  ka-ma-e-we    wo-zo-te    to-so    pe-mo[                   GRA\n        te-qa-ja    te[-o-]jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro⌞ ⌟da-mo  to-so  pe-mo                                           GRA   T   2\n          me-re-u    i-je-re-ja    do-e-ro    o-na-to    e-ke    pa-ro    [          ]re-ma-ta    ka-ma-e-we⌞ ⌟o-u-qe    wo-ze    to-so  pe-mo            GRA[     ]      V   2\n        te-te-re-u    i-je-re-ja    do-e-ro    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so⌞ ⌟pe-mo                                     GRA              V   3\n          pu-[•]-da-ka    ka-pa-ti-ja    do-e-ro    o-na-to    e-ke⌞ ⌟ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so pe-mo                              GRA   T   3   V   3\n        e-ni-to-wo⌞ ⌟a-pi-me-de-o    do-e-ro    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo  to-so  pe-mo                              GRA   T   1\n        to-wa-te[-u  ]a-pi-me-de-o⌞ ⌟do-e-ro    o-na-to    e-ke    ke-ke-me-na⌞ ⌟ko-to-na    pa-ro    da-mo  to-so  pe-mo                           GRA   T   8\n      wi-dwo-i-jo    a-pi-me-de-o    do-e[-ro]    o-na-to    e-ke    ke-ke-me-na   ko-to-na    pa-ro⌞ ⌟da-mo    to-so    pe-mo                     GRA   T   2\n      we-te-re-u    i-je-re-u    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo[     ]vac.[                   ]to-so    pe-mo                       GRA   2   T   3\n           a-pi[-me-]de    e-ke    e-to-ni-jo    ke-ke-me[-na-o  ko-]to-na[-o  ]to-so    pe-mo                                                                   GRA   4   T   6",
             "scribe": "",
@@ -106728,7 +106728,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py792_PN_0.jpg"
             ],
-            "label": "PY Aa 792 $240$",
+            "label": "PY Aa 792",
             "name": "Py792",
             "parsedInscription": "        ki-ni-di-ja   MUL   21   ko-wa   12   ko-wo   10   DA   1   TA   1",
             "scribe": "",
@@ -106789,7 +106789,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py570_PN_0.jpg"
             ],
-            "label": "PY Cn 570 + fr. + 1445 $925$",
+            "label": "PY Cn 570 + fr. + 1445",
             "name": "Py570",
             "parsedInscription": "            sup. mut.\n                              ]vac.[\n                           ]ri-jo  [\n                 ]    qe-ta-ko  OVIS:f[ qs\n        pa-]ro    o-pe-qa [\n                        ]pi-ko [\n                inf. mut.",
             "scribe": "",
@@ -107056,7 +107056,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py877_PN_0.jpg"
             ],
-            "label": "PY Eb 877 $149$",
+            "label": "PY Eb 877",
             "name": "Py877",
             "parsedInscription": "                                     e-ke-]qe    o-na-to  \n                                   pa-ro  ]da-mo              to-so-de    pe-mo   GRA   T   3",
             "scribe": "",
@@ -107400,7 +107400,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py964_PN_0.jpg"
             ],
-            "label": "PY Eb 964 [+] 1346 $149$",
+            "label": "PY Eb 964 [+] 1346",
             "name": "Py964",
             "parsedInscription": "                            ]ke-ke-me-na[    ko-]to-na\n        GRA  qs   ]   vac.",
             "scribe": "",
@@ -107924,7 +107924,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py388_PN_0.jpg"
             ],
-            "label": "PY Ab 388 $186$",
+            "label": "PY Ab 388",
             "name": "Py388",
             "parsedInscription": "                                                                        GRA   T   4\n        pu-ro   a-da-ra-te-ja   MUL[ ]1        NI     T   4   TA",
             "scribe": "",
@@ -108155,7 +108155,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py670_PN_0.jpg"
             ],
-            "label": "PY Ad 670 $290$",
+            "label": "PY Ad 670",
             "name": "Py670",
             "parsedInscription": "        e-u-de-we-ro    ri-ne-ja-o   ko-wo   VIR   4         [",
             "scribe": "",
@@ -108257,7 +108257,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py194_PN_0.jpg"
             ],
-            "label": "PY Ab 194 $186$",
+            "label": "PY Ab 194",
             "name": "Py194",
             "parsedInscription": "                                                                                                                                GRA   3   TA   DA\n        pu-ro   ]ki-si-wi[-ja   ]   o-nu-ke-ja   MUL   7   ko-wa   3   ko-wo   6   NI   3",
             "scribe": "",
@@ -108936,7 +108936,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py30_PN_0.jpg"
             ],
-            "label": "PY Pn 30 $-$",
+            "label": "PY Pn 30",
             "name": "Py30",
             "parsedInscription": "          o-de-ka-sa-to    a-ko-so-ta\n        si-ma-ko                               *169   23   o   10[\n        ke-ka-to                                *169   26   o   9\n        ru-ko                                      *169   13   o[",
             "scribe": "",
@@ -109231,7 +109231,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py860_PN_0.jpg"
             ],
-            "label": "PY Aa 860 $240$",
+            "label": "PY Aa 860",
             "name": "Py860",
             "parsedInscription": "                               ]1 ko-wo   1   TA   1",
             "scribe": "",
@@ -109277,7 +109277,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py248_PN_0.jpg"
             ],
-            "label": "PY Na 248 $106$",
+            "label": "PY Na 248",
             "name": "Py248",
             "parsedInscription": "                                  e-re-u-te-ro\n        ta-mi-ta-na    ku-na-ke-ta-i     SA   30",
             "scribe": "",
@@ -109694,7 +109694,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1435.jpg"
             ],
-            "label": "PY Mb 1435 $1412$",
+            "label": "PY Mb 1435",
             "name": "Py1435",
             "parsedInscription": "                                ]e-na-po-ro[                         *146",
             "scribe": "",
@@ -109766,7 +109766,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py568_PN_0.jpg"
             ],
-            "label": "PY Na 568 $106$",
+            "label": "PY Na 568",
             "name": "Py568",
             "parsedInscription": "                                     e-sa-re-u    ke-po-da    e-re-u-te-ro-se     SA   50\n        ]-wa    SA 20     to-sa-de    na-u-do-mo    o-u-di-do-si",
             "scribe": "",
@@ -110120,7 +110120,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py467_PN_0.jpg"
             ],
-            "label": "PY En 467 + frr. $74$",
+            "label": "PY En 467 + frr.",
             "name": "Py467",
             "parsedInscription": "            ti-qa-jo-jo    ko-to-na    ki-ti-me-na    to-so-de    pe-mo     GRA   8   T   3\n                                                                                     vac.\n        po-te-wo    ko-to-na    ki-ti-me    to-so-de⌞ ⌟pe-mo     GRA   2   T   4\n                                                                                     vac.\n        pi-ri-ta-wo-no    ko-to-na    ki-ti-me-na    ke-ra-me-wo⌞ ⌟to-so-de    pe-mo   GRA   1   T   1",
             "scribe": "",
@@ -110400,7 +110400,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py504_PN_0.jpg"
             ],
-            "label": "PY Na 504 $106$",
+            "label": "PY Na 504",
             "name": "Py504",
             "parsedInscription": "        ]   SA   26",
             "scribe": "",
@@ -110437,7 +110437,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py522_PN_0.jpg"
             ],
-            "label": "PY Na 522 $106$",
+            "label": "PY Na 522",
             "name": "Py522",
             "parsedInscription": "        qo-ta-wo       SA   7",
             "scribe": "",
@@ -110523,7 +110523,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py647_PN_0.jpg"
             ],
-            "label": "PY Es 647 $644$",
+            "label": "PY Es 647",
             "name": "Py647",
             "parsedInscription": "          o-po-ro-me-no    po-se-da-o-ne  do-so-mo     GRA   1   T   7\n        *34-ke-te-si    do-so-mo                                          GRA        T   1   V   2\n        we-da-ne-we  do-so-mo                                          GRA        T   1   V   2\n        di-wi-je-we    do-so-mo                                          GRA         T   1   V   2\n                                                         vac.",
             "scribe": "",
@@ -110788,7 +110788,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py411_PN_0.jpg"
             ],
-            "label": "PY Ed 411 + fr. + frr. $74$ (41,1)",
+            "label": "PY Ed 411 + fr. + frr. (41,1)",
             "name": "Py411",
             "parsedInscription": "        ku-su-to-ro-qa       pa-to[             ]te-re-ta   GRA   44   T   2   V[\n                      ka-ma-e-we                        GRA   58   T   2   [\nlat. inf.\n                                                                              te-o-jo    do-e-ra[",
             "scribe": "",
@@ -110954,7 +110954,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1175_PN_0.jpg"
             ],
-            "label": "PY Na 1175 $106$",
+            "label": "PY Na 1175",
             "name": "Py1175",
             "parsedInscription": "                           ]       SA   [",
             "scribe": "",
@@ -111291,7 +111291,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py934_PN_0.jpg"
             ],
-            "label": "PY Eb 934 + fr. $149$",
+            "label": "PY Eb 934 + fr.",
             "name": "Py934",
             "parsedInscription": "        GRA     ]   T   2   [\n                     ]   vacat",
             "scribe": "",
@@ -111515,7 +111515,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py665_PN_0.jpg"
             ],
-            "label": "PY Cc 665 $4$",
+            "label": "PY Cc 665",
             "name": "Py665",
             "parsedInscription": "        ne-wo-pe-o    po-ti-ni-ja   OVIS:m   100   SUS   190",
             "scribe": "",
@@ -111561,7 +111561,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py854_PN_0.jpg"
             ],
-            "label": "PY Aa 854 $240$",
+            "label": "PY Aa 854",
             "name": "Py854",
             "parsedInscription": "        e-ke[-ro-qo-no   MUL",
             "scribe": "",
@@ -112700,7 +112700,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py811_PN_0.jpg"
             ],
-            "label": "PY Ea 811 $28$",
+            "label": "PY Ea 811",
             "name": "Py811",
             "parsedInscription": "        du-ni-jo    e-ke    o-na-to            GRA     T   6",
             "scribe": "",
@@ -113834,7 +113834,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py930_PN_0.jpg"
             ],
-            "label": "PY Wa 930 $131$",
+            "label": "PY Wa 930",
             "name": "Py930",
             "parsedInscription": "                                    ]re-ke    [",
             "scribe": "",
@@ -114037,7 +114037,7 @@ var inscriptions = new Map(
             "imageRights": "© University of Cincinnati",
             "imageRightsURL": "http://calibra.classics.cam.ac.uk/",
             "images": [],
-            "label": "PY Fn 867 $79$",
+            "label": "PY Fn 867",
             "name": "Py867",
             "parsedInscription": "        sup. mut.\n        i-qe[                                                 HORD\n        pa-na-re-jo  [                                 HORD\n        a-ki-to-jo    qa[-si-re-wi-ja        HORD\n        mi-jo-qa    do-e-ro   [                  HORD\n        do-ri-je-we                             [      HORD\n        me-ri-du-ma-si                        [    HORD\n                               vac.                        [",
             "scribe": "",
@@ -114161,7 +114161,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py955_PN_0.jpg"
             ],
-            "label": "PY Aa 955 $240$",
+            "label": "PY Aa 955",
             "name": "Py955",
             "parsedInscription": "        me-ki-to-ki[-ri-ta   MUL",
             "scribe": "",
@@ -115003,7 +115003,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py496_PN_0.jpg"
             ],
-            "label": "PY Eb 496 [+] 1034 $149$",
+            "label": "PY Eb 496 [+] 1034",
             "name": "Py496",
             "parsedInscription": "        pi-ke-re-u    e-ke-qe    ke[-ke-me-na  ko-to-]na\n           ko-to-no-o-ko                     [           to-so-]de  pe-mo   GRA   T ⌞4[",
             "scribe": "",
@@ -115091,7 +115091,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py723_PN_0.jpg"
             ],
-            "label": "PY An 723 $172$",
+            "label": "PY An 723",
             "name": "Py723",
             "parsedInscription": "        e-re-e-we\n        a-ri-qo    e-u-ka-ro          VIR   1\n        ra-wa-ra-ta    e-pa-re     VIR   1\n                                  vac.\n                                   vac.",
             "scribe": "",
@@ -115256,7 +115256,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py442_PN_0.jpg"
             ],
-            "label": "PY Xn 442 $-$ (Ci)",
+            "label": "PY Xn 442 (Ci)",
             "name": "Py442",
             "parsedInscription": "        sup. mut.\n        e-re-e     [\n          vac.       [",
             "scribe": "",
@@ -115861,7 +115861,7 @@ var inscriptions = new Map(
                 "images/photos/Py1325_PN_0.jpg",
                 "images/photos/Py1325_PN_1.jpg"
             ],
-            "label": "PY Wr 1325 $1331$ (Ci)",
+            "label": "PY Wr 1325 (Ci)",
             "name": "Py1325",
             "parsedInscription": "α\n        CAP:m   supra sigillum\nβ\n          vac.\nγ\n            o-pa",
             "scribe": "",
@@ -116564,7 +116564,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py653_PN_0.jpg"
             ],
-            "label": "PY Es 653 $644$",
+            "label": "PY Es 653",
             "name": "Py653",
             "parsedInscription": "              a3-ki-wa-ro    po-se-da-o    do-so-mo     GRA   T   6\n        *34-ke-te-si    do-so-mo                                     GRA   V   2\n        we-da-ne-wo    do-so-mo                                  GRA   V   2\n        di-wi-je-we    do-so-mo                                     GRA   V   2\n                                                       vac.",
             "scribe": "",
@@ -116853,7 +116853,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py754_PN_0.jpg"
             ],
-            "label": "PY Ea 754 $28$",
+            "label": "PY Ea 754",
             "name": "Py754",
             "parsedInscription": "                               ra-pte\n        ti-ri-da-ro   e-ke    o-na-to    ko-do-jo    ko-to-na     GRA   T   6[     ]vac.",
             "scribe": "",
@@ -117069,7 +117069,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py985_PN_0.jpg"
             ],
-            "label": "PY Eb 985 $149$",
+            "label": "PY Eb 985",
             "name": "Py985",
             "parsedInscription": "        ]vac.[\n        ]to-so[-de  pe-mo   GRA",
             "scribe": "",
@@ -117171,7 +117171,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1284_PN_0.jpg"
             ],
-            "label": "PY Cc 1284 $4$",
+            "label": "PY Cc 1284",
             "name": "Py1284",
             "parsedInscription": "                                  ]u    pe-re   CAP   8     [",
             "scribe": "",
@@ -117318,7 +117318,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py918_PN_0.jpg"
             ],
-            "label": "PY Fn 918 $79$",
+            "label": "PY Fn 918",
             "name": "Py918",
             "parsedInscription": "                               HORD   T   ]6   V   4   OLIV   1\n                               HORD  ]T    2   V   3   OLIV   T   5\n                               HORD           ]   V   3   [\n                               HORD   T   ]4⌟   V   4   OLIV   1\n                               HORD              ]   V   4\n                                                                  inf. mut.",
             "scribe": "",
@@ -117847,7 +117847,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1420_PN_0.jpg"
             ],
-            "label": "PY Xa 1420 $-$ (Civ)",
+            "label": "PY Xa 1420 (Civ)",
             "name": "Py1420",
             "parsedInscription": "        ra-ja-mo    [\n             vac.         [",
             "scribe": "",
@@ -118260,7 +118260,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1368_PN_0.jpg"
             ],
-            "label": "PY Mn 1368 $1412$",
+            "label": "PY Mn 1368",
             "name": "Py1368",
             "parsedInscription": "             sup. mut.\n        ki-[   ]-to    •[                                         *146\n        ke-sa-da-ra    e-[                                   *146\n        ke-sa-da-ra⌞ ⌟i-no[                             *146\n             inf. mut.",
             "scribe": "",
@@ -119360,7 +119360,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py592_PN_0.jpg"
             ],
-            "label": "PY Un 592 $2$",
+            "label": "PY Un 592",
             "name": "Py592",
             "parsedInscription": "                               ]ko     AROM   8     T   8\n                                    ]6⌟   M   2          KA±PO   3   T   4\n                                         ]S   1   V   4   ko   AROM   4   T   4\n                                                     ]S   1   V   3   LANA   6\n                                                     ]T   5   ra-ka        *154   21",
             "scribe": "",
@@ -119655,7 +119655,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py93_PN_0.jpg"
             ],
-            "label": "PY Aa 93 $60$",
+            "label": "PY Aa 93",
             "name": "Py93",
             "parsedInscription": "        ke-e        MUL   6   ko-wa   9   ko-wo   6   DA   1   TA   1",
             "scribe": "",
@@ -119936,7 +119936,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py46_PN_0.jpg"
             ],
-            "label": "PY Vn 46 + fr. $-$ (Cii)",
+            "label": "PY Vn 46 + fr. (Cii)",
             "name": "Py46",
             "parsedInscription": "        pi-ra3-[\n        ka-pi-ni-ja    a-ti-ta    6[\n        ka-pi-ni-ja    e-ru-mi-ni-ja           4[\n        ka-pi-ni-ja    ta-ra-nu-we           12[\n        *35-ki-no-o   81     o-pi-ra3-te-re   40[\n        e-to-ki-ja     23[         ]-ke-te-re      140\n        pi-ri-ja-o    ta-ra-nu-we   6\n        qe-re-ti-ri-jo   2   me-ta-se-we         10\n        e-po-wo-ke    pu-to-ro     16\n      *35-ki-no-o    pu-to-ro     100\n      ta-to-mo    a-ro-wo    e-pi-*65-ko         1\n      e-ru-mi-ni-ja   2   ki-wo-qe     1",
             "scribe": "",
@@ -120354,7 +120354,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py787_PN_0.jpg"
             ],
-            "label": "PY Sa 787 $287$",
+            "label": "PY Sa 787",
             "name": "Py787",
             "parsedInscription": "                    pa-ra-ja    we-je-ke-a2     ROTA   ZE   31   MO   1\n        to-sa    e-qe-si-ja  pa-ra-ja              ROTA   ZE   12   za-ku-si-ja     ROTA   ZE   32",
             "scribe": "",
@@ -120731,7 +120731,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1182_PN_0.jpg"
             ],
-            "label": "PY Aa 1182 $240$",
+            "label": "PY Aa 1182",
             "name": "Py1182",
             "parsedInscription": "        pi-we-re   MUL   7   ko-wo   2",
             "scribe": "",
@@ -120824,7 +120824,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1279_PN_0.jpg"
             ],
-            "label": "PY Ac 1279 $1272$ (Ciii)",
+            "label": "PY Ac 1279 (Ciii)",
             "name": "Py1279",
             "parsedInscription": "                                    VIR      ]o-pe-ro   VIR   [",
             "scribe": "",
@@ -121189,7 +121189,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py512_PN_0.jpg"
             ],
-            "label": "PY Na 512 + 541 $106$",
+            "label": "PY Na 512 + 541",
             "name": "Py512",
             "parsedInscription": "        po-ru-ko-ro-te-wi-jo     SA   7",
             "scribe": "",
@@ -121338,7 +121338,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py761_PN_0.jpg"
             ],
-            "label": "PY Sa 761 $287$",
+            "label": "PY Sa 761",
             "name": "Py761",
             "parsedInscription": "        a-sa-ma-to       ZE   2",
             "scribe": "",
@@ -121473,7 +121473,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py594_PN_0.jpg"
             ],
-            "label": "PY An 594 $-$ (Ciii)",
+            "label": "PY An 594 (Ciii)",
             "name": "Py594",
             "parsedInscription": "        ma-ri-ti-wi-jo   X   VIR   1   pu-ka-wo   X   VIR   10\n        me-ri-du-ma-te           VIR   4     mi-ka-ta   VIR   1   X\nv.\n        ⟦                                             vest.                                             ⟧\n        ⟦  [pu-]ka-wo                                                                           ⟧",
             "scribe": "",
@@ -122320,7 +122320,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1091_PN_0.jpg"
             ],
-            "label": "PY Na 1091 $106$",
+            "label": "PY Na 1091",
             "name": "Py1091",
             "parsedInscription": "                           ]o     SA   20     [",
             "scribe": "",
@@ -122667,7 +122667,7 @@ var inscriptions = new Map(
                 "images/photos/Py463_PN_0.jpg",
                 "images/photos/Py463_PN_1.jpg"
             ],
-            "label": "PY Xa 463 $-$ (Ci)",
+            "label": "PY Xa 463 (Ci)",
             "name": "Py463",
             "parsedInscription": "        sup. mut.\n        e-ra[\nv.\n        re[\n        inf. mut.",
             "scribe": "",
@@ -123181,7 +123181,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py740_PN_0.jpg"
             ],
-            "label": "PY Sh 740 $733$ (Cii)",
+            "label": "PY Sh 740 (Cii)",
             "name": "Py740",
             "parsedInscription": "                                                                         ko-ru-to   O   4     PA 2\n        pa-ra-jo    ARM   ZE   5   wi-so-wo-pa-to⌞ ⌟o-pa-wo-ta    me-zo-a2   O   20   me-u-jo-a2   O   10",
             "scribe": "",
@@ -123407,7 +123407,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py612_PN_0.jpg"
             ],
-            "label": "PY Un 612 + 1122 + fr. + frr. +fr. + frr. $2$",
+            "label": "PY Un 612 + 1122 + fr. + frr. +fr. + frr.",
             "name": "Py612",
             "parsedInscription": "                ]KO[   qs\n        ]-wa-[  ]   VIN   5\n                ] CAP:f   1",
             "scribe": "",
@@ -123655,7 +123655,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1230_PN_0.jpg"
             ],
-            "label": "PY Fr 1230 $-$ (Cii)",
+            "label": "PY Fr 1230 (Cii)",
             "name": "Py1230",
             "parsedInscription": "        di-wi-jo-de     OLE+A   V   1",
             "scribe": "",
@@ -124244,7 +124244,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1125_PN_0.jpg"
             ],
-            "label": "PY Xn 1125 $-$",
+            "label": "PY Xn 1125",
             "name": "Py1125",
             "parsedInscription": "                        sup. mut.\n                            ]-qe[\n                        inf. mut.",
             "scribe": "",
@@ -124562,7 +124562,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py563_PN_0.jpg"
             ],
-            "label": "PY Ab 563 [+] 581 + 1112 + 1113 + 1506 + frr.(3) $186$",
+            "label": "PY Ab 563 [+] 581 + 1112 + 1113 + 1506 + frr.(3)",
             "name": "Py563",
             "parsedInscription": "                                                                                                                               ] GRA 6   T   1   [\n        pu-ro    e-ke-ro-qo-no   MUL[   ]1   [ko-]wa 5   [ ]ko-wo 5            NI   6   T   1[",
             "scribe": "",
@@ -124879,7 +124879,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py17_PN_0.jpg"
             ],
-            "label": "PY Ua 17 $138$",
+            "label": "PY Ua 17",
             "name": "Py17",
             "parsedInscription": "                                ] 1   T   7 VIN   47   S   1   V   5\n                                      ]7   OVIS:f   7   WE   17   CAP:m   31   SUS:f   20\nlat. inf.\n                                                                         ]14  [\nv.\n                                   ]30[         ]T   7   [                  ]   T   4   V   2",
             "scribe": "",
@@ -125535,7 +125535,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py286_PN_0.jpg"
             ],
-            "label": "PY Cn 286 $719$",
+            "label": "PY Cn 286",
             "name": "Py286",
             "parsedInscription": "        a-pa-re-u-pi    ke-se-nu-wo    a[\n                               vac.                            [",
             "scribe": "",
@@ -125705,7 +125705,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py738_PN_0.jpg"
             ],
-            "label": "PY Sh 738 $733$ (Cii)",
+            "label": "PY Sh 738 (Cii)",
             "name": "Py738",
             "parsedInscription": "        ARM   1   me-zo-a2   O   22   me-u-jo-a2   O   12   KO   O   4   PA   2",
             "scribe": "",
@@ -126308,7 +126308,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py569_PN_0.jpg"
             ],
-            "label": "PY Wa 569 + fr. [+] frr.(3) $-$",
+            "label": "PY Wa 569 + fr. [+] frr.(3)",
             "name": "Py569",
             "parsedInscription": "        ]de  /  to-ra   pe[\n                      ] vacat        [",
             "scribe": "",
@@ -126421,7 +126421,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1225_PN_0.jpg"
             ],
-            "label": "PY Fr 1225 $1217$ (Cii)",
+            "label": "PY Fr 1225 (Cii)",
             "name": "Py1225",
             "parsedInscription": "        e-ra3-wo    u-po-jo    po-ti-ni-ja\n        we-a2-no-i    a-ro-pa   OLE+A   S   1",
             "scribe": "",
@@ -126553,7 +126553,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1389_PN_0.jpg"
             ],
-            "label": "PY Xa 1389 $-$",
+            "label": "PY Xa 1389",
             "name": "Py1389",
             "parsedInscription": "                                ]30   [",
             "scribe": "",
@@ -126839,7 +126839,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py834_PN_0.jpg"
             ],
-            "label": "PY Sa 834 $287$",
+            "label": "PY Sa 834",
             "name": "Py834",
             "parsedInscription": "        a-me-ja-to    wo-ka    we-je-ke-e     ROTA+TE   ZE   1",
             "scribe": "",
@@ -126885,7 +126885,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1303_PN_0.jpg"
             ],
-            "label": "PY Qa 1303 [+] 1307 $1295$",
+            "label": "PY Qa 1303 [+] 1307",
             "name": "Py1303",
             "parsedInscription": "        ke-i-ja    i[-je-re-ja                        ]*189   2   [",
             "scribe": "",
@@ -127697,7 +127697,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py185_PN_0.jpg"
             ],
-            "label": "PY Na 185 $106$",
+            "label": "PY Na 185",
             "name": "Py185",
             "parsedInscription": "                                ]o-u-di-do-si   SA   2\n                                ]e-re-u-te-ro   SA   2",
             "scribe": "",
@@ -127793,7 +127793,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1265_PN_0.jpg"
             ],
-            "label": "PY Sa 1265 $287$",
+            "label": "PY Sa 1265",
             "name": "Py1265",
             "parsedInscription": "       a-re-to-to    wo-ka    we-je-ke-e       ROTA+TE   ZE   1",
             "scribe": "",
@@ -127989,7 +127989,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py3_PN_0.jpg"
             ],
-            "label": "PY Cn 3 $608$",
+            "label": "PY Cn 3",
             "name": "Py3",
             "parsedInscription": "            jo-i-je-si    me-za-na  \n        e-re-u-te-re    di-wi-je-we    qo-o  \n        a2-ra-tu-a    o-ka-ra3              BOS   1\n        pi-ru-te    ku-re-we                   BOS   1\n        e-na-po-ro    i-wa-si-jo-ta          BOS   1\n        o-ru-ma-to    u-ru-pi-ja-jo            BOS   1\n        a2-ka-a2-ki-ri-ja-jo    u-ru-pi-ja-jo-jo    BOS   1\n                                           vac.\n                                           vac.",
             "scribe": "",
@@ -128749,7 +128749,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1434_PN_0.jpg"
             ],
-            "label": "PY Mb 1434 $1412$",
+            "label": "PY Mb 1434",
             "name": "Py1434",
             "parsedInscription": "                         ti[\n        a-ke-o    u[                                                *146",
             "scribe": "",
@@ -128836,7 +128836,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py95_PN_0.jpg"
             ],
-            "label": "PY Aa 95 + fr. $60$",
+            "label": "PY Aa 95 + fr.",
             "name": "Py95",
             "parsedInscription": "        e-pi-jo-ta-na   MUL   8   ko-wa   8   ko-wo   7   DA   1   TA   1",
             "scribe": "",
@@ -129056,7 +129056,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1375_PN_0.jpg"
             ],
-            "label": "PY Xa 1375 $-$",
+            "label": "PY Xa 1375",
             "name": "Py1375",
             "parsedInscription": "        e-[",
             "scribe": "",
@@ -129199,7 +129199,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py947_PN_0.jpg"
             ],
-            "label": "PY Wa 947 $-$",
+            "label": "PY Wa 947",
             "name": "Py947",
             "parsedInscription": "                                    ]do-ro",
             "scribe": "",
@@ -129355,7 +129355,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py795_PN_0.jpg"
             ],
-            "label": "PY Aa 795 $240$",
+            "label": "PY Aa 795",
             "name": "Py795",
             "parsedInscription": "        pa-wo-ke   MUL   4   ko-wa   2   ko-wo   1   TA   1",
             "scribe": "",
@@ -129824,7 +129824,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1430_PN_0.jpg"
             ],
-            "label": "PY Mb 1430 $1412$",
+            "label": "PY Mb 1430",
             "name": "Py1430",
             "parsedInscription": "                                ]wo        *146   3",
             "scribe": "",
@@ -130078,7 +130078,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py643_PN_0.jpg"
             ],
-            "label": "PY Cn 643 $719$",
+            "label": "PY Cn 643",
             "name": "Py643",
             "parsedInscription": "             a-pa-re-u-pi    pa-pa-ro    wo-ne-we          [•]:m ⌞40⌟\n        wi-ja-we-ra2    a-ko-te-u                                      SUS:f   40\n        pi-*82    ma-ra-ni-jo    a-ke-o-jo                       CAP:m   48\n        pi-]*82    ku-ka-ra-so    a-ke-o-jo                     CAP:f   53\n        ma-]ro-pi    pu-ma-ra-ko    we-da-ne-wo     CAP:m   100\n                                       ]ke-u    a-ke-o[-jo                  ]CAP:f   40\n                                             deest\n                                             deest\n                                             deest",
             "scribe": "",
@@ -130798,7 +130798,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1310_PN_0.jpg"
             ],
-            "label": "PY Qa 1310 $1295$",
+            "label": "PY Qa 1310",
             "name": "Py1310",
             "parsedInscription": "                                  ]*189     2",
             "scribe": "",
@@ -130961,7 +130961,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py726_PN_0.jpg"
             ],
-            "label": "PY Es 726 $644$",
+            "label": "PY Es 726",
             "name": "Py726",
             "parsedInscription": "              ka-ra-i    do-so-mo    po-se-da-o[-ne         GRA   T   ]2\n        *34-ke-te-si    do-so-mo                                      GRA   V   1\n          we-da-ne-wo    do-so-mo                                  GRA   V   1\n            di-wi-je-we    do-so-mo                                   GRA   V   1\n                                                       vac.",
             "scribe": "",
@@ -131214,7 +131214,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1261_PN_0.jpg"
             ],
-            "label": "PY Xn 1261 $-$ (Ciii)",
+            "label": "PY Xn 1261 (Ciii)",
             "name": "Py1261",
             "parsedInscription": "                            sup. mut.\n                            ]vest.[\n                            ]-to-ro    [\n                            ]-te             [\n                             inf. mut.",
             "scribe": "",
@@ -131642,7 +131642,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py365_PN_0.jpg"
             ],
-            "label": "PY Ma 365 + frr.(3) + fr. $90$",
+            "label": "PY Ma 365 + frr.(3) + fr.",
             "name": "Py365",
             "parsedInscription": "        ro-u-so  *146   17    RI   M   14[     ]  KE   M   5    *152   8        O   M   4     ME\n        o-da-a2    ka-ke-we    a2-te-ro    we-to    di-do-si      *146   1   RI   N   2            ME   10",
             "scribe": "",
@@ -131912,7 +131912,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1118_PN_0.jpg"
             ],
-            "label": "PY Xn 1118 $-$",
+            "label": "PY Xn 1118",
             "name": "Py1118",
             "parsedInscription": "                           sup. mut.\n                             ]te[\n                            inf. mut.",
             "scribe": "",
@@ -132205,7 +132205,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py565_PN_0.jpg"
             ],
-            "label": "PY Na 565 $106?$",
+            "label": "PY Na 565",
             "name": "Py565",
             "parsedInscription": "        ke-re-te-u-ti-no    [                SA",
             "scribe": "",
@@ -132483,7 +132483,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py743_PN_0.jpg"
             ],
-            "label": "PY Sh 743 $733$ (Cii)",
+            "label": "PY Sh 743 (Cii)",
             "name": "Py743",
             "parsedInscription": "        ARM   1   me-zo-a2    O   20   me-u-jo-a2   O   10   ko-ru-to   O   4   PA   2",
             "scribe": "",
@@ -132550,7 +132550,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py358_PN_0.jpg"
             ],
-            "label": "PY Xn 358 $-$",
+            "label": "PY Xn 358",
             "name": "Py358",
             "parsedInscription": "                             sup. mut.\n                             ]vest.\n                             ]   vac.\n                             ]3\n                             ]   vac.\n                             ]   vac.\n                              inf. mut.",
             "scribe": "",
@@ -132696,7 +132696,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py315_PN_0.jpg"
             ],
-            "label": "PY Ad 315 + 1450 + frr.(6) + fr. $290$",
+            "label": "PY Ad 315 + 1450 + frr.(6) + fr.",
             "name": "Py315",
             "parsedInscription": "        pu-ro   a-*64-ja-o   ko-wo   VIR[ ]2   ko-wo   6",
             "scribe": "",
@@ -132897,7 +132897,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1172_PN_0.jpg"
             ],
-            "label": "PY Xn 1172 $-$ (Ci)",
+            "label": "PY Xn 1172 (Ci)",
             "name": "Py1172",
             "parsedInscription": "                             sup. mut.\n                            ]ke    [\n                          inf. mut.",
             "scribe": "",
@@ -133310,7 +133310,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1387_PN_0.jpg"
             ],
-            "label": "PY Mb 1387 $-$",
+            "label": "PY Mb 1387",
             "name": "Py1387",
             "parsedInscription": "        ]a-ki-ri-jo  [     *146",
             "scribe": "",
@@ -133394,7 +133394,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py192_PN_0.jpg"
             ],
-            "label": "PY An 192 + fr. $129$",
+            "label": "PY An 192 + fr.",
             "name": "Py192",
             "parsedInscription": "                    a-pi-a2-ro       VIR   1\n        a-e-ri-qo                   VIR   1\n        du-ni-jo  du-ma     VIR   1\n        au-ke-wa                  VIR   1\n        du-ni-jo  a-no-ke-wa         VIR   1\n        ko-ro-su-ka                           VIR   1\n        a-e-ri-qo-ta                            VIR   1\n        ka-ra-u-ro                              VIR   1\n        a-ta-wo                                   VIR   1\n      ta-ra-to     VIR   1                ⟦VIR   1⟧\n      me-to-qe-u                            VIR   1\n      pe-re-qo-ta    pa-da-je[-u   ]   VIR   1\n      a-no-ke-we    ke-ki                    VIR   1\n      a-ke-o    ka-wi-jo                       VIR   1\n      ki-du-ro                                         VIR   1\n            qa-ra2                                      VIR   1",
             "scribe": "",
@@ -133679,7 +133679,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py995_PN_0.jpg"
             ],
-            "label": "PY Ae 995 $995$",
+            "label": "PY Ae 995",
             "name": "Py995",
             "parsedInscription": "        ko-to-ne-we   VIR[",
             "scribe": "",
@@ -133918,7 +133918,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1038_PN_0.jpg"
             ],
-            "label": "PY Na 1038 $106$",
+            "label": "PY Na 1038",
             "name": "Py1038",
             "parsedInscription": "        ]no-ka-ra-o-re SA 20",
             "scribe": "",
@@ -134301,7 +134301,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py755_PN_0.jpg"
             ],
-            "label": "PY Sa 755 $287$",
+            "label": "PY Sa 755",
             "name": "Py755",
             "parsedInscription": "        qa-sa-re-o    wo-ka    we-je-ke-e       ROTA+TE   ZE   1",
             "scribe": "",
@@ -134429,7 +134429,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1028_PN_0.jpg"
             ],
-            "label": "PY Xn 1028 $-$",
+            "label": "PY Xn 1028",
             "name": "Py1028",
             "parsedInscription": "                             ]-jo\n                                inf. mut.",
             "scribe": "",
@@ -134595,7 +134595,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py285_PN_0.jpg"
             ],
-            "label": "PY Cn 285 + fr. + fr. $131$",
+            "label": "PY Cn 285 + fr. + fr.",
             "name": "Py285",
             "parsedInscription": "        ro-u-so          [\n        a3-ta-ro-we       [\n        re-ta-mo             CAP:m[\n        ka-ra-u-ko          CAP:m[   ]30\n        a-we-ke-se-u     OVIS:m   50\n        a-we-ke-se-u     CAP:m   30[   ] vac.\n        wa-da-ko            CAP:m   86\n        si-no-u-ro           CAP:m   60[\n        ra-ma-jo              CAP:f   20[\n      pa-wa-wo           [•]:f   [\n      e-ke-da-mo        OVIS:m   100\n      a-si-wi-jo             OVIS:m   100\n      o-ki-ra                  OVIS:m   116\n      o-ti-na-wo           OVIS:m   100",
             "scribe": "",
@@ -134812,7 +134812,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py688_PN_0.jpg"
             ],
-            "label": "PY Ad 688 $290$",
+            "label": "PY Ad 688",
             "name": "Py688",
             "parsedInscription": "        ne-wo-pe-o   ko-wo     VIR   4     ko-wo   2   [",
             "scribe": "",
@@ -134861,7 +134861,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1321_PN_0.jpg"
             ],
-            "label": "PY Un 1321 $-$",
+            "label": "PY Un 1321",
             "name": "Py1321",
             "parsedInscription": "        ]-ta-ri-ja    a2-to    o-ra-qe-te[\n        ]qe-we    to-sa-ka-pa-ra   VIN   [qs\n        ]ta-qe    a3-te    to-o            GRA  [\n            ]    o-pa-ro-ze               ti-se    pa-ro[",
             "scribe": "",
@@ -135819,7 +135819,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py287_PN_0.jpg"
             ],
-            "label": "PY Sa 287 $287$",
+            "label": "PY Sa 287",
             "name": "Py287",
             "parsedInscription": "        a-ku-ro    de-de-me-no       ROTA   ZE   1",
             "scribe": "",
@@ -135980,7 +135980,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py560_PN_0.jpg"
             ],
-            "label": "PY Ab 560 $186$",
+            "label": "PY Ab 560",
             "name": "Py560",
             "parsedInscription": "        pu-ro    ne-we-wi-ja   MUL[",
             "scribe": "",
@@ -136336,7 +136336,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py317_PN_0.jpg"
             ],
-            "label": "PY Ed 317 $74$",
+            "label": "PY Ed 317",
             "name": "Py317",
             "parsedInscription": "        o-da-a2    i-je-re-ja    ka-ra-wi-po-ro-qe    e-qe-ta-qe  ⟦                        ⟧\n        we-te-re-u-qe    o-na-ta    to-so-de    pe-mo       GRA   21   T   6",
             "scribe": "",
@@ -136453,7 +136453,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py946_PN_0.jpg"
             ],
-            "label": "PY Ab 946 $186$",
+            "label": "PY Ab 946",
             "name": "Py946",
             "parsedInscription": "                                   sup. mut.\n                                    ]ko-wa[",
             "scribe": "",
@@ -136840,7 +136840,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py966_PN_0.jpg"
             ],
-            "label": "PY Fn 966 $79$",
+            "label": "PY Fn 966",
             "name": "Py966",
             "parsedInscription": "                                       sup. mut.\n                                                ]   vac.\n                               HORD     ]1   V   3\n                                       inf. mut.",
             "scribe": "",
@@ -137052,7 +137052,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py634_PN_0.jpg"
             ],
-            "label": "PY Ae 634 $626$",
+            "label": "PY Ae 634",
             "name": "Py634",
             "parsedInscription": "                                    ]2   o   MUL   7   [",
             "scribe": "",
@@ -137187,7 +137187,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py110_PN_0.jpg"
             ],
-            "label": "PY Ae 110 $8$",
+            "label": "PY Ae 110",
             "name": "Py110",
             "parsedInscription": "        pu-ro    ka-ra-wi-po-ro-jo    do-e[",
             "scribe": "",
@@ -137227,7 +137227,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py775_PN_0.jpg"
             ],
-            "label": "PY Aa 775 + fr. [+] 956 $240$",
+            "label": "PY Aa 775 + fr. [+] 956",
             "name": "Py775",
             "parsedInscription": "        o-wi-to-no[   MUL ]4   ko-wa   2   ko-wo   10   DA   1   TA   1",
             "scribe": "",
@@ -137486,7 +137486,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1394.jpg"
             ],
-            "label": "PY La 1394 $-$ (Ciii)",
+            "label": "PY La 1394 (Ciii)",
             "name": "Py1394",
             "parsedInscription": "        ]TELA;2+PU   104[",
             "scribe": "",
@@ -137733,7 +137733,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py672_PN_0.jpg"
             ],
-            "label": "PY Ad 672 $290$",
+            "label": "PY Ad 672",
             "name": "Py672",
             "parsedInscription": "        e-pi-ko-e   ri-ne-ja-o   ko-wo   VIR   4   ko-wo   3",
             "scribe": "",
@@ -138323,7 +138323,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1214_PN_0.jpg"
             ],
-            "label": "PY Fr 1214 + fr. [+] fr. [+] fr. $-$",
+            "label": "PY Fr 1214 + fr. [+] fr. [+] fr.",
             "name": "Py1214",
             "parsedInscription": "        ]OLE   PO   2   S[   qs]   V[   qs",
             "scribe": "",
@@ -138384,7 +138384,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1174_PN_0.jpg"
             ],
-            "label": "PY Eb 1174 $149$",
+            "label": "PY Eb 1174",
             "name": "Py1174",
             "parsedInscription": "        ra-su-ro    te-o-jo    do-e-ro    e-ke-qe[     o-na-to\n        ke-ke-me-na    ko-to-na    pa-ro     da[-mo  to-so-de  pe-mo   GRA   T   2",
             "scribe": "",
@@ -139025,7 +139025,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1383_PN_0.jpg"
             ],
-            "label": "PY Mb 1383 $1412$",
+            "label": "PY Mb 1383",
             "name": "Py1383",
             "parsedInscription": "        ]-no-wi-jo  [     *146",
             "scribe": "",
@@ -139747,7 +139747,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py337_PN_0.jpg"
             ],
-            "label": "PY Na 337 $337$ (Cii)",
+            "label": "PY Na 337 (Cii)",
             "name": "Py337",
             "parsedInscription": "        me-te-to     SA   60",
             "scribe": "",
@@ -139819,7 +139819,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py704_PN_0.jpg"
             ],
-            "label": "PY Ep 704 $74$",
+            "label": "PY Ep 704",
             "name": "Py704",
             "parsedInscription": "           o-pe-to-re-u    qe-ja-me-no    e-ke    ke-ke-me-na    ko-to-na    to-so    pe-mo[     ]GRA   2   T   5\n          u-wa-mi-ja    te-o-jo    do-e-ra    o-na-to    e-ke-qe    i-je-re-ja    ke-ra    to-so  pe-mo                       GRA   T   1   V   3\n        e-ri-ta    i-je-re-ja    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so    pe-mo      GRA   T   4\n        ki-ri-te-wi-ja    o-na-to    e-ko-si    ke-ke-me-na    ko-to-na⌞ ⌟pa-ro    da-mo    to-so    pe-mo        GRA   1   T   9\n        e-ri-ta    i-je-re-ja    e-ke    e-u-ke-to-qe    e-to-ni-jo    e-ke-e    te-o    da-mo-de-mi    pa-si    ko-to-na-o  \n          ke-ke-me-na-o    o-na-to    e-ke-e    to-so  pe-mo     GRA   3   T   9\n             ka-pa-ti-ja    ka-ra-wi-po-ro    e-ke    ke-ke-me-no    o-pe-ro-sa    du-wo-u-pi    wo-ze-e    o-u-wo-ze    ⟦to-so⟧\n                   to-so[   pe-mo    GRA        ]4",
             "scribe": "",
@@ -141059,7 +141059,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1201_PN_0.jpg"
             ],
-            "label": "PY Fr 1201 $1203$ (Cii)",
+            "label": "PY Fr 1201 (Cii)",
             "name": "Py1201",
             "parsedInscription": "        ku-su-pa    to-so   OLE   PO   14   V   2[  ]vac.",
             "scribe": "",
@@ -141624,7 +141624,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py938_PN_0.jpg"
             ],
-            "label": "PY Cn 938 $4$",
+            "label": "PY Cn 938",
             "name": "Py938",
             "parsedInscription": "                                            sup. mut.\n                                           ]  au-to-a[\n                               ]    pa-ro    i-ke-[\n                                 ]pa-ro[\n                                  inf. mut.",
             "scribe": "",
@@ -141706,7 +141706,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py267_PN_0.jpg"
             ],
-            "label": "PY Un 267 $2$",
+            "label": "PY Un 267",
             "name": "Py267",
             "parsedInscription": "            o-do-ke    a-ko-so-ta\n        tu-we-ta    a-re-pa-zo-o\n        tu-we-a    a-re-pa-te   ⟦    ze-so-me  ⟧\n        ze-so-me-no   ⟦   ko   ⟧\n        ko-ri-a2-da-na     AROM   6\n        ku-pa-ro2              AROM   6   *157   16\n        KA±PO   2   T   5   VIN   20   ME   2\n        LANA   2            VIN   2\n                                           vac.\n                                        vac.\n                                        vac.",
             "scribe": "",
@@ -142097,7 +142097,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py186_PN_0.jpg"
             ],
-            "label": "PY Ab 186 $186$",
+            "label": "PY Ab 186",
             "name": "Py186",
             "parsedInscription": "                                                                                                        GRA   2   T   4   TA   DA\n        pu-ro    ra-mi-ni-ja   MUL   7   ko-wa   1   ko-wo   2   NI   2   T   4",
             "scribe": "",
@@ -142350,7 +142350,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py564_PN_0.jpg"
             ],
-            "label": "PY Ab 564 [+] 1105 $186$",
+            "label": "PY Ab 564 [+] 1105",
             "name": "Py564",
             "parsedInscription": "        pu-ro a-ke-ti-ra2   MUL[   qs   ko-]wa   34[",
             "scribe": "",
@@ -142455,7 +142455,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1287_PN_0.jpg"
             ],
-            "label": "PY Cn 1287 $-$",
+            "label": "PY Cn 1287",
             "name": "Py1287",
             "parsedInscription": "            a-*64-jo    a-ke-ro                       CAP:f   1\n        te-re-do    ka-na-pe-u                      CAP:f   1\n        na-ma-ru-ko                                        CAP:f   1\n        qe-ta-ko    ke-ra-me-u                        CAP:f   1\n        da-u-da-ro    pe-re-ke-u                     CAP:f   1\n        mu-ti-ri-ko    di-u-ja    do-e-ro          CAP:f   1\n        a2-ra-ka-wo  ke-re-ta-o  do-e-ro        CAP:f   1\n        a-sa-ma-o                                                    CAP:f   1\n        mo-ri-wo                                                      CAP:f   2\n      ma-ni-ko                                                        CAP:f   1\n                               vac.\n                               vac.",
             "scribe": "",
@@ -142636,7 +142636,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py763_PN_0.jpg"
             ],
-            "label": "PY Sa 763 $287$",
+            "label": "PY Sa 763",
             "name": "Py763",
             "parsedInscription": "        wo-ro-ko-jo    wo-ka    we-je-ke-e     ROTA+TE   ZE   1     [",
             "scribe": "",
@@ -142807,7 +142807,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py973_PN_0.jpg"
             ],
-            "label": "PY Fn 973 $79$",
+            "label": "PY Fn 973",
             "name": "Py973",
             "parsedInscription": "                              sup. mut.\n                              ]vac. [\n                                ]a3[        HORD\n                               inf. mut.",
             "scribe": "",
@@ -143145,7 +143145,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py132_PN_0.jpg"
             ],
-            "label": "PY Ea 132 $28$",
+            "label": "PY Ea 132",
             "name": "Py132",
             "parsedInscription": "        ru-ko-ro  ra-wa-ke-si-jo    e-ke    o-na-to    su-qo-ta-o    ko-to-na          GRA   T   1",
             "scribe": "",
@@ -143200,7 +143200,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1155_PN_0.jpg"
             ],
-            "label": "PY Un 1155 $-$ (Ciii)",
+            "label": "PY Un 1155 (Ciii)",
             "name": "Py1155",
             "parsedInscription": "                                sup. mut.\n                                   ]   V   [\n                                     inf. mut.",
             "scribe": "",
@@ -143629,7 +143629,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py994_PN_0.jpg"
             ],
-            "label": "PY La 994 $-$ (Civ?)",
+            "label": "PY La 994 (Civ?)",
             "name": "Py994",
             "parsedInscription": "        sup. mut.\n        ]LANA     [",
             "scribe": "",
@@ -144031,7 +144031,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1222_PN_0.jpg"
             ],
-            "label": "PY Fr 1222 $1202$",
+            "label": "PY Fr 1222",
             "name": "Py1222",
             "parsedInscription": "                                              OLE+PA   V   1\n        wa-na-so-i    to-no-e-ke-te-ri-jo",
             "scribe": "",
@@ -144186,7 +144186,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py200_PN_0.jpg"
             ],
-            "label": "PY Cn 200 + 201 $-$ (Ci)",
+            "label": "PY Cn 200 + 201 (Ci)",
             "name": "Py200",
             "parsedInscription": "        wa-wo-u-[ ]    pa-ra-ku     OVIS:x   160   X\n        i-sa-ma[-]ta                        CAP:m   63",
             "scribe": "",
@@ -144855,7 +144855,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py903_PN_0.jpg"
             ],
-            "label": "PY Eb 903 + fr. + fr. [+] 963 + fr. + 950 $149$",
+            "label": "PY Eb 903 + fr. + fr. [+] 963 + fr. + 950",
             "name": "Py903",
             "parsedInscription": "                                                              wa-na-]ka-te-ro    e-ke-qe    o-na-to\n        ke-]ke-me-na    ko[-to-na     pa-ro]    da-mo                             to-so-de  pe-mo   GRA   2   [",
             "scribe": "",
@@ -145034,7 +145034,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py996_PN_0.jpg"
             ],
-            "label": "PY Tn 996 $-$ (Ciii)",
+            "label": "PY Tn 996 (Ciii)",
             "name": "Py996",
             "parsedInscription": "                       ]    a-te-re-e-te-jo    re-wo-te-re-jo                  ALV   2[   ]vacat\n        u-do-ro     *212VAS   3         pi-a2-ra   *219VAS   3                                 [\n        a-po-]re-we   *209VAS   2   ka-ti   *206VAS   1   a-te-we   AES   *205VAS   7   AUR[\n                                                                                                                                        o[\n         ]     *250VAS   3   po-ka-ta-ma    AUR   *208aVAS   1   AES   *208bVAS   3   [•",
             "scribe": "",
@@ -145203,7 +145203,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py427_PN_0.jpg"
             ],
-            "label": "PY An 427 $298$",
+            "label": "PY An 427",
             "name": "Py427",
             "parsedInscription": "           a-pu2-we    da-ko-ro        VIR   5   e-ri-no-wo[-te            VIR\n        pa-ko    me-ri-du-ma-te     VIR   5      a-ke-re[-wa           VIR\n        a-to-po-qo     VIR   2   pi-[•]-te    pu-ka-wo     VIR   3   [",
             "scribe": "",
@@ -145321,7 +145321,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py893_PN_0.jpg"
             ],
-            "label": "PY Eb 893 [+] 897 $149$",
+            "label": "PY Eb 893 [+] 897",
             "name": "Py893",
             "parsedInscription": "        ku-so    e-ke[-qe  ke-]ke-me-na    ko-to-na\n           ko-to-no-o[-ko        ]                       to-so-de   pe-mo     GRA   V   3",
             "scribe": "",
@@ -145522,7 +145522,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py334_PN_0.jpg"
             ],
-            "label": "PY Na 334 $106$",
+            "label": "PY Na 334",
             "name": "Py334",
             "parsedInscription": "                    ]na-ka    e-ke\n            e-re-]u-te-ra             SA   20",
             "scribe": "",
@@ -145688,7 +145688,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py976_PN_0.jpg"
             ],
-            "label": "PY Eb 976 $149$",
+            "label": "PY Eb 976",
             "name": "Py976",
             "parsedInscription": "                         sup. mut.\n        ka-]wa-do-ro    te-o[-jo  do-e-ro  e-ke-qe  o-na-to  ke-ke-me-na  ko-to-na\n        pa-ro]  da-mo[                        to-so-de  pe-mo     GRA   V   3\n                         inf. mut.",
             "scribe": "",
@@ -145880,7 +145880,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py650_PN_0.jpg"
             ],
-            "label": "PY Es 650 $-$ + fr.",
+            "label": "PY Es 650 + fr.",
             "name": "Py650",
             "parsedInscription": "          ki-ri-ti-jo-jo    ko-pe-re-u  e-ke    to-so-de     pe-mo                     GRA   6\n        a-re-ku-tu-ru-wo                   e-ke    to-so-de     pe-mo                     GRA   7\n        se-no                                           e-ke    to-so-de     pe-mo                    GRA   1\n        o-po-ro-me-no                         e-ke    to-so-de    pe-mo                    GRA   4\n        a3-ki-wa-ro    a-te-mi-to    do-e-ro  e-ke  to-so-de  pe-mo           GRA   1\n        we-da-ne-wo    do-e-ro                        e-ke  to-so-de  pe-mo           GRA   T   4\n        wo-ro-ti-ja-o                                            e-ke  to-so-de  pe-mo           GRA   2\n      ka-ra-i  e-ke    to-so-de  pe-mo                                                              GRA   T   3\n                       a-ne-o  e-ke  to-so-de  pe-mo                       GRA   1   T   5\nv.\n            ru-ko-wo-ro      e-ke  to-so-de  pe-mo                     GRA   1   T   4\n            o-ka                     e-ke  to-so-de  pe-mo                     GRA   1   T   2\n            pi-ro-ta-wo       e-ke  to-so-de  pe-mo                     GRA   1   T   2\n            ku-da-ma-ro     e-ke  to-so-de  pe-mo                     GRA   1   T   2\n        pi-ro-te-ko-to       e-ke  to-so-de  pe-mo                     GRA   ⟦              ⟧\n                                                                    vac.\n                                                                    vac.\n                                                                    vac.",
             "scribe": "",
@@ -147311,7 +147311,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py709_PN_0.jpg"
             ],
-            "label": "PY Ta 709 $641$",
+            "label": "PY Ta 709",
             "name": "Py709",
             "parsedInscription": "              pi-je-ra3    to-qi-de-ja            *200VAS   3   pa-ko-to    a-pe-te-me-ne   *214VAS   2   po-ro-e-ke-te-ri-ja   *228VAS   1   ko-te-ri-ja   6\n                                                                                                                                                                                                                                                                          -sa-qe   1\n      au-te   1   pu-ra-u-to-ro   2   qa-ra-to-ro   1   e-ka-ra    a-pi-qo-to    pe-de-we-sa   1   e-ka-ra    i-to-we-sa    pe-de-we-sa    so-we-ne-ja    au-de-we-\n               ti-ri-po    ke-re-si-jo    we-ke    *34-ke-u     *201VAS     1 ti-ri-po    ke-re-si-jo    we-ke    o-pi-ke-wi-ri-je-u     *201VAS     1",
             "scribe": "",
@@ -147757,7 +147757,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py480_PN_0.jpg"
             ],
-            "label": "PY Ea 480 $28$",
+            "label": "PY Ea 480",
             "name": "Py480",
             "parsedInscription": "                                       su-qo-ta-o    ko-to-na\n        e-ri-qi-jo    e-ke    o-na-to    ke-ke-me[-na   ]ko-to-na        GRA   T   2",
             "scribe": "",
@@ -147827,7 +147827,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py853_PN_0.jpg"
             ],
-            "label": "PY Un 853 + 971 [+] 878 [+] 869 [+] 870 [+] 876 + frr.(3) + frr. [+] 1513 $6$",
+            "label": "PY Un 853 + 971 [+] 878 [+] 869 [+] 870 [+] 876 + frr.(3) + frr. [+] 1513",
             "name": "Py853",
             "parsedInscription": "            ]-ke-ra2-u-na    e-ra[ ]•\n        po-se-da-o-ne⌞ ⌟re-ko-no   6   [\n        *146 18[        ]   LANA   2   M   2[\n        A±RE±PA   V   4[   ]•   1   OVIS:m   1   OVIS:f   1   CAP:f[  qs\n        SUS+KA   2   SUS:f   4[ ]•  1   FAR   T   1   V   [  qs\n        VIN   5      TELA  [  ]   1       TELA+PA   1\n            vac.\n            vac.\n            vac.                                              [\n                  ]3[   ]-we-e-a2[\n                         inf. mut.\nv.\nprior pars sine regulis\n        ]e-ke-me-de    do[   ]du-ru-wo-qo\n        deest\n                 vac.\n                 vac.\n                 vac.\n                 vac.\n                 vac.\n                 vac.",
             "scribe": "",
@@ -148355,7 +148355,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py435.jpg"
             ],
-            "label": "PY An 435 + 1477 + frr.(2) [+] fr. [+] 1060 + frr.(5) + 1061 + frr.(3) + 1465 + frr.(13) [+] 1033 + 1516 $131$",
+            "label": "PY An 435 + 1477 + frr.(2) [+] fr. [+] 1060 + frr.(5) + 1061 + frr.(3) + 1465 + frr.(13) [+] 1033 + 1516",
             "name": "Py435",
             "parsedInscription": "          [ ]o-da-sa-to    a-ko-so[-ta\n        ke[-]sa-da-ra    e-te-re-u[\n                   ]te-re-[        VIR 1      ] vestigia\n                    ]na-so[ VIR 1     ]i-ko-[ ] VIR [ 1\n                                                        ]wa-ni-jo  [ ] VIR [1\n                                                        ]vacat[\n          ] vacat                                            [\n          ]ro-jo [\n          ]to      [    ]VIR 1[                  ]qe-re     VIR[  1\n        ]ko  [              ]-ko[                        ]      VIR   1\n        ]i-na-o[    VIR  1           ]wa-[•]-te[\n        ]tu-si-jo [ VIR 1          ] vacat\n        ] vacat[                             ] vacat\n        ]a-re-[ ]-o[                       ]-jo     VIR [1  ] ro-jo  VIR[ 1\n        ]re-[ ]-si-jo[ VIR   1 ]-ka-i-jo   VIR [1      ] vac.\n          ]-se-u             VIR 1     o-[\n          ]      ⟦               ⟧     ke-sa-do[-ro]   VIR [1",
             "scribe": "",
@@ -148851,7 +148851,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py720_PN_0.jpg"
             ],
-            "label": "PY Gn 720 $-$ (Ci)",
+            "label": "PY Gn 720 (Ci)",
             "name": "Py720",
             "parsedInscription": "           da-ka-ja-pi    pi-ke-te-i     VIN   10\n        i-ka-sa-ja    ru-ki-jo              VIN   9\n                                        vac.\n                                        vac.\n                                        vac.\n                                        vac.\n                                        vac.\n                                        vac.",
             "scribe": "",
@@ -149582,7 +149582,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py780_PN_0.jpg"
             ],
-            "label": "PY Ea 780 $28$",
+            "label": "PY Ea 780",
             "name": "Py780",
             "parsedInscription": "        o-ko-me-ne-u    o-na-to         GRA     2   [",
             "scribe": "",
@@ -149705,7 +149705,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py624_PN_0.jpg"
             ],
-            "label": "PY La 624 $622?$",
+            "label": "PY La 624",
             "name": "Py624",
             "parsedInscription": "        pa-ko-wa     TELA+TE[",
             "scribe": "",
@@ -149977,7 +149977,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py216_PN_0.jpg"
             ],
-            "label": "PY Ma 216 $90$",
+            "label": "PY Ma 216",
             "name": "Py216",
             "parsedInscription": "           ra-wa-ra-ta2      *146  70       RI   M   70      KE   M   20      *152   30        O   M   20         ME 1500[\n                                                                                                         vac.\n        pe-ru-si-nu-wo    o-pe-ro  *146[                     ]  KE   M   1                   *152   o   3     o-pe-ro   M   2",
             "scribe": "",
@@ -151323,7 +151323,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1431_PN_0.jpg"
             ],
-            "label": "PY Mb 1431 $1412$",
+            "label": "PY Mb 1431",
             "name": "Py1431",
             "parsedInscription": "                                ]*146   4",
             "scribe": "",
@@ -151841,7 +151841,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1185_PN_0.jpg"
             ],
-            "label": "PY Un 1185 [+] 1460 $2$",
+            "label": "PY Un 1185 [+] 1460",
             "name": "Py1185",
             "parsedInscription": " sup. mut.\n        ]ti[\n        tu-ro2    TU±RO2[         ]o    vest. [        ]vest. [\n        o   T   1   V   1   Z   1[       ] vac.\n        OVIS   3   WE   20        [        ]SUS:x   10\n        a3-ka-na-jo      A3   S   1   V   1   Z   2\nv.\n           to",
             "scribe": "",
@@ -152019,7 +152019,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py748_PN_0.jpg"
             ],
-            "label": "PY Wa 748 $-$ (Ci)",
+            "label": "PY Wa 748 (Ci)",
             "name": "Py748",
             "parsedInscription": "                                    ]wi-to-te   ra[\n                                         inf. mut.",
             "scribe": "",
@@ -152277,7 +152277,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py697_PN_0.jpg"
             ],
-            "label": "PY Ad 697 $290$",
+            "label": "PY Ad 697",
             "name": "Py697",
             "parsedInscription": "                                   e-re[        ]qe-ro-me-no\n        da-mi-ni-ja⌞ ⌟ri-ne-ja-o   ko-wo        VIR",
             "scribe": "",
@@ -152741,7 +152741,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py444_PN_0.jpg"
             ],
-            "label": "PY Eo 444 + fr. + fr. $149$",
+            "label": "PY Eo 444 + fr. + fr.",
             "name": "Py444",
             "parsedInscription": "        pe-re-qo-ta-o  pa-da-je-wo           ko-]to-na    ki-ti-me-na                               GRA   2   T[   3\n        ra-su-ro  te-o-jo  do-e-]ro    e-ke-qe    o-na-to    pa-ro    pa-da-je-we      [GRA        T     1\n        we-te-re-u  i-je-]re-u    e-ke-qe    o-na-to    pa-ro    pa-da-je-we                GRA        T[    1\n        tu-ri-ja-ti  te-o-jo  do-e-ra   ]e-ke-qe    pa-ro    pa-da-je-we    pe-qo-ta     GRA        T[\n        ta-ra2-to  te-o-jo  do-e-]ro    e-ke-qe    pa-ro    pa-da-je-we                         GRA           V[   3\n                                                             ]e-ke-qe    pa[-ro  pa-]da-je-we    pe-qo-ta    GRA        T ⌞4[\n                                                             ]                                                  vacat                                                 [",
             "scribe": "",
@@ -153114,7 +153114,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py308_PN_0.jpg"
             ],
-            "label": "PY Ad 308 + fr. $290$",
+            "label": "PY Ad 308 + fr.",
             "name": "Py308",
             "parsedInscription": "        re-u-ko-to-ro   me-re-ti-ra2[-o                        VIR",
             "scribe": "",
@@ -153240,7 +153240,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1345_PN_0.jpg"
             ],
-            "label": "PY Eb 1345 + fr. + 1350 $149$",
+            "label": "PY Eb 1345 + fr. + 1350",
             "name": "Py1345",
             "parsedInscription": "        i-pa-sa-na-ti[   te-o-jo  do-e-ra  e-ke-qe  o-na-to  ke-ke-me-na  ko-to-na]\n        pa-ro    da-mo[                                                                                  to-so-de  pe-mo  ]GRA   T   2[",
             "scribe": "",
@@ -153384,7 +153384,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py396_PN_0.jpg"
             ],
-            "label": "PY Na 396 $106$",
+            "label": "PY Na 396",
             "name": "Py396",
             "parsedInscription": "                                           e-ko-si\n        wo-no-qe-wa    ko-ro-ku-ra-i-jo   SA   30",
             "scribe": "",
@@ -153843,7 +153843,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py908_PN_0.jpg"
             ],
-            "label": "PY Na 908 $106$",
+            "label": "PY Na 908",
             "name": "Py908",
             "parsedInscription": "        ko-tu-we     SA   60   [",
             "scribe": "",
@@ -154193,7 +154193,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py753_PN_0.jpg"
             ],
-            "label": "PY Sa 753 $287$",
+            "label": "PY Sa 753",
             "name": "Py753",
             "parsedInscription": "        se-we-ri-ko-jo    wo-ka    e-qe-si-jo     ROTA+TE   ZE   2   [",
             "scribe": "",
@@ -154295,7 +154295,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1245.jpg"
             ],
-            "label": "PY Fr 1245 $-$",
+            "label": "PY Fr 1245",
             "name": "Py1245",
             "parsedInscription": "                                       pa[\n                           ]jo-i      e[                          OLE",
             "scribe": "",
@@ -154382,7 +154382,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py513_PN_0.jpg"
             ],
-            "label": "PY Na 513 $106$",
+            "label": "PY Na 513",
             "name": "Py513",
             "parsedInscription": "        pe-re-wo-te   SA   30",
             "scribe": "",
@@ -154500,7 +154500,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1414_PN_0.jpg"
             ],
-            "label": "PY Un 1414 $-$ (Cii)",
+            "label": "PY Un 1414 (Cii)",
             "name": "Py1414",
             "parsedInscription": "           sup. mut.\n                        ]20\n                        ]*171   4",
             "scribe": "",
@@ -154623,7 +154623,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py782_PN_0.jpg"
             ],
-            "label": "PY Ea 782 $28$",
+            "label": "PY Ea 782",
             "name": "Py782",
             "parsedInscription": "               ra-wa-ke-si-jo\n        ru-ko-ro    e-ke    o-na-to    pa-ro    mo-ro-qo-ro-jo    ko-to-na  po-me-no        GRA     T   1",
             "scribe": "",
@@ -155378,7 +155378,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py776_PN_0.jpg"
             ],
-            "label": "PY Ea 776 $28$",
+            "label": "PY Ea 776",
             "name": "Py776",
             "parsedInscription": "                                                                ko-to-na\n        sa-ke-re-u    e-ke    o-na-to    su-qo-ta-o        GRA   T   2",
             "scribe": "",
@@ -155433,7 +155433,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py576_PN_0.jpg"
             ],
-            "label": "PY Na 576 $106$",
+            "label": "PY Na 576",
             "name": "Py576",
             "parsedInscription": "        wa-re-u-ka-ra[                     SA",
             "scribe": "",
@@ -155563,7 +155563,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py138_PN_0.jpg"
             ],
-            "label": "PY Un 138 $138$",
+            "label": "PY Un 138",
             "name": "Py138",
             "parsedInscription": "            pu-ro    qe-te-a2    pa-ro    du-ni-jo\n        HORD   18   T   5     po-qa   OLIV   4   T   3   V   5\n        VIN   13   OVIS:m   15   WE   8   OVIS:f   1   CAP:m   13   SUS   12\n        SUS+SI   1   BOS:f   1   BOS:m   2\n        me-za-wo-ni     HORD   4   T   8   V   1                  ka-pa   OLIV   7",
             "scribe": "",
@@ -156039,7 +156039,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py464_PN_0.jpg"
             ],
-            "label": "PY Eb 464 $149$",
+            "label": "PY Eb 464",
             "name": "Py464",
             "parsedInscription": "        ta-ra-mi-ka    te-o-jo    do-e-ra    e-ke[-qe  o-na-to  ke-ke-me-na  ko-to-na\n              pa-ro    da-mo                                   [      to-so-de  pe-mo   GRA   T   1   V   ",
             "scribe": "",
@@ -156245,7 +156245,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1262_PN_0.jpg"
             ],
-            "label": "PY Xn 1262 $-$",
+            "label": "PY Xn 1262",
             "name": "Py1262",
             "parsedInscription": "                           sup. mut.\n                            ]ja-ro[\n                            inf. mut.",
             "scribe": "",
@@ -156348,7 +156348,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py635_PN_0.jpg"
             ],
-            "label": "PY La 635 $632$ (Ciii)",
+            "label": "PY La 635 (Ciii)",
             "name": "Py635",
             "parsedInscription": "        mo-ro-ko-wo-wo-pi   LANA[",
             "scribe": "",
@@ -156631,7 +156631,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py103_PN_0.jpg"
             ],
-            "label": "PY Na 103 $106$",
+            "label": "PY Na 103",
             "name": "Py103",
             "parsedInscription": "                                ke-]ki-de    SA   25",
             "scribe": "",
@@ -157721,7 +157721,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1285_PN_0.jpg"
             ],
-            "label": "PY Cc 1285 $4$",
+            "label": "PY Cc 1285",
             "name": "Py1285",
             "parsedInscription": "        ma-se-de     OVIS:m   6[",
             "scribe": "",
@@ -157761,7 +157761,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py820_PN_0.jpg"
             ],
-            "label": "PY Ea 820 $28$",
+            "label": "PY Ea 820",
             "name": "Py820",
             "parsedInscription": "                                   a-re-po-zo-o\n        e-u-me-de    e-ke    o-na-to    me-ri-te-wo    ko-to-na        GRA   1⟦   ⟧   T   1",
             "scribe": "",
@@ -158392,7 +158392,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py364_PN_0.jpg"
             ],
-            "label": "PY Eb 364 [+] 366 + fr. $149$",
+            "label": "PY Eb 364 [+] 366 + fr.",
             "name": "Py364",
             "parsedInscription": "        we-]ra-jo    po-ti[-ni-ja-we-jo  e-]ke-qe    o-na-to  ke-ke-me-na  ko-to-na\n               ]GRA             T[ 2                         ]                               vac.",
             "scribe": "",
@@ -159295,7 +159295,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1052_PN_0.jpg"
             ],
-            "label": "PY Na 1052 $106$",
+            "label": "PY Na 1052",
             "name": "Py1052",
             "parsedInscription": "                                wa[\n        pi-ka-na    e-re[       SA",
             "scribe": "",
@@ -159400,7 +159400,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py499_PN_0.jpg"
             ],
-            "label": "PY Eb 499 + 892 + 1083 $149$",
+            "label": "PY Eb 499 + 892 + 1083",
             "name": "Py499",
             "parsedInscription": "        ko-tu-ro2    pa-da-je-u    e-ke[-qe    ]o-na-to    ⟦ke-ke-me⟧[ ]\n        ke-ke-me-na⌞ ⌟ko-to-na    [                ]                     to-so-de    pe-mo   GRA   T   1[",
             "scribe": "",
@@ -159778,7 +159778,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py22_PN_0.jpg"
             ],
-            "label": "PY Sa 22 $-$ (Ciii)",
+            "label": "PY Sa 22 (Ciii)",
             "name": "Py22",
             "parsedInscription": "           ]te-ra-u-re-o     EQU   ZE   1",
             "scribe": "",
@@ -159983,7 +159983,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py515_PN_0.jpg"
             ],
-            "label": "PY Ab 515 $186$",
+            "label": "PY Ab 515",
             "name": "Py515",
             "parsedInscription": "                                                                                                          GRA   10   DA   TA\n        pu-ro    a-*64-ja   MUL   35   ko-wa   12   ko-wo   11   NI   10",
             "scribe": "",
@@ -160262,7 +160262,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py609_PN_0.jpg"
             ],
-            "label": "PY En 609 $74$",
+            "label": "PY En 609",
             "name": "Py609",
             "parsedInscription": "                           pa-ki-ja-ni-ja    to-sa    da-ma-te    DA   40\n                     to-so-de    te-re-ta    e-ne-e-si               VIR   14\n            wa-na-ta-jo-jo    ko-to-na    ki-ti-me-na    to-so-de⌞ ⌟pe-mo     GRA   2   V   1\n        o-da-a2    o-na-te[-re]    e-ko-si    wa-na-ta-jo-jo    ko-to-na  \n                                                                                                                                             GRA   V   1\n      a-tu-ko    e-te-do-mo    wa-na-ka-te-ro    o-na-to    e-ke    de    pe-mo\n        i-ni-ja    te-o-jo    do-e-ra    o-na-to    e-ke    to-so-de    pe-mo              GRA   T   2   V   4\n        e-*65-to    te-o-jo    do-e-ro    o-na-to⌞ ⌟e-ke    to-so-de    pe-mo       GRA   T   2\n        si-ma    te-o-jo    do-e-ra    o-na-to    e-ke    to-so-de    pe-mo               GRA   T   1\n                                                                                         vac.\n      a-ma-ru-ta-o    ko-to-na    ki-ti-me-na    to-so-de    pe-mo                     GRA   2   T   3\n      o-da-a2  e-ko-si  a-]ma-ru-ta-o    ko-to-na    o-na-te-re\n      so-u-ro  te-o-jo  do-]e-ro    o-na-to    e-ke    to-so-de    pe-mo               GRA   V   3\n      e-do-mo-ne-u te-o-]jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo         GRA   T   1\n      e-sa-ro  te-o-jo  do-]e-ro    o[-na-to   ]e-ke[   to-so-de   ]pe-mo               GRA   V   3\n      wa-na-ta-jo  te-re-ta  o-]na-to    e-ke    to-so-de    pe-mo              GRA   T   1\n      e-ra-ta-ra  i-je-re-ja  do-e-ra  ]pa-ki-ja-na    o-na-to    e-ke    to-so-de    pe-mo   GRA   T   1\n      po-so-re-ja  te-o-jo  do-e-ra  ]o-na-to    e-ke    to-so-de    pe-mo   GRA   T   1   V   3\n      i-je-re-ja  pa-ki-ja-na  o-na-]to    e-ke    to-so-de    pe-mo                GRA   T   3",
             "scribe": "",
@@ -160919,7 +160919,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py336_PN_0.jpg"
             ],
-            "label": "PY Ea 336 [+] 1042 $28$",
+            "label": "PY Ea 336 [+] 1042",
             "name": "Py336",
             "parsedInscription": "                                         ko[-to-na            ]\n        ta-ra-ma-ta    e-ke    [o-na-to     ]ke-ke-me-na       GRA     V   3",
             "scribe": "",
@@ -161042,7 +161042,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py114_PN_0.jpg"
             ],
-            "label": "PY Wa 114 $240$",
+            "label": "PY Wa 114",
             "name": "Py114",
             "parsedInscription": "          me-ni-jo         MUL\n        pe-ra3-ko-ra-i-ja    ko[",
             "scribe": "",
@@ -161088,7 +161088,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py675_PN_0.jpg"
             ],
-            "label": "PY Ad 675 $290$",
+            "label": "PY Ad 675",
             "name": "Py675",
             "parsedInscription": "        pu-ro⌞ ⌟ki-si-wi-ja-o   o-nu-ke-ja-o   ko-wo   VIR   3   ko-wo   5",
             "scribe": "",
@@ -161146,7 +161146,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py561_PN_0.jpg"
             ],
-            "label": "PY Na 561 $337$ (Cii)",
+            "label": "PY Na 561 (Cii)",
             "name": "Py561",
             "parsedInscription": "        pa-ki-ja-na     SA   26[",
             "scribe": "",
@@ -161337,7 +161337,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py662_PN_0.jpg"
             ],
-            "label": "PY Aa 662 $240$",
+            "label": "PY Aa 662",
             "name": "Py662",
             "parsedInscription": "        pa-ke-te-ja   MUL   9   ko-wa   5   ko-wo   11",
             "scribe": "",
@@ -161931,7 +161931,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1199.jpg"
             ],
-            "label": "PY Wn 1199 $-$",
+            "label": "PY Wn 1199",
             "name": "Py1199",
             "parsedInscription": "        ka-ra-ni-jo",
             "scribe": "",
@@ -162147,7 +162147,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py31_PN_0.jpg"
             ],
-            "label": "PY An 31 + 115 + 1423 $-$",
+            "label": "PY An 31 + 115 + 1423",
             "name": "Py31",
             "parsedInscription": "  sup. mut.\n        [•]-wa-[       VIR   1              ]vest.[         VIR   1\n        ]ne-ko-[     ]VIR   1   e-pi-ja-ta         VIR[   1\n        e-re-u-ta     VIR   1   a-ma-to-wo   VIR 1   sa-ri[         VIR   1\n        pi-wa-to     VIR   1                                              [\n                    vacat                    [ ] vacat                                                 [",
             "scribe": "",
@@ -162319,7 +162319,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py49_PN_0.jpg"
             ],
-            "label": "PY Pa 49 $49$ (Ciii)",
+            "label": "PY Pa 49 (Ciii)",
             "name": "Py49",
             "parsedInscription": "        pa-ro    e-ri-ma-si-jo         DE   *169   10[",
             "scribe": "",
@@ -162456,7 +162456,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1205_PN_0.jpg"
             ],
-            "label": "PY Fr 1205 $1202$",
+            "label": "PY Fr 1205",
             "name": "Py1205",
             "parsedInscription": "        a-pi-qo-ro-i    we-ja-re-pe     OLE+PA   S   2   V   4                                [",
             "scribe": "",
@@ -163392,7 +163392,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py377_PN_0.jpg"
             ],
-            "label": "PY Eb 377 $149$",
+            "label": "PY Eb 377",
             "name": "Py377",
             "parsedInscription": "        pa-ra-ko    e-ke-qe    ke-ke-me[-na  ko-to-na\n            ko-to-no-o-ko               [                           to-so-de  pe-mo     GRA   T   7",
             "scribe": "",
@@ -163494,7 +163494,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1059_PN_0.jpg"
             ],
-            "label": "PY Cn 1059 [+] 1066 + 1472 + fr. $719$",
+            "label": "PY Cn 1059 [+] 1066 + 1472 + fr.",
             "name": "Py1059",
             "parsedInscription": "                   sup. mut.\n        ]  [   ]ke-u        [                        ] 20 X [\n                 ]ko                 [                      ]vacat[\n              ]wo-wo    ne[\n                    inf. mut.",
             "scribe": "",
@@ -163638,7 +163638,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py190_PN_0.jpg"
             ],
-            "label": "PY Ab 190 $186$",
+            "label": "PY Ab 190",
             "name": "Py190",
             "parsedInscription": "                                                                                                             GRA   3   ⟦T  9⟧   DA   TA\n        pu-ro   ti-nwa-si-ja   MUL   9   ko[-wa     ]2   ko-wo   1   NI   3   ⟦T  9⟧",
             "scribe": "",
@@ -164182,7 +164182,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py739_PN_0.jpg"
             ],
-            "label": "PY Sh 739 $733$ (Cii)",
+            "label": "PY Sh 739 (Cii)",
             "name": "Py739",
             "parsedInscription": "        ARM   1   me-zo-a2   O   22   me-u-jo-a2   O   12   KO   O   4   PA   2\nv\n               to-mi-re-[                      ]wa-[     ]-re-[                ]e-ko-si\n        o-to-pe-da-ko-we-de-[•]-ke[",
             "scribe": "",
@@ -164309,7 +164309,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1328_PN_0.jpg"
             ],
-            "label": "PY Wr 1328 $-$ (Ci)",
+            "label": "PY Wr 1328 (Ci)",
             "name": "Py1328",
             "parsedInscription": "α\n        sigillum\nβ\n        pe-di-e-\nγ\n            -wi",
             "scribe": "",
@@ -164370,7 +164370,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1283_PN_0.jpg"
             ],
-            "label": "PY Cc 1283 $4$",
+            "label": "PY Cc 1283",
             "name": "Py1283",
             "parsedInscription": "                                  ]OVIS:m   1       [",
             "scribe": "",
@@ -165063,7 +165063,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py562_PN_0.jpg"
             ],
-            "label": "PY Ab 562 $186$",
+            "label": "PY Ab 562",
             "name": "Py562",
             "parsedInscription": "        pu-ro   ku-te-ra3[     MUL",
             "scribe": "",
@@ -165103,7 +165103,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py812_PN_0.jpg"
             ],
-            "label": "PY Ea 812 $28$",
+            "label": "PY Ea 812",
             "name": "Py812",
             "parsedInscription": "                                         ko-to-na\n        e-u-me-de    a-re-po-zo-o    e-ke          GRA     1     T   8",
             "scribe": "",
@@ -165347,7 +165347,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1324.jpg"
             ],
-            "label": "PY Va 1324 $-$ (Cii)",
+            "label": "PY Va 1324 (Cii)",
             "name": "Py1324",
             "parsedInscription": "        e-ke-i-ja     30\n        pe-di-je-wi-ja     20   a-ko-so-ne   2",
             "scribe": "",
@@ -165646,7 +165646,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py245_PN_0.jpg"
             ],
-            "label": "PY Na 245 $106$",
+            "label": "PY Na 245",
             "name": "Py245",
             "parsedInscription": "                                                                 o-u-di-do-si        SA   10\n        e-wi-te-wi-jo    SA  20        to-sa-de    ma-ra-te-we    ra-wa-ke-si-jo",
             "scribe": "",
@@ -165802,7 +165802,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py600_PN_0.jpg"
             ],
-            "label": "PY Cn 600 $4$",
+            "label": "PY Cn 600",
             "name": "Py600",
             "parsedInscription": "            o-re-e-wo    wo-wo    pa-ro    ke-we-no                       OVIS:m   50\n        o-re-e-wo  wo-wo  de-ko-to                                                OVIS:m   100\n        o-re-e-wo    wo-wo    ke-ro-u-te-u                                     OVIS:m   90\n        o-re-e-wo    wo-wo    e-te-re-ro                                          OVIS:m   90\n                                                                                      -jo\n      o[-re-e-]wo    wo-wo    mi-ka-ri-jo    a-ke-o-                 OVIS:m   92\n        re-qa-se-wo    wo-wo    wa-ra-wo-no⌞ ⌟a-ke-o-jo      OVIS:m   70\n        ti-mi-to    a-ke-e    te-[                                                           ]OVIS:f   80\n        ti-mi-to    a-ke-e    a-[                   ]-u    we-da-ne-wo     OVIS:f   60\n        re-qa-se-wo    wo-wo    ka-wi-ta                                        OVIS:f   70\n      re-qa-se-wo    wo-wo    wi-ja-te-we                                 OVIS:f   80\n      ti-mi-to    a-ke-e    o-pe-se-to    a-ke-o-jo                       OVIS:f   60\n      ti-mi-to    a-ke-e    e-te-wa-jo                                            CAP:f   30\n      ti-mi-to    a-ke-e    a-no-ze-we                                           CAP:f   36\n      ti-mi-to    a-ke-e    qe-ta-ko                                                 SUS:m   30\n      ti-mi-to    a-ke-e    *82-de[        ]                                         SUS:f   12\n                                             reliqua pars sine regulis",
             "scribe": "",
@@ -167047,7 +167047,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py607_PN_0.jpg"
             ],
-            "label": "PY An 607 $-$",
+            "label": "PY An 607",
             "name": "Py607",
             "parsedInscription": "                                                                                           -ja\n        me-ta-pa    ke-ri-mi-ja    do-qe-ja    ki-ri-te-wi-\n        do-qe-ja    do-e-ro    pa-te    ma-te-de    ku-te-re-u-pi\n                     MUL   6   do-qe-ja    do-e-ra    e-qe-ta-i    e-e-to \n        te-re-te-we   MUL   13\n        do-qe-ja    do-e-ro    pa-te    ma-te-de    di-wi-ja    do-e-ra  \n        MUL   3   do-qe-ja    do-e-ra    ma-te    pa-te-de    ka-ke-u  \n        MUL   1   do-qe-ja    do-e-ra     ma-te    pa-te-de    ka-ke-u  \n        MUL   3\n                                                           vac.\n                                                         vac.\n                                                                        KA\n                                                         vac.\n                                                         vac.\n                                                         vac.",
             "scribe": "",
@@ -167685,7 +167685,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1275_PN_0.jpg"
             ],
-            "label": "PY Ac 1275 + fr.(3) $1272$ (Ciii)",
+            "label": "PY Ac 1275 + fr.(3) (Ciii)",
             "name": "Py1275",
             "parsedInscription": "        pe-ti-ni-jo     VIR   25   o-pe-ro   VIR   1",
             "scribe": "",
@@ -167731,7 +167731,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py298_PN_0.jpg"
             ],
-            "label": "PY An 298 $298$",
+            "label": "PY An 298",
             "name": "Py298",
             "parsedInscription": "        ra-wa-ra-ta2    u-pa-ra-ki-ri-ja     ra-pte-re     VIR   1[\n        po-ti-ja-ke-e    ra-pte-re   VIR   1   ki-ri-se-we      VIR[\n        we-re-ka-ra-ta                   VIR   20                              [\nv.\n                                    pa-ra-jo            VIR   421                       [",
             "scribe": "",
@@ -168263,7 +168263,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py758_PN_0.jpg"
             ],
-            "label": "PY Sa 758 $287$",
+            "label": "PY Sa 758",
             "name": "Py758",
             "parsedInscription": "        tu-ri-si-jo-jo    wo-ka    we-je-ke-e       ROTA+TE   ZE   1",
             "scribe": "",
@@ -168596,7 +168596,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py962_PN_0.jpg"
             ],
-            "label": "PY Cn 962 $4$",
+            "label": "PY Cn 962",
             "name": "Py962",
             "parsedInscription": "                                    sup. mut.\n                                   ]ra    pa-[\n                               ]ni-pi    pa-ro[\n                                 inf. mut.",
             "scribe": "",
@@ -168736,7 +168736,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1424_PN_0.jpg"
             ],
-            "label": "PY Ea 1424 [+] 1438 $28$",
+            "label": "PY Ea 1424 [+] 1438",
             "name": "Py1424",
             "parsedInscription": "                      pa-ro[    ]ru-ko-ro  ra-wa-ke-si[-jo\n        ]de-u  ra-wa[-ke-]si-jo  e-ke  o-na[-to  GRA",
             "scribe": "",
@@ -169000,7 +169000,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py208_PN_0.jpg"
             ],
-            "label": "PY Ea 208 + 258 [+] 1017 $28$",
+            "label": "PY Ea 208 + 258 [+] 1017",
             "name": "Py208",
             "parsedInscription": "                                                                             pa-ro    da-mo\n                                ]ra-i-ka    e-ke    o-na-to                          [GRA]     T   2",
             "scribe": "",
@@ -169303,7 +169303,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py555_PN_0.jpg"
             ],
-            "label": "PY Ab 555 $186$",
+            "label": "PY Ab 555",
             "name": "Py555",
             "parsedInscription": "                                                                                                                 GRA   16[\n        pu-ro    ra-pi-ti-ra2   MUL   38   ko-wa   20   ko-wo   19   NI   16     [",
             "scribe": "",
@@ -169819,7 +169819,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py96_PN_0.jpg"
             ],
-            "label": "PY Aa 96 $60$",
+            "label": "PY Aa 96",
             "name": "Py96",
             "parsedInscription": "        da-mi[-ni-ja MUL ]1   ko-wa   13   DA   1   TA   1",
             "scribe": "",
@@ -170363,7 +170363,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py803_PN_0.jpg"
             ],
-            "label": "PY Ea 803 $28$",
+            "label": "PY Ea 803",
             "name": "Py803",
             "parsedInscription": "        ko-do    e-ke    da-mi-jo              GRA     T   6   V   2[",
             "scribe": "",
@@ -170709,7 +170709,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py195_PN_0.jpg"
             ],
-            "label": "PY Na 195 [+] 527 $106$",
+            "label": "PY Na 195 [+] 527",
             "name": "Py195",
             "parsedInscription": "              vacat                                                                                             [ ]SA   10\n        sa-ma-ri-wa    ke-u-po-da    e-sa-re-u    e-re-u-te-[ro-se]   vac.",
             "scribe": "",
@@ -171103,7 +171103,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1440_PN_0.jpg"
             ],
-            "label": "PY Eb 1440 $149$",
+            "label": "PY Eb 1440",
             "name": "Py1440",
             "parsedInscription": "        e-ri-qi[-ja  te-o-jo  do-e-ra     e-ke-qe     o-na-to\n        ke-ke[-me-na  ko-to-na                                          GRA",
             "scribe": "",
@@ -171381,7 +171381,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1469_PN_0.jpg"
             ],
-            "label": "PY Xn 1469 $-$",
+            "label": "PY Xn 1469",
             "name": "Py1469",
             "parsedInscription": "                            ]jo[\n                                inf. mut.",
             "scribe": "",
@@ -171646,7 +171646,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py478_PN_0.jpg"
             ],
-            "label": "PY Jn 478 $310$",
+            "label": "PY Jn 478",
             "name": "Py478",
             "parsedInscription": "          wi-ja-we-ra2    ka-ke-we    ta-ra-si-ja    e-ko-te\n        ko-ro-tu-no     AES   M   4   pu-ko-ro[ ]      AES   M   3     [\n        ra-wo-ke-ta     AES   M   4   a[-pi-]a2-ro     AES   M   4  [\n        di[                       AES   M  ]4[   ]wa-ni-ko      AES[ M]    4\n        ma-[                    AES   M  ]2[    ]              vac.\n                                                              ]               vac.\n        to-so[-de                   ]ka-ko     AES   M   26\n                                                 ]                            vac.\n        to-so-de    a-ta-ra-si-jo    ka-ke-we\n      e-u-ro-to-qo   1\n                                                     vac.\n                                                     vac.",
             "scribe": "",
@@ -172003,7 +172003,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1215_PN_0.jpg"
             ],
-            "label": "PY Fr 1215 $1219$ (Cii)",
+            "label": "PY Fr 1215 (Cii)",
             "name": "Py1215",
             "parsedInscription": "        wa-na-ke-te    wa-na-se-wi-jo    we-a-re-pe\n        sa-pe-ra     OLE+RA",
             "scribe": "",
@@ -172184,7 +172184,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py888_PN_0.jpg"
             ],
-            "label": "PY Xn 888 $-$ (Cii)",
+            "label": "PY Xn 888 (Cii)",
             "name": "Py888",
             "parsedInscription": "        to-sa    o-[\n             vac.      [\n            inf. mut.",
             "scribe": "",
@@ -172239,7 +172239,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py948_PN_0.jpg"
             ],
-            "label": "PY Wa 948 $106$",
+            "label": "PY Wa 948",
             "name": "Py948",
             "parsedInscription": "                                    ]de-we-ro-a3-ko-ra[",
             "scribe": "",
@@ -172276,7 +172276,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py894_PN_0.jpg"
             ],
-            "label": "PY Na 894 $106$",
+            "label": "PY Na 894",
             "name": "Py894",
             "parsedInscription": "                                        to-sa-de     e[                               SA\n                            ]          to-sa-de    e[                                 SA",
             "scribe": "",
@@ -173466,7 +173466,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py884_PN_0.jpg"
             ],
-            "label": "PY Eb 884 [+] 981 + frr.(3) $149$",
+            "label": "PY Eb 884 [+] 981 + frr.(3)",
             "name": "Py884",
             "parsedInscription": "        ]wo    te-⌞o⌟-jo    do-e-ro    e-ke-qe    o-na[-to\n                            pa-ro   ]da-mo   [   GRA   qs",
             "scribe": "",
@@ -173973,7 +173973,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py502_PN_0.jpg"
             ],
-            "label": "PY Eb 502 $149$",
+            "label": "PY Eb 502",
             "name": "Py502",
             "parsedInscription": "                                                                           do-]e-ra    e-ke-qe    o-na-to\n                                                ke-ke-me-na  ko-]to-na    pa-ro    da-mo  to-so-de    pe-mo[     GRA",
             "scribe": "",
@@ -174049,7 +174049,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1111_PN_0.jpg"
             ],
-            "label": "PY Xn 1111 $-$",
+            "label": "PY Xn 1111",
             "name": "Py1111",
             "parsedInscription": "                                sup. mut.\n                             ]ka-pa[\n                                 inf. mut.",
             "scribe": "",
@@ -174258,7 +174258,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1234_PN_0.jpg"
             ],
-            "label": "PY Fr 1234 $1202$",
+            "label": "PY Fr 1234",
             "name": "Py1234",
             "parsedInscription": "        wa-na[",
             "scribe": "",
@@ -175353,7 +175353,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py62_PN_0.jpg"
             ],
-            "label": "PY Aa 62 $60$",
+            "label": "PY Aa 62",
             "name": "Py62",
             "parsedInscription": "        me-re-ti-ri-ja   MUL   7   ko-wa   10   ko-wo   6",
             "scribe": "",
@@ -175942,7 +175942,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py970_PN_0.jpg"
             ],
-            "label": "PY Fn 970 $79$",
+            "label": "PY Fn 970",
             "name": "Py970",
             "parsedInscription": "        sup. mut.\n        po-se[                                                HORD\n        mi-ka[                                                HORD\n        inf. mut.",
             "scribe": "",
@@ -176478,7 +176478,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py899_PN_0.jpg"
             ],
-            "label": "PY Ab 899 $186$",
+            "label": "PY Ab 899",
             "name": "Py899",
             "parsedInscription": "                                                                                                       GRA   2   T   2\n        pu-ro    o-pi-ro-qo   MUL   8   ko-wa   3   ko-wo   3   NI   2   T   2",
             "scribe": "",
@@ -177229,7 +177229,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py228_PN_0.jpg"
             ],
-            "label": "PY Nn 228 $106$",
+            "label": "PY Nn 228",
             "name": "Py228",
             "parsedInscription": "              o-o-pe-ro-si    ri-no    o-pe-ro\n        u-ka-jo     SA   20  ro-o-wa     SA   35\n        pu2-ra2-a-ke-re-u     SA   10  ke-i-ja-ka-ra-na\n        SA   5   di-wi-ja-ta         SA   60\n        a-pi-no-e-wi-jo               SA   28\n        po-ra-pi     SA   10  e-na-po-ro     SA   33\n        te-tu-ru-we   SA   38\n                                               vac.\n                                               vac.\n                                             vac.\n                                             vac.\n                                             vac.\n                                             vac.\n                                             vac.\n                                             vac.",
             "scribe": "",
@@ -177413,7 +177413,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py649_PN_0.jpg"
             ],
-            "label": "PY Es 649 $644$",
+            "label": "PY Es 649",
             "name": "Py649",
             "parsedInscription": "              a-re-ku-tu-ru-no-ne  po-se-da-o-no  do-so-mo     GRA   2   T   3\n        *34-ke-te-si    do-so-mo                                                     GRA        T   2   V   4\n        we-da-ne-we    do-so-mo                                                  GRA         T   2   V   4\n        di-wi-je-we    do-so-mo                                                     GRA         T   2   V   4\n                                                         vacat",
             "scribe": "",
@@ -177629,7 +177629,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1294_PN_0.jpg"
             ],
-            "label": "PY Qa 1294 + fr. $1295$",
+            "label": "PY Qa 1294 + fr.",
             "name": "Py1294",
             "parsedInscription": "        pu-ti-ja    a-pu2-we     *189 1",
             "scribe": "",
@@ -177669,7 +177669,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py240_PN_0.jpg"
             ],
-            "label": "PY Aa 240 $240$",
+            "label": "PY Aa 240",
             "name": "Py240",
             "parsedInscription": "        a-ra-ka-te-ja   MUL   21   ko-wa   25   ko-wo   4   TA   1[",
             "scribe": "",
@@ -177903,7 +177903,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1426_PN_0.jpg"
             ],
-            "label": "PY Un 1426 [+] 1428 $1426$ (Ci)",
+            "label": "PY Un 1426 [+] 1428 (Ci)",
             "name": "Py1426",
             "parsedInscription": "        sup. mut.\n                         ]e-we  \n                wa-]na-ka-te\n        ]a3-sa   GRA   12\n        deest\n        deest\n           ]ki-ri-te-wi-ja-pi  \n             ]   NI   5\n        ]                vac.",
             "scribe": "",
@@ -179144,7 +179144,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py873_PN_0.jpg"
             ],
-            "label": "PY Xa 873 $-$ (Ciii)",
+            "label": "PY Xa 873 (Ciii)",
             "name": "Py873",
             "parsedInscription": "                            ]1   o-pe-ro              [",
             "scribe": "",
@@ -179970,7 +179970,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py250_PN_0.jpg"
             ],
-            "label": "PY Xn 250 $-$",
+            "label": "PY Xn 250",
             "name": "Py250",
             "parsedInscription": "                             ]   4   [\n                                inf. mut.",
             "scribe": "",
@@ -180016,7 +180016,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py731_PN_0.jpg"
             ],
-            "label": "PY Wa 731 $312$",
+            "label": "PY Wa 731",
             "name": "Py731",
             "parsedInscription": "                                          do-so-mo\n                                 ]o-wi-de-ta[",
             "scribe": "",
@@ -180381,7 +180381,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py928_PN_0.jpg"
             ],
-            "label": "PY Na 928 + 1173 $106$",
+            "label": "PY Na 928 + 1173",
             "name": "Py928",
             "parsedInscription": "                                                                   e-ko-si\n                              ]a2-ke-wo-a-ki-ri  u-ru-pi-ja-jo   SA   10",
             "scribe": "",
@@ -180631,7 +180631,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py751.jpg"
             ],
-            "label": "PY Sa 751 $287$",
+            "label": "PY Sa 751",
             "name": "Py751",
             "parsedInscription": "        za-ku-si-ja    no-pe-re-a2          ROTA+TE   ZE   32   [",
             "scribe": "",
@@ -181763,7 +181763,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1218_PN_0.jpg"
             ],
-            "label": "PY Fr 1218 $1217$ (Cii)",
+            "label": "PY Fr 1218 (Cii)",
             "name": "Py1218",
             "parsedInscription": "            e-ra3-wo[   ]we-ja-re-pe    po-ro[-wi-to\n        di-pi-si-je-wi-jo                    OLE+A   S   1\n                                     vac.\n                                     vac.\n                                     vac.\n                                     vac.",
             "scribe": "",
@@ -182395,7 +182395,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py481_PN_0.jpg"
             ],
-            "label": "PY Ea 481 $28$",
+            "label": "PY Ea 481",
             "name": "Py481",
             "parsedInscription": "        ra-pa-do    e-ke    o-na-to    me-ri-te-wo    ko-to-na     GRA   T   1\n        ra-pa-do    e-ke    o-na-to    su-qo-ta-o   ko-to-na         GRA   T   1",
             "scribe": "",
@@ -182713,7 +182713,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py682_PN_0.jpg"
             ],
-            "label": "PY Sa 682 $287$",
+            "label": "PY Sa 682",
             "name": "Py682",
             "parsedInscription": "        te-tu-ko-wo-a2  no-pe-re-a2     ROTA   ZE   6",
             "scribe": "",
@@ -182756,7 +182756,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py319_PN_0.jpg"
             ],
-            "label": "PY Ng 319 $106$",
+            "label": "PY Ng 319",
             "name": "Py319",
             "parsedInscription": "         de-we-ro-a3-ko-ra-i-ja     SA   1239\n        to-sa-de    o-u-di-do-to     SA   457",
             "scribe": "",
@@ -182998,7 +182998,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1286_PN_0.jpg"
             ],
-            "label": "PY Cn 1286 $-$ (Cii)",
+            "label": "PY Cn 1286 (Cii)",
             "name": "Py1286",
             "parsedInscription": "        o-pi-ra-i-ja    OVIS   3   CAP   1\n                                    vac.\n                                    vac.\n                                    vac.\n                                    vac.\n                 reliqua pars sine regulis",
             "scribe": "",
@@ -183442,7 +183442,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1432_PN_0.jpg"
             ],
-            "label": "PY Mb 1432 $1412$",
+            "label": "PY Mb 1432",
             "name": "Py1432",
             "parsedInscription": "                                ]ka-a-ki-ri[                           *146",
             "scribe": "",
@@ -183878,7 +183878,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py861_PN_0.jpg"
             ],
-            "label": "PY Eb 861 + fr. + frr. $149$",
+            "label": "PY Eb 861 + fr. + frr.",
             "name": "Py861",
             "parsedInscription": "                                       ke-]ke-me-na    ko[-to-na\n        ]                             vac.                              [                           GRA",
             "scribe": "",
@@ -183983,7 +183983,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py880_PN_0.jpg"
             ],
-            "label": "PY Er 880 + fr. $312$",
+            "label": "PY Er 880 + fr.",
             "name": "Py880",
             "parsedInscription": "              ]ke-ra2[         ]ti-me-no    e-ke\n        sa-ra-pe-do[        ]pu2-te-me-no\n        to-so   [                   ]GRA   30[    ]   vac.\n        to-so-de    [           ]to    pe-ma     GRA   42[\n        to-sa    we-je[                        ]1100[\n        to-sa-de    su-za[                  ]1100[\n                                          vac.\n        ku-su-to-ro-qa    to-so    pe-ma   94\n                                          vac.\n                                        vac.",
             "scribe": "",
@@ -184309,7 +184309,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py15_PN_0.jpg"
             ],
-            "label": "PY Va 15 $-$ (Cii)",
+            "label": "PY Va 15 (Cii)",
             "name": "Py15",
             "parsedInscription": "        pu-ro    o[            ]a2    o-[          ]ke    e-[•]-te    o-u-qe    e-to     *35-ka-te-re   2\n                                                                                            [    ]ra-ka-te-ra\n      pe-]re-ku-wa-na-ka[               ]e-te    pu-ro    e-ke-qe  a-po-te-ro-te   1\nv.\n                                                                          a-mo-i-je-to\n        pe-re-ku-wa-na-ka    pu-ro           e-ti-wa-jo     *35-ka-te-re",
             "scribe": "",
@@ -184463,7 +184463,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py660_PN_0.jpg"
             ],
-            "label": "PY Cc 660 $4$",
+            "label": "PY Cc 660",
             "name": "Py660",
             "parsedInscription": "                a-ke-o    a-ke-re\n        me-ta-pa    pa-ro ka-ra-su-no     CAP:m   30",
             "scribe": "",
@@ -184515,7 +184515,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1316_PN_0.jpg"
             ],
-            "label": "PY Ub 1316 $1318$",
+            "label": "PY Ub 1316",
             "name": "Py1316",
             "parsedInscription": "                                   e-ra-pi-ja\n        ra-ma-o    o-pe-ro    pe-ru-si-nu-wa                   E   8",
             "scribe": "",
@@ -184564,7 +184564,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1312_PN_0.jpg"
             ],
-            "label": "PY Qa 1312 $1295$",
+            "label": "PY Qa 1312",
             "name": "Py1312",
             "parsedInscription": "                                    *189     ]   2   [",
             "scribe": "",
@@ -184604,7 +184604,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1177.jpg"
             ],
-            "label": "PY Un 1177 + fr. $-$ (Cii)",
+            "label": "PY Un 1177 + fr. (Cii)",
             "name": "Py1177",
             "parsedInscription": "sup. mut.\n        OVIS   6     [\n        BOS   1       [\n        ME   V   4  ⟦   ⟧   A±RE±PA   V   1[\n                      ]1   tu-ro2[\n               deest",
             "scribe": "",
@@ -185266,7 +185266,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py796_PN_0.jpg"
             ],
-            "label": "PY Sa 796 $287$",
+            "label": "PY Sa 796",
             "name": "Py796",
             "parsedInscription": "        po-ru-we-wo  wo-ka we-je-ke-e     ROTA+TE   ZE   2",
             "scribe": "",
@@ -185661,7 +185661,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py343_PN_0.jpg"
             ],
-            "label": "PY Fr 343 + 1213 [+] 1209 $343$",
+            "label": "PY Fr 343 + 1213 [+] 1209",
             "name": "Py343",
             "parsedInscription": "                                                                          e-ti-we  \n        pa-ki-ja[-si ⌞ ⌟  po-]se-da-o-ne  re-ke-to-ro-te-ri-jo  OLE[ qs",
             "scribe": "",
@@ -186201,7 +186201,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py746_PN_0.jpg"
             ],
-            "label": "PY Ab 746 $186$",
+            "label": "PY Ab 746",
             "name": "Py746",
             "parsedInscription": "                                                                                       GRA   T   5\n        pa-ke-te-ja    ri-ne-ja   MUL   2   ko-wa   1   NI   T   5",
             "scribe": "",
@@ -187291,7 +187291,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py926_PN_0.jpg"
             ],
-            "label": "PY Na 926 $106$",
+            "label": "PY Na 926",
             "name": "Py926",
             "parsedInscription": "                                      e-ke-de-mi    a2-ku-mi-jo     SA   6\n        pa-ka-a-ka-ri    a-ki-ti-to",
             "scribe": "",
@@ -187711,7 +187711,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py421_PN_0.jpg"
             ],
-            "label": "PY Ea 421 $28$",
+            "label": "PY Ea 421",
             "name": "Py421",
             "parsedInscription": "               ra-wa-ke-si-jo-jo\n        ]te-i-jo    a-mo-te-wo    ⟦ko⟧                        GRA   1   T   4   V   2",
             "scribe": "",
@@ -188056,7 +188056,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py94_PN_0.jpg"
             ],
-            "label": "PY Aa 94 $60$",
+            "label": "PY Aa 94",
             "name": "Py94",
             "parsedInscription": "        e-pi-ko-o   MUL   14   ko-wa   5   ko-wo   8   DA   1   TA   1",
             "scribe": "",
@@ -188372,7 +188372,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py840_PN_0.jpg"
             ],
-            "label": "PY Sa 840 [+] 1183 $287$",
+            "label": "PY Sa 840 [+] 1183",
             "name": "Py840",
             "parsedInscription": "        ke-ra-e  te[                                           ]ROTA+TE   ZE   1   [",
             "scribe": "",
@@ -188619,7 +188619,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py644_PN_0.jpg"
             ],
-            "label": "PY Es 644 $644$",
+            "label": "PY Es 644",
             "name": "Py644",
             "parsedInscription": "            ko-pe-re-wo    do-so-mo    we-te-i-we-te-i                     GRA   T   7\n        a-re-ku-tu-ru-wo-no    we-te-i-we-te-i                                 GRA   T   9   V   3\n        se-no    do-so-mo    we-te-i-we-te-i                                       GRA   T   2\n        o-po-ro-me-no    do-so-mo    we-te-i-we-te-i                     GRA   T   1[\n        a3-ki-wa-ro    do-so-mo    we-te-i-we-te-i                           GRA   T[\n        we-da-ne-wo    do-e-ro    do-so-mo    we-te-i-we-te-i     GRA   T   1   V   2\n        wo[-ro-ti-ja-o   ]do-so-mo    we-te-i-we-te-i                        GRA   T   3   V   2\n        ka-ra-i]    do-so[-mo]    we-te-i-we-te-i                                GRA   V   3\n        a-]ne-o    do-so-mo    we-te-i-we-te-i                                    GRA   T   2   V   3\n       ru-ko-u-ro  do-so-]mo    we-te-i[-we-]te-i [                     GRA             ]V[\n      o-ka              ]    do-so-mo    we-te-i-we-te-i                         GRA   T   2   V 1\n      pi-ro-ta-wo    do-so-mo    we-te-i[-we-]te-i                        GRA   T   2   V[\n      ku-da-ma-ro    do-so-mo    we-te-i-we-te-i                         GRA   T   2   [",
             "scribe": "",
@@ -189100,7 +189100,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1396_PN_0.jpg"
             ],
-            "label": "PY Mb 1396 $1412$",
+            "label": "PY Mb 1396",
             "name": "Py1396",
             "parsedInscription": "        a-pi-no-e-wi-jo        *146   2",
             "scribe": "",
@@ -189181,7 +189181,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py342_PN_0.jpg"
             ],
-            "label": "PY Na 342 $106$",
+            "label": "PY Na 342",
             "name": "Py342",
             "parsedInscription": "        ]SA   10",
             "scribe": "",
@@ -189250,7 +189250,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py418.jpg"
             ],
-            "label": "PY Cn 418 + fr. + 1471 + fr. + frr.(3) + frr. $-$ (Ciii)",
+            "label": "PY Cn 418 + fr. + 1471 + fr. + frr.(3) + frr. (Ciii)",
             "name": "Py418",
             "parsedInscription": "        pa-ro    we-u-da-ne-we\n        re-u-ko    a-ko-ro-we-e   BOS+SI   2\n        re[-u-]ko    ma-ra-pi    pe-ko    a-ko-ro-we  BOS+SI   1\n        OVIS:m ]3  CAP:m  3  WE  3  CAP:m  3\n        ]vestigia[   ]2   [   ]BOS:x   3   ⟦                 ⟧\n                           ]  vest.  [     ]  vest.  [\n        re-u-ko[  ]ma-ra[-pi     ]pe-ko    a-ko-ro-we[\n        OVIS:m  1  CAP:m  1 WE[   ] SUS:x[\n                                    ]  vacat  [\n                                         inf. mut.",
             "scribe": "",
@@ -189640,7 +189640,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py301_PN_0.jpg"
             ],
-            "label": "PY Ep 301 $74$",
+            "label": "PY Ep 301",
             "name": "Py301",
             "parsedInscription": "          ke-ke-me-na    ko-to-na    a-no-no    to-so-de    pe-mo  [     GRA   1   T   1\n                                     ko-to-no-                                       -o-ko\n        a3-ti-jo-qo    o-na-to    e-ke    pa-ro    da-mo    ke-ke-me-na    ko-to-na    to-so    [pe-mo     ]GRA   1   T   4   V   3\n        wa-na-ta-jo    o-na-to    e-ke    pa-ro    da-mo    ke-ke-me-na    ko-to-na    to-so-de⌞ ⌟pe-mo      GRA   T\n        a-da-ma-o    o-na-to    e-ke    pa-ro    da-mo    ke-ke-me-na    ko-to-na    to-so⌞ ⌟pe-mo    GRA   T   4\n        a-tu-ko    e-te-do-mo    o-na-to    e-ke    pa-ro    da-mo    ke-ke-me-na    ko[-to-na to-so  pe-mo        GRA\n        ta-ta-ro    o-na-to    e-ke    pa-ro    da-mo    ke-ke-me-na    ko-to-na    to-so  pe-mo[   GRA   V   3\n                                                                                                     vac.\n        pi-ke-re-u    e-ke-qe    ke-ke-me-na    ko-to-na    ko-to-no-o-ko    to-so    pe-mo[     GRA\n        ra-ku-ro    e-ke-qe    ke-ke-me-na    ko-to-na    ko-to-no-o-ko    to-so    pe-mo     GRA[\n      ku-so    e-ke-qe    ke-ke-me-na    ko-to-na    ko-to-no-o-ko    to-so  pe-mo   GRA   V   [   3\n      ke-ra-u-jo    e-ke-qe    ke-ke-me-na    ko-to-na    ko-to-no-o-ko    to  pe-mo     GRA   T   4\n      pa-ra-ko    e-ke-qe    ke-ke-me-na    ko-to-na    ko-to-no-o-ko    to-so  pe-mo     GRA   T   7\n      ko-tu[-ro2]    e-ke-qe    ke-ke-me-na    ko-to-na    ko-to-no-o-ko    to-so    pe-mo     GRA   T   1\n      a-i-qe-u    e-ke-qe    ke-ke-me-na    ko-to-na    ko-to-no-o-ko    to-so    pe-mo      GRA   T   6",
             "scribe": "",
@@ -190324,7 +190324,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py128_PN_0.jpg"
             ],
-            "label": "PY An 128 $-$",
+            "label": "PY An 128",
             "name": "Py128",
             "parsedInscription": "               ]ka-ta                                 VIR   41\n               ]ka-ta      po-ru-qo-to   VIR   6\n        ke-re-te      ka-si-ko-no       VIR   5\n                                        vac.\n                                        vac.\n                                        vac.\n                                        vac.\n                                        vac.\n                                        vac.\n                                      vac.\n      GRA   2   T   6   V   5   Z   2\n                ]2   T   6   V   5\n                ]                       vac.                       [\n                ]                       vac.                       [\n                ]                       vac.                       [\nv.\n                                                                                    Z   [2\n                                                     HORD   5   T   3   V   4",
             "scribe": "",
@@ -190756,7 +190756,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py70_PN_0.jpg"
             ],
-            "label": "PY Na 70 $106$",
+            "label": "PY Na 70",
             "name": "Py70",
             "parsedInscription": "        ze-i-ja-ka-ra-na[     SA   qs",
             "scribe": "",
@@ -190978,7 +190978,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1401_PN_0.jpg"
             ],
-            "label": "PY Mb 1401 $1412$",
+            "label": "PY Mb 1401",
             "name": "Py1401",
             "parsedInscription": "        pa-ro    ka-wa-ti-ro[             *146",
             "scribe": "",
@@ -191018,7 +191018,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py173_PN_0.jpg"
             ],
-            "label": "PY Eb 173 $149$",
+            "label": "PY Eb 173",
             "name": "Py173",
             "parsedInscription": "        pa-ra-]ko    e-ke-qe    ka-ma    ko-to-no-ko[        e-o  to-so-de  pe-mo     GRA   1\n        po-so-]re-ja    te-o-jo    do-e-ra    e-ke-qe    o-na-to    pa-ro[  pa-ra-ko  to-so-de  pe-mo     GRA   T   1   V   3",
             "scribe": "",
@@ -191230,7 +191230,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1254_PN_0.jpg"
             ],
-            "label": "PY Xn 1254 $-$",
+            "label": "PY Xn 1254",
             "name": "Py1254",
             "parsedInscription": "        i-qe-ri[\n        inf. mut.",
             "scribe": "",
@@ -191710,7 +191710,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py559_PN_0.jpg"
             ],
-            "label": "PY Ab 559 [+] 1100 + fr. [+] 1101 [+] fr. $186$",
+            "label": "PY Ab 559 [+] 1100 + fr. [+] 1101 [+] fr.",
             "name": "Py559",
             "parsedInscription": "        pu-ro                                                       GRA   1[\n        e-ke-ro-qo-no[ ]   VIR   [ko-]wo   4   NI  3 [",
             "scribe": "",
@@ -191789,7 +191789,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py734_PN_0.jpg"
             ],
-            "label": "PY Sh 734 $733$ (Cii)",
+            "label": "PY Sh 734 (Cii)",
             "name": "Py734",
             "parsedInscription": "        ARM   1   me-zo-a2   O   22   me-u-jo-a2   O   12   KO   O   4   PA   2\nv.\n        to   jo   to   me   do   mi   [•]   o   wo   to   ra   ro   ARM   1",
             "scribe": "",
@@ -191948,7 +191948,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py615_PN_0.jpg"
             ],
-            "label": "PY An 615 + frr.(4) + fr. + 1133 + frr.(4) + frr.(7) + 1139 $615$",
+            "label": "PY An 615 + frr.(4) + fr. + 1133 + frr.(4) + frr.(7) + 1139",
             "name": "Py615",
             "parsedInscription": "                                                                           ]ta\n        a-wa-si[-ja                                              ]no     VIR  1\n        a-wa-si-ja    [                                                 ]   VIR  1\n        ko-ni-ja   a3-ki[                                               ]VIR  1\n                                 ]  ko[                                          ]VIR  1\n                        a-pi-]no-e-wi[-jo                          ] VIR  [\n        ]vest.[               ]-o    wi-[                              ] VIR[  1\n        o-pi-ke-ri-jo   [                            ]di [           ] VIR  1[\n        e-po-wi-ja  [                                                    ]VIR  1\n      e-po-wi-ja[                                                      ]  VIR  1\n      e-po-]wi-ja[                                             ]-ta   VIR[  1\n                       vac.[                                   ] vac.\n      me[ ]jo⌞ ⌟a3-se-wa[ ]o-me[    ]re-u-ko   VIR  1\n                                         ]qe[  ]                                VIR  1\n                        ]wo-wo    wa-ra-ki-no                 VIR  1\n            ]-ja  ko-tu-we   ko-sa-ma-ne                 VIR  1\n                                                                                ]   VIR[  1\n                                         ]i-jo [                              ] vacat\nlat. inf.\n                                 ]o-no    e-qo-te[\nv.→\n        vac.\n        vac.",
             "scribe": "",
@@ -193055,7 +193055,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1206_PN_0.jpg"
             ],
-            "label": "PY Fr 1206 $1202$",
+            "label": "PY Fr 1206",
             "name": "Py1206",
             "parsedInscription": "        po-ti-ni-ja    a-si-wi-ja    to-so    qe-te-jo     OLE+PA   5   V   4",
             "scribe": "",
@@ -193386,7 +193386,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py814_PN_0.jpg"
             ],
-            "label": "PY Ea 814 $28$",
+            "label": "PY Ea 814",
             "name": "Py814",
             "parsedInscription": "                          pa-ro    ku-ro2    ra-wa-ke-si-jo\n        o-ke-u    di-ra-po-ro    e-ke    o-to                    GRA   T   1",
             "scribe": "",
@@ -193541,7 +193541,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py790_PN_0.jpg"
             ],
-            "label": "PY Sa 790 $287$",
+            "label": "PY Sa 790",
             "name": "Py790",
             "parsedInscription": "        a-mo-ta    e-qe-si-ja    no-pe-re-a2       ROTA+TE   ZE   6",
             "scribe": "",
@@ -193772,7 +193772,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1086_PN_0.jpg"
             ],
-            "label": "PY Na 1086 $106$",
+            "label": "PY Na 1086",
             "name": "Py1086",
             "parsedInscription": "        u-ra-]*86    SA [",
             "scribe": "",
@@ -193850,7 +193850,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1258_PN_0.jpg"
             ],
-            "label": "PY Cc 1258 $4$",
+            "label": "PY Cc 1258",
             "name": "Py1258",
             "parsedInscription": "                                  ]   CAP:f   30",
             "scribe": "",
@@ -194358,7 +194358,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1109_PN_0.jpg"
             ],
-            "label": "PY Ab 1109 $186$",
+            "label": "PY Ab 1109",
             "name": "Py1109",
             "parsedInscription": "                                    GRA     ]2   T   ⌞6[\n                                        NI     ]2   T      6[",
             "scribe": "",
@@ -194573,7 +194573,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py276_PN_0.jpg"
             ],
-            "label": "PY Eo 276 $149$",
+            "label": "PY Eo 276",
             "name": "Py276",
             "parsedInscription": "                                ]    te-u-ta-ra-ko-ro    ki-ti-me[-na ko-]to-na                                                                   GRA   1   T   5\n               pe-ki-ta    ka-na-pe-u    wa-na-ka-te-ro    e-ke-qe    o-na-to    ru-*83-e                                 GRA        T   1\n           mi-ra    te-o-jo    do-e-ra    e-ke-qe    o-na-to      ⟦pa-ro       ⟧  pa-ro  ru-*83-e                           GRA        T   1\n           te-se-u    te-o-jo    do-e-ro    e-ke-qe    o-na-to⌞ ⌟pa-ro    ru-*83-e                                             GRA        T   4\n        ma-re-ku-na    te-o-jo    do-e-ra    e-ke-qe    o-na-to    pa-ro⌞ ⌟ru-*83-e                                     GRA         T   1\n        e-ko-to    te-o-jo    do-e-ro    e-ke-qe    o-na-to    pa-ro    ru-*83-e                                                 GRA             V   3\n        ma-*79    te-o    do-e-ra    e-ke-qe    o-na-to    pa-ro  ru-*83-e                                                         GRA             V   3\n        e-*65-to    te-o-jo    do-e-ro  e-ke-qe    o-na-to    pa-ro    ru-*83-e                                                   GRA             V   1",
             "scribe": "",
@@ -194886,7 +194886,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py668_PN_0.jpg"
             ],
-            "label": "PY Ad 668 $290$",
+            "label": "PY Ad 668",
             "name": "Py668",
             "parsedInscription": "        re-u-ko-to-ro   ki-ma-ra-o   ko-wo   VIR   4",
             "scribe": "",
@@ -194929,7 +194929,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py233_PN_0.jpg"
             ],
-            "label": "PY An 233 [+] 943 $298$",
+            "label": "PY An 233 [+] 943",
             "name": "Py233",
             "parsedInscription": "                                            ]za-te-o   VIR   2⌞4[                ]VIR   28   [\n                    VIR   ]8     a-mi-ni-so   [                                ]-ne   VIR   6[\n                         ]   VIR   14   ko-tu-we[                         ]-so-na-pe   VIR   ⌞4[\n                         ]se-wo-te      VIR   2      to-[                 ]        VIR   165[",
             "scribe": "",
@@ -195202,7 +195202,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py105_PN_0.jpg"
             ],
-            "label": "PY Na 105 $106$",
+            "label": "PY Na 105",
             "name": "Py105",
             "parsedInscription": "        u-po-di-jo-no  wo-wo     SA   10",
             "scribe": "",
@@ -195401,7 +195401,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py25_PN_0.jpg"
             ],
-            "label": "PY Ua 25 $138$",
+            "label": "PY Ua 25",
             "name": "Py25",
             "parsedInscription": "        SUS+SI   3     BOS:f   2     BOS:m   8\n            OVIS:m   67\nv.\n           HORD   29        T   8        V   2",
             "scribe": "",
@@ -196005,7 +196005,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py915_PN_0.jpg"
             ],
-            "label": "PY Eb 915 [+] 1348 + fr. $149$",
+            "label": "PY Eb 915 [+] 1348 + fr.",
             "name": "Py915",
             "parsedInscription": "        ko-sa-]ma-to    te-o-jo    do[-e-]ro    e-ke-qe    o-na-to    ke-ke-me[-na ko-to-na\n        pa-]ro    da-mo                    [     ]                                                [  to-so-de  pe-mo   GRA   T   1",
             "scribe": "",
@@ -196117,7 +196117,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1271_PN_0.jpg"
             ],
-            "label": "PY Wa 1271 $287?$",
+            "label": "PY Wa 1271",
             "name": "Py1271",
             "parsedInscription": "                                   sup. mut.\n                                      ]ra-ke   [",
             "scribe": "",
@@ -196334,7 +196334,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1240_PN_0.jpg"
             ],
-            "label": "PY Fr 1240 $1217$ (Cii)",
+            "label": "PY Fr 1240 (Cii)",
             "name": "Py1240",
             "parsedInscription": "             e-ra3-wo    pa-ko[-we\n        di-pi-si-jo    e-qo-[\n             OLE+A   V   1       [",
             "scribe": "",
@@ -196532,7 +196532,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py837_PN_0.jpg"
             ],
-            "label": "PY Fn 837 [+] 864 $79$",
+            "label": "PY Fn 837 [+] 864",
             "name": "Py837",
             "parsedInscription": "        pi-ri[   HORD\n        i-na[   HORD\n        e-ri    HORD\n        a-ko-[•]-ta       [                HORD\n        i-je-re-u    a-ti[                HORD\n        pu-ko-ro          [                HORD\n        a[             ]na    [                HORD\n              inf. mut.",
             "scribe": "",
@@ -197139,7 +197139,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py4_PN_0.jpg"
             ],
-            "label": "PY Cn 4 $4$",
+            "label": "PY Cn 4",
             "name": "Py4",
             "parsedInscription": "        a-si-ja-ti-ja    ta-to-mo    o-pe-ro\n        mu-ta-pi    ku-ri-sa-to            OVIS+TA     22\n        qe-re-me-ti-re    sa-ni-jo               OVIS+TA   16\n        ta-to    a-ka-re-u-te    tu-ni-jo               OVIS+TA   7\n        e-ri-no-wo-te    ti-ri-jo                             OVIS+TA   7\n        ne-do-wo-te    tu-ti-je-u                       OVIS+TA   4\n        e-ri-to-ti-no    ne-me-ta-wo            OVIS+TA   10\n        wo-tu-wa-ne    e-ke-si-jo                 OVIS+TA   9\n        ma-ta    a-ka-re-u-te    ke-ro-we   OVIS+TA   7\n      si-jo-wo-te    o-qe    e-ra-se            OVIS+TA   10\n                                           vac.",
             "scribe": "",
@@ -197326,7 +197326,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1247_PN_0.jpg"
             ],
-            "label": "PY Wo 1247 $-$",
+            "label": "PY Wo 1247",
             "name": "Py1247",
             "parsedInscription": "        a3-wo-di-jo-no",
             "scribe": "",
@@ -197792,7 +197792,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py846_PN_0.jpg"
             ],
-            "label": "PY Eb 846 $149$",
+            "label": "PY Eb 846",
             "name": "Py846",
             "parsedInscription": "        a3-ti-jo-qo  e-ke-qe   o-na-to  ke-ke-me-na    ko-to-na\n        pa-ro    da-mo    ko-to-no-o-ko                   to-so-de  pe-mo   GRA   1   T   4   V   3",
             "scribe": "",
@@ -197915,7 +197915,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py406_PN_0.jpg"
             ],
-            "label": "PY Na 406 $106$",
+            "label": "PY Na 406",
             "name": "Py406",
             "parsedInscription": "                                         o-qe-[            ]si    SA   20\n        e-ko-me-no    di-wi-ja-wo    e-ke    a-ki-ti-to",
             "scribe": "",
@@ -198036,7 +198036,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py767_PN_0.jpg"
             ],
-            "label": "PY Sa 767 $287$",
+            "label": "PY Sa 767",
             "name": "Py767",
             "parsedInscription": "        a-pa-si-jo-jo    wo-ka    we-je-ke-e       ROTA+TE   ZE   1     [",
             "scribe": "",
@@ -198341,7 +198341,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py553_PN_0.jpg"
             ],
-            "label": "PY Ab 553 $186$",
+            "label": "PY Ab 553",
             "name": "Py553",
             "parsedInscription": "                                                                                                                     GRA   11   T   1   DA   TA\n        pu-ro    re-wo-to-ro-ko-wo   37   ko-wa   13   ko-wo   15   NI     11   T   1",
             "scribe": "",
@@ -198843,7 +198843,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1360_PN_0.jpg"
             ],
-            "label": "PY Wr 1360 $628$ (Ciii)",
+            "label": "PY Wr 1360 (Ciii)",
             "name": "Py1360",
             "parsedInscription": "α\n           VIN   supra sigillum\nβ\n        me-ri-ti-\nγ\n                 -jo",
             "scribe": "",
@@ -198910,7 +198910,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py129_PN_0.jpg"
             ],
-            "label": "PY An 129 $129$",
+            "label": "PY An 129",
             "name": "Py129",
             "parsedInscription": "            ]pa-ro    ti-ki-jo\n        a-ta-ro-we                   VIR   1\n        pe-re-wa-ta                 VIR   1\n        za-mi-jo    pu-ro-jo         VIR   10\n        to-ro-wo    ri-na-ko-ro        VIR   1\n        ka-nu-ta-jo    a-so-na           VIR   1\n        pa-ro    ka-ke-u-si  \n        we-ro-ta                  VIR\n                       vac.\n                    vac.",
             "scribe": "",
@@ -199046,7 +199046,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1097_PN_0.jpg"
             ],
-            "label": "PY Xn 1097 $106$",
+            "label": "PY Xn 1097",
             "name": "Py1097",
             "parsedInscription": "                                 sup. mut .\n                            ]wo-wo[\n                                 inf. mut.",
             "scribe": "",
@@ -199650,7 +199650,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py405_PN_0.jpg"
             ],
-            "label": "PY Na 405 $106$",
+            "label": "PY Na 405",
             "name": "Py405",
             "parsedInscription": "                                            e-ko-si\n        to-ro-wa-so    ko-ro-ku-ra-i[-jo     ]SA   10",
             "scribe": "",
@@ -200426,7 +200426,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py931_PN_0.jpg"
             ],
-            "label": "PY Wa 931 + 949 $-$ (Ciii)",
+            "label": "PY Wa 931 + 949 (Ciii)",
             "name": "Py931",
             "parsedInscription": "        a-ri[     ]ko",
             "scribe": "",
@@ -200542,7 +200542,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py540_PN_0.jpg"
             ],
-            "label": "PY Na 540 $106$",
+            "label": "PY Na 540",
             "name": "Py540",
             "parsedInscription": "        qe-re-me-e     SA   30",
             "scribe": "",
@@ -200659,7 +200659,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1272_PN_0.jpg"
             ],
-            "label": "PY Ac 1272 + fr. [+] 1273 $1272$ (Ciii)",
+            "label": "PY Ac 1272 + fr. [+] 1273 (Ciii)",
             "name": "Py1272",
             "parsedInscription": "        ka-ra-do-ro    VIR[ ]2     o-pe-ro   VIR   8",
             "scribe": "",
@@ -201093,7 +201093,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py588_PN_0.jpg"
             ],
-            "label": "PY Na 588 $106$",
+            "label": "PY Na 588",
             "name": "Py588",
             "parsedInscription": "        e-ro2-ne    a-o-ze-jo     SA[",
             "scribe": "",
@@ -201133,7 +201133,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1093.jpg"
             ],
-            "label": "PY Wa 1093 $337?$ (Cii?)",
+            "label": "PY Wa 1093 (Cii?)",
             "name": "Py1093",
             "parsedInscription": "        me-te-[",
             "scribe": "",
@@ -202137,7 +202137,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py431_PN_0.jpg"
             ],
-            "label": "PY Jn 431 + fr. + frr.(4) + fr. $310$",
+            "label": "PY Jn 431 + fr. + frr.(4) + fr.",
             "name": "Py431",
             "parsedInscription": "            a-pe-ke-i-jo    ka-ke-we    ta-ra-si[-ja  e-ko-te\n        wi-ja-ni-jo   AES   M   5  ka-ra-*82[  ]   AES   M   ⌞5[ ]  ko-tu-ro2   AES   M   5\n        ma-na-si-we-ko     AES   M   5  da-ma-so     AES   M     5 qe-ta-ko     AES   M   4\n        a-ko-to-wo              AES   M   7         u[ ]i-jo         AES   M   6⟦                                     ⟧\n        ma-wa-si-jo            AES   M   5  qe[-to-]ro-no     AES   M   7\n        qa-si-re-u    a-pi-qo-ta         1 [          ]i-*65-qe            1\n          to-so-de    ka-ko             AES   [L   1 ]   M   24\n                                                              vac.\n          to-so-de    a-ta-ra-si-jo    ka-ke[-we                       ]              vac.\n        a-ta-tu-ro  1  i-ta-ra-jo  1  sa[                                1  ]              vac.\n      wi-ja-te-wo  1  no-e-u  1  tu-ri-ja-jo  1  qe-ta-ko-jo    do-e-ro   1\n      a-ka-ma-wo  1  e-pe-ke-u  1  *82-de  1  pu-te-u  1\n      ko-ne-wa-ta  1  qe-to-ro-no  1  mo-re-u  1  a-e-ri-qo  1\n                                                           vac.\n                                                           vac.\n      a-pe-ke-e      ka-ke-we      po-ti-ni-ja-we-jo      ta-ra-si-ja      e-ko-te\n      ko-za-ro   AES   M   6  a-ke-wa-ta   AES   M   3  sa-ke-re-u   AES   M   6\n      we-we-si-jo   AES  M   3  ko-ta-wo   AES   M   3  da-u-ta-ro   AES   M   6\n                                                           vac.\n      to-so-de    ka-ko                   AES   M   27\n                                                           vac.\n      to[-so-de  ]a[-ta-]ra-si-jo    ka-ke-we    ka-ri-se-u   1   du-ko-so[  1\n      ko[                               ]1  e-u-wa-ko-ro  1  ke-we-no   1   a-ta-o   1\n                                             ]wa-ti-ro   1   me-ri-wa-[•]   1\n                                     ]   i-je-re[                ]VIR   10   to-sa-no-jo   VIR   5\n                                                                VIR  ]1  a-mu-ta-wo-no   VIR   31",
             "scribe": "",
@@ -203588,7 +203588,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py843_PN_0.jpg"
             ],
-            "label": "PY Sa 843 $287$",
+            "label": "PY Sa 843",
             "name": "Py843",
             "parsedInscription": "        to-sa    we-je-ke-a2    ne-wa       ROTA+TE   ZE   20",
             "scribe": "",
@@ -203772,7 +203772,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py708_PN_0.jpg"
             ],
-            "label": "PY Ta 708 + fr. $641$",
+            "label": "PY Ta 708 + fr.",
             "name": "Py708",
             "parsedInscription": "        to-no    ku-te-se-jo    a-ja-me-no    o-pi-ke-re-mi-ni-ja    e-re-pa-te   1   ⟦ta-ra-nu    ku-te-se-jo    a-ja-me-no    e-re-pa-te-jo    au-de-pi⟧[\n      to-no    ku-te-se-jo   e-re-pa-te-ja-pi    o-pi-ke-re-mi-ni-ja-pi    se-re-mo-ka-ra-a-pi    qe-qi-no-me-na    a-di-ri-ja-pi-qe\n                                             ta-ra-nu    ku-te-se-jo    a-ja-me-no    e-re-pa-te-jo    a-di-ri-ja-pi    re-wo-pi-qe   1",
             "scribe": "",
@@ -204051,7 +204051,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py717_PN_0.jpg"
             ],
-            "label": "PY Aa 717 $240$",
+            "label": "PY Aa 717",
             "name": "Py717",
             "parsedInscription": "        ro-u-so    a-ke-ti-ri-ja   MUL   32   ko-wa   18   ko-wo   8   DA   1   TA   1",
             "scribe": "",
@@ -204921,7 +204921,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1233_PN_0.jpg"
             ],
-            "label": "PY Fr 1233 $1202$",
+            "label": "PY Fr 1233",
             "name": "Py1233",
             "parsedInscription": "                                ]so  pa-ki-ja-na-de     OLE+PA   V   1",
             "scribe": "",
@@ -205500,7 +205500,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1413.jpg"
             ],
-            "label": "PY Ua 1413 $-$ (Ci)",
+            "label": "PY Ua 1413 (Ci)",
             "name": "Py1413",
             "parsedInscription": "                                        *146   7     *166+WE   1   [\n        ro-u-si-jo   a-ko-ro    po-re-no-tu-te[",
             "scribe": "",
@@ -205652,7 +205652,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py871_PN_0.jpg"
             ],
-            "label": "PY Eb 871 $149$",
+            "label": "PY Eb 871",
             "name": "Py871",
             "parsedInscription": "        *35-ke-ja    e-ke-qe    o-na-to    ke-ke-me-na    ko-to-na    GRA   [\n        pa-ro    da-mo                                                                                                 [",
             "scribe": "",
@@ -205864,7 +205864,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py290_PN_0.jpg"
             ],
-            "label": "PY Ad 290 $290$",
+            "label": "PY Ad 290",
             "name": "Py290",
             "parsedInscription": "        re-u-ko-to-ro   a-ke-ti-ra2-o   ko-wo   VIR   2   ko-wo",
             "scribe": "",
@@ -205910,7 +205910,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1203_PN_0.jpg"
             ],
-            "label": "PY Fr 1203 $1203$ (Cii)",
+            "label": "PY Fr 1203 (Cii)",
             "name": "Py1203",
             "parsedInscription": "        ku-pa-ro-we    wo-do-we     OLE   PO   1   S   1   V   2",
             "scribe": "",
@@ -206614,7 +206614,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py749_PN_0.jpg"
             ],
-            "label": "PY Ja 749 $310$",
+            "label": "PY Ja 749",
             "name": "Py749",
             "parsedInscription": "        to-so-pa     L   34   M   26",
             "scribe": "",
@@ -206932,7 +206932,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py750_PN_0.jpg"
             ],
-            "label": "PY Jn 750 $310$",
+            "label": "PY Jn 750",
             "name": "Py750",
             "parsedInscription": "                  a-si-ja-ti-ja    ka-ke-we    ta-ra-si-ja    e-ko-te\n        pa-ra-ke-te-e-we  \n        po-so-ro     AES   M   1   N   2          ro-wo      AES   M   1   N   2\n        a-ti-pa-mo      AES   M   1   N   2     e-u-ka-ro           AES   M   1   N   2\n        ma-ra-ta          AES   M   1   N   2     a-no-ta               AES   M   1   N   2\n        na-e-si-jo        AES   M   1   N   2      si-ra-ta              AES   M   1   N   2\n        ka-ra-u-ro       AES   M   1   N   2     ra-wo-qo-ta     AES   M   1   N   2\n        pa-ku-ro2        AES   M   1   N   2     ka-ke-u             AES   M   1   N   2\n        ko-ma-we        AES   M   1   N   2     e-u-we-to         AES   M   1   N   2\n      e-ke-i-ja-ta      AES   M   1   N   2     mo-re-u   [        AES\n      wo-wa-ro         AES   M   1   N   2                       [\n      to-so-de    a-ta-ra-si-jo    du-wo-jo   1   di-ra-wo-no[     1\n      e-u-we-to-ro    do-e-ro   1   e[",
             "scribe": "",
@@ -207761,7 +207761,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py656_PN_0.jpg"
             ],
-            "label": "PY An 656 $657$",
+            "label": "PY An 656",
             "name": "Py656",
             "parsedInscription": "          wa-pa-ro-jo    o-ka      ne-wo-ki-to   \n        ⟦di-wi-je-u     ⟧   e-ri-ko-wo    a2-di-je-u  \n        a-ki-wo-ni-jo      ⟦                                          ⟧\n        wa-ka-ti-ja-ta      ke-ki-de    sa-pi-da\n        me-ta-qe    pe-i     e-qe-ta  \n        pe-re-qo-ni-jo    a-re-i-jo  \n        ne-wo-ki-to    wo-wi-ja    ko-ro-ku-ra-i-jo  \n           VIR   20    me-ta-qe    pe-i    e-qe-ta  \n        di-wi-je-u  \n                                  vac.\n      du-wo-jo-jo    o-ka    a-ke-re-wa  \n      a2-ku-ni-jo    pe-ri-me-de    ⟦                             ⟧\n      pu2-ti-ja      a-pu2-ka-ne    ke-ki-de    po-ra-i   VIR   20\n      me-ta-qe    pe-i    e-qe-ta      di-ko-na-ro      a-da-ra-ti-jo\n      u-wa-si    ke-ki-de    ne-wo    VIR   10\n      me-ta-qe    pe-i    pe-re-u-ro-ni-jo    e-qe-ta \n                                  vac.\n      a-ke-re-wa    ko-ro-ku-ra-i-jo    VIR  ⌞8⌟0\n      me-ta-qe    pe-i    e-qe-ta    ka-e-sa-me-no  \n      a-pu2-ka  \n                                  vac.",
             "scribe": "",
@@ -208189,7 +208189,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1319_PN_0.jpg"
             ],
-            "label": "PY Un 1319 $-$ (Cii)",
+            "label": "PY Un 1319 (Cii)",
             "name": "Py1319",
             "parsedInscription": "                   ]i-pu-ma        GRA   PE   1   [     ]   A2   41\n        o   PE   2   A2   13   KU   1   E   40   PA   20[     ]   PA   6\n        e-ri-ka-we-e   GRA   A2   1   WO   2   re-u-ko-to    GRA   A2   2   PA   1   E   9\n                                                                                                                   a-ro-ka        E   12",
             "scribe": "",
@@ -208598,7 +208598,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1217_PN_0.jpg"
             ],
-            "label": "PY Fr 1217 $1217$ (Cii)",
+            "label": "PY Fr 1217 (Cii)",
             "name": "Py1217",
             "parsedInscription": "              e-ra3-wo    pa-ko-we    we-ja-re-pe[\n        re-ke-e-to-ro-te-ri-jo\n            pa-ki-ja-na-de          OLE+A   V   1",
             "scribe": "",
@@ -208729,7 +208729,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1129_PN_0.jpg"
             ],
-            "label": "PY Xn 1129 $-$",
+            "label": "PY Xn 1129",
             "name": "Py1129",
             "parsedInscription": "                             sup. mut.\n                            ]si[\n                            inf. mut.",
             "scribe": "",
@@ -208978,7 +208978,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py441_PN_0.jpg"
             ],
-            "label": "PY Cn 441 + frr.(3) [+] fr. [+] 1069 + frr. [+] frr.(3) $131$",
+            "label": "PY Cn 441 + frr.(3) [+] fr. [+] 1069 + frr. [+] frr.(3)",
             "name": "Py441",
             "parsedInscription": "                 we-re-ke[\n                     ]a-ke-re-u[           ]ko[\n                        ]a-ke-re-u  [     ]wo-to   ⟦CAP:m 6⟧ [\n        deest [        ]pu-ki-[•]-wo   CAP:f   10\n        deest [     ]vest.[  ]\n                             inf. mut.",
             "scribe": "",
@@ -209306,7 +209306,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1204_PN_0.jpg"
             ],
-            "label": "PY Fr 1204 $343$",
+            "label": "PY Fr 1204",
             "name": "Py1204",
             "parsedInscription": "        ti-ri-se-ro-e    wo-do-we     OLE   Z   1",
             "scribe": "",
@@ -209777,7 +209777,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py495_PN_0.jpg"
             ],
-            "label": "PY Eb 495 $149$",
+            "label": "PY Eb 495",
             "name": "Py495",
             "parsedInscription": "lat. sup.\n                                            mu-to-wo-ti\nr.\n        ne-qe-wo    e-da-e-wo    ka-ma    o-pe-ro    du-wo-u-pi    te-re-ja-e    e-me-de    te[-re-]ja   [\n          to-so-de    pe-mo                                   GRA   10   T   1                                                                          [",
             "scribe": "",
@@ -209889,7 +209889,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py716_PN_0.jpg"
             ],
-            "label": "PY Ta 716 $641$",
+            "label": "PY Ta 716",
             "name": "Py716",
             "parsedInscription": "        pa-sa-ro    ku-ru-so    a-pi    to-ni-jo   2   wa-o            *232 2\n        qi-si-pe-e                       *234   2",
             "scribe": "",
@@ -210184,7 +210184,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py472_PN_0.jpg"
             ],
-            "label": "PY Eb 472 $149$",
+            "label": "PY Eb 472",
             "name": "Py472",
             "parsedInscription": "        we-te-re-u    o-pi-ti-ni-ja-ta    e-ke-qe   o-na-to\n              wo-jo    *35-to                              to-so-de    pe-mo   GRA   1   T   3",
             "scribe": "",
@@ -210942,7 +210942,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py549_PN_0.jpg"
             ],
-            "label": "PY Na 549 $106$",
+            "label": "PY Na 549",
             "name": "Py549",
             "parsedInscription": "                              ]a     SA   17",
             "scribe": "",
@@ -211159,7 +211159,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1467_PN_0.jpg"
             ],
-            "label": "PY Xn 1467 $-$",
+            "label": "PY Xn 1467",
             "name": "Py1467",
             "parsedInscription": "                            ]-de    [\n                               inf. mut.",
             "scribe": "",
@@ -211268,7 +211268,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py428.jpg"
             ],
-            "label": "PY Gn 428 + fr. + frr.(6) [+] 1056 + frr. $-$ (Ciii)",
+            "label": "PY Gn 428 + fr. + frr.(6) [+] 1056 + frr. (Ciii)",
             "name": "Py428",
             "parsedInscription": "        ]vest.    [                 ]   vac.   [\n        ]vest.[   ]me-jo                         [\n        ka-ra-te-mi-de     VIN   1   S   2   [\n        tu-ra-te-u-si          VIN   S   1\n        o-ro-ke-we   VIN   S   1  i-do-me-ni-jo     S   1\n        ki-jo-ne-u-si           S   1\n                                                   vac.\n                                                   vac.\n                                 reliqua pars sine regulis\n                                                inf. mut.",
             "scribe": "",
@@ -211565,7 +211565,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py841_PN_0.jpg"
             ],
-            "label": "PY Na 841 $337$ (Cii)",
+            "label": "PY Na 841 (Cii)",
             "name": "Py841",
             "parsedInscription": "        qo-ro-mu-ro     SA   10",
             "scribe": "",
@@ -212076,7 +212076,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py859_PN_0.jpg"
             ],
-            "label": "PY Eb 859 $149$",
+            "label": "PY Eb 859",
             "name": "Py859",
             "parsedInscription": "                                 do-e-]ra    e-ke-qe    o-na-to[\n                              GRA     ]   T   2                             [",
             "scribe": "",
@@ -212361,7 +212361,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py852_PN_0.jpg"
             ],
-            "label": "PY An 852 + frr. + fr. $-$",
+            "label": "PY An 852 + frr. + fr.",
             "name": "Py852",
             "parsedInscription": "                           ]   qo-u-ko-ro\n            VIR ]4⌟   te-re-ne-wi-ja      VIR   [\n        VIR ]3          te-ko-to-na-pe[   VIR\n               ]   VIR   2 a-se[-e                 VIR\n               ]   VIR   2 ma[                       VIR\n                    inf. mut.",
             "scribe": "",
@@ -212579,7 +212579,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1385_PN_0.jpg"
             ],
-            "label": "PY Xa 1385 $-$ (Cii)",
+            "label": "PY Xa 1385 (Cii)",
             "name": "Py1385",
             "parsedInscription": "                                ]pe-se-wi-ja[",
             "scribe": "",
@@ -212786,7 +212786,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1200_PN_0.jpg"
             ],
-            "label": "PY Fr 1200 $1203$ (Cii)",
+            "label": "PY Fr 1200 (Cii)",
             "name": "Py1200",
             "parsedInscription": "        pa-ko-we    a-e-ti-to[                                                       OLE",
             "scribe": "",
@@ -213276,7 +213276,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py501_PN_0.jpg"
             ],
-            "label": "PY Eb 501 [+] 534 $149$",
+            "label": "PY Eb 501 [+] 534",
             "name": "Py501",
             "parsedInscription": "        ke-ra-u-jo    e-ke-qe    ke-ke[-me-na  ko-to-na       ]\n        ko-to-no-o-ko                            [                      to-so-de  ]pe-mo     GRA   T   4",
             "scribe": "",
@@ -214846,7 +214846,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py895_PN_0.jpg"
             ],
-            "label": "PY Eb 895 [+] 906 $149$",
+            "label": "PY Eb 895 [+] 906",
             "name": "Py895",
             "parsedInscription": "        a-i-qe-u    e-ke-qe    ke-ke-me-na    ko-to-na  [ ]\n        ko-to-no-o-ko                                                    to-so[-]de    pe-mo     GRA   T   6[",
             "scribe": "",
@@ -214994,7 +214994,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py202_PN_0.jpg"
             ],
-            "label": "PY Cn 202 $131$",
+            "label": "PY Cn 202",
             "name": "Py202",
             "parsedInscription": "                                  ]a-ke-re-wa    we-re-ke                          [\n                                             ]me-wi-jo    o-ki-ri-so     OVIS:m   80[\n                                                                         ] ka-sa       OVIS:m   102\n                                                                                     ]       OVIS:m   74   CAP:m   1[\n                                                                                                             ]4\n                                                                                                                 inf. mut.",
             "scribe": "",
@@ -216033,7 +216033,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1377_PN_0.jpg"
             ],
-            "label": "PY Mb 1377 $1412$",
+            "label": "PY Mb 1377",
             "name": "Py1377",
             "parsedInscription": "        wa-a2-te-pi    ne[     *146",
             "scribe": "",
@@ -216751,7 +216751,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1044_PN_0.jpg"
             ],
-            "label": "PY Na 1044 $106$",
+            "label": "PY Na 1044",
             "name": "Py1044",
             "parsedInscription": "        a-pi-ke-ne-a[                SA",
             "scribe": "",
@@ -217234,7 +217234,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1289_PN_0.jpg"
             ],
-            "label": "PY Qa 1289 + fr. $1289$",
+            "label": "PY Qa 1289 + fr.",
             "name": "Py1289",
             "parsedInscription": "        ka-wa-ra    i-je-re-ja     *189[",
             "scribe": "",
@@ -217381,7 +217381,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py398_PN_0.jpg"
             ],
-            "label": "PY Pa 398 $49$ (Ciii)",
+            "label": "PY Pa 398 (Ciii)",
             "name": "Py398",
             "parsedInscription": "            pe-ra-ko-ra-i-ja\n        a-pi-ka-ra-do-jo    qa-si-re-wi[-ja                       *169",
             "scribe": "",
@@ -217521,7 +217521,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py677_PN_0.jpg"
             ],
-            "label": "PY Ad 677 $290$",
+            "label": "PY Ad 677",
             "name": "Py677",
             "parsedInscription": "        pu-ro   a-ra-ka-te-ja-o   ko-wo   VIR   30   ko-wo   9",
             "scribe": "",
@@ -217570,7 +217570,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py316_PN_0.jpg"
             ],
-            "label": "PY Tn 316 $-$",
+            "label": "PY Tn 316",
             "name": "Py316",
             "parsedInscription": "        po-ro-wi-to-jo  \n                         i-je-to-qe    pa-ki-ja-si    do-ra-qe    pe-re    po-re-na-qe\n        pu-ro a-ke    po-ti-ni-ja   AUR   *215VAS   1   MUL   1\n        ma-na-sa    AUR   *213VAS   1   MUL   1   po-si-da-e-ja   AUR   *213VAS   1   MUL   1\n        ti-ri-se-ro-e    AUR   *216VAS   1                 do-po-ta   AUR   *215VAS   1\n        angustum\n                                                                                  vac.\n                                                                                  vac.\n                                                                                  vac.\n      pu-ro                                                               vac.\n                                                     reliqua pars sine regulis\n                                                                                                                di-we si-po-ro ti-mi-to\nv.\n                          i-je-to-qe    po-si-da-i-jo    a-ke-qe    wa-tu\n                          do-ra-qe    pe-re    po-re-na-qe    a-ke\n                                                                                                                                          -ja\n      pu-ro         AUR *215VAS   1   MUL   2   qo-wi-ja    na-[      ]    ko-ma-we-te-\n                        i-je-to-qe    pe-re-*82-jo    i-pe-me-de-ja-qe   di-u-ja-jo-qe\n                       do-ra-qe    pe-re-po-re-na-qe    a    pe-re-*82   AUR+*213VAS   1   MUL   1\n                            i-pe-me-de-ja   AUR   *213VAS   1   di-u-ja   AUR+*213VAS   1   MUL   1\n        pu-ro         e-ma-a2    a-re-ja   AUR   *216VAS   1   VIR   1\n                            i-je-to-qe    di-u-jo     do-ra-qe    pe-re    po-re-na-qe   a-ke\n                             di-we   AUR   *213VAS   1   VIR   1   e-ra   AUR   *213VAS    1   MUL   1\n                             di-ri-mi-jo⌞ ⌟di-wo    i-je-we    AUR   *213VAS   1   [              ]vac.\n      pu-ro                                                                       vac.\n      angustum\n                                                                                        vac.\n                                                                                        vac.\n                                                                                        vac.\n      pu-ro                                                                       vac.\n                                                           reliqua pars sine regulis",
             "scribe": "",
@@ -218537,7 +218537,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py979_PN_0.jpg"
             ],
-            "label": "PY Fn 979 $79$",
+            "label": "PY Fn 979",
             "name": "Py979",
             "parsedInscription": "                                sup. mut.\n                                ]te-je[                                  HORD\n                               inf. mut.",
             "scribe": "",
@@ -218850,7 +218850,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1318_PN_0.jpg"
             ],
-            "label": "PY Ub 1318 + frr.(2) + frr.(3) + frr.(6) $1318$",
+            "label": "PY Ub 1318 + frr.(2) + frr.(3) + frr.(6)",
             "name": "Py1318",
             "parsedInscription": "                au-ke-i-ja-te-we    ka-tu-re-wi-ja-i   di-pte-ra   4   [ •~•~•~• ]di-pte-ra   2   au-ke-i-ja-te-we    o-ka    di-pte-ra[\n          au-ke-i-ja-te-we   o-pi-de-so-mo⌞ ⌟ka-tu-ro2    di-pte-ra   4   ka-ne-ja⌞ ⌟wo-ro-ma-ta   4\n          me-ti-ja-no    to-pa    ru-de-a2    di-pte-ra   1   a-re-se-si    e-ru-ta-ra    di-pte-ra   3   wo-di-je-ja    pe-di-ra   2\n        we-e-wi-ja    di-pte-ra       10     wi-ri-no    we-ru-ma-ta    ti-ri-si    ze-u-ke-si     1\n           wi-ri-no    pe-di-ro    e-ma-ta   4   e-ra-pe-ja    e-pi-u-ru-te-we      E   2\n        a-pe-i-ja    u-po    ka-ro    we-[             ]-ja   1   u-po    we-e-wi-ja    e-ra-pe-ja   E   1\n        mu-te-we    we-re-ne-ja    ku[                ]pe-re   1   mu-te-we    di-pte-ra    a3-za    pe-di-ro-i   1\n                                                                                                                   vac.\n                                                                                                                   vac.\n                                                                                                                 vac.",
             "scribe": "",
@@ -219463,7 +219463,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py394_PN_0.jpg"
             ],
-            "label": "PY Na 394 $106$",
+            "label": "PY Na 394",
             "name": "Py394",
             "parsedInscription": "                              ]SA   20",
             "scribe": "",
@@ -220405,7 +220405,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1327.jpg"
             ],
-            "label": "PY Wr 1327 $-$ (Ci)",
+            "label": "PY Wr 1327 (Ci)",
             "name": "Py1327",
             "parsedInscription": "α\n        sigillum\nβ\n            ]SUS:x     350\nγ\n        pe-re-i-to",
             "scribe": "",
@@ -221536,7 +221536,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py642_PN_0.jpg"
             ],
-            "label": "PY Ta 642 + fr. $641$",
+            "label": "PY Ta 642 + fr.",
             "name": "Py642",
             "parsedInscription": "            to-pe-za    ra-e-ja    we-a-re-ja    a-ja-me-na    a2-ro[  ]u-do-pi              ku-wa-no-qe    pa-ra-ke-we-qe[            ]e-ne-wo    pe-[\n        to-pe-za    ra-e-ja    me-no-e-ja    e-re-pa-te    a-ja-me-na    qe-qi-no-to    au-de-pi    ko-ru-pi-qe   1\n                                                                            e-ne-wo    pe-za\n            to-pe-za    ra-e-ja    a-pi-qo-to    e-re-pa-te-jo    po-pi    e-ka-ma-te-qe    qe-qi-no-to-qe    to-qi-de",
             "scribe": "",
@@ -221799,7 +221799,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py952_PN_0.jpg"
             ],
-            "label": "PY Xn 952 $-$ (Ci)",
+            "label": "PY Xn 952 (Ci)",
             "name": "Py952",
             "parsedInscription": "                                sup. mut.\n                             ]ka-ra-do-ro[\n                                   deest\n                                   deest",
             "scribe": "",
@@ -221895,7 +221895,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1378_PN_0.jpg"
             ],
-            "label": "PY Mb 1378 $1412$",
+            "label": "PY Mb 1378",
             "name": "Py1378",
             "parsedInscription": "        a-ke-o[     *146",
             "scribe": "",
@@ -222700,7 +222700,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py641_PN_0.jpg"
             ],
-            "label": "PY Ta 641 $641$",
+            "label": "PY Ta 641",
             "name": "Py641",
             "parsedInscription": "                                                                                                                                                                                                                                                                                 ke-re-a2   *201VAS[\n      ti-ri-po-de    a3-ke-u    ke-re-si-jo    we-ke   *201VAS   2   ti-ri-po    e-me    po-de    o-wo-we   *201VAS   1   ti-ri-po    ke-re-si-jo    we-ke    a-pu    ke-ka-u-me-no[\n        qe-to     *203VAS   3   di-pa    me-zo-e    qe-to-ro-we   *202VAS   1   di-pa-e    me-zo-e    ti-ri-o-we-e    *202VAS    2   di-pa    me-wi-jo    qe-to-ro-we     *202VAS    1    [\n        di-pa    me-wi-jo    ti-ri-jo-we   *202VAS   1   di-pa    me-wi-jo    a-no-we   *202VAS   1",
             "scribe": "",
@@ -223286,7 +223286,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py752_PN_0.jpg"
             ],
-            "label": "PY Aa 752 + fr. $240$",
+            "label": "PY Aa 752 + fr.",
             "name": "Py752",
             "parsedInscription": "        me-ta-pa   MUL   7   ko-wa   3   ko-wo   3   TA   1",
             "scribe": "",
@@ -224028,7 +224028,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py443_PN_0.jpg"
             ],
-            "label": "PY Un 443 + 998 $6$",
+            "label": "PY Un 443 + 998",
             "name": "Py443",
             "parsedInscription": "        ku-pi-ri-jo    tu-ru-pte-ri-ja    o-no   LANA   10   *146   10\n        po-re-no-zo-te-ri-ja       LANA   3\n                       ]do-ke    ka-pa-ti-ja    HORD   2   te-ri-ja   GRA   1   LANA   5\n                                         reliqua pars sine regulis",
             "scribe": "",
@@ -224358,7 +224358,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py669_PN_0.jpg"
             ],
-            "label": "PY Ad 669 $290$",
+            "label": "PY Ad 669",
             "name": "Py669",
             "parsedInscription": "        re-u-ko-to-ro    no-ri-wo-ko-jo   ko-wo   VIR   5",
             "scribe": "",
@@ -225066,7 +225066,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py218_PN_0.jpg"
             ],
-            "label": "PY Aq 218 + fr. $64$",
+            "label": "PY Aq 218 + fr.",
             "name": "Py218",
             "parsedInscription": "            o-da-a2    a-na-ke-e    o-pe-ro-te[\n        ri-so-wa    i-je-re-u[                                              ]VIR   1\n        ne-wo-ki-to    i-je[-re-]u    da-i-ja-ke-re-u     VIR   1\n        ro-]u-ko    ku-sa-me-ni-jo    me-ta-pa             VIR   1\n        a-e-ri-qo-ta[                       ] jo⌞ ⌟o-wi-to-no     VIR   1\n        a3-ko-ta    a-da-ra-ti-jo                                         VIR   1\n                                                   vac.\n                                                   vac.\n        o-da-a2    e-ke-jo-to    a-ko-to-no\n      pa-ku-ro2    de-wi-jo                                          ZE   1\n           ]ka-re-u    e-ko-me-na-ta-o    *34-te        ZE   1\n                          ]    ke-ki-jo                                       ZE   1\n               ]me-ta    po-ru-da-si-jo                         ZE   1\n                         ]me-nu-a2                                     ZE   1\n                       ]ma-ra-te-u    a-pu-ka              ZE   1\n                             qo-te-wo    i-*65                ZE   1\n                                                 vac.\nv.\n                                        di-we  si-po-ro  ti-mi-to-qo-re",
             "scribe": "",
@@ -225541,7 +225541,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py52_PN_0.jpg"
             ],
-            "label": "PY Ea 52 $28$",
+            "label": "PY Ea 52",
             "name": "Py52",
             "parsedInscription": "                                                           pa-ro    da-mo\n        wi-ri-ja-no    e-pi-we-ti-ri-jo⌞ ⌟e-ke⌞ ⌟o-na-to                 GRA   T   1",
             "scribe": "",
@@ -226241,7 +226241,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1381_PN_0.jpg"
             ],
-            "label": "PY Mb 1381 $-$ (Cii)",
+            "label": "PY Mb 1381 (Cii)",
             "name": "Py1381",
             "parsedInscription": "        ]ne-ja    ne-wa [",
             "scribe": "",
@@ -226348,7 +226348,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py779_PN_0.jpg"
             ],
-            "label": "PY Aa 779 $240$",
+            "label": "PY Aa 779",
             "name": "Py779",
             "parsedInscription": "        me-ta-pa   MUL   3   ko-wo   1   TA   1\nlat. inf.\n        a-te-re-wi-ja",
             "scribe": "",
@@ -227024,7 +227024,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1369_PN_0.jpg"
             ],
-            "label": "PY Mn 1369 $1412$",
+            "label": "PY Mn 1369",
             "name": "Py1369",
             "parsedInscription": "                                sup. mut.\n                                  ]        *146[\n                                  ]        *146[\n                                  ]        *146[\n                                inf. mut.",
             "scribe": "",
@@ -227479,7 +227479,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py666_PN_0.jpg"
             ],
-            "label": "PY Ad 666 $290$",
+            "label": "PY Ad 666",
             "name": "Py666",
             "parsedInscription": "        pu-ro   a-ke-ti-ra2-o   ko-wo   VIR   20   ko-wo   7   [",
             "scribe": "",
@@ -227531,7 +227531,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py379_PN_0.jpg"
             ],
-            "label": "PY Ab 379 $186$",
+            "label": "PY Ab 379",
             "name": "Py379",
             "parsedInscription": "                                                                                             GRA   2   T   8   TA   DA\n        e-u-de-we-ro   MUL   8   ko-wa   2   ko-wo   3   NI   2   T   8",
             "scribe": "",
@@ -228547,7 +228547,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py314.jpg"
             ],
-            "label": "PY Cn 314 + fr. $-$ (Ci)",
+            "label": "PY Cn 314 + fr. (Ci)",
             "name": "Py314",
             "parsedInscription": "        ]e-wo-ta-o  vest.  ⟦ • ⟧  3\n              ]wo  [  ]OVIS:x   100\n        au-to-a2-ta   OVIS:m 162[   ] vac.",
             "scribe": "",
@@ -228860,7 +228860,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py679_PN_0.jpg"
             ],
-            "label": "PY Ad 679 $290$",
+            "label": "PY Ad 679",
             "name": "Py679",
             "parsedInscription": "                                           ka-pa-ra2-do[   ]\n        pu-ro   ku-te-ra-o   ko-wo           VIR   6   ⟦o-pe-ro   VIR   8   ⟧",
             "scribe": "",
@@ -229365,7 +229365,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1373_PN_0.jpg"
             ],
-            "label": "PY Ob 1373 $-$ (Ciii)",
+            "label": "PY Ob 1373 (Ciii)",
             "name": "Py1373",
             "parsedInscription": "        ]  *166+WE   10   [\n        ]      vac.                [",
             "scribe": "",
@@ -229611,7 +229611,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py856_PN_0.jpg"
             ],
-            "label": "PY Na 856 $106$",
+            "label": "PY Na 856",
             "name": "Py856",
             "parsedInscription": "                                          ke\n        a2-ki-ra    we-da-ne-wo   SA   10",
             "scribe": "",
@@ -229796,7 +229796,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py558_PN_0.jpg"
             ],
-            "label": "PY Ab 558 $186$",
+            "label": "PY Ab 558",
             "name": "Py558",
             "parsedInscription": "                                                                                                       GRA   1   T   8   TA   DA\n        pu-ro    pa-wo-ke   MUL   4   ko-wa   2   ko-wo   1   NI     1   T   8\nv.\n                                                                                                            12",
             "scribe": "",
@@ -230115,7 +230115,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py63_PN_0.jpg"
             ],
-            "label": "PY Aa 63 $60$",
+            "label": "PY Aa 63",
             "name": "Py63",
             "parsedInscription": "        ki-ma-ra   MUL   3   ko-wa   5   ko-wo   4   DA   1   TA   1",
             "scribe": "",
@@ -231260,7 +231260,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py158_PN_0.jpg"
             ],
-            "label": "PY Ua 158 + frr.(4) $-$ (Cii)",
+            "label": "PY Ua 158 + frr.(4) (Cii)",
             "name": "Py158",
             "parsedInscription": "        ke-do-jo    o-na    e-qa-na-qe[\n        *146 20       GRA   7 ⟦ ⟧   NI 5 [ ]⟦     ⟧[",
             "scribe": "",
@@ -231501,7 +231501,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1180_PN_0.jpg"
             ],
-            "label": "PY Aa 1180 $240$",
+            "label": "PY Aa 1180",
             "name": "Py1180",
             "parsedInscription": "                 pu-ro  \n        mi-ra-ti-ja   MUL[",
             "scribe": "",
@@ -231776,7 +231776,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1305_PN_0.jpg"
             ],
-            "label": "PY Qa 1305 $1289$",
+            "label": "PY Qa 1305",
             "name": "Py1305",
             "parsedInscription": "        wo-ro-qo-ta[                                      *189",
             "scribe": "",
@@ -231959,7 +231959,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1228_PN_0.jpg"
             ],
-            "label": "PY Fr 1228 $1202$",
+            "label": "PY Fr 1228",
             "name": "Py1228",
             "parsedInscription": "        wa-na-so-i    e-re-de     OLE+PA   V   1",
             "scribe": "",
@@ -232002,7 +232002,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py784_PN_0.jpg"
             ],
-            "label": "PY Wa 784 $149$",
+            "label": "PY Wa 784",
             "name": "Py784",
             "parsedInscription": "                                     sup. mut.\n                                 ]o-na-te-re[\n                                 ]ko-to-na-o\n                              ]          vac.",
             "scribe": "",
@@ -232104,7 +232104,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1295_PN_0.jpg"
             ],
-            "label": "PY Qa 1295 $1295$",
+            "label": "PY Qa 1295",
             "name": "Py1295",
             "parsedInscription": "        qe-re-ma-o    po-qa-te-u     *189   2",
             "scribe": "",
@@ -232207,7 +232207,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py794_PN_0.jpg"
             ],
-            "label": "PY Sa 794 $287$",
+            "label": "PY Sa 794",
             "name": "Py794",
             "parsedInscription": "        ka-ko    de-de-me-no    no-pe-re-e       ROTA   ZE   1   [",
             "scribe": "",
@@ -232344,7 +232344,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1128.jpg"
             ],
-            "label": "PY Xn 1128 $-$",
+            "label": "PY Xn 1128",
             "name": "Py1128",
             "parsedInscription": "                             sup. mut.\n                            ]ma    [\n                            ]vac. [\n                          inf. mut.",
             "scribe": "",
@@ -232498,7 +232498,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py786_PN_0.jpg"
             ],
-            "label": "PY Aa 786 $240$",
+            "label": "PY Aa 786",
             "name": "Py786",
             "parsedInscription": "        ne-wo-pe-o   MUL   8   ko-wa   3   ko-wo   2   TA   1",
             "scribe": "",
@@ -233823,7 +233823,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1296_PN_0.jpg"
             ],
-            "label": "PY Qa 1296 $1295$",
+            "label": "PY Qa 1296",
             "name": "Py1296",
             "parsedInscription": "        a-o-ri-me-ne    i-je-re-u       *189   [",
             "scribe": "",
@@ -234181,7 +234181,7 @@ var inscriptions = new Map(
                 "images/photos/Py630_PN_0.jpg",
                 "images/photos/Py630_PN_1.jpg"
             ],
-            "label": "PY La 630 $626$",
+            "label": "PY La 630",
             "name": "Py630",
             "parsedInscription": "         ko-]u-ra\n        ]a-ro-ta     TELA+PA   1[\nv.\n           ]do   P   7   PE   4[",
             "scribe": "",
@@ -234310,7 +234310,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py253_PN_0.jpg"
             ],
-            "label": "PY Fg 253 $240$",
+            "label": "PY Fg 253",
             "name": "Py253",
             "parsedInscription": "        ]ra-so-ro     GRA   192   T   7   [\n                          ]   NI       192   T   7       [",
             "scribe": "",
@@ -234805,7 +234805,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py35_PN_0.jpg"
             ],
-            "label": "PY An 35 $-$",
+            "label": "PY An 35",
             "name": "Py35",
             "parsedInscription": "           to-ko-do-mo    de-me-o-te\n        pu-ro   VIR   2   me-te-to-de   VIR   3\n        sa-ma-ra-de   VIR   3   re-u-ko-to-ro   VIR   4\n                                vac.\n        a-ta-ro    tu-ru-pte-ri-ja    o-no\n        LANA  2  CAP:f   4   *146   3   VIN   10   NI   4",
             "scribe": "",
@@ -234999,7 +234999,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py378_PN_0.jpg"
             ],
-            "label": "PY Ma 378 $90$",
+            "label": "PY Ma 378",
             "name": "Py378",
             "parsedInscription": "        sa-ma-ra     *146   24     RI   M   24     KE   M   7     *152   10     O   M   5        ME   500\n                                                                             *152   2                                              ME 60\n        o-da-a2    ka-ke-we    o-u-di-do-si        *146   3   RI   M   3   KE   M   1     pe-ru-si-nu-wo    o-pe-ro  *146   1  *152   2   ME   100",
             "scribe": "",
@@ -235408,7 +235408,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py416_PN_0.jpg"
             ],
-            "label": "PY Eb 416 $149$",
+            "label": "PY Eb 416",
             "name": "Py416",
             "parsedInscription": "        u-wa-mi-ja    te-o-jo⌞ ⌟do-e-ra⌞ ⌟e[-ke-]qe    i-je-re[-ja     ]ke-ra    o[-na-to\n            to-so-de⌞ ⌟pe-mo                         GRA   T   2   V   3  [              ]           vac.           [",
             "scribe": "",
@@ -236000,7 +236000,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1150_PN_0.jpg"
             ],
-            "label": "PY Xn 1150 $-$",
+            "label": "PY Xn 1150",
             "name": "Py1150",
             "parsedInscription": "        •]-ke-ke[\n              inf. mut.",
             "scribe": "",
@@ -236197,7 +236197,7 @@ var inscriptions = new Map(
                 "images/photos/Py616_PN_0.jpg",
                 "images/photos/Py616_PN_1.jpg"
             ],
-            "label": "PY Un 616 $615$",
+            "label": "PY Un 616",
             "name": "Py616",
             "parsedInscription": "        ku-ro-ro2   AROM   13   T   5\n               KA±PO   4\n        *157   28\n        LANA   5   me-po   6   S   1   V   4\n        ko-ri-jo-da-na\n        AROM   21\n        i-re-we[        ]   T   2\nv.\n        ta-we-si-jo-jo    ke-ro-si-ja   VIR   20[\n        a-pi-qo-o    ke-ro-si-ja            VIR   17  [\n        a-pi-o-to    ke-ro-si-ja             VIR   18\n        o-to-wo-o    ke-ro-si-ja           VIR   13\nlat. sin.\n                        ka-ma-e-we     VIR   10",
             "scribe": "",
@@ -236645,7 +236645,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1293_PN_0.jpg"
             ],
-            "label": "PY Qa 1293 $1295$",
+            "label": "PY Qa 1293",
             "name": "Py1293",
             "parsedInscription": "                           ]me-nu-a2     *189   1",
             "scribe": "",
@@ -238312,7 +238312,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py839_PN_0.jpg"
             ],
-            "label": "PY Eb 839 $149$",
+            "label": "PY Eb 839",
             "name": "Py839",
             "parsedInscription": "        ko-tu-]ro2    ka-ma-e-u    mi-ka-ta    pa-da-je-u    e-ke-qe[\n               ]wo-ze-qe                                                   to-so-de    pe-mo[     GRA   T   5",
             "scribe": "",
@@ -238391,7 +238391,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1021_PN_0.jpg"
             ],
-            "label": "PY Na 1021 $106$",
+            "label": "PY Na 1021",
             "name": "Py1021",
             "parsedInscription": "        a-pi-te-wa[                       SA",
             "scribe": "",
@@ -238580,7 +238580,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1361_PN_0.jpg"
             ],
-            "label": "PY Wr 1361 $-$ (Ci)",
+            "label": "PY Wr 1361 (Ci)",
             "name": "Py1361",
             "parsedInscription": "α\n        VIN   supra sigillum\nβ\n        vac.\nγ\n        vac.",
             "scribe": "",
@@ -239647,7 +239647,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py810_PN_0.jpg"
             ],
-            "label": "PY Ea 810 $28$",
+            "label": "PY Ea 810",
             "name": "Py810",
             "parsedInscription": "        ti-nwa-si-jo          GRA   3   T   5",
             "scribe": "",
@@ -239766,7 +239766,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py777_PN_0.jpg"
             ],
-            "label": "PY Aa 777 $240$",
+            "label": "PY Aa 777",
             "name": "Py777",
             "parsedInscription": "        e-ke-ro-qo-no\n        o-pi-ro-qo   MUL   7   ko-wa   3   ko-wo   4   DA   1   TA   1",
             "scribe": "",
@@ -240132,7 +240132,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1277_PN_0.jpg"
             ],
-            "label": "PY Ac 1277 + fr.(4) $1272$ (Ciii)",
+            "label": "PY Ac 1277 + fr.(4) (Ciii)",
             "name": "Py1277",
             "parsedInscription": "        a-ke-re-wa     VIR   10   o-pe-ro   VIR   6",
             "scribe": "",
@@ -240640,7 +240640,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py247_PN_0.jpg"
             ],
-            "label": "PY Eo 247 $149$",
+            "label": "PY Eo 247",
             "name": "Py247",
             "parsedInscription": "               a3-ti-jo-qo    ki-ti-me-na    ko-to-na                                             to-so-de  pe-mo                       GRA 1[  T   5   V   4\n        e-ko-to    te-o-jo    do-e-ro    e-ke-qe    o-na-to    pa-ro    a3-ti-jo-qe    ko-to-no-o-ko            GRA   T[  1\n        ko-ri-si-ja    te-o-jo    do-e-ra    e-ke-qe    o-na-to    ki-ti-me-na    ko-to-na    a3-ti-jo-qe       GRA   T   5\n        i-pa-sa-na-ti    te-o-jo    do-e-ra    e-ke-qe    o-na-to    pa-ro    a3-ti-jo-qe                                   GRA   T   2\n        ku-*63-so    te-o-jo    do-e-ro    e-ke-qe    o-na-to    pa-ro    a3-ti-jo-qe                                        GRA   T   1\n        ta-ra-to    te-o-jo    do-e-ro    e-ke-qe    o-na-to    pa-ro    a3-ti-jo-qe                                             GRA   T   1\n          we-te-re-u    i-je-re-u    e-ke-qe    o-na-to    pa-ro    a3-ti-jo-qe                                                     GRA   T   5\n                                                                                                 vac.",
             "scribe": "",
@@ -241531,7 +241531,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py613_PN_0.jpg"
             ],
-            "label": "PY Ep 613 [+] 1131 + frr.(6) + fr. $74$",
+            "label": "PY Ep 613 [+] 1131 + frr.(6) + fr.",
             "name": "Py613",
             "parsedInscription": "              ne-qe-wo  e-da-e-wo  ka-ma  ]o-pe-ro[  du-]wo-u-pi    te-re-ja-e \n        e-me-de  te-re-ja              to-so-]de    [pe-mo                ]   GRA   10   T   1\n                  ]  vestigia  [                        ke-ke-]me-na    ko-to-na    ka-ma-e-u    wo-ze-qe    to-so  pe-mo[     GRA   ]   T   6\n        te-re-]ta    su-ko    po-ro-du[                o-pe-ro-qe  ]du-wo-u-pi    te-re-ja-e⌞ ⌟o-u-qe    wo-ze[     ]   vac.\n           to-]so-de    pe-mo     GRA   10[   ]                                                                            vac.\n        a3-wo-re-u    a-si-to-po-qo    ka-ma    e-ke-qe    wo-ze-qe    to-so  pe-mo     GRA   1   T   [2\n                        a-•-ke-re-u    i-je-ro-wo-ko    ka-ma-e-u    o-na-to  e-ke    wo-ze-qe  to-so  pe-mo     GRA   1\n        sa-sa-]wo    o-na-to    e-ke    ka-ma-e-u    e-pi-qe    to-me    te-ra-pi[-ke   ]to-so    pe-mo     GRA   1   T   5\n        e-u-]ru-wo-ta    te-o-jo    [do-e-]ro   e-ke-qe[     ka-]ma    o-na-to    wo-ze-qe    to-so    pe[-mo]                       GRA   1   T   3\n      pe-]re-qo-ta    pa-de-we-u[  e-]ke-qe    ka-ma   o-na-to    si-ri-jo    ra-ke    to-so   pe-mo                                   GRA   1\n      pa-]ra-ko    e-ke-qe    ka-ma    ko-to-no-o-ko    e-o                                   to-so    pe-mo                                             GRA   1\n      po-]so-re[-ja  te-]o-jo    do-e-ra    e-ke    o-na-to    pa-ro    pa-ra-ko    to-so    pe-mo                                           GRA   T   1   V   3\n      ko[-tu-ro2  mi-]ka-ta    pa-de-we-u    ka-ma-e-u    e-ke-qe    wo-ze-qe    to-so    pe-mo                                      GRA   T   5\n      we-ra-jo[  po-]ti-ni-ja-we-jo    o-na-to    e-ke    ke-ke-me-na    ko-to-na    to-so    pe-mo                                    GRA   T   2\na                                                                                                                                                                      pe-mo\nb    ko-pi-na    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro  da-mo  to-so                          GRA   T   2\n      mi-ra⌞ ⌟te-o-jo⌞ ⌟do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so  pe-mo        GRA   T   1\n      qe-ri-ta    te-o-jo    do-e-ra    o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro  da-mo    pe-mo                       GRA   T   2\n      ]vest.[        te-o-]jo    do-e-ra   o-na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so    pe-mo            GRA   V   3\n                          te-o-jo]    do-e-ro    o[-]na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro    da-mo    to-so    pe-mo             GRA   V   4\n                      ]ra-so    te-o-jo    [do-e-ro  o-]na-to    e-ke    ke-ke-me-na    ko-to-na    pa-ro  da-mo    to-so[   pe-mo             GRA",
             "scribe": "",
@@ -242531,7 +242531,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py310_PN_0.jpg"
             ],
-            "label": "PY Jn 310 + frr. $310$",
+            "label": "PY Jn 310 + frr.",
             "name": "Py310",
             "parsedInscription": "           ]a-ke-re-wa    ka-ke-we    ta-ra-si-ja    e-ko-te  \n        ti-qa-jo     AES   M   1   N   2   qe-ta-wo            AES   M   1   N   2\n        a3-so-ni-jo     AES   M   1   N   2   ta-mi-je-u         AES   M   1   N   2\n        e-u-ru-wo-ta     AES   M   1   N   2   e-u-do-no         AES   M   1   N   2\n        po-ro-u-te-u      AES   M   1   N   2   wi-du-wa-ko   AES   M   1   N   2\n                                                               vac.\n        to-so-de    a-ta-ra-si-jo   ka-ke-we[   ]                 vac.\n        pa-qo-si-jo   1   ke-we-to   1   wa[              ]re-u[        1]     vac.\n        pe-ta-ro   1\n                                                     vac.\n           to-so-de    do-e-ro    ke-we-to-jo     1     i-wa-ka-o     1\n      pa-qo-si-jo-jo    1    po-ro-u-te-wo         1\n      ⟦a[                     ⟧                                  vac.\n      po-ti-ni-ja-we-jo    ka-ke-we    ta-ra-si-ja    e-ko-te  \n      i-ma-di-jo     AES   M   2     tu-ke-ne-u   AES   M   3\n                   ]   AES   M   3   i-wa-ka   AES   M   3\n               a-]ta-ra-si-jo    pu2-si-ja-ko       1",
             "scribe": "",
@@ -243241,7 +243241,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1266.jpg"
             ],
-            "label": "PY Sa 1266 [+] fr. $287?$",
+            "label": "PY Sa 1266 [+] fr.",
             "name": "Py1266",
             "parsedInscription": "                                                 te-mi-de-we-te\n        e-pi-wo-qa-ta-o          wo-ka    we-je-ke-e   [ZE]   1",
             "scribe": "",
@@ -243296,7 +243296,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py318_PN_0.jpg"
             ],
-            "label": "PY Ad 318 + fr. [+] 420 + fr. $290$",
+            "label": "PY Ad 318 + fr. [+] 420 + fr.",
             "name": "Py318",
             "parsedInscription": "        pu-ro    ke[-re-]za    we-we-si-je-ja-o   ko-wo   VIR   8   ko-wo   7",
             "scribe": "",
@@ -243360,7 +243360,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py703_PN_0.jpg"
             ],
-            "label": "PY Es 703 $644$",
+            "label": "PY Es 703",
             "name": "Py703",
             "parsedInscription": "          we-da-ne-wo    do-e-ro    po-se-da-o-ne     GRA   T   3\n        *34-ke-te-si    do-so-mo                                      GRA   V   1\n        we-da-ne-wo  do-so-mo                                      GRA   V   1\n             di-wi-je-we    do-so-mo                                  GRA   V   1\n                                                       vac.",
             "scribe": "",
@@ -243738,7 +243738,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py916_PN_0.jpg"
             ],
-            "label": "PY Eb 916 [+] 1344 $149$",
+            "label": "PY Eb 916 [+] 1344",
             "name": "Py916",
             "parsedInscription": "        re-ka    te-o[-jo  do-e-]ra    e-ke-qe    [\n        pa-]ro    da-mo[           ]GRA   T   6   [",
             "scribe": "",
@@ -243947,7 +243947,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py886_PN_0.jpg"
             ],
-            "label": "PY Eb 886 $149$",
+            "label": "PY Eb 886",
             "name": "Py886",
             "parsedInscription": "          re-ka    te-o-jo    [do-e-ra\n        pa-ro    da-mo    [                                                                  GRA",
             "scribe": "",
@@ -244157,7 +244157,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py805_PN_0.jpg"
             ],
-            "label": "PY Ea 805 $28$",
+            "label": "PY Ea 805",
             "name": "Py805",
             "parsedInscription": "        o-pe-te-re-u    e-ne-ka    a-no-qa-si-ja           GRA   2",
             "scribe": "",
@@ -245230,7 +245230,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1339_PN_0.jpg"
             ],
-            "label": "PY Vn 1339 [+] 1456 + frr. + 1340 + 1449 $-$ (Ciii)",
+            "label": "PY Vn 1339 [+] 1456 + frr. + 1340 + 1449 (Ciii)",
             "name": "Py1339",
             "parsedInscription": "           e-ke-ja     32[                                   ]ja           127[\n        ki-wa-[                     ]    ki-ta-ro-ka-ta         6          [\n        a-ko-so-ne[               ]8                                     [\n                                                            ]  6                      [",
             "scribe": "",
@@ -245960,7 +245960,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py872_PN_0.jpg"
             ],
-            "label": "PY Eb 872 + fr. + fr. $149$",
+            "label": "PY Eb 872 + fr. + fr.",
             "name": "Py872",
             "parsedInscription": "                                                  sup. mut.\n                                        ]do-e-ro    e-ke[-qe\n                            ]                vac.                                                [      GRA",
             "scribe": "",
@@ -246875,7 +246875,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1281_PN_0.jpg"
             ],
-            "label": "PY An 1281 + frr.(10) + fr. $-$",
+            "label": "PY An 1281 + frr.(10) + fr.",
             "name": "Py1281",
             "parsedInscription": "            po-]ti-ni-ja    i-qe-ja\n                   ]-mo    o-pi-e-de-i\n        a-ka    re-u-si-wo-qe     VIR   2\n        au-ke-i-ja-te-we   ⟦i-qe-ja   VIR     ⟧\n        o-na-se-u    ta-ni-ko-qe        VIR   2\n        me-ta-ka-wa    po-so-ro   VIR   1\n        mi-jo-qa[          ]e-we-za-no      VIR   1\n        a-pi-e-ra⌞ ⌟to-ze-u                    VIR   1\n                 ]-a-ke-si    po-ti-ni-ja       re-si-wo      VIR   1\n      au-ke-i-ja-te-we[                  ]ro                       VIR   1\n      mi-jo-qa    ma-ra-si-jo[        ]                         VIR   1\n      me-ta-ka-wa    ti-ta-ra-[        ]                          VIR   1\n      a-pi-e-ra    ru-ko-ro                                            VIR   1\n                                               vac.\n                                               vac.",
             "scribe": "",
@@ -247526,7 +247526,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py225_PN_0.jpg"
             ],
-            "label": "PY Ma 225 $90$",
+            "label": "PY Ma 225",
             "name": "Py225",
             "parsedInscription": "        pi-*82          *146   28     RI   M   28[   ]   KE   M   8     *152   22   O[  M  6         ]ME   600\n                          re-u-ko-to-ro                                za-we-te\n      pe-ru-si-nu-wa    o-pe-ro    RI   M   2     o-da-a2    ka-ke-we    o-u-di-do-si       o  *146   1   RI   M   1   ME   16",
             "scribe": "",
@@ -247887,7 +247887,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py354_PN_0.jpg"
             ],
-            "label": "PY Aa 354 $240$",
+            "label": "PY Aa 354",
             "name": "Py354",
             "parsedInscription": "        ko-ro-ki-ja   MUL   8   ko-wa   4   ko-wo   1   DA   1",
             "scribe": "",
@@ -248051,7 +248051,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py922_PN_0.jpg"
             ],
-            "label": "PY Ea 922 $28$",
+            "label": "PY Ea 922",
             "name": "Py922",
             "parsedInscription": "                                         a-pi-a2-ro    e-ke  \n        ke-ke-me-na    ko-to-na-no-no              GRA     T   1   [",
             "scribe": "",
@@ -248590,7 +248590,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1380_PN_0.jpg"
             ],
-            "label": "PY Mb 1380 $1412$",
+            "label": "PY Mb 1380",
             "name": "Py1380",
             "parsedInscription": "        ke-sa-da-ra    •[",
             "scribe": "",
@@ -249502,7 +249502,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1246_PN_0.jpg"
             ],
-            "label": "PY Fr 1246 $1202$",
+            "label": "PY Fr 1246",
             "name": "Py1246",
             "parsedInscription": "                              ]-we     OLE+PA   S[",
             "scribe": "",
@@ -249641,7 +249641,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py582_PN_0.jpg"
             ],
-            "label": "PY Ab 582 $186$",
+            "label": "PY Ab 582",
             "name": "Py582",
             "parsedInscription": "                                    ]   DA   TA\n                                    ]     vac.",
             "scribe": "",
@@ -250033,7 +250033,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py801_PN_0.jpg"
             ],
-            "label": "PY Ea 801 $28$",
+            "label": "PY Ea 801",
             "name": "Py801",
             "parsedInscription": "                                          ke-ke-me[-na]\n        ku-ru-no-jo    me-ri-te-wo    ko-to-na    a-no-no     GRA     1     T     1",
             "scribe": "",
@@ -250150,7 +250150,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py885_PN_0.jpg"
             ],
-            "label": "PY Eb 885 + 977 [+] fr. $149$",
+            "label": "PY Eb 885 + 977 [+] fr.",
             "name": "Py885",
             "parsedInscription": "        ]i-na    te-o-jo    do-e-ro   e-ke-qe    o-na-to\n        ]   ke-ke-me-na    ko-to-na    pa-ro    da-mo    [to-so-]de    pe-mo   GRA   [   qs",
             "scribe": "",
@@ -250238,7 +250238,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py960_PN_0.jpg"
             ],
-            "label": "PY Xn 960 + fr. $-$ (Ci)",
+            "label": "PY Xn 960 + fr. (Ci)",
             "name": "Py960",
             "parsedInscription": "        ] vest.[",
             "scribe": "",
@@ -250322,7 +250322,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py390_PN_0.jpg"
             ],
-            "label": "PY Ad 390 $290$",
+            "label": "PY Ad 390",
             "name": "Py390",
             "parsedInscription": "        pu-ro   ku-te-ra-o   ko-wo   [   ]   VIR   22",
             "scribe": "",
@@ -250371,7 +250371,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py56_PN_0.jpg"
             ],
-            "label": "PY Ea 56 $28$",
+            "label": "PY Ea 56",
             "name": "Py56",
             "parsedInscription": "                                    [      ra-]pte\n        ze-pu2-ro⌞ ⌟e-ke    pa-ro    sa-ke-re-we     GRA   T   1   [",
             "scribe": "",
@@ -250864,7 +250864,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py825_PN_0.jpg"
             ],
-            "label": "PY Ea 825 $28$",
+            "label": "PY Ea 825",
             "name": "Py825",
             "parsedInscription": "                                      po-me-ne\n        ta-ra-ma-ta    e-ke    o-na-to    pa-ro    ko-do                 GRA   T  1",
             "scribe": "",
@@ -252262,7 +252262,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1000_PN_0.jpg"
             ],
-            "label": "PY Ea 1000 $28$",
+            "label": "PY Ea 1000",
             "name": "Py1000",
             "parsedInscription": "                                 GRA     ]T   2   [",
             "scribe": "",
@@ -252305,7 +252305,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1221.jpg"
             ],
-            "label": "PY Fr 1221 $1219$ (Cii)",
+            "label": "PY Fr 1221 (Cii)",
             "name": "Py1221",
             "parsedInscription": "        po-ro-wi-to    wa-na-se-wi-ja                           OLE+A   S   1",
             "scribe": "",
@@ -252392,7 +252392,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py169_PN_0.jpg"
             ],
-            "label": "PY Eb 169 $149$",
+            "label": "PY Eb 169",
             "name": "Py169",
             "parsedInscription": "        du-ni-jo    te-o[-jo  do-e-ro  e-ke-qe  o-na-to  ke-ke-me-na  ko-to-na\n        pa-ro  da-mo [                                             to-so-de pe-mo     GRA   T   1",
             "scribe": "",
@@ -252627,7 +252627,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1039_PN_0.jpg"
             ],
-            "label": "PY Na 1039 $106$",
+            "label": "PY Na 1039",
             "name": "Py1039",
             "parsedInscription": "        u-ra-]*86   SA   5",
             "scribe": "",
@@ -252769,7 +252769,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py322_PN_0.jpg"
             ],
-            "label": "PY Na 322 $106$",
+            "label": "PY Na 322",
             "name": "Py322",
             "parsedInscription": "        pi-*82       SA   30",
             "scribe": "",
@@ -252918,7 +252918,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1300_PN_0.jpg"
             ],
-            "label": "PY Qa 1300 $1289$",
+            "label": "PY Qa 1300",
             "name": "Py1300",
             "parsedInscription": "                            i-]je-re-ja     *189   2",
             "scribe": "",
@@ -253138,7 +253138,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py152_PN_0.jpg"
             ],
-            "label": "PY Eb 152 $149$",
+            "label": "PY Eb 152",
             "name": "Py152",
             "parsedInscription": "                              ka-]ma-e-u    e-ke-qe     ⟦                    ⟧\n                                          ]                to-so-de    pe-mo   GRA   1            [",
             "scribe": "",
@@ -253263,7 +253263,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py702_PN_0.jpg"
             ],
-            "label": "PY Cn 702 + 1462 + 1463 [+] 1461 $719$",
+            "label": "PY Cn 702 + 1462 + 1463 [+] 1461",
             "name": "Py702",
             "parsedInscription": "             a-]ko-so-ta[-]o       OVIS:m   100\n           ]-ta    a[-ke-o-jo]   OVIS:f   40\n           ]tu-ro    a-ke-o-jo   CAP:f   30\n        ]ne-wa    a-ke-o-jo   CAP:f   30\n                                       ] vac.\n                                       ] vac.",
             "scribe": "",
@@ -254004,7 +254004,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py824_PN_0.jpg"
             ],
-            "label": "PY Ea 824 $28$",
+            "label": "PY Ea 824",
             "name": "Py824",
             "parsedInscription": "                                                     po-me\n        ko-do    e-ke    o-na-to    pa-ro    da-mo            GRA     T   4  [",
             "scribe": "",
@@ -254065,7 +254065,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py842_PN_0.jpg"
             ],
-            "label": "PY Eb 842 $149$",
+            "label": "PY Eb 842",
             "name": "Py842",
             "parsedInscription": "        sa-sa-wo    e-ke-qe    o-na-to    ka-ma-e-u\n        e-pi-qe    to-e    te-ra-pi-ke                       to-so-de    pe-mo     GRA   1   T   [5",
             "scribe": "",
@@ -254537,7 +254537,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py98_PN_0.jpg"
             ],
-            "label": "PY Aa 98 $60$",
+            "label": "PY Aa 98",
             "name": "Py98",
             "parsedInscription": "        no-ri-wo-ko   MUL   8   ko-wa   10   ko-wo   5",
             "scribe": "",
@@ -254743,7 +254743,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py542_PN_0.jpg"
             ],
-            "label": "PY Na 542 $106$",
+            "label": "PY Na 542",
             "name": "Py542",
             "parsedInscription": "                          e-]re-u[               ]SA   4\n                                                       ]jo",
             "scribe": "",
@@ -254977,7 +254977,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py268_PN_0.jpg"
             ],
-            "label": "PY Eo 268 $149$",
+            "label": "PY Eo 268",
             "name": "Py268",
             "parsedInscription": "        po-te-wo    ko-to-na                                     GRA   2   T   4",
             "scribe": "",
@@ -255380,7 +255380,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py608_PN_0.jpg"
             ],
-            "label": "PY Cn 608 $608$",
+            "label": "PY Cn 608",
             "name": "Py608",
             "parsedInscription": "             jo-a-se-so-si    si-a2-ro\n        o-pi-da-mi-jo\n        pi-*82                       SUS+SI   3\n        me-ta-pa                  SUS+SI   3\n        pe-to-no                  SUS+SI   6\n        pa-ki-ja-si               SUS+SI   2\n        a-pu2-we                SUS+SI   2\n        a-ke-re-wa             SUS+SI   2\n        e-ra-te-i                   SUS+SI   3\n      ka-ra-do-ro           SUS+SI   2\n      ri-jo                         SUS+SI   2",
             "scribe": "",
@@ -255959,7 +255959,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1207_PN_0.jpg"
             ],
-            "label": "PY Fr 1207 $-$",
+            "label": "PY Fr 1207",
             "name": "Py1207",
             "parsedInscription": "                        ]so-de     OLE+A   V   3   wo-do-we   V   1[\n                        ]V   1                                                              [",
             "scribe": "",
@@ -256029,7 +256029,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1398_PN_0.jpg"
             ],
-            "label": "PY Mb 1398 $1398$ (Cii)",
+            "label": "PY Mb 1398 (Cii)",
             "name": "Py1398",
             "parsedInscription": "        ro-u-so           *146[",
             "scribe": "",
@@ -256423,7 +256423,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1371_PN_0.jpg"
             ],
-            "label": "PY Mn 1371 $1412$",
+            "label": "PY Mn 1371",
             "name": "Py1371",
             "parsedInscription": "                                  ]a2-te-we[                    *146\n                                    ]-te[                              *146\n                                      inf. mut.",
             "scribe": "",
@@ -256487,7 +256487,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1376_PN_0.jpg"
             ],
-            "label": "PY Mb 1376 [+] 1395 $1412$",
+            "label": "PY Mb 1376 [+] 1395",
             "name": "Py1376",
             "parsedInscription": "        a3-me-wa[        ]*146   5",
             "scribe": "",
@@ -256530,7 +256530,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py264_PN_0.jpg"
             ],
-            "label": "PY Ae 264 + fr. $8$",
+            "label": "PY Ae 264 + fr.",
             "name": "Py264",
             "parsedInscription": "        pi-ra-jo    a3-ki-pa-ta    su-ra-te    du-ni-jo    me-tu-ra    su-ra-se   VIR   1",
             "scribe": "",
@@ -257143,7 +257143,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1099_PN_0.jpg"
             ],
-            "label": "PY Ab 1099 $186$",
+            "label": "PY Ab 1099",
             "name": "Py1099",
             "parsedInscription": "        ro-u-so   a-ke[-ti-ra2   MUL",
             "scribe": "",
@@ -257377,7 +257377,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py835_PN_0.jpg"
             ],
-            "label": "PY Eb 835 [+] 838 $149$",
+            "label": "PY Eb 835 [+] 838",
             "name": "Py835",
             "parsedInscription": "        ka-ra-u-du-ro    te-o[-jo   ]do-e-ro    e-ke-qe[   o-na-to  ke-ke-me-na  ko-to-na\n        pa-ro    da-mo          [                      ]                             [         to-so-de  pe-mo        GRA   T   2",
             "scribe": "",
@@ -258143,7 +258143,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py700_PN_0.jpg"
             ],
-            "label": "PY Ad 700 $290$",
+            "label": "PY Ad 700",
             "name": "Py700",
             "parsedInscription": "                                    ]o ko-wo   VIR   4   ko-wo     [",
             "scribe": "",
@@ -258339,7 +258339,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py523_PN_0.jpg"
             ],
-            "label": "PY Na 523 $106$",
+            "label": "PY Na 523",
             "name": "Py523",
             "parsedInscription": "        a-sa-pi         SA[",
             "scribe": "",
@@ -258729,7 +258729,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1473_PN_0.jpg"
             ],
-            "label": "PY Xn 1473 $-$",
+            "label": "PY Xn 1473",
             "name": "Py1473",
             "parsedInscription": "                          sup. mut.\n                            ]wo-[\n                            ]vest.[\n                              inf. mut.",
             "scribe": "",
@@ -258895,7 +258895,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py2_PN_0.jpg"
             ],
-            "label": "PY Un 2 $2$",
+            "label": "PY Un 2",
             "name": "Py2",
             "parsedInscription": "          pa-ki-ja-si    mu-jo-me-no    e-pi    wa-na-ka-te  \n        a-pi-e-ke    o-pi-te-ke-e-u\n        HORD   16   T   4   CYP+PA   T   1   V   3     o   V   5\n        FAR   1   T   2   OLIV   3   T   2   *132   S   2   ME   S   1\n        NI   1   BOS   1   OVIS:m 26   OVIS:f   6   CAP:m   2   CAP:f   2\n        SUS+SI   1   SUS:f   6   VIN   20   S   1   *146   2",
             "scribe": "",
@@ -259476,7 +259476,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py57_PN_0.jpg"
             ],
-            "label": "PY Ea 57 [+] 1007 $28$",
+            "label": "PY Ea 57 [+] 1007",
             "name": "Py57",
             "parsedInscription": "        ka-ra-do-wa-ta    e-ke    o-na-to    pa-ro[    da-]mo     GRA 1",
             "scribe": "",
@@ -259580,7 +259580,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py923_PN_0.jpg"
             ],
-            "label": "PY Na 923 $106$",
+            "label": "PY Na 923",
             "name": "Py923",
             "parsedInscription": "                                                       e-re-u-te-ra    [SA   ]   2\n        po-wi-te-ja     SA   29  to-sa-de    ka-ke-we",
             "scribe": "",
@@ -259814,7 +259814,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py79_PN_0.jpg"
             ],
-            "label": "PY Fn 79 $79$",
+            "label": "PY Fn 79",
             "name": "Py79",
             "parsedInscription": "        a3-pu-ke-ne-ja                                   HORD   T   6   V   4   OLIV   1[\n        a-ki-re-we                                           HORD   T   5\n        du-ni-jo    ti-ni-ja-ta                         HORD   V   5\n        to-sa-no                                                HORD   T   6   V   4   OLIV   1\n        ne-e-ra-wo                                          HORD   T   6   V   4   OLIV   1\n        a-e-se-wa                                            HORD   T   6   V   4   OLIV   1\n        ka-ra-so-mo                                       HORD   V   5      ⟦OLIV      ⟧\n        wa-di-re-we                                       HORD   T   2   V   3   OLIV   T   7\n        pe-qe-we                                             HORD   T   1   V   4\n      ze-u-ke-u-si    i-po-po-qo-i-qe     HORD   1   T   7   V   3\n      te-ra-wo-ne                                        HORD   V   5\n      to-wa-no-re                                        HORD   T   6   V   4   OLIV   1   [\n      e-to-wo-ko-i                                       HORD   T   5   V   1\n      a-ki-to                                                  HORD   T   2   V   3   OLIV   1\n              a3-ki-a2-ri-jo                             HORD   T   1   V   4",
             "scribe": "",
@@ -260443,7 +260443,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py466_PN_0.jpg"
             ],
-            "label": "PY Na 466 $106$",
+            "label": "PY Na 466",
             "name": "Py466",
             "parsedInscription": "        u-ra-*86     SA   10",
             "scribe": "",
@@ -261403,7 +261403,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1410_PN_0.jpg"
             ],
-            "label": "PY Mn 1410 $1412$",
+            "label": "PY Mn 1410",
             "name": "Py1410",
             "parsedInscription": "           sup. mut.\n        wi-ja-we[                         *146\n        ma-ra-ne[                        *146\n        •]-ma-ne[                         *146\n            ]vest.[\n           inf. mut.",
             "scribe": "",
@@ -261500,7 +261500,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py292_PN_0.jpg"
             ],
-            "label": "PY An 292 $240$",
+            "label": "PY An 292",
             "name": "Py292",
             "parsedInscription": "        si-to-ko-wo\n        ka-pa-ra2-de    MUL   24   ko-wo   10\n        ko-ro-ki-ja[      ]MUL   8   ko-wo[\n        ki-ni-di[-ja        MUL]   21   ko[-wo\n                              inf. mut.",
             "scribe": "",
@@ -261977,7 +261977,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py990.jpg"
             ],
-            "label": "PY Xn 990 $-$",
+            "label": "PY Xn 990",
             "name": "Py990",
             "parsedInscription": "        na-]u-do-mo[\n            inf. mut.",
             "scribe": "",
@@ -262396,7 +262396,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py419_PN_0.jpg"
             ],
-            "label": "PY Na 419 + fr. $106$",
+            "label": "PY Na 419 + fr.",
             "name": "Py419",
             "parsedInscription": "        re-u-ko-to-ro     SA   10",
             "scribe": "",
@@ -262474,7 +262474,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py176_PN_0.jpg"
             ],
-            "label": "PY Xa 176 + 982 $-$ (Ci)",
+            "label": "PY Xa 176 + 982 (Ci)",
             "name": "Py176",
             "parsedInscription": "        pe-re-wo-te    pa-ro    i[-•-]qa-ne[\n        pe-re-wo-te    pa[-ro",
             "scribe": "",
@@ -262541,7 +262541,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py197_PN_0.jpg"
             ],
-            "label": "PY Na 197 [+] 1108 $106$",
+            "label": "PY Na 197 [+] 1108",
             "name": "Py197",
             "parsedInscription": "                              ]  e-re-u-te-ra    pa-ra-jo\n        ]ro-si-ja[   ]ko-ki-te-jo                       SA   30",
             "scribe": "",
@@ -262678,7 +262678,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py802_PN_0.jpg"
             ],
-            "label": "PY Ea 802 $28$",
+            "label": "PY Ea 802",
             "name": "Py802",
             "parsedInscription": "                                          qo-qo-ta-o    ko-to-na\n        ra-wo-do-ko    e-ke    ke-ke-me-na    ko-to-na         GRA     T   3",
             "scribe": "",
@@ -262945,7 +262945,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py889_PN_0.jpg"
             ],
-            "label": "PY Pa 889 [+] 1002 $49$ (Ciii)",
+            "label": "PY Pa 889 [+] 1002 (Ciii)",
             "name": "Py889",
             "parsedInscription": "        a-ta-[•]-wo-no    qa-si-re-wi-ja    e-re-te-ri-ja           *169   11",
             "scribe": "",
@@ -263000,7 +263000,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py586_PN_0.jpg"
             ],
-            "label": "PY Ab 586 $186$",
+            "label": "PY Ab 586",
             "name": "Py586",
             "parsedInscription": "                                                                                                                             GRA   7   T   7   DA   TA   [\n        pu-ro   ke-re-za    ra-wi-ja-ja   MUL   28   ko-wa   9   ko-wo   5   NI   7   T   7                    [",
             "scribe": "",
@@ -263234,7 +263234,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py50_PN_0.jpg"
             ],
-            "label": "PY Fn 50 + fr. $-$ (Ciii)",
+            "label": "PY Fn 50 + fr. (Ciii)",
             "name": "Py50",
             "parsedInscription": "            a-ki-to-jo    qa-si-re-wi-ja                       HORD[\n          ke-ko-jo    qa-si-re-wi-ja                           HORD   [\n        a-ta-no-ro    qa-si-re-wi-ja                         HORD      T[\n        me-za-ne                        HORD   V   2  a3-ki-a2-ri-jo     V   2[\n        me-ri-du-te                    HORD   V   3  mi-ka-ta     HORD   V   3\n        di-pte-ra-po-ro             HORD   V   2  e-to-wo-ko               V   2\n        a-to-po-qo                      HORD   V   2  po-ro-du-ma-te     HORD   V   2\n        o-pi-te-u-ke-e-we        HORD   V   2  i-za-a-to-mo-i     HORD   V   3\n        ze-u-ke-u-si                   HORD   V   4\n                      ]                                              vac.\n      au[-ke-i-]ja-te-wo    do-e-ro-i                HORD   T   1\n      mi-jo[-qa   ]  do-e-ro-i                              HORD   V   3\n      a-pi-e-ra⌞ ⌟do-e-ro-i                               HORD   V   3\n          ]-wo[   ]ne[           do-e-ro-]i                 HORD   T   3\n                                           vac.\n                                           vac.\n                                           vac.\n                                           vac.\n                                           vac.",
             "scribe": "",
@@ -263803,7 +263803,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py756_PN_0.jpg"
             ],
-            "label": "PY Ea 756 $28$",
+            "label": "PY Ea 756",
             "name": "Py756",
             "parsedInscription": "                                     ki-ti-me-na\n        sa-ke-re-wo    i-je-re-wo    ko-to-na      GRA   6     [",
             "scribe": "",
@@ -264255,7 +264255,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1416_PN_0.jpg"
             ],
-            "label": "PY Wr 1416 $-$",
+            "label": "PY Wr 1416",
             "name": "Py1416",
             "parsedInscription": "α\n        CAP:f •   supra sigillum\nβ\n        vac.\nγ\n        vac.",
             "scribe": "",
@@ -264325,7 +264325,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py718_PN_0.jpg"
             ],
-            "label": "PY Un 718 $312$",
+            "label": "PY Un 718",
             "name": "Py718",
             "parsedInscription": "          sa-ra-pe-da    po-se-da-o-ni    do-so-mo\n        o-wi-de-ta-i    do-so-mo    to-so    e-ke-ra2-wo\n        do-se      GRA   4  VIN  3 BOS:m 1\n        tu-ro2    TU±RO2   10   ko-wo    *153   1\n        me-ri-to        V   3\n                                                               vac.\n        o-da-a2    da-mo       GRA   2     VIN   2\n        OVIS:m 2  TU±RO2   5   a-re-ro    A±RE±PA   V   2   *153   1\n        to-so-de    ra-wa-ke-ta    do-se  \n      OVIS:m   2   me-re-u-ro    FAR   T   6\na                                                                                   -ma\nb    VIN   S   2   o-da-a2    wo-ro-ki-jo-ne-jo    ka-\n      GRA   T   6   VIN   S  1 TU±RO2 5 me-ri[\n                vac.     [                        me-]ri-to V 1",
             "scribe": "",
@@ -265325,7 +265325,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1343.jpg"
             ],
-            "label": "PY Xn 1343 $-$",
+            "label": "PY Xn 1343",
             "name": "Py1343",
             "parsedInscription": "                            ]vac.[\n                            ]-qe-re-te-u[\n                            inf. mut.",
             "scribe": "",
@@ -265567,7 +265567,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py74_PN_0.jpg"
             ],
-            "label": "PY En 74 + frr. $74$",
+            "label": "PY En 74 + frr.",
             "name": "Py74",
             "parsedInscription": "                ru-*83-o    ko-to-na⌞ ⌟ki-ti-me    to-so-de    pe-mo     GRA   1   T[   5\n              o-da-a2  o-na-te-re    ru-*83-o    ko-to-na    e-ko-si\n            pe-ki-ta    ka-na-pe-u    wa-na-ka-te-ro    [o-]na-to    e-ke    to-so-de    pe-mo   GRA   T   1\n            mi-ra    te-o-jo    do-e-ra⌞ ⌟e-ke    to-so-de⌞ ⌟pe-mo                                                 GRA   T   1\n        te-se-u    te-o-jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo                                   GRA   T   4\n        ma-re-ku-na    te-o-jo    do-e-ro    o-na[-to  e-ke  to-so-de   ]pe-mo                             GRA   T   1\n        e-ko-to    te-o-jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo                                   GRA   V   3\n        ma-*79    te-o-jo    do-e-ra    o-na-to    e-ke    to-so-de    pe-mo                                   GRA   V   3\n        e-*65-to    te-o-jo   do-e[-ro]    o-na-to    e-ke    to-so-de    pe-mo                               GRA   V   1\n                                                  angustum\n      a3-ti-jo-qo    ko-to-na    ki-ti-me-na    to-so-de    pe-mo                                     GRA   1   T   5   V   4\n      o-da-a2  o-na-te-re    e-ko-si    a3-ti-jo-qo    ko-to-na\n      e-pa-sa-na-ti    te-o-jo    do-e-ra o-na-to    e-ke    to-so-de  pe-mo                               GRA   T   2\n      ku-*63-so⌞ ⌟te-o-jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo                           GRA   T   1\n      ta-ra2-to    te-o-jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo                               GRA   T   1\n      we-te-re-u    i-e-re-u    o-na-to    e-ke    to-so-de    pe-mo                                             GRA   T   5\n      e-ko-to    te-o-jo    do-e-ro    o-na-to    e-ke    to-so-de    pe-mo                                  GRA   T   1\n      ko-ri-si-ja    te-o-jo    do-e-ra    o-na-to    e-ke    to-so-de    pe-mo                             GRA   T   5\n                                                  angustum\n      pi-ke-re-wo    ko-to-na    ki-ti-me-na    to-so-de    pe-mo                                         GRA   2   T   6\n      o-da-a2    o-na-te-re    e-ke-si    pi-ke-re-wo    ko-to-na\n      a3-wa-ja    te-o-jo    do-e-ra    o-na-to    e-ke    to-so-de    pe-mo                          GRA   T   1\n      pe-ki-ta    ka-na-pe-u    wa-na-ka-te-ro    o-na-to    e-ke    to-so-de    pe-mo          GRA   T   2\n      ko-ri-si-ja    te-o-jo    do-e-ra    o-na-to    e-ke    to-so-de    pe-mo                         GRA   T   5",
             "scribe": "",
@@ -266330,7 +266330,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py134_PN_0.jpg"
             ],
-            "label": "PY Ae 134 $8$",
+            "label": "PY Ae 134",
             "name": "Py134",
             "parsedInscription": "                                                                                                    o-ro-me-no\n        ke-ro-wo    po-me    a-si-ja-ti-ja    o-pi    ta-ra-ma-o  qe-to-ro-po-pi   VIR   1",
             "scribe": "",
@@ -266388,7 +266388,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1404.jpg"
             ],
-            "label": "PY Mb 1404 $1412$",
+            "label": "PY Mb 1404",
             "name": "Py1404",
             "parsedInscription": "                            *146     ]2",
             "scribe": "",
@@ -266481,7 +266481,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py742_PN_0.jpg"
             ],
-            "label": "PY Sh 742 $733$ (Cii)",
+            "label": "PY Sh 742 (Cii)",
             "name": "Py742",
             "parsedInscription": "        ARM   1   me-zo-a2   O   20   me-u-jo-a2   O   10   ko-ru-to   O   4   PA   2",
             "scribe": "",
@@ -266584,7 +266584,7 @@ var inscriptions = new Map(
                 "images/photos/Py130_PN_0.jpg",
                 "images/photos/Py130_PN_1.jpg"
             ],
-            "label": "PY Vn 130 $-$",
+            "label": "PY Vn 130",
             "name": "Py130",
             "parsedInscription": "          o-ze-to    ke-sa-do-ro     *34-to-pi  \n                                                            pa-ro\n      a-ke-a2    me-ta-pa    pe-ri-te                       1\n        a-pi-no-e-wi-jo    pa-ro    e-ru-si-jo             1\n        a-pi-no-e-wi-jo    pa-ro    a3-ki-e-we          4\n        e-na-po-ro    pa-ro    wa-do-me-no             9\n        sa-ri-no-te    pa-ro    o-wo-to           5\n        pa-ki-ja-si    pa-ro    a-ta-no-re         4\n        ka-ra-do-ro    pa-ro    to-ro-wo        1\n        pa-ki-ja-si    pa-ro    e-ri-we-ro        3\n      e-wi-te-wi-jo    pa-ro    wi-sa-to      1\n          ]me-te-to    pa-ro    ko-do     3\n        ro-]u-so                24\n                  ]me-te-to    pa-ro    e-u-qo-ne   3",
             "scribe": "",
@@ -267001,7 +267001,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py340_PN_0.jpg"
             ],
-            "label": "PY An 340 + frr.(4) + fr. $129$",
+            "label": "PY An 340 + frr.(4) + fr.",
             "name": "Py340",
             "parsedInscription": "              pa-ro    a-ta-o                VIR ⌞6[\n        a-ta-o    ka-wa-ti-ro           VIR   1   [\n        a-ta-o    wi-ri-wo[             ]VIR   1\n        a-ta-o[        ]te-u                  VIR[ ]1\n        a[-ta-o        ]-ja-do-ro        VIR   1\n        a-ta-o]    [         ]-te-u         VIR   1\n        a-ta-o    pu[     ]-a2-ko      VIR   1\n        a-ta-o    wo-ti-jo                VIR   1\n        a-ta-o    te-pe-u                  VIR   1\n      a-ta-o    pu-ti-ja                  VIR   1\n      a-ta-o    a-re-[ ]                  VIR   1\n      a-ta-o    a-no-ra-ta            VIR   1\n      a-ta-o    a-wa-ta                VIR[   1\n      a-ta-o    ka-u-ti-ta            VIR[   1\n                   ]            vacat         [\n                           ]     vac.            [\n                                      inf. mut.",
             "scribe": "",
@@ -267391,7 +267391,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py577_PN_0.jpg"
             ],
-            "label": "PY Na 577 $106$",
+            "label": "PY Na 577",
             "name": "Py577",
             "parsedInscription": "        ke-i-jo     SA   14",
             "scribe": "",
@@ -267598,7 +267598,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1194_PN_0.jpg"
             ],
-            "label": "PY Fr 1194 $-$",
+            "label": "PY Fr 1194",
             "name": "Py1194",
             "parsedInscription": "                                  ]de   OLE+A   V   1   OLE[",
             "scribe": "",
@@ -267771,7 +267771,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1314_PN_0.jpg"
             ],
-            "label": "PY Vn 1314 + frr. $-$ (Cii)",
+            "label": "PY Vn 1314 + frr. (Cii)",
             "name": "Py1314",
             "parsedInscription": "                a-wa-ra-ka-na-o    pa-ma-ko\n        jo-qi    wo-to-mo    pe-re   1\n                                       do-we-na-qe    KA    -na\n      a-wa-ra-ka-na  e-pi-ka   ka-ja    pa-ra-we-",
             "scribe": "",
@@ -268331,7 +268331,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1519_PN_0.jpg"
             ],
-            "label": "PY Xn 1519 $-$",
+            "label": "PY Xn 1519",
             "name": "Py1519",
             "parsedInscription": "        sup. mut.\n        ] vacat\n        ] vacat\n          inf. mut.",
             "scribe": "",
@@ -268392,7 +268392,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py636_PN_0.jpg"
             ],
-            "label": "PY Eb 636 $149$",
+            "label": "PY Eb 636",
             "name": "Py636",
             "parsedInscription": "                                          ]te-o-jo    do-e[\n                              ke-ke-]me-na    ko-to-na[                GRA",
             "scribe": "",
@@ -268600,7 +268600,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py789_PN_0.jpg"
             ],
-            "label": "PY Ab 789 $186$",
+            "label": "PY Ab 789",
             "name": "Py789",
             "parsedInscription": "                                                                                            GRA   2   T   1[\n       pu-ro\n      me-re-ti-ra2   MUL   6   ko-wo   6   ko-wo   3   NI   2   T   1[",
             "scribe": "",
@@ -269498,7 +269498,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py211_PN_0.jpg"
             ],
-            "label": "PY Eo 211 + fr. $149$",
+            "label": "PY Eo 211 + fr.",
             "name": "Py211",
             "parsedInscription": "          wa-na-ta-jo-jo    ko-to-na    ki-ti-me-na                                                            GRA   2[     V   1\n          a-tu-ko    e-te-do-mo    e-ke-qe    o-na-to    pa-ro   wa-na-ta[-jo]           GRA   [        V   1\n          i-ni-ja    te-o-jo    do-e-ra    e-ke-qe    o-na-to  pa-ro    wa-na-ta[-jo]     GRA   [   T   2   V   4\n        e-*65-to    te-o-jo    do-e-ro    e-ke-qe    o-na-to    pa-ro    wa-ta-jo         GRA   [   T   2\n        si-ma    te-o-jo    do-e-ra    e-ke-qe    o-na-to    pa-ro    wa-na-ta-jo        GRA   T   1        [\n                                                                                                    vac.                                       [         ]     vac.     [",
             "scribe": "",
@@ -270321,7 +270321,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py667_PN_0.jpg"
             ],
-            "label": "PY Ad 667 $290$",
+            "label": "PY Ad 667",
             "name": "Py667",
             "parsedInscription": "        pu-ro   ra-qi-ti-ra2-o   ko-wo   VIR   2",
             "scribe": "",
@@ -270458,7 +270458,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py71_PN_0.jpg"
             ],
-            "label": "PY Ea 71 $28$",
+            "label": "PY Ea 71",
             "name": "Py71",
             "parsedInscription": "                                    po-me\n        ko-do-jo     ko-to-na⌞ ⌟ki-ti-me-na           GRA     1     T   4   V   3",
             "scribe": "",
@@ -271433,7 +271433,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py701_PN_0.jpg"
             ],
-            "label": "PY Aa 701 $240$",
+            "label": "PY Aa 701",
             "name": "Py701",
             "parsedInscription": "        a-*64-ja   MUL   35   ko-wa   11   ko-wo   14   DA   1   TA   1",
             "scribe": "",
@@ -271629,7 +271629,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py774_PN_0.jpg"
             ],
-            "label": "PY Sa 774 $287$",
+            "label": "PY Sa 774",
             "name": "Py774",
             "parsedInscription": "        mo-qo-so-jo    wo-ka    we-je-ke-e      ROTA+TE   ZE   1[",
             "scribe": "",
@@ -271678,7 +271678,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1089_PN_0.jpg"
             ],
-            "label": "PY Na 1089 $106$",
+            "label": "PY Na 1089",
             "name": "Py1089",
             "parsedInscription": "                           ]   SA   5   [",
             "scribe": "",
@@ -271934,7 +271934,7 @@ var inscriptions = new Map(
                 "images/photos/Py395_PN_0.jpg",
                 "images/photos/Py395_PN_1.jpg"
             ],
-            "label": "PY Na 395 $106$",
+            "label": "PY Na 395",
             "name": "Py395",
             "parsedInscription": "lat. sup.\n                             ]     ke-ke-me-no-jo    wa-te-u\n                         ]     e-re-u-te-ro-se      SA   15\n                         ]     to-sa-de    pe-i     ke-u-po-da⌞ ⌟e-sa-re-u",
             "scribe": "",
@@ -272201,7 +272201,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1054_PN_0.jpg"
             ],
-            "label": "PY Na 1054 $106$",
+            "label": "PY Na 1054",
             "name": "Py1054",
             "parsedInscription": "                                                     vac.[\n        te-tu-ru-we     SA   40  to[-sa-de",
             "scribe": "",
@@ -272256,7 +272256,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py124_PN_0.jpg"
             ],
-            "label": "PY Ma 124 + fr. $90$",
+            "label": "PY Ma 124 + fr.",
             "name": "Py124",
             "parsedInscription": "        a-pu2-we  *146   23   RI   M   23   KE   M   7  *152   10     O   M  5     ME   500\n        o-da-a2    ka-ke-we    o-u-di-do-si   *146   1   RI   M   1  *152   1          ME   20",
             "scribe": "",
@@ -272480,7 +272480,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1337_PN_0.jpg"
             ],
-            "label": "PY Xa 1337 $-$ (Ciii)",
+            "label": "PY Xa 1337 (Ciii)",
             "name": "Py1337",
             "parsedInscription": "                           ]ke-wa-o     o-pe[-ro\n                           ]8   a-ka-na-jo[",
             "scribe": "",
@@ -272588,7 +272588,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py252_PN_0.jpg"
             ],
-            "label": "PY Na 252 $106$",
+            "label": "PY Na 252",
             "name": "Py252",
             "parsedInscription": "                                    e-re-u-te-ra    SA   6\n        ri-jo    SA   24  to-sa-de    ka-ke-we  ",
             "scribe": "",
@@ -272869,7 +272869,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1406_PN_0.jpg"
             ],
-            "label": "PY Ea 1406 $-$",
+            "label": "PY Ea 1406",
             "name": "Py1406",
             "parsedInscription": "        ]ke-ta    e-ke[",
             "scribe": "",
@@ -272909,7 +272909,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1308_PN_0.jpg"
             ],
-            "label": "PY Qa 1308 $1295$",
+            "label": "PY Qa 1308",
             "name": "Py1308",
             "parsedInscription": "                                    ]pa-ke-u     *189   1",
             "scribe": "",
@@ -272989,7 +272989,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py108_PN_0.jpg"
             ],
-            "label": "PY Ae 108 $8$",
+            "label": "PY Ae 108",
             "name": "Py108",
             "parsedInscription": "                                                                                       o-ro-me[-no\n        qo-te-ro    a3-ki-pa-ta    o-pi    ta-ra-ma-ta-o    qe[-to-ro-po-pi   VIR   1",
             "scribe": "",
@@ -273513,7 +273513,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py798_PN_0.jpg"
             ],
-            "label": "PY Aa 798 $240$",
+            "label": "PY Aa 798",
             "name": "Py798",
             "parsedInscription": "        ro-u-so    mi-ra-ti-ja   MUL   54   ko-wa   35   ko-wo   22   DA   1   TA   1",
             "scribe": "",
@@ -273757,7 +273757,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py725_PN_0.jpg"
             ],
-            "label": "PY Jn 725 + frr.(29) + frr.(6) $310$",
+            "label": "PY Jn 725 + frr.(29) + frr.(6)",
             "name": "Py725",
             "parsedInscription": "             e-ni-pa-te-we⌞ ⌟ka-ke-we    ta-ra-si-ja    e-ko-te\n          te-pe   1   pa-qo-ta[   1   ]e-ka-no   1   au-ta-mo   1\n          we-we-si-jo   1   pe-re-qo-no   1   ti-ri-[•]   1[   ]ko-no   1\n         ma-ka-ta   1   o-na-se-u   1   wi-jo-ro-jo   1\n        wa-tu-ta   1   o-tu-wo-we   1   po-ro-ko   1   po-ro-u-jo   1\n          pe-re-ta   1   o-wo-ta   1   o-pe-ra-no   1   o-ru-we-ro   1\n        a-tu-ko   1   re-u-ka-ta   1   o-wa-ko   1 wo-wi-ja-ta   1\n        ko-ma-do-ro   1   po-so-ra-ko   1   wa-ti-ko-ro   1   i-*65-qe   1\n                                                               vacat\n      to-so-de ]    ka-ko     AES     L   2   M   18\n                                                            vac.\n                                                            vac.\n                                                            vac.\n          ]-nu-we-jo    a-pi-jo   1   AES   M   5   ne-qe-u   AES   M   3\n             ]ne-u   AES   M   1[   ]e-u-me-ne   AES   M   3\n      e-ru-ta-jo   AES   M   4\n                                                            vac.\n      ⟦ na-i-se-wi-jo    ka-ke-u    ta-ra-si-ja    e-ko-te ⟧\n      ⟦ ra-ma-jo   1   ri-ja-ko   1   ma-no-u-ro   1   re-u-si-wo   1 ⟧\n      ⟦ ke-ki   1   a-pe-te-u   1   ri-ku-we   1   po-ti-na-jo   1 ⟧\n      ⟦                                       to-so-de    ka-ko   AES   M   12 ⟧\n      ⟦ to-so-de    ka-ko       AES   M   30 ⟧\n      a-ke-re-wa    ka-ke-we    e-u-ko-me-no    1[\n      di-nu-wa-ta   1   wa-du-ri-jo   1     o-wi-da   1   [\n               to-so-de    ka-ko   AES   M   12           [\n                                         vac.                                   [",
             "scribe": "",
@@ -274708,7 +274708,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py987_PN_0.jpg"
             ],
-            "label": "PY Aa 987 $240$",
+            "label": "PY Aa 987",
             "name": "Py987",
             "parsedInscription": "                               ]TA   1",
             "scribe": "",
@@ -274817,7 +274817,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py296_PN_0.jpg"
             ],
-            "label": "PY Na 296 $106$",
+            "label": "PY Na 296",
             "name": "Py296",
             "parsedInscription": "        ku-te-re-u-pi       SA   100",
             "scribe": "",
@@ -275626,7 +275626,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py989_PN_0.jpg"
             ],
-            "label": "PY Fn 989 $79$",
+            "label": "PY Fn 989",
             "name": "Py989",
             "parsedInscription": "        sup. mut.\n        pa-u-ta[                                                      HORD\n            vac.   [\n        inf. mut.",
             "scribe": "",
@@ -275808,7 +275808,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py34_PN_0.jpg"
             ],
-            "label": "PY Vn 34 + 1191 + 1006 [+] fr. $-$ (Ciii)",
+            "label": "PY Vn 34 + 1191 + 1006 [+] fr. (Ciii)",
             "name": "Py34",
             "parsedInscription": "        me-ti-ja-no-ro   wo-di-je-ja   1\n        ka-e-sa-me-no-jo    a-*64-ja   1\n        e-to-mo-jo   o-[•]-o-wa   1\n        de-ki-si-wo-jo   pi-ri-ta   1\n        a-ta-o-jo   pi-ro-pa-ta-ra   1\n        qa-ko-jo   ma-ra-me-na[   1        ]  vac.\n        pe-ra2[                                   1          ] vac.\n        a-[                                            1\n        du-[   ]jo-jo   [                     1\n                  ]wa-o    o-[              1\n                   inf. mut.",
             "scribe": "",
@@ -276467,7 +276467,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1132_PN_0.jpg"
             ],
-            "label": "PY Xn 1132 $-$ (Ci)",
+            "label": "PY Xn 1132 (Ci)",
             "name": "Py1132",
             "parsedInscription": "                              sup. mut.\n                                ]ta-[\n                            ]ne    qa[\n                        ]vest.[\n                               inf. mut.",
             "scribe": "",
@@ -276824,7 +276824,7 @@ var inscriptions = new Map(
                 "images/photos/Py1331_PN_0.jpg",
                 "images/photos/Py1331_PN_1.jpg"
             ],
-            "label": "PY Wr 1331 $1331$ (Ci)",
+            "label": "PY Wr 1331 (Ci)",
             "name": "Py1331",
             "parsedInscription": "α\n        OVIS:m   supra sigillum\nβ\n            vac.\nγ\n            o-pa",
             "scribe": "",
@@ -277151,7 +277151,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py571_PN_0.jpg"
             ],
-            "label": "PY Na 571 $106$",
+            "label": "PY Na 571",
             "name": "Py571",
             "parsedInscription": "        me-ka-o  wo-wo     SA   30",
             "scribe": "",
@@ -277415,7 +277415,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1338.jpg"
             ],
-            "label": "PY Fr 1338 $-$ (Cii)",
+            "label": "PY Fr 1338 (Cii)",
             "name": "Py1338",
             "parsedInscription": "        e-qo-me-ne[\n           di-pi-si-jo-i[                                     OLE",
             "scribe": "",
@@ -277461,7 +277461,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py574.jpg"
             ],
-            "label": "PY Ae 574 $-$ (Cii)",
+            "label": "PY Ae 574 (Cii)",
             "name": "Py574",
             "parsedInscription": "        pe-re-ke-we   VIR   13",
             "scribe": "",
@@ -278354,7 +278354,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py806_PN_0.jpg"
             ],
-            "label": "PY Ea 806 $28$",
+            "label": "PY Ea 806",
             "name": "Py806",
             "parsedInscription": "        ke-re-te-u    e-ke    o-na-to    ke-ke-me-na    ko-to-na   GRA   1   T   2",
             "scribe": "",
@@ -278559,7 +278559,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1357.jpg"
             ],
-            "label": "PY Nn 1357 $106$",
+            "label": "PY Nn 1357",
             "name": "Py1357",
             "parsedInscription": "        to-]sa-de     e-ma-a2    e-re[     SA   qs\n        to-]sa-de     e-po-me-ne-we   [   SA   qs\n        to-]sa-de     ka-ke-we    e-re-u-te[   SA   qs\n          ]to-sa-de     ko-re-te-re    e-re-u[           SA   qs",
             "scribe": "",
@@ -279044,7 +279044,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1291_PN_0.jpg"
             ],
-            "label": "PY Qa 1291 $1295$",
+            "label": "PY Qa 1291",
             "name": "Py1291",
             "parsedInscription": "        e-ka-sa-te-[                               *189",
             "scribe": "",
@@ -279081,7 +279081,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py683_PN_0.jpg"
             ],
-            "label": "PY Ad 683 $290$",
+            "label": "PY Ad 683",
             "name": "Py683",
             "parsedInscription": "        pu-ro   ki-ni-di-ja-o   ko-wo   VIR   5   ko-wo   4",
             "scribe": "",
@@ -279486,7 +279486,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1259_PN_0.jpg"
             ],
-            "label": "PY Qa 1259 + 1335 $1295$",
+            "label": "PY Qa 1259 + 1335",
             "name": "Py1259",
             "parsedInscription": "        de-ka-ta    ri-ma      *189   1",
             "scribe": "",
@@ -279614,7 +279614,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1280_PN_0.jpg"
             ],
-            "label": "PY Ac 1280 $1272$ (Ciii)",
+            "label": "PY Ac 1280 (Ciii)",
             "name": "Py1280",
             "parsedInscription": "        me-ta-pa     VIR   22   o-pe-ro   VIR   7",
             "scribe": "",
@@ -280155,7 +280155,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1220_PN_0.jpg"
             ],
-            "label": "PY Fr 1220 $1202$",
+            "label": "PY Fr 1220",
             "name": "Py1220",
             "parsedInscription": "        ro-u-si-jo    a-ko-ro    pa-ko-we     OLE+PA   V   4\n        di-pi-si-jo-i    wa-na-ka-te                              OLE+PA   S   1",
             "scribe": "",
@@ -280219,7 +280219,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py791_PN_0.jpg"
             ],
-            "label": "PY Sa 791 $287$",
+            "label": "PY Sa 791",
             "name": "Py791",
             "parsedInscription": "        te-mi-dwe-ta    we-je-ke-a2        ROTA+TE   ZE   2   [",
             "scribe": "",
@@ -280265,7 +280265,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py261_PN_0.jpg"
             ],
-            "label": "PY An 261 + fr. [+] 283 $-$",
+            "label": "PY An 261 + fr. [+] 283",
             "name": "Py261",
             "parsedInscription": "                           ]we-ke          ke-tu-wo-e\n        o-two-we-o    ke-ro-si-ja   a3-nu-me-no          VIR   1[\n        o-two-we-o    ke-ro-si-ja  qo-te-ro                     VIR[   1\n        o-two-we-o    ke-ro-si-ja    a2-e-ta                  [VIR   1\n        o-two-we-o    ke-ro-si-ja    o-du-*56-ro        [VIR   1\n        a-pi-jo-to         ke-ro-si-ja    ku-te-re-u            VIR[   1\n        a-pi-jo-to         ke-ro-si-ja    o-wo-to                 VIR   1\n        a-pi-jo-to    ke-ro-si-ja    a-ra-i-jo                     VIR   1\n        a-pi-jo[-to ]   ke-ro-si-ja    ri-zo                         VIR   1\n      ta-we[-si-jo-]jo    ke-ro-si-ja    wa-[    ]           VIR   1\n      ta-we-si[-jo-]jo    ke-ro-si-ja    [       ]                VIR   1\n      ta-we-si-jo-jo    ke-ro-si-ja [     ]wa-ne-u         VIR   1\n      a-pi-qo[-ta-o]    ke-ro-si-ja    a3-so-ni-jo        VIR   1\n      a[-pi-qo-ta-o   ] ke-ro-si-ja    a[      ]te               VIR[   1\n                                  ]ke-ro-si-ja    a[       ]                   VIR   1\n                                  ke-ro-]si-ja    [•~]me-ka-[•]   VIR   1\n      a-[                       ke-ro-]si-ja    o-pa-[ ]vac.[       VIR   1\n      vac.[                      ] vac.\n      vac. [                     ] vac.\nv.\n        ta-we-si-jo-jo    ke-ro-si-ja    te-wa[                                  VIR   1\n        ta-]we-si-jo-jo    ke-ro-si-ja    tu-ru-we-u                        VIR   1\n                                                                   ] angustum\n        ta-]we-si-jo-jo    ke-ro-si      VIR   20\n        a-pi-qo-ta-o    ke-ro-si-ja     VIR   17\n        a-pi-o-to    ke-ro-si-ja            VIR   [1]8⌟\n        o-to-wo[-o ke-]ro-si-ja          VIR   [1]4\n        angustum       [      ]                 [        ]\n        ka-ma-e[-we]                            VIR   10",
             "scribe": "",
@@ -281285,7 +281285,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py584_PN_0.jpg"
             ],
-            "label": "PY Ab 584 $186$",
+            "label": "PY Ab 584",
             "name": "Py584",
             "parsedInscription": "                                    ]GRA   10   T   2 DA 1[\n                                    ]NI       10   T    2          [",
             "scribe": "",
@@ -281619,7 +281619,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1302_PN_0.jpg"
             ],
-            "label": "PY Qa 1302 $1295$",
+            "label": "PY Qa 1302",
             "name": "Py1302",
             "parsedInscription": "                           ]   *189   2   [",
             "scribe": "",
@@ -281691,7 +281691,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1358_PN_0.jpg"
             ],
-            "label": "PY Wr 1358 $-$",
+            "label": "PY Wr 1358",
             "name": "Py1358",
             "parsedInscription": "α\n        VIN   supra sigillum\nβ\n        vac.\nγ\n        vac.",
             "scribe": "",
@@ -281908,7 +281908,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py483_PN_0.jpg"
             ],
-            "label": "PY Sa 483 + 1079 + fr. $287$",
+            "label": "PY Sa 483 + 1079 + fr.",
             "name": "Py483",
             "parsedInscription": "        to-⌞sa⌟   ROTA+TE   ZE   10[  MO]   1   [",
             "scribe": "",
@@ -283208,7 +283208,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py848_PN_0.jpg"
             ],
-            "label": "PY Na 848 $106$",
+            "label": "PY Na 848",
             "name": "Py848",
             "parsedInscription": "                        e-re-u-te-]ra     SA   21\n                                       ]ke-ki-do     [",
             "scribe": "",
@@ -283735,7 +283735,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py338_PN_0.jpg"
             ],
-            "label": "PY Eb 338 + fr. $149$",
+            "label": "PY Eb 338 + fr.",
             "name": "Py338",
             "parsedInscription": "        ka-pa-ti-ja    ka-ra-wi-po[-ro pa-]ki-ja-pi    e-ke-qe       to-so-de  pe-mo\n        ke-ke-me-no    ko-to-no⌞ ⌟dwo    o-pe-ro-sa-de    wo-zo-e    o-wo-ze        GRA[   qs",
             "scribe": "",
@@ -284967,7 +284967,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py460_PN_0.jpg"
             ],
-            "label": "PY Ea 460 $28$",
+            "label": "PY Ea 460",
             "name": "Py460",
             "parsedInscription": "                              ra-pte\n        ti-ri-da-ro   e-ke   o-na    pa-ro    da-mo[              GRA",
             "scribe": "",
@@ -285080,7 +285080,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1243_PN_0.jpg"
             ],
-            "label": "PY Fr 1243 $-$",
+            "label": "PY Fr 1243",
             "name": "Py1243",
             "parsedInscription": "                            OLE     ]   V   1",
             "scribe": "",
@@ -285120,7 +285120,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py661_PN_0.jpg"
             ],
-            "label": "PY An 661 $657$",
+            "label": "PY An 661",
             "name": "Py661",
             "parsedInscription": "          e-ki-no-jo    o-ka    e-o-te-u  \n        a-ti-ro-[•]     i-da-i-jo    e-se-re-a2  \n        e-na-po-ro    i-wa-so    VIR   70\n           a]-o-ri-jo    ko-ro-ku[-ra-]i-jo   VIR   30\n        ka-ra-do-ro    ko-ro-ku-ra-i-jo      VIR   10\n        za-e-to-ro    ko-ro-ku-ra-i-jo          VIR   20\n        me-ta-qe    pe-i    e-qe-ta    wo-ro-tu-mi-ni-jo\n                                                 ]  \n        e-ko-me-na-ta-o    o-ka \n      ti-mi-to⌞ ⌟a-ke-i    ma-i-u    ro-qo-ta \n      a-ke[-re-]u    a-ke-wa-to  \n      a2-ka-a2-ki-ri-jo    u-ru-pi-ja-jo  \n      ne-do-wo-ta-de   VIR   30  me-ta-qe    pe-i    e-qe-ta  ",
             "scribe": "",
@@ -285408,7 +285408,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py85_PN_0.jpg"
             ],
-            "label": "PY Aa 85 $60$",
+            "label": "PY Aa 85",
             "name": "Py85",
             "parsedInscription": "        a-ke-ti-ri-ja   MUL   12   ko-wa   16   ko-wo   8   DA   1   TA   1",
             "scribe": "",
@@ -286050,7 +286050,7 @@ var inscriptions = new Map(
                 "images/photos/Py498_PN_0.jpg",
                 "images/photos/Py498_PN_1.jpg"
             ],
-            "label": "PY Eb 498 + 1468 $149$",
+            "label": "PY Eb 498 + 1468",
             "name": "Py498",
             "parsedInscription": "lat. sup.\n                                                 pa[-ro da-mo        ] vacat\nr.\n        i-do-me-ne-ja    te-o[-jo  do-e-ra  e-ke-]qe    o-na-to    ke-ke-me-na    ko-to-na   [\n          GRA        T   1       V   3                                                                                                                  [",
             "scribe": "",
@@ -286221,7 +286221,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1478.jpg"
             ],
-            "label": "PY Xn 1478 $-$",
+            "label": "PY Xn 1478",
             "name": "Py1478",
             "parsedInscription": "                                    ]vac.[\n                            ]2        [\n                            ]        vac.        [\n                                    ]vac. [\n                                     inf. mut.",
             "scribe": "",
@@ -286472,7 +286472,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1251_PN_0.jpg"
             ],
-            "label": "PY Fr 1251 [+] fr. $1202$",
+            "label": "PY Fr 1251 [+] fr.",
             "name": "Py1251",
             "parsedInscription": "        wa-na-so-i[  ]OLE[",
             "scribe": "",
@@ -286789,7 +286789,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1016_PN_0.jpg"
             ],
-            "label": "PY Na 1016 $106$",
+            "label": "PY Na 1016",
             "name": "Py1016",
             "parsedInscription": "                                                     ]   SA   10",
             "scribe": "",
@@ -286826,7 +286826,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py177_PN_0.jpg"
             ],
-            "label": "PY Eb 177 [+] 1010 $149$",
+            "label": "PY Eb 177 [+] 1010",
             "name": "Py177",
             "parsedInscription": "                    ]re-u[     a-si-]to-po-qo    ka-ma-e-u\n        e-ke-qe  wo-ze-qe                                     ]            to-so-de    pe-mo   GRA   1   T   2",
             "scribe": "",
@@ -286956,7 +286956,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1008_PN_0.jpg"
             ],
-            "label": "PY Wa 1008 $240$",
+            "label": "PY Wa 1008",
             "name": "Py1008",
             "parsedInscription": "                 MUL   [\n        o-si-to-[",
             "scribe": "",
@@ -287068,7 +287068,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1195_PN_0.jpg"
             ],
-            "label": "PY Fa 1195 [+] 1196 $138$",
+            "label": "PY Fa 1195 [+] 1196",
             "name": "Py1195",
             "parsedInscription": "        HORD     13[     ]T   3",
             "scribe": "",
@@ -287375,7 +287375,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1372_PN_0.jpg"
             ],
-            "label": "PY Ob 1372 $-$ (Ciii)",
+            "label": "PY Ob 1372 (Ciii)",
             "name": "Py1372",
             "parsedInscription": "        ]2   *166+WE   1   [",
             "scribe": "",
@@ -287418,7 +287418,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py254_PN_0.jpg"
             ],
-            "label": "PY Cn 254 + fr. + frr. [+] 272 $4$",
+            "label": "PY Cn 254 + fr. + frr. [+] 272",
             "name": "Py254",
             "parsedInscription": "                     pa-ra-jo\n      a-si[-ja-ti-ja  pa-]ro    tu-ru-we-u                               OVIS:m   180\n        a-si-ja-ti-ja     pa-ro    ti-tu[                                          ]OVIS:m   100\n        a-si-ja-ti-ja     pa-ro    e-te-wa[                                    OVIS:x]   100\n                                                                  we-da-ne-wo\n      a-si-ja-ti-ja     pa-ro    a-no    de-ki-si-wo               OVIS:m   80[\n        a-si-ja-ti-ja⌞ ⌟pa-ro    ko-ru-ta-ta    we-da-ne-wo   OVIS:m   80[\n                                                                                          -jo\n      a-si-ja-ti-ja⌞ ⌟pa-ro    i-sa-na-o-ti    a-ke-o-              OVIS:f[ qs\n        a-si-ja-ti-ja      pa-ro    ra-ke-u    we-da-ne-wo         CAP:x[ qs ]v.\n        a-si-ja-ti-ja      pa-ro    pi-ro-qo-ro[                                            ]   40\n        a-si-ja-ti-ja      pa-ro    a-ko-to-wo  a[                           ]SUS:f   48\n      ⟦a-si-ja-ti-ja     pa-ro         ⟧[                                             ]⟦                    ⟧",
             "scribe": "",
@@ -288158,7 +288158,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1211_PN_0.jpg"
             ],
-            "label": "PY Fr 1211 $343$",
+            "label": "PY Fr 1211",
             "name": "Py1211",
             "parsedInscription": "        ]ja-na-de  e-ti-we     OLE   V[   qs",
             "scribe": "",
@@ -288381,7 +288381,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py975_PN_0.jpg"
             ],
-            "label": "PY Fn 975 $79$",
+            "label": "PY Fn 975",
             "name": "Py975",
             "parsedInscription": "                               HORD   T   ]4   V   1\n                               HORD   T   ] 1  V   2[   ]   vac.[\n                               HORD               ]V   4   OLIV   [\n                                                                ]vac.[\n                                                                  inf. mut.",
             "scribe": "",
@@ -288661,7 +288661,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1193_PN_0.jpg"
             ],
-            "label": "PY Un 1193 $-$ (Ci)",
+            "label": "PY Un 1193 (Ci)",
             "name": "Py1193",
             "parsedInscription": "                                 ]50\n                             ]DA     15   wo-no-qe-we   DA   10\n                             ]DA     20   a-ke-re-we    we-da-ne-wo   DA   3\n                                                                                                               DA   10\n                           ]nu-we-we   DA   10   te-so-qe   DA   5   a2-zo-qi-jo\n                                                 reliqua pars sine regulis",
             "scribe": "",
@@ -288924,7 +288924,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py900_PN_0.jpg"
             ],
-            "label": "PY Eb 900 $149$",
+            "label": "PY Eb 900",
             "name": "Py900",
             "parsedInscription": "        qe-ri-ta    te[-o-jo  do-e-ra  e-ke-qe  o-na-to  ke-ke-me-na  ko-to-na\n        pa-ro    da-mo[                                          to-so-de  pe-mo     GRA   T   2",
             "scribe": "",
@@ -289093,7 +289093,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1_PN_0.jpg"
             ],
-            "label": "PY An 1 + fr. + fr. $1$",
+            "label": "PY An 1 + fr. + fr.",
             "name": "Py1",
             "parsedInscription": "        e-re-ta    pe-re-u-ro-na-de   / i-jo-te\n        ro-o-wa                          VIR   8\n        ri-jo                                  VIR   5\n        po-ra-pi                          VIR   4\n        te-ta-ra-ne                     VIR   6\n        a-po-ne-we                    VIR   7\n                                vac.\n                                vac.",
             "scribe": "",
@@ -289809,7 +289809,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1229_PN_0.jpg"
             ],
-            "label": "PY Fr 1229 $-$",
+            "label": "PY Fr 1229",
             "name": "Py1229",
             "parsedInscription": "                              ]ro           OLE+PA   V   1",
             "scribe": "",
@@ -289852,7 +289852,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1330_PN_0.jpg"
             ],
-            "label": "PY Wr 1330 $1331$ (Ci)",
+            "label": "PY Wr 1330 (Ci)",
             "name": "Py1330",
             "parsedInscription": "α\n        sigillum\nβ\n        vac.\nγ\n        o-pa",
             "scribe": "",
@@ -289913,7 +289913,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py520_PN_0.jpg"
             ],
-            "label": "PY Na 520 $106$",
+            "label": "PY Na 520",
             "name": "Py520",
             "parsedInscription": "                                   to-i-qe    e-re-u-te-ra\n                            ]     pu2-te-re    ki-ti-je-si   SA   30",
             "scribe": "",
@@ -290068,7 +290068,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py137_PN_0.jpg"
             ],
-            "label": "PY Sa 137 $-$ (Cii)",
+            "label": "PY Sa 137 (Cii)",
             "name": "Py137",
             "parsedInscription": "        a-no[",
             "scribe": "",
@@ -290476,7 +290476,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1407_PN_0.jpg"
             ],
-            "label": "PY Mn 1407 $1398$ (Cii)",
+            "label": "PY Mn 1407 (Cii)",
             "name": "Py1407",
             "parsedInscription": "                                 ]ma-ne        *146   19            [\n                                     ]-jo           *146   27               [\n                                                  ]   *146   4   [\n                                                  inf. mut.",
             "scribe": "",
@@ -290561,7 +290561,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1365_PN_0.jpg"
             ],
-            "label": "PY Mb 1365 + 1386 $1412$",
+            "label": "PY Mb 1365 + 1386",
             "name": "Py1365",
             "parsedInscription": "        ]ke-do-jo-no[  ]i-jo     *146   4   [",
             "scribe": "",
@@ -291203,7 +291203,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1110_PN_0.jpg"
             ],
-            "label": "PY Xa 1110 $-$",
+            "label": "PY Xa 1110",
             "name": "Py1110",
             "parsedInscription": "                                ]31[",
             "scribe": "",
@@ -291379,7 +291379,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1476_PN_0.jpg"
             ],
-            "label": "PY Xn 1476 $-$",
+            "label": "PY Xn 1476",
             "name": "Py1476",
             "parsedInscription": "                              sup. mut.\n                            ]o    [\n                               inf. mut.",
             "scribe": "",
@@ -291483,7 +291483,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py851_PN_0.jpg"
             ],
-            "label": "PY Vn 851 + fr. [+] 914 $-$",
+            "label": "PY Vn 851 + fr. [+] 914",
             "name": "Py851",
             "parsedInscription": "                                                           ]    de-mi-ni-ja\n                                                      ]e-ke-ri-jo-na     1        X\n        [                        1   X            ]ta-ra-ma-ta     1        X\n        ka[                   1   X                   ]da-je-we     1     X\n        e-[                     1   X                  ]-ru-ke-ja     1     X\n        tu[                    1   X      ]     e-po-me-ne-we     1     X\n                           ]-na     1     X      wa-na-si-ja-ke     1     X\n        sa-nu-we     1     X           wi-ri-ke-ja     1                X\n        o-to-wo-we-i      1     X      e-ti-ri-ja      1     X\n      te-do-ne-ja     1     X           e-ti-je-ja     1            X\n      ne-ka-ta-ta      1     X           ta-zo-te-ja[    ]1     X\n      ka-pa-si-ja     1     X             re-u-ka-ta-ra-ja[\n      te-]qi-ri-jo-ne     1     X       ma-so-ni-jo     2\n              ]ra-i-jo             1     X\n                       ]        vac.[          ]⟦   8   ⟧   [\n                           ]    vac. [            ]⟦   1   ⟧   [\nv.\n                            ]ko-jo[   ]5      o   3\n                                             ]4      o  [     ]   vac.\n                                           ]2\n                                               vac.\n                                       reliqua pars sine regulis",
             "scribe": "",
@@ -291943,7 +291943,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py983_PN_0.jpg"
             ],
-            "label": "PY Xn 983 $-$ (Ci)",
+            "label": "PY Xn 983 (Ci)",
             "name": "Py983",
             "parsedInscription": "                             sup. mut.\n                             ]jo    o-no[\n                          inf. mut.",
             "scribe": "",
@@ -292126,7 +292126,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py821_PN_0.jpg"
             ],
-            "label": "PY Ea 821 $28$",
+            "label": "PY Ea 821",
             "name": "Py821",
             "parsedInscription": "         ta-ra-ma-ta-o    ko-to-na  ki-ti-me-na                GRA   5   T   7   V   3",
             "scribe": "",
@@ -292527,7 +292527,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py351_PN_0.jpg"
             ],
-            "label": "PY Eo 351 $149$",
+            "label": "PY Eo 351",
             "name": "Py351",
             "parsedInscription": "        a-da-ma-jo    ko-to-na    ki-ti[-me-na       GRA   1   T   8\n        ta-ra2-to    te-o-jo    do-e[-ro  e-ke-qe  o-na-to  pa-ro  a-da-ma-o     GRA   T   2   V   4",
             "scribe": "",
@@ -292866,7 +292866,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py800_PN_0.jpg"
             ],
-            "label": "PY Ea 800 $28$",
+            "label": "PY Ea 800",
             "name": "Py800",
             "parsedInscription": "        ke-re-te-u    e-ke    o-na-to    pa-ro    mo-ro-qo-ro  po-me-ne        GRA     2   [",
             "scribe": "",
@@ -295092,7 +295092,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py850_PN_0.jpg"
             ],
-            "label": "PY Na 850 $106$",
+            "label": "PY Na 850",
             "name": "Py850",
             "parsedInscription": "                           ]e     SA   7",
             "scribe": "",
@@ -295279,7 +295279,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1317_PN_0.jpg"
             ],
-            "label": "PY Ub 1317 $1318$",
+            "label": "PY Ub 1317",
             "name": "Py1317",
             "parsedInscription": "                          e-ra-ti-ja-o\n        i-wa-ka    o-pe-ro    pe-ru-si-nwa-o     E   8",
             "scribe": "",
@@ -296975,7 +296975,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1466_PN_0.jpg"
             ],
-            "label": "PY Xn 1466 $-$",
+            "label": "PY Xn 1466",
             "name": "Py1466",
             "parsedInscription": "                            ]ke[\n                           inf. mut.",
             "scribe": "",
@@ -297150,7 +297150,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1374_PN_0.jpg"
             ],
-            "label": "PY Wr 1374 $-$ (Ciii)",
+            "label": "PY Wr 1374 (Ciii)",
             "name": "Py1374",
             "parsedInscription": "α\n        TELA;3+PU   supra sigillum\nβ\n          vac.\nγ\n          ]pu2-*35-[•]",
             "scribe": "",
@@ -297261,7 +297261,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py155_PN_0.jpg"
             ],
-            "label": "PY Cn 155 + 164 $155$ (Ci)",
+            "label": "PY Cn 155 + 164 (Ci)",
             "name": "Py155",
             "parsedInscription": "        OVIS:m   204   OVIS:x[\n        X   CAP:m [\n            mutila",
             "scribe": "",
@@ -297320,7 +297320,7 @@ var inscriptions = new Map(
                 "images/photos/Py631_PN_0.jpg",
                 "images/photos/Py631_PN_1.jpg"
             ],
-            "label": "PY La 631 $622?$",
+            "label": "PY La 631",
             "name": "Py631",
             "parsedInscription": "        ]pi-ku-e-wi[\nv.\n        ]8   M[",
             "scribe": "",
@@ -299954,7 +299954,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py863_PN_0.jpg"
             ],
-            "label": "PY Aa 863 $240$",
+            "label": "PY Aa 863",
             "name": "Py863",
             "parsedInscription": "                               ]ko-wo   4",
             "scribe": "",
@@ -300032,7 +300032,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1301_PN_0.jpg"
             ],
-            "label": "PY Qa 1301 $1295$",
+            "label": "PY Qa 1301",
             "name": "Py1301",
             "parsedInscription": "        ki-nu-ra    me-nu-a2     *189   [",
             "scribe": "",
@@ -301135,7 +301135,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1231_PN_0.jpg"
             ],
-            "label": "PY Fr 1231 + fr. $1202$",
+            "label": "PY Fr 1231 + fr.",
             "name": "Py1231",
             "parsedInscription": "          po-ti-ni-ja    di-pi[-si-]jo-i    [\n        ke-se-ni-wi-jo[               ]OLE   S   1[\n                 vac.           [                  ]     vac.     [",
             "scribe": "",
@@ -301313,7 +301313,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py189_PN_0.jpg"
             ],
-            "label": "PY Ab 189 $186$",
+            "label": "PY Ab 189",
             "name": "Py189",
             "parsedInscription": "                                                                                                            GRA   6   T   7   TA   DA\n        pu-ro   ki-ni-di-ja   MUL   20   ko-wa   10   ko-wo   10   NI   6   T   7",
             "scribe": "",
@@ -301688,7 +301688,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py26_PN_0.jpg"
             ],
-            "label": "PY Ae 26 $8$",
+            "label": "PY Ae 26",
             "name": "Py26",
             "parsedInscription": "        ko-ru-da-pi-jo    do-e-ro    o-pi    pe-me     VIR   4[",
             "scribe": "",
@@ -302086,7 +302086,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1104_PN_0.jpg"
             ],
-            "label": "PY Xn 1104 $-$",
+            "label": "PY Xn 1104",
             "name": "Py1104",
             "parsedInscription": "                            vestigia\n                            ]wa-ta    [",
             "scribe": "",
@@ -302129,7 +302129,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1178_PN_0.jpg"
             ],
-            "label": "PY Aa 1178 $240$",
+            "label": "PY Aa 1178",
             "name": "Py1178",
             "parsedInscription": "                               ]MUL   3   [\n                                 inf. mut.",
             "scribe": "",
@@ -302290,7 +302290,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py769_PN_0.jpg"
             ],
-            "label": "PY Sa 769 $287$",
+            "label": "PY Sa 769",
             "name": "Py769",
             "parsedInscription": "        e-te-wa-jo-jo    wo-ka    we-je-ke-e       ROTA+TE   ZE   2",
             "scribe": "",
@@ -304103,7 +304103,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1334_PN_0.jpg"
             ],
-            "label": "PY Wr 1334 $1331$ (Ci)",
+            "label": "PY Wr 1334 (Ci)",
             "name": "Py1334",
             "parsedInscription": "α\n        CAP:m   supra sigillum\nβ\n         vac.\nγ\n        vac.",
             "scribe": "",
@@ -304263,7 +304263,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py901_PN_0.jpg"
             ],
-            "label": "PY Ed 901 +fr. $74$",
+            "label": "PY Ed 901 +fr.",
             "name": "Py901",
             "parsedInscription": "        o-da-a2    ke-ke-me-na-o⌞ ⌟ko-to-na-o    o-na-ta    e-ko-si    ko-to-ne-ta\n                     to-so    pe-mo     GRA   6[    ] T [                          ]               vacat",
             "scribe": "",
@@ -304419,7 +304419,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1082_PN_0.jpg"
             ],
-            "label": "PY Eb 1082 $149$",
+            "label": "PY Eb 1082",
             "name": "Py1082",
             "parsedInscription": "        ]GRA   6⌟",
             "scribe": "",
@@ -304459,7 +304459,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py313_PN_0.jpg"
             ],
-            "label": "PY Aa 313 $240$",
+            "label": "PY Aa 313",
             "name": "Py313",
             "parsedInscription": "        o-ti-ri-ja   MUL   21   ko-wa   12   ko-wo   8   DA   1   TA   1",
             "scribe": "",
@@ -304815,7 +304815,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py27_PN_0.jpg"
             ],
-            "label": "PY Ae 27 $8$",
+            "label": "PY Ae 27",
             "name": "Py27",
             "parsedInscription": "                                                                                  qe-to-ro-po-pi    o-ro[-me-no\n        ma-ta-wo    a-ti-ri-ja[   ]no-wo-ko[                                                                VIR   1",
             "scribe": "",
@@ -304882,7 +304882,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py690_PN_0.jpg"
             ],
-            "label": "PY Ad 690 $290$",
+            "label": "PY Ad 690",
             "name": "Py690",
             "parsedInscription": "        pu-ro   a-pi-qo-ro   ko-wo   VIR   10   ko-wo   4   ⟦o   VIR   3     ⟧",
             "scribe": "",
@@ -305884,7 +305884,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1115_PN_0.jpg"
             ],
-            "label": "PY Ab 1115 $186$",
+            "label": "PY Ab 1115",
             "name": "Py1115",
             "parsedInscription": "                                    ]   GRA[   qs\n        mutila",
             "scribe": "",
@@ -306272,7 +306272,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1198_PN_0.jpg"
             ],
-            "label": "PY Fr 1198 $1202$",
+            "label": "PY Fr 1198",
             "name": "Py1198",
             "parsedInscription": "                                  ]A±RE±PA   2   S   1   V   5",
             "scribe": "",
@@ -306755,7 +306755,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py879_PN_0.jpg"
             ],
-            "label": "PY Vn 879 + fr. $-$ (Cii)",
+            "label": "PY Vn 879 + fr. (Cii)",
             "name": "Py879",
             "parsedInscription": "            a-ti[             ]  pe-*65-ka                8\n        ko-ni-ti-ja-ja    pe-*65-ka                 24\n        e-to-ki-ja    qa-ra-de-ro                       10\n        pa-ke-te-re    qa-ra-de-ro                          86\n                         reliqua pars sine regulis",
             "scribe": "",
@@ -307702,7 +307702,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py959_PN_0.jpg"
             ],
-            "label": "PY Xn 959 $-$ (Ci)",
+            "label": "PY Xn 959 (Ci)",
             "name": "Py959",
             "parsedInscription": "                           sup. mut.\n                             ]we-jo    [\n                            inf. mut.",
             "scribe": "",
@@ -307942,7 +307942,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py160_PN_0.jpg"
             ],
-            "label": "PY Eo 160 $149$",
+            "label": "PY Eo 160",
             "name": "Py160",
             "parsedInscription": "        pi-ke-re-wo    ko-to-na    ki-ti-me-na           to-so-de  pe-mo                             GRA   2   T   6\n        a3-wa-ja    te-o-jo    do-e-ra    e-ke-qe    o-na-to    pa-ro    pi-ke-re-we       GRA         T   1\n                                                                                                                         pi-ke-re-we\n      pe-ki-ta    ka-na-pe-u    wa-na-ka-te-ro  e-ke-qe    o-na-to    pa-ro                GRA          T   2\n        ko-ri-]si-ja    te-o-jo    do-e-ra    e-ke-qe    o-na-to    pa-ro    pi-ke-re-we   GRA          T   5",
             "scribe": "",
@@ -308689,7 +308689,7 @@ var inscriptions = new Map(
                 "images/photos/Py622_PN_0.jpg",
                 "images/photos/Py622_PN_1.jpg"
             ],
-            "label": "PY La 622 [+] 638 $622?$",
+            "label": "PY La 622 [+] 638",
             "name": "Py622",
             "parsedInscription": "               ]-ta-ko  a-ro-te   5   e-de[\n        a-ka[      ]i-jo   2   ki-wi-ri[\nv.\n        pe-[             ]wa-na-ka-to   8   [\n                    ]141   M   1[",
             "scribe": "",
@@ -308804,7 +308804,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1009_PN_0.jpg"
             ],
-            "label": "PY Na 1009 $106$",
+            "label": "PY Na 1009",
             "name": "Py1009",
             "parsedInscription": "        wa-a2-te-pi     SA   10",
             "scribe": "",
@@ -308917,7 +308917,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py781_PN_0.jpg"
             ],
-            "label": "PY Ea 781 $28$",
+            "label": "PY Ea 781",
             "name": "Py781",
             "parsedInscription": "                                ⟦we-[                           ]e-ke⟧\n        qo-u-ko-ro-jo  ko-to-na  ki-ti-me-na        GRA   2   T   4   [",
             "scribe": "",
@@ -309075,7 +309075,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py595_PN_0.jpg"
             ],
-            "label": "PY Cn 595 $4$",
+            "label": "PY Cn 595",
             "name": "Py595",
             "parsedInscription": "        e-ra-te-re-wa-pi    ta-to-mo    o-pe-ro \n        me-ta-pa    a-we-ke-se-u  VIR  1   OVIS+TA   5\n        ne-de-we-e                                           OVIS+TA   9\n        u-de-wi-ne            VIR   2                   OVIS+TA   8\n        ma-to-ro-pu-ro                                    OVIS+TA   1\n             ]i-pi[                            ]1                   OVIS+TA   5\n             ]-ko-[                                          ]OVIS[+TA] ⌞5[\n                           deest",
             "scribe": "",
@@ -309632,7 +309632,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py407_PN_0.jpg"
             ],
-            "label": "PY Ua 407 + fr. $-$ (Ciii)",
+            "label": "PY Ua 407 + fr. (Ciii)",
             "name": "Py407",
             "parsedInscription": "                                    ]pi-ri        N     3   [\n                                    ]            vac.           [",
             "scribe": "",
@@ -309829,7 +309829,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py41_PN_0.jpg"
             ],
-            "label": "PY Fn 41 + frr. $79$",
+            "label": "PY Fn 41 + frr.",
             "name": "Py41",
             "parsedInscription": "                                                  HORD          ]2   V   4\n                                                  HORD               ]   V   3\n                                                                                ]   vacat\n                                                  HORD                  ]OLIV   T   3\n                                                  deest\n                                                  deest\n                                                  deest\n                                                  deest\n                                                  deest\n                                                deest\n                                                deest\n      vest.[\n      ta-re-wa                         HORD   T   6   V   4   OLIV\n      o-pi-te-u-ke-e-we        HORD   T   5   V   3\n      tu-wa-si\n                                  vac.",
             "scribe": "",
@@ -310433,7 +310433,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py489_PN_0.jpg"
             ],
-            "label": "PY Ae 489 $8$",
+            "label": "PY Ae 489",
             "name": "Py489",
             "parsedInscription": "                                                                              ]  qe-to-ro-po-pi[\n                                    a3-]ki-pa-ta    o-pi⌞ ⌟ta-ra-ma-ta-o[         VIR 1",
             "scribe": "",
@@ -310617,7 +310617,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py10_PN_0.jpg"
             ],
-            "label": "PY Vn 10 $-$",
+            "label": "PY Vn 10",
             "name": "Py10",
             "parsedInscription": "             o-di-do-si    du-ru-to-mo \n        a-mo-te-jo-na-de    e-pi-[•]-ta   50\n        a-ko-so-ne-qe   50\n        to-sa-de    ro-u-si-jo    a-ko-ro    a-ko-so-ne\n             100    to-sa-de    e-pi-[•]-ta       100",
             "scribe": "",
@@ -311248,7 +311248,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1347_PN_0.jpg"
             ],
-            "label": "PY Eb 1347 +fr. $149$",
+            "label": "PY Eb 1347 +fr.",
             "name": "Py1347",
             "parsedInscription": "        do-e-]ro    e-ke-qe    o-na-to    pa-ro    ko-tu-ro2-ne    pa-da-je-we\n                  ]GRA   T   2",
             "scribe": "",
@@ -311365,7 +311365,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py691_PN_0.jpg"
             ],
-            "label": "PY Ad 691 $290$",
+            "label": "PY Ad 691",
             "name": "Py691",
             "parsedInscription": "           e-ke-ro-qo-no-qe    pa-wo-ko-qe\n        pu-ro   o-pi-ro-qo   ko-wo  ⟦             ⟧  VIR   9",
             "scribe": "",
@@ -311936,7 +311936,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1186_PN_0.jpg"
             ],
-            "label": "PY Eb 1186 $149$",
+            "label": "PY Eb 1186",
             "name": "Py1186",
             "parsedInscription": "        wi-dwo-i-jo  a-pi-me-de-o     ]do-e-ro  \n             e-ke-qe  o-na-to  ke-ke-me-]na    ko-to-na    pa-ro    da-mo    to-so-de  pe-mo   GRA   T   2",
             "scribe": "",
@@ -312488,7 +312488,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py362_PN_0.jpg"
             ],
-            "label": "PY Wa 362 $-$",
+            "label": "PY Wa 362",
             "name": "Py362",
             "parsedInscription": "        vac.[        ]-to-se[\n        vest.[       ]te-wi-ja[",
             "scribe": "",
@@ -312739,7 +312739,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py715_PN_0.jpg"
             ],
-            "label": "PY Ta 715 + fr. $641$",
+            "label": "PY Ta 715 + fr.",
             "name": "Py715",
             "parsedInscription": "            to-pe-za    ku-te-se-ja    e-re-pa-te-jo    e-ka-ma-pi    a-pi-qo-to    e-ne-wo-pe-za    ko-ki-re-ja\n        to-pe-za    a-ka-ra-no    e-re-pa-te-ja    a-pi-qo-to   1   to-pe-za    a-ka-ra-no   e-re-pa-te-ja    po-ro-e-ke   1\n            to-pe-zo    mi-ra2    a-pi-qo-to    pu-ko-so    e-ke-e    e-ne-wo-pe-zo    to-qi-de-jo   a-ja-me-no    pa-ra-ku-we   2",
             "scribe": "",
@@ -312854,7 +312854,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py59_PN_0.jpg"
             ],
-            "label": "PY Ea 59 $28$",
+            "label": "PY Ea 59",
             "name": "Py59",
             "parsedInscription": "                                                                                                                                                                ]        GRA   6\n            ke-re-u    e-ke    o-na-to    ke-ke-me    ko-to-na                                                                 GRA   2[            ]4\n        ke-re-te-u    e-ke    o-na-to    ke-ke-me-na    ko-to-na    su-qo-ta-o                                GRA   1   T   8\n        ke-re-te-u    e-ke    o-na-to    pa-ro    da-mo   GRA   3        pa-ro    ra-wa-ke-si-jo    e-[                  ]GRA   2\n        ke-re-te-u    e-ke    e-ne-ka    i-qo-jo                  GRA   5                                                                 [\n                                                                                           vac.                                                                                            [\n             du-ni-jo    e-ke    o-na-to    pa-ro   da-mo                                GRA     1        T     6     [\nv.\n                    5                 5                 5                 5                 5                 5                 2[\n                    5                4                 5                 5                 5                 5                 2[\n                    5                 5                 5                 5                 5                 5                 2[\n                    5                5                 5                 5                  5                5                 3[\n                                                             GRA   137   [    ]                                        vacat\n                    ⟦   GRA   137     T   [          ⟧",
             "scribe": "",
@@ -314023,7 +314023,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1169_PN_0.jpg"
             ],
-            "label": "PY Xn 1169 + fr. $-$",
+            "label": "PY Xn 1169 + fr.",
             "name": "Py1169",
             "parsedInscription": "                           sup. mut.\n                             ]e[\n                            inf. mut.",
             "scribe": "",
@@ -314078,7 +314078,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py217_PN_0.jpg"
             ],
-            "label": "PY Ab 217 $186$",
+            "label": "PY Ab 217",
             "name": "Py217",
             "parsedInscription": "                                                                                                                               GRA   5   T   1   TA   DA[\n        pu-ro ke-re-za      we-we-si-je-ja   MUL   16   ko-wa   5   ko-wo   7   NI   5   T   1            [",
             "scribe": "",
@@ -314509,7 +314509,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py120_PN_0.jpg"
             ],
-            "label": "PY Ma 120 [+] 121 $90$",
+            "label": "PY Ma 120 [+] 121",
             "name": "Py120",
             "parsedInscription": "        pe-to-no *146 63               RI M 63       *152 27     KE M 17  [O M  1]4⌞ ⌟ ME 1350   o [qs\n        o-da-a2  ka-ke-we  o-u-di-do-si  *146 2 RI M 2 *152[  qs                          ] O[ M qs] ME",
             "scribe": "",
@@ -314700,7 +314700,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py412_PN_0.jpg"
             ],
-            "label": "PY Xa 412 + fr. $-$",
+            "label": "PY Xa 412 + fr.",
             "name": "Py412",
             "parsedInscription": "        to-re  :            :            :            :  [\nv.\n        di-we si-po-ro   ti-mi-to-qo        [",
             "scribe": "",
@@ -315781,7 +315781,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py532_PN_0.jpg"
             ],
-            "label": "PY Na 532 $106$",
+            "label": "PY Na 532",
             "name": "Py532",
             "parsedInscription": "        qo-ta   SA   7   [",
             "scribe": "",
@@ -316182,7 +316182,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1418_PN_0.jpg"
             ],
-            "label": "PY Ua 1418 $-$",
+            "label": "PY Ua 1418",
             "name": "Py1418",
             "parsedInscription": "                                       ]*251         5",
             "scribe": "",
@@ -316386,7 +316386,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py209_PN_0.jpg"
             ],
-            "label": "PY An 209 $172$",
+            "label": "PY An 209",
             "name": "Py209",
             "parsedInscription": "        ko-ri-si-jo    ta-te-re\n        ra-mi-ni-jo     VIR   1   a2-ta         VIR   1\n        o-pe-re-ta       VIR   1   a-ke-ti-jo           VIR   1\n        do-ro-me-u    VIR   1   te-wa-ko-no     VIR   1\n        i-na-o               VIR   1   mi-ko-no           VIR   1\n        a-e-ri-qo-ta    VIR   1   ta-nu-ko            VIR   1\n        to-ke-u            VIR   1   da-na-ko            VIR   1\n        re-a-mo          VIR   1",
             "scribe": "",
@@ -316698,7 +316698,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1219_PN_0.jpg"
             ],
-            "label": "PY Fr 1219 $1219$ (Cii)",
+            "label": "PY Fr 1219 (Cii)",
             "name": "Py1219",
             "parsedInscription": "                                          vac.\n        wa-no-so-i    po-se-da-o-ne     OLE+A   V   2",
             "scribe": "",
@@ -317301,7 +317301,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1255.jpg"
             ],
-            "label": "PY Fr 1255 $-$ (Cii)",
+            "label": "PY Fr 1255 (Cii)",
             "name": "Py1255",
             "parsedInscription": "                    ]-za-to\n                              ]nu-wi-jo        V   1   X   [",
             "scribe": "",
@@ -317440,7 +317440,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py439_PN_0.jpg"
             ],
-            "label": "PY Ea 439 $28$",
+            "label": "PY Ea 439",
             "name": "Py439",
             "parsedInscription": "                                   po-me-ne\n        ] e-ke⌞ ⌟o-na-to  pa-ro    mo-ro-qo-ro                GRA        T   1[",
             "scribe": "",
@@ -318577,7 +318577,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py817_PN_0.jpg"
             ],
-            "label": "PY Ea 817 $28$",
+            "label": "PY Ea 817",
             "name": "Py817",
             "parsedInscription": "                                                po-me\n        mo-ro-qo-ro-jo    ko-to-na    ki-ti-me-na        GRA     2   T   1   V   3",
             "scribe": "",
@@ -319861,7 +319861,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1408_PN_0.jpg"
             ],
-            "label": "PY Mn 1408 $1398$ (Cii)",
+            "label": "PY Mn 1408 (Cii)",
             "name": "Py1408",
             "parsedInscription": "        sup. mut.\n        ro-o-wa                      *146   [\n        po-ra-pi                      *146   5\n        na-i-se-wi-jo                  *146   2[\n        e-na[-po-ro                     *146\n            inf. mut.",
             "scribe": "",
@@ -319990,7 +319990,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py927_PN_0.jpg"
             ],
-            "label": "PY Jn 927 [+] 937 + frr.(3) [+] 939 [+] 944 [+] 1164 $310$",
+            "label": "PY Jn 927 [+] 937 + frr.(3) [+] 939 [+] 944 [+] 1164",
             "name": "Py927",
             "parsedInscription": "                         ]me-no    ka-ke-we    ta-ra-si-ja    [e-]ko-te\n                                AES  ] N   2            we-ke-i-jo[       ]AES   M   1   N[ ]2\n                                AES  ]N   2             ke-da-si[           ]AES   M   1[\n                                AES  ]M   1   N   2  o-wa-[              ]AES   M   1   N[  qs\n                               ]AES   M   1   N   2  a-pa-sa-[          ]AES   M   1[\n                               ]AES   M   1   N   2  e-pa-ta[              AES\n                                 AES   M]   1   N   2  pa-[                    AES\n                                                       ]  vac.  [\n                        vac.               [         ]vac.[\n      to-so-de    a-ta-ra-si-jo[    ]ka-ke-we               [\n      a-tu-ko  1     o-pi-si-jo  1[          ]ta-jo  1  e-ri-ko-wo[  1\n      e-pi-ta-jo  1  i-mo-ro-ne[-u  1\n                    deest",
             "scribe": "",
@@ -320738,7 +320738,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1184_PN_0.jpg"
             ],
-            "label": "PY Fr 1184 $1202$",
+            "label": "PY Fr 1184",
             "name": "Py1184",
             "parsedInscription": "          ko-ka-ro    a-pe-do-ke    e-ra3-wo    to-so\n        e-u-me-de-i                              OLE+WE   18\n        pa-ro    i-pe-se-wa    ka-ra-re-we   38\n                                                              vac.",
             "scribe": "",
@@ -320965,7 +320965,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py573_PN_0.jpg"
             ],
-            "label": "PY Ab 573 $186$",
+            "label": "PY Ab 573",
             "name": "Py573",
             "parsedInscription": "                                                                                                         GRA   5   T   1   DA   TA\n        pu-ro    mi-ra-ti-ja   MUL   16   ko-wa   3   ko-wo   7   NI   5         1",
             "scribe": "",
@@ -321047,7 +321047,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py244_PN_0.jpg"
             ],
-            "label": "PY Ma 244 + 335 + 1504 + frr.(3) $-$",
+            "label": "PY Ma 244 + 335 + 1504 + frr.(3)",
             "name": "Py244",
             "parsedInscription": "           sup. mut.\n        a-te-re-wi-ja   *146   23       RI   M   23       KE M 4[ ]   *152   10    O[  M]  5     ME 400[\n        vacat   ⟦a-te-re-wi-ja    pe-ru-si-nu-wo  o-pe-ro⟧          [                    ] [         ]      vac.   [",
             "scribe": "",
@@ -322090,7 +322090,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1256_PN_0.jpg"
             ],
-            "label": "PY Xa 1256 $-$ (Ciii)",
+            "label": "PY Xa 1256 (Ciii)",
             "name": "Py1256",
             "parsedInscription": "                               ]ne-re-we[",
             "scribe": "",
@@ -322340,7 +322340,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py768_PN_0.jpg"
             ],
-            "label": "PY Sa 768 $287$",
+            "label": "PY Sa 768",
             "name": "Py768",
             "parsedInscription": "        pe-qe-ro-jo    wo-ka⌞ ⌟we-je-ke-e     ROTA+TE   ZE   1     [",
             "scribe": "",
@@ -322637,7 +322637,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py727_PN_0.jpg"
             ],
-            "label": "PY Es 727 $644$",
+            "label": "PY Es 727",
             "name": "Py727",
             "parsedInscription": "        o-ka    do-so-mo    po-se-da-o-ne     GRA   T   7\n        *34-ke-te-si  do-so-mo                         GRA   V   3\n        we-da-ne-wo  do-so-mo                       GRA   V   3\n           di-wi-je-we    do-so-mo                     GRA   V   3\n                                                          vac.",
             "scribe": "",
@@ -323075,7 +323075,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1202_PN_0.jpg"
             ],
-            "label": "PY Fr 1202 $1202$",
+            "label": "PY Fr 1202",
             "name": "Py1202",
             "parsedInscription": "                                                pa-ko-we                                               V   4\n        me-tu-wo    ne-wo    ma-te-re    te-i-ja     OLE+PA   5   S   1",
             "scribe": "",
@@ -324816,7 +324816,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1216_PN_0.jpg"
             ],
-            "label": "PY Fr 1216 $1202$",
+            "label": "PY Fr 1216",
             "name": "Py1216",
             "parsedInscription": "        pa-ki-ja-ni-jo-i    pa-ko          OLE+PA   1   V   2\n                                             vac.",
             "scribe": "",
@@ -325178,7 +325178,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py986_PN_0.jpg"
             ],
-            "label": "PY Na 986 $106$",
+            "label": "PY Na 986",
             "name": "Py986",
             "parsedInscription": "                                   ]ja     SA   30   [",
             "scribe": "",
@@ -325508,7 +325508,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1444.jpg"
             ],
-            "label": "PY Xa 1444 $-$",
+            "label": "PY Xa 1444",
             "name": "Py1444",
             "parsedInscription": "                          ]4\n                          ]4",
             "scribe": "",
@@ -325641,7 +325641,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py126_PN_0.jpg"
             ],
-            "label": "PY Ma 126 $90$",
+            "label": "PY Ma 126",
             "name": "Py126",
             "parsedInscription": "                                                        i-na-ma-ta\n      pe-ru-si-nu-wa    si-re-wa    o-pe-ro    do-si-mi-ja\n        *146   3        RI   M   1        KE   M   1",
             "scribe": "",
@@ -325714,7 +325714,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py663_PN_0.jpg"
             ],
-            "label": "PY Ad 663 [+] 674 $290$",
+            "label": "PY Ad 663 [+] 674",
             "name": "Py663",
             "parsedInscription": "        o-ti-ra2-o   ko-wo   VIR[ ]5     ko-wo   7",
             "scribe": "",
@@ -325871,7 +325871,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1252_PN_0.jpg"
             ],
-            "label": "PY Ua 1252 $-$ (Ciii)",
+            "label": "PY Ua 1252 (Ciii)",
             "name": "Py1252",
             "parsedInscription": "                                       ]2        DI   2",
             "scribe": "",
@@ -325978,7 +325978,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py440.jpg"
             ],
-            "label": "PY Cn 440 + 1068 + frr.(3) + fr. + fr. + fr. + fr. $-$ (Ci)",
+            "label": "PY Cn 440 + 1068 + frr.(3) + fr. + fr. + fr. + fr. (Ci)",
             "name": "Py440",
             "parsedInscription": "               sup. mut.\n                                  ]  vac.\n                                  ]  vac.\n                                  ]  vac.\n                             ] 5\n          ]•[ ]•[       ] vac.\n                             ]5\n        ]SUS:x  31[  ]  vac.\n        ]SUS:x  14  SUS:f  [ qs]  vac.\n                        ] vac. [\n                 inf. mut.",
             "scribe": "",
@@ -326153,7 +326153,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py804_PN_0.jpg"
             ],
-            "label": "PY Aa 804 $240$",
+            "label": "PY Aa 804",
             "name": "Py804",
             "parsedInscription": "        a-pi-qo-ro   MUL   32   ko-wa   26   ko-wo   15   TA   1",
             "scribe": "",
@@ -326303,7 +326303,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py485_PN_0.jpg"
             ],
-            "label": "PY Cn 485 + frr. + 1076 [+] fr. [+] 1167 + fr. [+] 1470 [+] 1075 [+] 1078 $719$",
+            "label": "PY Cn 485 + frr. + 1076 [+] fr. [+] 1167 + fr. [+] 1470 [+] 1075 [+] 1078",
             "name": "Py485",
             "parsedInscription": "           da-we-u[-pi ]a-ko[\n        da-we-u-pi    a[\n        da-we-u-pi    ka[\n        da-we-u-pi    e-[\n        a3-zo-wo[\n        da-we[-u-]pi ⌞ ⌟wo[\n        da-we-u-pi  e-ke[\n        da-we-u[-pi\n        a-re[\n      a-zo[\n      inf. mut.\nfragmentum separatum α\n          sup. mut.\n        ]  OVIS:f  X  15 [\nfragmentum separatum β\n        ]    ka[\nfragmentum separatum γ\n          sup. mut.\n        ]no-wo[\nfragmentum separatum δ\n          sup. mut.\n        ]ma-jo-wo-[\n          inf. mut.",
             "scribe": "",
@@ -326844,7 +326844,7 @@ var inscriptions = new Map(
                 "images/photos/Py1333_PN_0.jpg",
                 "images/photos/Py1333_PN_1.jpg"
             ],
-            "label": "PY Wr 1333 $1331$ (Ci)",
+            "label": "PY Wr 1333 (Ci)",
             "name": "Py1333",
             "parsedInscription": "α\n        sigillum\nβ\n        deest\nγ\n        o-pa",
             "scribe": "",
@@ -327660,7 +327660,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1013_PN_0.jpg"
             ],
-            "label": "PY Na 1013 [+] 1356 $106$",
+            "label": "PY Na 1013 [+] 1356",
             "name": "Py1013",
             "parsedInscription": "        ]   wa-na-ka[\n        ]   e-re-u-te[     ]   SA [",
             "scribe": "",
@@ -328103,7 +328103,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py684_PN_0.jpg"
             ],
-            "label": "PY Ad 684 $290$",
+            "label": "PY Ad 684",
             "name": "Py684",
             "parsedInscription": "lat. sup.\n                                               a-pu-ne-we   e-re-ta-o   ko-wo\nr.\n        pu-ro   ti-nwa-ti-ja-o   i-te-ja-o   ko-wo   VIR   5   ko-wo   2",
             "scribe": "",
@@ -328274,7 +328274,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py735_PN_0.jpg"
             ],
-            "label": "PY Sh 735 $733$ (Cii)",
+            "label": "PY Sh 735 (Cii)",
             "name": "Py735",
             "parsedInscription": "        ARM   1   me-zo-a2   O   22   me-u-jo-a2   O   12   KO   O   4   PA   2",
             "scribe": "",
@@ -328443,7 +328443,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py695_PN_0.jpg"
             ],
-            "label": "PY Aa 695 $240$",
+            "label": "PY Aa 695",
             "name": "Py695",
             "parsedInscription": "        ne-we-wi-ja   MUL   21   ko-wa   10   ko-wo   6   DA   1   TA   1",
             "scribe": "",
@@ -329002,7 +329002,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1363_PN_0.jpg"
             ],
-            "label": "PY Mb 1363 $1412$",
+            "label": "PY Mb 1363",
             "name": "Py1363",
             "parsedInscription": "                                      ]a-ki-ri     *146[",
             "scribe": "",
@@ -329347,7 +329347,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py300_PN_0.jpg"
             ],
-            "label": "PY On 300 + fr. + 375 + frr.(5) + 1074 + fr. + 1446 $300$ (Cii)",
+            "label": "PY On 300 + fr. + 375 + frr.(5) + 1074 + fr. + 1446 (Cii)",
             "name": "Py300",
             "parsedInscription": "                  ]qe  pe-[                            ]vest.[              ]do-we-na\n                  ]   ⟦*154⟧ [ ]     *154   10     a-pi-a2-ro       *154   6\n                                                                            ko-re-te-ri\n                    ko-re-te-]ri   *154   5[          ]pa-ki-ja-ni-ja[ ]       *154   3\n                                                  ]   *154[ qs                       ] *154   3\n                                      ]ri                                               ko-re-te-ri\n                       ]ko-re-te    *154   3[        *154 ]1  e-ra-te-i-jo      *154   3\n        ]du-ni-jo  [                           ]du-ma-ti                                        *154   3\n        ]da-mo-ko-ro[    ]     vac.\n        o-de-qa-a2 pe-ra-a-ko-ra-i-jo  [\n        ra-u-ra-ti-ja ko-re-te *154  1[  ]e-sa-re-wi-ja  ko[-re-te   *154\n      e-[ ]-re-wa-o    ko-re-te  *154   2[  ]te-mi-ti-ja  ko-re-te   *154   3\n      sa-ma[-ra]    ko-re-te      *154[  ]2  a-si-ja-ti-ja  ko-re-te   *154   3\n      [                        ]-ma                 *154   2  te-po-se-u                   *154   3\n                                     ]                      vac.\n                                                             vac.\n                                                             vac.\n                                                             vac.\n                                                             vac.",
             "scribe": "",
@@ -329866,7 +329866,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1090_PN_0.jpg"
             ],
-            "label": "PY Xa 1090 $-$",
+            "label": "PY Xa 1090",
             "name": "Py1090",
             "parsedInscription": "                                 ]e-pe[            ]6     [",
             "scribe": "",
@@ -330342,7 +330342,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py184_PN_0.jpg"
             ],
-            "label": "PY Xa 184 $-$ (Ciii)",
+            "label": "PY Xa 184 (Ciii)",
             "name": "Py184",
             "parsedInscription": "                            ka-[\n        di-da-ma-o    [",
             "scribe": "",
@@ -330385,7 +330385,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1458_PN_0.jpg"
             ],
-            "label": "PY Wr 1458 $-$",
+            "label": "PY Wr 1458",
             "name": "Py1458",
             "parsedInscription": "        sup. mut.\nα\n        •]:f[   supra sigillum\nβ\n        vac.\nγ\n        deest",
             "scribe": "",
@@ -330567,7 +330567,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py332_PN_0.jpg"
             ],
-            "label": "PY Ng 332 $106$",
+            "label": "PY Ng 332",
             "name": "Py332",
             "parsedInscription": "          pe-ra3-ko-ra-i-ja     SA   200[\n        to-sa-de    o-u-di-do-to      SA [",
             "scribe": "",
@@ -330622,7 +330622,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1306_PN_0.jpg"
             ],
-            "label": "PY Qa 1306 $1295$",
+            "label": "PY Qa 1306",
             "name": "Py1306",
             "parsedInscription": "        a-e[                                                        *189",
             "scribe": "",
@@ -331342,7 +331342,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1290_PN_0.jpg"
             ],
-            "label": "PY Qa 1290 $1295$",
+            "label": "PY Qa 1290",
             "name": "Py1290",
             "parsedInscription": "        i-je-re-u    se-ri-no-wo   [     *189",
             "scribe": "",
@@ -331730,7 +331730,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1323_PN_0.jpg"
             ],
-            "label": "PY Va 1323 $-$ (Cii)",
+            "label": "PY Va 1323 (Cii)",
             "name": "Py1323",
             "parsedInscription": "        a-ko-so-ne    ka-zo-e   32",
             "scribe": "",
@@ -331864,7 +331864,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py832_PN_0.jpg"
             ],
-            "label": "PY Jn 832 $310$",
+            "label": "PY Jn 832",
             "name": "Py832",
             "parsedInscription": "            ro-u-so    ka-ke-we    a-ke-te-re\n        e-ke-ro  1  si-mu-ta  1  ra-u-ta  1\n                                                              vac.\n        a-ta-ra-si-jo    ka-ke-we\n             ]-ka-no  1  ma-ri-ta  1  ka-ra-u-ko  1  wo-ti-jo  1\n               vest.                 [\n        wa-na-ta-jo  1  ka-u-so[       1\n        ka-[                     ]         vac.         [\n        a-to-mo    ka-ke-we    a-ke-te   [\n      pa-qo-si-jo  1  pi-ro-ka-te  1  e-wi-te[-u   1\na                                                        -qe\nb    me-ra-to  1  a-*64-jo    a-e-ri-  1  pa-ra-ke-te-e-u   AES   M   3\n                                                        vac.\n      a-ta-ra-si-jo    ka-ke-we\n      a-ri-qa  1  o-na-jo  1  si-pa-ta-no  1\n      a-da-ma-o  1  a-no-ra-ta  1  pu-wa-ne  1\n                                                               vac.",
             "scribe": "",
@@ -332615,7 +332615,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1298_PN_0.jpg"
             ],
-            "label": "PY Qa 1298 $1295$",
+            "label": "PY Qa 1298",
             "name": "Py1298",
             "parsedInscription": "        ne-qe-u    e-da-e-u     *189   1",
             "scribe": "",
@@ -332726,7 +332726,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py658_PN_0.jpg"
             ],
-            "label": "PY Jn 658 $658$",
+            "label": "PY Jn 658",
             "name": "Py658",
             "parsedInscription": "            ka-ke-we    ta-ra-si-ja       e-ko-si\n        e-ni-pa-te-we    we-we-si-jo   1     AES   M   5\n        ma-ka-wo   1     AES   M   5   pi-ro-ne-ta   1      AES   M   5\n        pa-qo-ta   1        AES   M   5   au-ta-mo   1          AES   M   5\n        po-ro-u-jo   1    AES   M   5    o-na-se-u   1         AES   M   5\n        po-]ro-ko   1      AES   M   5   re-u-ka-ta   1        AES   M   5\n        wa-ka-ta   1       AES   M   5   o-tu-wo-we   1     AES   M   5\n        wo-wi-ja-ta  1   AES   M   5   pe-re-ta   1            AES   M   5\n        po-ru-e-ro   1    AES   M   5   o-pe-ra-no   1       AES   M   5\n      a-tu-ko   1          AES   M   5   ⟦ko-ma-do-ro      AES   M   5⟧\n      to-so-de    ka-ko     L   3   M   20   ⟦  5⟧\n      to-so-de    a-ta-ra-si-jo\n                                                     vac.",
             "scribe": "",
@@ -333102,7 +333102,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1299_PN_0.jpg"
             ],
-            "label": "PY Qa 1299 $1295$",
+            "label": "PY Qa 1299",
             "name": "Py1299",
             "parsedInscription": "        ka-e-se-u    po-ti-ni-ja-wi-jo     *189   1",
             "scribe": "",
@@ -333642,7 +333642,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py714_PN_0.jpg"
             ],
-            "label": "PY Ta 714 $641$",
+            "label": "PY Ta 714",
             "name": "Py714",
             "parsedInscription": "            to-no    we-a2-re-jo    a-ja-me-no    ku-wa-no    pa-ra-ku-we-qe    ku-ru-so-qe    o-pi-ke-re-mi-ni-ja\n        a-ja-me-na    ku-ru-so    a-di-ri-ja-pi    se-re-mo-ka-ra-o-re-qe    ku-ru-so ⟦                 ⟧    ku-ru-so-qe    po-ni-ki-pi   1\n            ku-wa-ni-jo-qe    po-ni-ki-pi   1   ta-ra-nu    a-ja-me-no    ku-wa-no    pa-ra-ku-we-qe    ku-ru-so-qe    ku-ru-sa-pi-qe    ko-no-ni-pi   1",
             "scribe": "",
@@ -333959,7 +333959,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py325_PN_0.jpg"
             ],
-            "label": "PY Ea 325 $28$",
+            "label": "PY Ea 325",
             "name": "Py325",
             "parsedInscription": "        e-ro2-qo    ra-pte    [                                                                   GRA",
             "scribe": "",
@@ -334128,7 +334128,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py361_PN_0.jpg"
             ],
-            "label": "PY Na 361 $106$",
+            "label": "PY Na 361",
             "name": "Py361",
             "parsedInscription": "        ti-mi-to-a-ke-e     SA   50",
             "scribe": "",
@@ -334165,7 +334165,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py355_PN_0.jpg"
             ],
-            "label": "PY Ab 355 $186$",
+            "label": "PY Ab 355",
             "name": "Py355",
             "parsedInscription": "        me-ta-pa   MUL   5   [",
             "scribe": "",
@@ -334287,7 +334287,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py333_PN_0.jpg"
             ],
-            "label": "PY Ma 333 [+] 526 + fr. [+] fr. $90$",
+            "label": "PY Ma 333 [+] 526 + fr. [+] fr.",
             "name": "Py333",
             "parsedInscription": "        e-ra-te-re-we  *146   46     RI   M   46     KE   M[ 13            *152   20        ]O   M   10     ME   1000[\n                                                vac.                                       [                                            ]                         vac.              [",
             "scribe": "",
@@ -334390,7 +334390,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1106_PN_0.jpg"
             ],
-            "label": "PY Na 1106 $106$",
+            "label": "PY Na 1106",
             "name": "Py1106",
             "parsedInscription": "                           ]SA   4[",
             "scribe": "",
@@ -335273,7 +335273,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py60_PN_0.jpg"
             ],
-            "label": "PY Aa 60 $60$",
+            "label": "PY Aa 60",
             "name": "Py60",
             "parsedInscription": "        e-wi-ri-pi-ja   MUL   16   ko-wa   11   ko-wo   7   DA   1   TA   1",
             "scribe": "",
@@ -335630,7 +335630,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py736_PN_0.jpg"
             ],
-            "label": "PY Sh 736 $733$ (Cii)",
+            "label": "PY Sh 736 (Cii)",
             "name": "Py736",
             "parsedInscription": "        to-ra-ke    a-me-ja-to    o-pa    me-za-na    wo-ke    ne-wo   ZE   5",
             "scribe": "",
@@ -336167,7 +336167,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py530_PN_0.jpg"
             ],
-            "label": "PY Na 530 $106$",
+            "label": "PY Na 530",
             "name": "Py530",
             "parsedInscription": "        ra-i-pi     SA   14",
             "scribe": "",
@@ -336366,7 +336366,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py651_PN_0.jpg"
             ],
-            "label": "PY Es 651 $644$",
+            "label": "PY Es 651",
             "name": "Py651",
             "parsedInscription": "          pi-ro-ta-wo    do-so-mo    po-se-da-o-ne     GRA   T   7\n        *34-ke-te-si    do-so-mo                                      GRA   V   3\n        we-da-ne-wo    do-so-mo                                   GRA   V   3\n        di-wi-je-we    do-so-mo                                      GRA   V   3\n                                                         vac.",
             "scribe": "",
@@ -337272,7 +337272,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py793_PN_0.jpg"
             ],
-            "label": "PY Sa 793 $287$",
+            "label": "PY Sa 793",
             "name": "Py793",
             "parsedInscription": "        e-re-pa-to    te-mi-dwe-ta    pa-ra-ja    ta-na-wa       ROTA+TE   ZE   11",
             "scribe": "",
@@ -337843,7 +337843,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py865_PN_0.jpg"
             ],
-            "label": "PY Vn 865 + fr. $-$ (Ci)",
+            "label": "PY Vn 865 + fr. (Ci)",
             "name": "Py865",
             "parsedInscription": "          na-u-do-mo\n        a3-me-wa   1     ⟦                                 ⟧\n        sa-mu-ta-jo   1       qe-te-re-u     1\n        ta-ra-pe-se   1     wa-tu-o     1\n        ka-ro-qo   1     a-re-ki-si-to     1\n        a-wa-ne-u   1\n        ki-nu-ra   1\n        o-ro-do-ko   1     a-mi-ja[\n        u-re-u [       ]                 vac.\n          ]                            vac.\n          ]                            vac.",
             "scribe": "",
@@ -338246,7 +338246,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py773_PN_0.jpg"
             ],
-            "label": "PY Ea 773 [+] fr. $28$",
+            "label": "PY Ea 773 [+] fr.",
             "name": "Py773",
             "parsedInscription": "        e-u-me-de    e-ke    o-na-to    pa-ro     da-mo[                    GRA     T   ]2",
             "scribe": "",
@@ -338516,7 +338516,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py187_PN_0.jpg"
             ],
-            "label": "PY Fn 187 $-$",
+            "label": "PY Fn 187",
             "name": "Py187",
             "parsedInscription": "           a-pi-te-ja                    HORD[                 ]      NI   2\n        po-si-da-i-jo-de           HORD[                 ]      NI   T   1\n        ka-ru-ke                        HORD   [            ]         FAR\n        pa-ki-ja-na-de             HORD   T   1[      ]       NI   T   1\n        ka-ru-ke                        HORD   T   1   V   3     NI   T   1   V   3\n        de-do-wa-re-we         HORD   T   1\n        ku-ri-na-ze-ja              HORD   T   2                 NI   T   2\n        u-po-jo-po-ti-ni-ja     HORD   T   5                 NI   T   4\n        o-pi-tu-ra-jo                HORD   T   3\n      au-to-*34-ta-ra          HORD   T   1\n      a-ma-tu-na                  HORD   T   1\n      te-qi-ri-jo-ne              HORD      V   3\n      u-do-no-o-i                 HORD   T   3\n      po-te-re-we                HORD   T   4                  NI   T   4\n      a-ke-ti-ri-ja-i              HORD   T   1   V   3\n      ka-ru-ke                       HORD   T   1   V   3\n      i-so-e-ko                      HORD   T   2 ⟦V   3⟧\n      po-si-da-i-je-u-si       HORD   T   1   V   3\n      *34-ke-ja                     HORD   T   1   V   3      NI   T   1   V[\n      a-ro-ja                        [HORD    ]   V   3\n      ka-ru-ke                      HORD   T   1   V   3\n                                               vac.",
             "scribe": "",
@@ -339336,7 +339336,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py345_PN_0.jpg"
             ],
-            "label": "PY Na 345 + 1015 + fr. $106$",
+            "label": "PY Na 345 + 1015 + fr.",
             "name": "Py345",
             "parsedInscription": "                                                     re-u-te-ra[\n                                  ]wa  ke-ko-si-ja      [  SA",
             "scribe": "",
@@ -339388,7 +339388,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1393_PN_0.jpg"
             ],
-            "label": "PY La 1393 $622?$",
+            "label": "PY La 1393",
             "name": "Py1393",
             "parsedInscription": "        ]sa-to    a-ri-wo    ta-ra-[\n        ]TELA;x+TE  40               [",
             "scribe": "",
@@ -339446,7 +339446,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py724_PN_0.jpg"
             ],
-            "label": "PY An 724 + frr.(3) $657$",
+            "label": "PY An 724 + frr.(3)",
             "name": "Py724",
             "parsedInscription": "             ro-o-wa    e-re-ta    a-pe-o-te  \n        me-nu-wa    a-pe-e-ke    a-re-sa-ni-e   ⟦VIR   1  ⟧\n        o-pi-ke-ri-jo-de    ki-ti-ta    o-pe-ro-ta    ⟦e⟧\n        e-re-e    VIR   1     VIR   1\n        e-ke-ra2-wo-ne    a-pe-e-ke    a2-ri-e    ⟦VIR   1  ⟧\n        o-pe-ro-te    e-re-e     VIR   5\n        ra-wa-ke-ta    a-pe-e-ke[                      ]e   VIR   1[\n        ta-ti-qo-we-u    o[                                   ]qe-[•]-jo     VIR   1\n        a-ke-re-wa    ki-e-u    o-pe-[           ]e   a-ri-ja-to   VIR   1\n      ki-ti-ta   VIR   1  o-ro-ti-jo    di-qo    a-[\n      o-pe-ro    [           ]    e-ko-si-qe    e-qe-ta    ka-ma[\n      e-to-ni-jo    e-nwa-ri-jo     VIR   1\n      wo-qe-we    [   ]qo-te    ru-ki-ja    a-ko-wo   VIR[\n      ri-jo    o-no    e-qo-te                               VIR   10[",
             "scribe": "",
@@ -340014,7 +340014,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py925_PN_0.jpg"
             ],
-            "label": "PY Cn 925 $925$",
+            "label": "PY Cn 925",
             "name": "Py925",
             "parsedInscription": "              da-we-u-pi    pa-ro    ko-ma-we-te       SUS:m   16\n        da-we-u-pi    pa-ro    e-te-we                     SUS:f   16\n        da-we-u-pi    pa-ro    e-do-mo-ne-we     SUS:f   28",
             "scribe": "",
@@ -341272,7 +341272,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py297_PN_0.jpg"
             ],
-            "label": "PY Eb 297 $149$",
+            "label": "PY Eb 297",
             "name": "Py297",
             "parsedInscription": "        i-je-re-ja    e-ke-qe    e-u-ke-to-qe    e-to-ni-jo    e-ke-e    te-o\n         ko-to-no-o-ko-de    ko-to-na-o    ke-ke-me-na-o    o-na-ta    e-ke-e\n              GRA   3     T   9     V   3",
             "scribe": "",
@@ -341407,7 +341407,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1288.jpg"
             ],
-            "label": "PY Ja 1288 $-$ (Cii)",
+            "label": "PY Ja 1288 (Cii)",
             "name": "Py1288",
             "parsedInscription": "        ka-ra-wi-so     AES   M   4   N   1   P   6",
             "scribe": "",
@@ -341665,7 +341665,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1436_PN_0.jpg"
             ],
-            "label": "PY Mb 1436 $1412$",
+            "label": "PY Mb 1436",
             "name": "Py1436",
             "parsedInscription": "                                ]wi-jo     *146[",
             "scribe": "",
@@ -342024,7 +342024,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py236_PN_0.jpg"
             ],
-            "label": "PY Ed 236 $74$",
+            "label": "PY Ed 236",
             "name": "Py236",
             "parsedInscription": "        ka-ma-e-we    o-na-ta    e-ko-te    ke-ke-me-na-o    ko-to-na-o  \n        wo-zo-te    to-so    pe-mo     GRA   30   T   2   V   3",
             "scribe": "",
@@ -342138,7 +342138,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py320_PN_0.jpg"
             ],
-            "label": "PY Jn 320 + 1026 + frr.(31) [+] fr. + fr. + frr. + fr. $310$",
+            "label": "PY Jn 320 + 1026 + frr.(31) [+] fr. + fr. + frr. + fr.",
             "name": "Py320",
             "parsedInscription": "        o-re-mo-a-ke-re-u    ka-ke-we    ta-ra-si-ja    e-ko-te\n        a-mo-ta-jo                 AES   M   5   e-ki-wo   AES   M 4\n        ka-ka-po                    AES   M   4 ku-pi-ri-jo    AES   M   4\n        ki-ri-*82-jo               AES   M   5    de-we-ro    AES   M   3\n        ka-sa-to                     AES   M   3   ke[ ]qo-ta    AES   M   5\n        a-ti-pa-mo                AES   M   1 [               ]u    AES   M   5\n        wi-tu-ta                     AES   M   [                   ]       AES   M   4\n                                                                                      ]   vac.\n                                                                ]   vac.   [     ]   vac.\n         vac.                                                            [     ]   vac.\n      to-so-de    ka-ko   AES                      L   [     ]   1   M   26\n         vac.\n      to-so-de    a-ta-ra-si-jo]    ka-ke-we\n                                                   ]ta   1   do-ro-jo   1\n        ]wo   1   ta-[   ]-no   [   ]-re-u   1\n        ] vac.",
             "scribe": "",
@@ -342746,7 +342746,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py730_PN_0.jpg"
             ],
-            "label": "PY Wa 730 $90$",
+            "label": "PY Wa 730",
             "name": "Py730",
             "parsedInscription": "                  ]-ra-o    da-so-mo     10\n        sa-ma-ra    do-si-mi-jo-qe       1",
             "scribe": "",
@@ -343671,7 +343671,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py436_PN_0.jpg"
             ],
-            "label": "PY Cn 436 + frr.(8) + frr.(3) $131$",
+            "label": "PY Cn 436 + frr.(8) + frr.(3)",
             "name": "Py436",
             "parsedInscription": "           ke-to                         OVIS   100   X\n        a-ta-tu-ro                  CAP:m   38\n        a-mi-nu-wa-ta           OVIS:f   50   X   [\n        o-ko                              OVIS:f   100   X   [\n        i-ma-di-jo                   OVIS:f[ qs\n        ko-tu-ro2   [       ]    CAP:f[ qs\n        wa-ra-pi-si-ro[ ]      CAP:x[ qs\n        e-qa[\n        deest\n      vestigia[",
             "scribe": "",
@@ -344001,7 +344001,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1411_PN_0.jpg"
             ],
-            "label": "PY Mn 1411 $1412$",
+            "label": "PY Mn 1411",
             "name": "Py1411",
             "parsedInscription": "           sup. mut.\n        vest. [\n        e-re-de    wa[                            *146\n        ma-se-de    ro-u-si[                 *146\n              inf. mut.",
             "scribe": "",
@@ -344799,7 +344799,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py8_PN_0.jpg"
             ],
-            "label": "PY Ae 8 $8$",
+            "label": "PY Ae 8",
             "name": "Py8",
             "parsedInscription": "                                                   tu-ra-te-u\n        ku-so-no    i-na-ni-ja    du-ni-jo-jo    me-tu-ra    su-ra-se   VIR[     1",
             "scribe": "",
@@ -346291,7 +346291,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py9_PN_0.jpg"
             ],
-            "label": "PY Ua 9 $138$",
+            "label": "PY Ua 9",
             "name": "Py9",
             "parsedInscription": "        HORD   100   T   1   V   2         ka-pa[\n          OLIV   88            T   7[",
             "scribe": "",
@@ -346599,7 +346599,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py384_PN_0.jpg"
             ],
-            "label": "PY Na 384 $106$",
+            "label": "PY Na 384",
             "name": "Py384",
             "parsedInscription": "        do-ro-qo    so-wo-te     SA   30",
             "scribe": "",
@@ -346800,7 +346800,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py759_PN_0.jpg"
             ],
-            "label": "PY Aa 759 $240$",
+            "label": "PY Aa 759",
             "name": "Py759",
             "parsedInscription": "                                ]ko-wa   2   ko-wo   4   DA   1   TA   1",
             "scribe": "",
@@ -347427,7 +347427,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py828_PN_0.jpg"
             ],
-            "label": "PY Fg 828 $240$",
+            "label": "PY Fg 828",
             "name": "Py828",
             "parsedInscription": "        ke-sa-da-ra     GRA   5",
             "scribe": "",
@@ -347464,7 +347464,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py329_PN_0.jpg"
             ],
-            "label": "PY Na 329 $106$",
+            "label": "PY Na 329",
             "name": "Py329",
             "parsedInscription": "        qo-pi-ja     SA   5",
             "scribe": "",
@@ -347821,7 +347821,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1253_PN_0.jpg"
             ],
-            "label": "PY Xa 1253 $-$",
+            "label": "PY Xa 1253",
             "name": "Py1253",
             "parsedInscription": "                                ]-ti-ja-no-se-wa[   ]vest.[",
             "scribe": "",
@@ -348107,7 +348107,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py400_PN_0.jpg"
             ],
-            "label": "PY Xa 400 + frr. $-$",
+            "label": "PY Xa 400 + frr.",
             "name": "Py400",
             "parsedInscription": "        ka-da-po    /  da-ma[",
             "scribe": "",
@@ -348147,7 +348147,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py766_PN_0.jpg"
             ],
-            "label": "PY Sa 766 $287$",
+            "label": "PY Sa 766",
             "name": "Py766",
             "parsedInscription": "        wa-de-o    wo-ka    we-je-ke-e       ROTA+TE   ZE   2     [",
             "scribe": "",
@@ -348585,7 +348585,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py372_PN_0.jpg"
             ],
-            "label": "PY Ab 372 $186$",
+            "label": "PY Ab 372",
             "name": "Py372",
             "parsedInscription": "                                                                                                    GRA   2   T   7   TA   DA\n        pu-ro   ko-ro-ki-ja   MUL   9   ko-wa   2   ⟦        ⟧   NI   2   T   7",
             "scribe": "",
@@ -349302,7 +349302,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py434_PN_0.jpg"
             ],
-            "label": "PY Ua 434 $138$",
+            "label": "PY Ua 434",
             "name": "Py434",
             "parsedInscription": "                                    ] GRA     80[\n                                    ]CYP+O          13   [",
             "scribe": "",
@@ -350365,7 +350365,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py954_PN_0.jpg"
             ],
-            "label": "PY Eb 954 $149$",
+            "label": "PY Eb 954",
             "name": "Py954",
             "parsedInscription": "        GRA     ]T   3   V   2[",
             "scribe": "",
@@ -351024,7 +351024,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py40_PN_0.jpg"
             ],
-            "label": "PY Cn 40 $4$",
+            "label": "PY Cn 40",
             "name": "Py40",
             "parsedInscription": "        wa-no-jo    wo-wo    pa-ro    ne-ti-ja-no-re    pa-ra-jo          OVIS:m   140\n        wa-no-jo    wo-wo    pa-ro    po-so-pe-re-i    wo-ne-we       OVIS:m   75\n        wa-no-jo   wo-wo    pa-ro    zo-wi-jo    a-ko-so-ta-o             OVIS:m   70\n        wa-no-jo    wo-wo    pa-ro    po-ru-qo-ta    we-da-ne-wo   OVIS:m   60\n        e-ko-me-no    pa-ro    pa-ta    pa-ra-jo                                        OVIS:m   80\n        e-ko-me-no    pa-ro    [        ]ma-te-we    we-da-ne-wo          OVIS:m   70\n        a-ne-u-te    pa-ro    ma-ri-ti-wi-jo    a-ko-so-ta-o                    OVIS:m   83\n        ma-ro-pi    pa-ro    ro-ko    pa-ra-jo                                             OVIS:m   150\n        ma-ro-pi    pa-ro    ka-da-ro    we-da-ne-wo                            OVIS:m   85\n      ma-ro    pa-ro    tu-ri-ta    a-ke-o-jo                                            OVIS:m   80\n      re-pe-u-ri-jo    pa-ro    e-zo-wo    a[-ko-so-]ta-o                    OVIS:m   82\n      ma-ro    pa-ro    ma-u-ti-jo    a-ko-so-ta-o                                OVIS:f   60\n      a-ne-u-te pa-ro    ka-ta-wa    a-ko-so-ta                                    OVIS:f   80\n      a-te-re-wi-ja    pa-ro    e-wi-te-we    a-ke-o-jo                        OVIS:f   70\n                                                                 vac.\n                                                                 vac.",
             "scribe": "",
@@ -351437,7 +351437,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py816_PN_0.jpg"
             ],
-            "label": "PY Ea 816 $28$",
+            "label": "PY Ea 816",
             "name": "Py816",
             "parsedInscription": "        i-ma-di-ja    e-ke    o-na-to    pa-ro  da-mo   GRA   2   T   ⟦9⟧",
             "scribe": "",
@@ -351498,7 +351498,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py772_PN_0.jpg"
             ],
-            "label": "PY Aa 772 $240$",
+            "label": "PY Aa 772",
             "name": "Py772",
             "parsedInscription": "        e-u-de-we-ro   MUL   6   ko-wo   4   TA   1",
             "scribe": "",
@@ -352001,7 +352001,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py991_PN_0.jpg"
             ],
-            "label": "PY Xn 991 $-$",
+            "label": "PY Xn 991",
             "name": "Py991",
             "parsedInscription": "                             ]pe-o    [\n                             inf. mut.",
             "scribe": "",
@@ -352119,7 +352119,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py788_PN_0.jpg"
             ],
-            "label": "PY Aa 788 $240$",
+            "label": "PY Aa 788",
             "name": "Py788",
             "parsedInscription": "        ka-pa-ra2-de   MUL   24   ko-wa   8   ko-wo   2   DA   1   TA   1",
             "scribe": "",
@@ -352960,7 +352960,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py533_PN_0.jpg"
             ],
-            "label": "PY Na 533 $106$",
+            "label": "PY Na 533",
             "name": "Py533",
             "parsedInscription": "        a3-wi-jo     SA   7",
             "scribe": "",
@@ -353450,7 +353450,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py37_PN_0.jpg"
             ],
-            "label": "PY An 37 + fr. $-$",
+            "label": "PY An 37 + fr.",
             "name": "Py37",
             "parsedInscription": "          o-za-mi[              ]e-ne-ka  \n        pa-ra-we-wo    [          ]-jo\n        a-pi-no-a[-wi-jo                   VIR   2\n        e-na[-po-ro                            VIR   ]1\n        vest. [\n            inf. mut.",
             "scribe": "",
@@ -354461,7 +354461,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py219.jpg"
             ],
-            "label": "PY Un 219 + frr. $-$",
+            "label": "PY Un 219 + frr.",
             "name": "Py219",
             "parsedInscription": "             e-ke-ra-ne    tu-wo   2   O   1[\n        pa-de-we    O   1     pa-de-we    O   1\n        ka-ru-ke    PE   2   KA   1   O   6\n        te-qi-jo-ne       O   1        a-ke-ti-ri-ja-i       KA   1\n        a-ti-mi-te           O   1     da-ko-ro-i       E   1\n        di-pte-ra-po-ro         RA   1   O   3   ko-ro[      ]   1\n        a-na-ka-te         TE   1     po-ti-ni-ja[\n        e-[     ]   U   1   e-ma-a2    U   1   pe-[\n        a-ka-wo-ne    MA   1   pa-ra-[                  ]2\n      ra-wa-ke-ta    MA   1   KO   1   [           ]ME   1   O   1   WI   1\n      KE   1   [                 ]                                   vac.\n                                                 vac.\n                                                 vac.\n                                                 vac.\n                                                 vac.\n                                                 vac.\n                                                 vac.",
             "scribe": "",
@@ -354795,7 +354795,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1388_PN_0.jpg"
             ],
-            "label": "PY Xa 1388 $-$",
+            "label": "PY Xa 1388",
             "name": "Py1388",
             "parsedInscription": "                       ]wa-jo-i  •[",
             "scribe": "",
@@ -354929,7 +354929,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1187_PN_0.jpg"
             ],
-            "label": "PY Eb 1187 $149$",
+            "label": "PY Eb 1187",
             "name": "Py1187",
             "parsedInscription": "        e-ni-to-wo    a-pi-me-de-o    do-e-ro    e-ke-qe    o-na-to\n        ke-ke-me-na    ko-to-na                                               to-so-de    pe-mo   GRA   T   1",
             "scribe": "",
@@ -355099,7 +355099,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py984_PN_0.jpg"
             ],
-            "label": "PY Xn 984 $-$ (Ciii)",
+            "label": "PY Xn 984 (Ciii)",
             "name": "Py984",
             "parsedInscription": "            sup. mut.\n        vest.     [\n        e-ke[\n        ka[\n            inf. mut.\nv.\n                            ]ka-[\n                            inf. mut.",
             "scribe": "",
@@ -355196,7 +355196,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1313_PN_0.jpg"
             ],
-            "label": "PY Sa 1313 $287$",
+            "label": "PY Sa 1313",
             "name": "Py1313",
             "parsedInscription": "                                 ]we-je-ke-e[                             ROTA",
             "scribe": "",
@@ -355537,7 +355537,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py281_PN_0.jpg"
             ],
-            "label": "PY Eo 281 $149$",
+            "label": "PY Eo 281",
             "name": "Py281",
             "parsedInscription": "        ra-ku-ro-jo   ]ki-ti-me-na    ko-to-na                                   GRA   1   T   1   V   3\n        i-ra-ta   ]te-o-jo  do-e-ro    e-ke-qe    o-na-to    pa-ro    ra-ku-ro       GRA   V   3",
             "scribe": "",
@@ -356602,7 +356602,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py733_PN_0.jpg"
             ],
-            "label": "PY Sh 733 $733$ (Cii)",
+            "label": "PY Sh 733 (Cii)",
             "name": "Py733",
             "parsedInscription": "        ARM   1   me-zo-a2   O   20   me-u-jo-a2   O   10   ko-ru-to   O   4   PA   2",
             "scribe": "",
@@ -356669,7 +356669,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1212_PN_0.jpg"
             ],
-            "label": "PY Fr 1212 $343$",
+            "label": "PY Fr 1212",
             "name": "Py1212",
             "parsedInscription": "                           ]     OLE   S   1",
             "scribe": "",
@@ -356709,7 +356709,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py191_PN_0.jpg"
             ],
-            "label": "PY Va 191 $106$",
+            "label": "PY Va 191",
             "name": "Py191",
             "parsedInscription": "        ma-to   10",
             "scribe": "",
@@ -357048,7 +357048,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py694_PN_0.jpg"
             ],
-            "label": "PY Ad 694 $290$",
+            "label": "PY Ad 694",
             "name": "Py694",
             "parsedInscription": "        pe-ki-ti-ra2-o   ko-wo   VIR   4   ko-wo   3",
             "scribe": "",
@@ -357744,7 +357744,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1292_PN_0.jpg"
             ],
-            "label": "PY Qa 1292 + frr.(4) $1295$",
+            "label": "PY Qa 1292 + frr.(4)",
             "name": "Py1292",
             "parsedInscription": "                           ]-ke-ri-ja-wo     *189   2",
             "scribe": "",
@@ -357784,7 +357784,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py5_PN_0.jpg"
             ],
-            "label": "PY An 5 $-$ (Cii)",
+            "label": "PY An 5 (Cii)",
             "name": "Py5",
             "parsedInscription": "        e-ta-je-u      te-ko-to-a-pe                VIR   1\n        wi-do-wo-i-jo      te-ko-to-a-pe      VIR   1\n        to-ro-wi-ka      te-ko-to-a-pe           VIR   1\n        po-ru-to             te-ko-to-a-pe           VIR   1\n        o-tu                      te-ko-to-a-pe          VIR   1\n        sa-ni-jo               qe-re-me-ti-wo      VIR   1\n        ku-ri-sa-to         mu-ta-pi                   VIR   1\n        ⟦i-na-pi    ra-u-ta        2       VIR   1                    ⟧\n                                        vac.\n                                     vac.",
             "scribe": "",
@@ -358041,7 +358041,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1457_PN_0.jpg"
             ],
-            "label": "PY Wr 1457 $90$",
+            "label": "PY Wr 1457",
             "name": "Py1457",
             "parsedInscription": "α\n            *152   supra sigillum\nβ\n             vacat\nγ\n        a-pu-do-si",
             "scribe": "",
@@ -358570,7 +358570,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py822_PN_0.jpg"
             ],
-            "label": "PY Ea 822 $28$",
+            "label": "PY Ea 822",
             "name": "Py822",
             "parsedInscription": "                                     ra-wa-ke-si-jo\n        e-u-me-ne e-ke    o-na-to    pa-ro su-qo-ta            GRA   T   5",
             "scribe": "",
@@ -358628,7 +358628,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1282_PN_0.jpg"
             ],
-            "label": "PY An 1282 $-$ (Ciii)",
+            "label": "PY An 1282 (Ciii)",
             "name": "Py1282",
             "parsedInscription": "           a-qi-ja-i        VIR   18   a-mo-si                VIR   18\n        ki-u-ro-i          VIR   13   po-qe-wi-ja-i     VIR   5\n        do-ka-ma-i     VIR   36\n                                                vac.\n                                                 vac.",
             "scribe": "",
@@ -358719,7 +358719,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1399_PN_0.jpg"
             ],
-            "label": "PY Mb 1399 + 1403 $1412$",
+            "label": "PY Mb 1399 + 1403",
             "name": "Py1399",
             "parsedInscription": "                            ]de     *146   11",
             "scribe": "",
@@ -359013,7 +359013,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1102_PN_0.jpg"
             ],
-            "label": "PY Ab 1102 $186$",
+            "label": "PY Ab 1102",
             "name": "Py1102",
             "parsedInscription": "                                    ]     ko-wa[",
             "scribe": "",
@@ -359223,7 +359223,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py374.jpg"
             ],
-            "label": "PY Fg 374 $240$",
+            "label": "PY Fg 374",
             "name": "Py374",
             "parsedInscription": "        a-re-po-zo-o    ko-ka-ro     GRA   1   NI   1",
             "scribe": "",
@@ -359269,7 +359269,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py771_PN_0.jpg"
             ],
-            "label": "PY Ea 771 $28$",
+            "label": "PY Ea 771",
             "name": "Py771",
             "parsedInscription": "        ke-re-te-u    e-ke    o-na-to    me-ri-te-wo    ko-to-na            GRA     T   3     [",
             "scribe": "",
@@ -359843,7 +359843,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py783_PN_0.jpg"
             ],
-            "label": "PY Aa 783 $240$",
+            "label": "PY Aa 783",
             "name": "Py783",
             "parsedInscription": "        re-wo-to-ro-ko-wo   MUL   38   ko-wa   13   ko-wo   15   DA   1   TA   1",
             "scribe": "",
@@ -360161,7 +360161,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py980_PN_0.jpg"
             ],
-            "label": "PY Xn 980 $-$",
+            "label": "PY Xn 980",
             "name": "Py980",
             "parsedInscription": "                           sup. mut.\n                            ]   4[\n                            ]vac.[\n                         inf. mut.",
             "scribe": "",
@@ -360521,7 +360521,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py346_PN_0.jpg"
             ],
-            "label": "PY Ma 346 + fr. $90$",
+            "label": "PY Ma 346 + fr.",
             "name": "Py346",
             "parsedInscription": "        ka-ra-do-ro  *146   18     RI   M   18     KE   M   4     *152[  8     O   M   4          ]ME   400\n             a-pu-do-si      *146   14   o  *146   4  RI   M   16  o  2   KE   M   4     *152   8   O   M   4   ME   440[\n                                                                                                vac.                                                                                          [",
             "scribe": "",
@@ -360737,7 +360737,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py368.jpg"
             ],
-            "label": "PY Fg 368 $186$",
+            "label": "PY Fg 368",
             "name": "Py368",
             "parsedInscription": "        ke-sa-da-ra   GRA   5   NI   5",
             "scribe": "",
@@ -361885,7 +361885,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py352_PN_0.jpg"
             ],
-            "label": "PY Un 352 + frr. $-$",
+            "label": "PY Un 352 + frr.",
             "name": "Py352",
             "parsedInscription": "                  ]GRA   37   T   6[\n                  ] vac.                   [\n        ]⌞deest⌟ vac.     ⌞dt⌟ [",
             "scribe": "",
@@ -361973,7 +361973,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1433.jpg"
             ],
-            "label": "PY Mb 1433 $1412$",
+            "label": "PY Mb 1433",
             "name": "Py1433",
             "parsedInscription": "                                ]se-we     *146[",
             "scribe": "",
@@ -362013,7 +362013,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py404_PN_0.jpg"
             ],
-            "label": "PY Va 404 $-$ (Cii)",
+            "label": "PY Va 404 (Cii)",
             "name": "Py404",
             "parsedInscription": "        e-wi-su-*79-ko     30[",
             "scribe": "",
@@ -362512,7 +362512,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1264_PN_0.jpg"
             ],
-            "label": "PY Sa 1264 $287$",
+            "label": "PY Sa 1264",
             "name": "Py1264",
             "parsedInscription": "        e-ti-ra-wo-jo    wo-ka    we-je-ke-e       ROTA+TE   ZE   1",
             "scribe": "",
@@ -362558,7 +362558,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py48_PN_0.jpg"
             ],
-            "label": "PY Vn 48 + fr. + frr.(6) $-$ (Ci)",
+            "label": "PY Vn 48 + fr. + frr.(6) (Ci)",
             "name": "Py48",
             "parsedInscription": "        vest.[\n        ki-ka-ne-wi-jo-de        3   ma-so-[\n        to-[•]-ja-[           ]1   e-re-wi-jo-po-ti-ni-ja     1\n        •]-ra-si-ne-wi-ja          1     ki-wo-na-de   1\n        •]-se-ja     1     tu-ra-te-u-si        2\n                       ]wo-no-wa-ti-si   2\n                       ]ta   6   ka-ra-wi-po-ro     5",
             "scribe": "",
@@ -362712,7 +362712,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1248_PN_0.jpg"
             ],
-            "label": "PY Wa 1248 $-$",
+            "label": "PY Wa 1248",
             "name": "Py1248",
             "parsedInscription": "                                     sup. mut.\n                                      ]     OLE[",
             "scribe": "",
@@ -363345,7 +363345,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py601_PN_0.jpg"
             ],
-            "label": "PY Jn 601 + frr.(9) + 1475 + frr.(4) + fr. $310$",
+            "label": "PY Jn 601 + frr.(9) + 1475 + frr.(4) + fr.",
             "name": "Py601",
             "parsedInscription": "        po-wi-te-ja    ka-ke-we    ta-ra-si-ja    e-ko-te\n        wo-di-jo    AES   M   6  to-ro-wi  AES   M   8  e-u-po-ro-wo  AES   M   8\n        o-qa   AES   M   4  te-u-to   AES   M   5  pu2-ti-ja   AES   M   6\n        po-to-re-ma-ta  AES   M   8  wa-pa-no   AES   M   8\n        po-so-ro    AES   M   8  mo-da   AES   M   8   pe-po-ro   AES   M   4\n        o-na-se-u  AES   M   12  vest.[                 ]AES   M   7[  ]  vac.\n        ko-to-wa-pe[  ]AES   M   8  to[-so-]de    e-pi-da-to   AES   M   7\n        qa-si-re-u    pa-qo-si[-jo         ]1                   [\n        to-so-pa    ka-ko [     ] AES   L   3   M   1⌞4[\n                vac.        [         ] vac. [              ] vac. [                ] vac.\n      to-so-de    a[-ta-ra-]si-jo[   ka-ke-we   po-]ti-na-jo   1\n      po-so-ri-jo[   1   ] vest.[                    ]ne-wo   1   i-pe-ra-ta   1\n      sa-nu-[    ]  1  [  ] vac. [                              ]1   vac.\n                vac.\n                vac.\n                vac.",
             "scribe": "",
@@ -364034,7 +364034,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1459_PN_0.jpg"
             ],
-            "label": "PY Wr 1459 $-$",
+            "label": "PY Wr 1459",
             "name": "Py1459",
             "parsedInscription": "α\n        sigillum\nβ\n        vac.[\nγ\n        pi-ri[\n        inf. mut.",
             "scribe": "",
@@ -364676,7 +364676,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1072_PN_0.jpg"
             ],
-            "label": "PY Xn 1072 $-$",
+            "label": "PY Xn 1072",
             "name": "Py1072",
             "parsedInscription": "                            sup. mut.\n                             ]u       [\n                             inf. mut.",
             "scribe": "",
@@ -365069,7 +365069,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py66_PN_0.jpg"
             ],
-            "label": "PY Na 66 $106$",
+            "label": "PY Na 66",
             "name": "Py66",
             "parsedInscription": "                                e-re-u-te-]ra     SA   16\n                                e-re-u-]te-ra      SA   6",
             "scribe": "",
@@ -365960,7 +365960,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py437_PN_0.jpg"
             ],
-            "label": "PY Cn 437 + frr. [+] 490 + fr. $719$",
+            "label": "PY Cn 437 + frr. [+] 490 + fr.",
             "name": "Py437",
             "parsedInscription": "                                     ] vacat\n        ]no-[•]-ta [                    ] OVIS:m[ qs ] X\n        ]wo-wo    po-ru-qo-ta [      ]54[      ] vac.\n        ]wo-wo    [  ]     vacat[           ]60[\n        ]wo-wo    e-wi-te-u  OVIS:m  50[\n                 inf. mut.",
             "scribe": "",
@@ -366222,7 +366222,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py760_PN_0.jpg"
             ],
-            "label": "PY Sa 760 $287$",
+            "label": "PY Sa 760",
             "name": "Py760",
             "parsedInscription": "        e-ke-i-jo-jo    wo-ka    we-je-ke-e         ROTA+TE   ZE   1",
             "scribe": "",
@@ -366608,7 +366608,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py778_PN_0.jpg"
             ],
-            "label": "PY Ea 778 $28$",
+            "label": "PY Ea 778",
             "name": "Py778",
             "parsedInscription": "        ta-ra-ma-ta    e-ke    o-na-to    pa-ro    da-mo            GRA     T   9",
             "scribe": "",
@@ -366739,7 +366739,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1311_PN_0.jpg"
             ],
-            "label": "PY Qa 1311 $1295$",
+            "label": "PY Qa 1311",
             "name": "Py1311",
             "parsedInscription": "                                  ]*189     1",
             "scribe": "",
@@ -366776,7 +366776,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1370_PN_0.jpg"
             ],
-            "label": "PY Mn 1370 $1398$ (Cii)",
+            "label": "PY Mn 1370 (Cii)",
             "name": "Py1370",
             "parsedInscription": "        sup. mut.\n        ro-u-so[                                                   *146\n        ro-o-wa[                                                  *146\n        inf. mut.",
             "scribe": "",
@@ -368081,7 +368081,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1364_PN_0.jpg"
             ],
-            "label": "PY Mb 1364 $1412$",
+            "label": "PY Mb 1364",
             "name": "Py1364",
             "parsedInscription": "                                      ]           *146   1",
             "scribe": "",
@@ -368287,7 +368287,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py829_PN_0.jpg"
             ],
-            "label": "PY Jn 829 $310$",
+            "label": "PY Jn 829",
             "name": "Py829",
             "parsedInscription": "               jo-do-so-si   ko-re-te-re    du-ma-te-qe  \n                                                                                                                            -e-we-qe\n      po-ro-ko-re-te-re-qe    ka-ra-wi-po-ro-qe    o-pi-su-ko-qe    o-pi-ka-pe-\n        ka-ko    na-wi-jo    pa-ta-jo-i-qe    e-ke-si-qe    a3-ka-sa-ma\n        pi-*82    ko-re-te          AES   M   2   po-ro-ko-re-te       AES   N   3\n        me-ta-pa    ko-re-te         AES   M   2   po-ro-ko-re-te   AES   N   3[   ] vac.\n        pe-to-no    ko-re-te          AES   M   2   po-ro-ko-re-te                      AES   N   3\n        pa-ki-ja-pi    ko-re-te               AES   M   2   po-ro-ko-re-te              AES   N   3\n        a-pu2-we    ko-re-te                 AES   M   2   po-ro-ko-re-te              AES   N   3\n        a-ke-re-wa    ko-re-te              AES   M   2   po-ro-ko-re-te              AES   N   3\n      ro-u-so    ko-re-te                     AES   M   2   po-ro-ko-re-te              AES   N   3\n      ka-ra-do-ro    ko-re-te             AES   M   2   po-ro-ko-re-te              AES   N   3\n      ri-]jo    ko-re-te                          AES   M   2   po-ro-ko-re-te              AES   N   3\n      ti-mi-to-a-ke-e    ko-re-te        AES   M   2   po-ro-ko-re-te             AES   N   3\n      ra-]wa-ra-ta2    ko-re-te          AES   M   2   N   3  po-ro-ko-re-te   AES   N   3\n      sa-]ma-ra    ko-re-te                 AES   M   3   N   3   po-ro-ko-re-te             N   3\n      a-si-ja-ti-ja⌞ ⌟ko-re-te             AES   M   2              po-ro-ko-re-te             N   3\n      e-ra-te-re-wa-pi    ko-re-te     AES   M   2              po-ro-ko-re-te             N   3\n      za-ma-e-wi-ja    ko-re-te          AES   M   3   N  3     po-ro-ko-re-te           N   3\n      e-re-i    ko-re-te                          AES   M   3   N   3      po-ro-ko-re-te         N   3\n                                                                          vac.\n                                                                          vac.\n                                                                          vac.\n                                                                          vac.",
             "scribe": "",
@@ -369027,7 +369027,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py823_PN_0.jpg"
             ],
-            "label": "PY Ea 823 $28$",
+            "label": "PY Ea 823",
             "name": "Py823",
             "parsedInscription": "        ru-ko-ro-jo    ko-to-na    ra-wa-ke-si-jo-jo                  GRA   T   6",
             "scribe": "",
@@ -369608,7 +369608,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1188_PN_0.jpg"
             ],
-            "label": "PY Eb 1188 $149$",
+            "label": "PY Eb 1188",
             "name": "Py1188",
             "parsedInscription": "        to-wa-te-u    a-pi-me-de-o    do-e-ro    e-ke-qe    o-na-to    pa-ro[   da-mo\n          ke-ke-me-na    ko-to-na                                                 to-so-de[   pe-mo   GRA   T   8",
             "scribe": "",
@@ -369743,7 +369743,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1390_PN_0.jpg"
             ],
-            "label": "PY Xn 1390 $-$",
+            "label": "PY Xn 1390",
             "name": "Py1390",
             "parsedInscription": "                             sup. mut.\n                            ]20\n                          inf. mut.",
             "scribe": "",
@@ -369830,7 +369830,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1417_PN_0.jpg"
             ],
-            "label": "PY Xa 1417 $-$",
+            "label": "PY Xa 1417",
             "name": "Py1417",
             "parsedInscription": "                                ]210   [",
             "scribe": "",
@@ -370341,7 +370341,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py303_PN_0.jpg"
             ],
-            "label": "PY Ae 303 $8$",
+            "label": "PY Ae 303",
             "name": "Py303",
             "parsedInscription": "                                                         i-je-ro-jo\n        pu-ro    i-je-re-ja    do-e-ra    e-ne-ka    ku-ru-so-jo   MUL   14[",
             "scribe": "",
@@ -370620,7 +370620,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py382_PN_0.jpg"
             ],
-            "label": "PY Ab 382 $186$",
+            "label": "PY Ab 382",
             "name": "Py382",
             "parsedInscription": "                                                                                                                   GRA   16   T   8   DA   TA\n        ro-u-so   mi-ra-ti-ra   MUL   54   ko-wa   31[ ]   ko-wo   20   NI   16   T   8",
             "scribe": "",
@@ -370711,7 +370711,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py813_PN_0.jpg"
             ],
-            "label": "PY Ea 813 $28$",
+            "label": "PY Ea 813",
             "name": "Py813",
             "parsedInscription": "        e-ro2-qo    ra-pte    e-ke    o-na-to    me-ri-te-wo    ko-to-na        GRA   T   1",
             "scribe": "",
@@ -370962,7 +370962,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py633_PN_0.jpg"
             ],
-            "label": "PY La 633 $622?$",
+            "label": "PY La 633",
             "name": "Py633",
             "parsedInscription": "        ti-nwa-ti[",
             "scribe": "",
@@ -371304,7 +371304,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py676_PN_0.jpg"
             ],
-            "label": "PY Ad 676 $290$",
+            "label": "PY Ad 676",
             "name": "Py676",
             "parsedInscription": "        pu-ro   re-wo-to-ro-ko-wo   ko-wo   VIR   22   ko-wo   11",
             "scribe": "",
@@ -371735,7 +371735,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py136_PN_0.jpg"
             ],
-            "label": "PY Ea 136 [+] 936 $28$",
+            "label": "PY Ea 136 [+] 936",
             "name": "Py136",
             "parsedInscription": "                                           [pa-]ro    da-mo     [\n        wa-tu-o-ko    a-ke-ro    e-ke    o-na-to[                               GRA ]T   5   V   4",
             "scribe": "",
@@ -372276,7 +372276,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1562_PN_0.jpg"
             ],
-            "label": "PY Xa 1562 + fr. $-$",
+            "label": "PY Xa 1562 + fr.",
             "name": "Py1562",
             "parsedInscription": "        ]to-ra-[",
             "scribe": "",
@@ -372893,7 +372893,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py728_PN_0.jpg"
             ],
-            "label": "PY Es 728 $644$",
+            "label": "PY Es 728",
             "name": "Py728",
             "parsedInscription": "                wo-ro-ti-ja    do-so-mo    po-se-da-o-ne     GRA   T   8\n        *34-ke-te-si    do-so-mo                                           GRA        V   4\n        we-da-ne-wo    do-so-mo                                        GRA        V   4\n        di-wi-je-we    do-so-mo                                           GRA        V   4\n                                                          vac.",
             "scribe": "",
@@ -372999,7 +372999,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1384_PN_0.jpg"
             ],
-            "label": "PY Xa 1384 $-$ (Cii)",
+            "label": "PY Xa 1384 (Cii)",
             "name": "Py1384",
             "parsedInscription": "                                ]ra-te-o[",
             "scribe": "",
@@ -373036,7 +373036,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py965_PN_0.jpg"
             ],
-            "label": "PY Fn 965 $79$",
+            "label": "PY Fn 965",
             "name": "Py965",
             "parsedInscription": "                                       sup. mut.\n                               HORD    T  ]4   V   4   OLIV   1\n                               HORD    T  ]5⌟ [\n                               HORD   ]T   6   V   4[\n                               HORD   ]1   T   1   V[\n                               HORD   ]1   T[\n                                       inf. mut.",
             "scribe": "",
@@ -374114,7 +374114,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py591.jpg"
             ],
-            "label": "PY Cr 591 + fr. $-$ (Cii)",
+            "label": "PY Cr 591 + fr. (Cii)",
             "name": "Py591",
             "parsedInscription": "                                    ]-wa                   CERV   3\n                                                         ]     CERV   3\n                                                 ]ne-wi     CERV   2[     ]   vac.\n                                             ]wa               CERV   1[     ]   vac.\n                                         ]ti-ro[       ]     CERV   [      ]2\n                                                                    CERV   ]2\n                                             ]ja-[              CERV]   3",
             "scribe": "",
@@ -374503,7 +374503,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1304_PN_0.jpg"
             ],
-            "label": "PY Qa 1304 $1295$",
+            "label": "PY Qa 1304",
             "name": "Py1304",
             "parsedInscription": "        a-te-ra-wo    ka-ra-do-ro         [     *189",
             "scribe": "",
@@ -374543,7 +374543,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py737_PN_0.jpg"
             ],
-            "label": "PY Sh 737 $733$ (Cii)",
+            "label": "PY Sh 737 (Cii)",
             "name": "Py737",
             "parsedInscription": "        ARM   1   o-pa-wo-ta    me-zo-a2    O   20   me-u-jo-a2    O   10   ko-ru-to    O   4   pa-ra-wa-jo   2",
             "scribe": "",
@@ -375103,7 +375103,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py506_PN_0.jpg"
             ],
-            "label": "PY Aa 506 $240$",
+            "label": "PY Aa 506",
             "name": "Py506",
             "parsedInscription": "        ku-te-ra3   MUL   28   ko-wa[",
             "scribe": "",
@@ -375920,7 +375920,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py69_PN_0.jpg"
             ],
-            "label": "PY Na 69 $106$",
+            "label": "PY Na 69",
             "name": "Py69",
             "parsedInscription": "                                 ]o-u-di-do-si     SA     2\n                                 ]o-u-di-do-si    SA   2",
             "scribe": "",
@@ -376352,7 +376352,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py575_PN_0.jpg"
             ],
-            "label": "PY Ab 575 $186$",
+            "label": "PY Ab 575",
             "name": "Py575",
             "parsedInscription": "        pu-ro   me-ki-to-ki-ri-ta   MUL   1   ko-wo   [",
             "scribe": "",
@@ -376432,7 +376432,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py357_PN_0.jpg"
             ],
-            "label": "PY Ad 357 $290$",
+            "label": "PY Ad 357",
             "name": "Py357",
             "parsedInscription": "        ne-we-wi-ja-o   ko-wo   VIR   6   o-pe-ro   VIR   3",
             "scribe": "",
@@ -376637,7 +376637,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py719_PN_0.jpg"
             ],
-            "label": "PY Cn 719 + frr.(6) + fr. + fr. + fr. + frr. $719$",
+            "label": "PY Cn 719 + frr.(6) + fr. + fr. + fr. + frr.",
             "name": "Py719",
             "parsedInscription": "        ma-ro-pi    ka-do-wo    a-ke-o-jo              OVIS:m   40\n        ma-ro-pi    to-si-ta    a-ke-o-jo                   OVIS:m   82\n        ma-ro-pi    me-ta-no    a-ke-o-jo               OVIS:f   60\n        pi-*82    ma-ra-ni-jo    pa-ra-jo                 OVIS:m   230\n        pi-*82    o-ku-ka    a-ke-o-jo                      OVIS:m   70\n        pi-]*82     ra-mi-ni-jo     a-ke-o-jo            OVIS:m   90\n        [ pi-*82   ]  ku-pi-ri-jo    a-ke-o-jo            OVIS:m   60\n        [ pi-*82    ku-]ka-ra-so    a-so-ta-o           OVIS:f[   ]30\n        wi-]ja-we-ra2    ko-ru-no    pa-ra-jo       OVIS:m   66\n      a-pa-]re-u-pi    pa-pa-ro    a-ko-so-ta-o     OVIS:m   100\n      wi-ja-we-ra2    a-ka-ma-wo    a-ko[-so-]ta-o     OVIS:m   96\n      wi-ja-we-ra2    a-ke-ta    wo[-ne-]we        OVIS:m   100\n                               vacat",
             "scribe": "",
@@ -377015,7 +377015,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py425_PN_0.jpg"
             ],
-            "label": "PY Na 425 $106$",
+            "label": "PY Na 425",
             "name": "Py425",
             "parsedInscription": "                                                                    re-u-te-ra   SA   3\n        pu2-ra2-a-ki-ri-jo     SA   27     to-sa-de   ka-ke-we",
             "scribe": "",
@@ -377240,7 +377240,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py729_PN_0.jpg"
             ],
-            "label": "PY Es 729 $644$",
+            "label": "PY Es 729",
             "name": "Py729",
             "parsedInscription": "                 ru-ko-u-ro    do-so-mo    po-se-da-o-ne     GRA   T   7\n        *34-ke-te-si    do-so-mo                                           GRA   V   3\n        we-da-ne-wo    do-so-mo                                        GRA   V   3\n          di-wi-je-we    do-so-mo                                         GRA   V   3\n                                                          vac.",
             "scribe": "",
@@ -377750,7 +377750,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py605_PN_0.jpg"
             ],
-            "label": "PY Jn 605 + fr.(2) $310$",
+            "label": "PY Jn 605 + fr.(2)",
             "name": "Py605",
             "parsedInscription": "          a-pi-no-e-wi[-jo]    ka-ke-we    ta-ra-si-ja    e-ko-te\n          to-ri-jo        AES   M   1   N   2    e-do-mo-ne-u   AES   M   1   N   2\n        mi-ka-ri-jo     AES   M   1   N   2  pu-ra-ta          AES   M   1   N   2\n        u-wa-ta        AES   M   1   N   2     ka-ta-wa         AES   M   1   N   2\n                                                                    vac.\n           a-ta-ra-si-jo    ka-ke-we\n        wi-ti-mi-jo   1   ma-no-u-ro   1   a-we-ke-se-u   1\n                                                               vac.\n        to-so-de    do-e-ro\n      pe-re-qo-no-jo   2   a3-ki-e-wo   2   mi-ka-ri-jo-jo   1\n      pu-ra-ta-o   1",
             "scribe": "",
@@ -378041,7 +378041,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py1352_PN_0.jpg"
             ],
-            "label": "PY Eb 1352 + 1353 + fr. $149$",
+            "label": "PY Eb 1352 + 1353 + fr.",
             "name": "Py1352",
             "parsedInscription": "        e-ke-qe   ]o-na-to    ke-ke-me-na⌞ ⌟ko-to-na\n        GRA  qs  ]   vac.",
             "scribe": "",
@@ -378206,7 +378206,7 @@ var inscriptions = new Map(
                 "images/photos/Py45_PN_0.jpg",
                 "images/photos/Py45_PN_1.jpg"
             ],
-            "label": "PY Cn 45 $4$",
+            "label": "PY Cn 45",
             "name": "Py45",
             "parsedInscription": "                 sup. mut.\n        pu-ro    ra-wa-ra-ti-jo[   pa-ro\n        pu-ro    ra-wa-ra-ti-jo    pa-ro  ko-so-ne    we-da-ne-wo                OVIS:f   80[\n                                                                                                     -wo\n      pu-ro    ra-wa-ra-ti-jo    pa-ro    e-ko-to-ri-jo    we-da-ne-           OVIS:f   30[\n        u-po-ra-ki-ri-ja    pa-ro    de-mo-qe    we-da-ne-wo                        OVIS:f   70\n        u-po-ra-ki-ri-ja    pa-ro    pe-qe-we    a-ke-o-jo                                 OVIS:f   65\n                                                                                               -o\n      u-po-ra-ki-ri-ja    pa-ro    do-ro-jo-jo    a-ko-so-ta-                         CAP:f   35\n        u-po-ra-ki-ri-ja    pa-ro    po-ko-ro                                                        CAP:f   20\n                                                                                                          -jo\n      pu-ro  ra-wa-ra-ti-jo    pa-ro    a-ko-to-wo   a-ke-o-                       CAP:f   50\n        pu-ro  ra-wa-ra-ti-jo    pa-ro    o-qe-qa    a-ko-so-ta-o                    CAP:f   40\n      pa-na-pi    e-ne-ti-jo    a-ko-so-ta-o                                                       CAP:f 3⌞4⌟\n      u-po-ra-ki-ri-ja    wi-ja-te-we    a-ke-o-jo                                            CAP:f   16\n      pu-ro    ra-wa-ra-ti-jo    ka-ra-wa-ni-ta    a-ke-o-jo                         CAP:m   100\n      po-ma-ko   SUS:f   16              po-te-u    SUS:f   8\nlat. inf.\n                                                       qe-ta-ko     SUS:m   11",
             "scribe": "",
@@ -378781,7 +378781,7 @@ var inscriptions = new Map(
             "images": [
                 "images/photos/Py106_PN_0.jpg"
             ],
-            "label": "PY Na 106 $106$",
+            "label": "PY Na 106",
             "name": "Py106",
             "parsedInscription": "                                                e-re-u-te-ra   SA   6\n        e-ri-no-wo  SA  24     to-sa-de    ka-ke-we",
             "scribe": "",

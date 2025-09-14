@@ -1,7 +1,7 @@
 var newDocumentsInMycenaeanGreek = 
   {
     "comments": {
-            "PY Eo 371 [+] 1160 + fr. + fr. $149$": [
+            "PY Eo 371 [+] 1160 + fr. + fr.": [
                       "219",
                       "758"
                   ],
@@ -11,7 +11,7 @@ var newDocumentsInMycenaeanGreek =
                         "151",
                         "757"
                     ],
-              "PY An 18 $-$": [
+              "PY An 18": [
                         "63",
                         "86",
                         "520",
@@ -31,7 +31,7 @@ var newDocumentsInMycenaeanGreek =
                         "662",
                         "761"
                     ],
-              "PY An 519 + fr. $657$": [
+              "PY An 519 + fr.": [
                         "104",
                         "514",
                         "555",
@@ -51,14 +51,14 @@ var newDocumentsInMycenaeanGreek =
                         "670",
                         "757"
                     ],
-              "PY Eb 294 $149$": [
+              "PY Eb 294": [
                         "223",
                         "613",
                         "622",
                         "635",
                         "758"
                     ],
-              "PY Eo 269 $149$": [
+              "PY Eo 269": [
                         "218",
                         "583",
                         "758"
@@ -69,7 +69,7 @@ var newDocumentsInMycenaeanGreek =
                         "436",
                         "760"
                     ],
-              "PY Cn 655 $719$": [
+              "PY Cn 655": [
                         "68",
                         "116",
                         "118",
@@ -100,7 +100,7 @@ var newDocumentsInMycenaeanGreek =
                         "548",
                         "759"
                     ],
-              "PY Na 514 $106$": [
+              "PY Na 514": [
                         "103",
                         "297",
                         "301",
@@ -114,7 +114,7 @@ var newDocumentsInMycenaeanGreek =
                         "243",
                         "758"
                     ],
-              "PY Mn 456 $90$": [
+              "PY Mn 456": [
                         "292",
                         "293",
                         "577",
@@ -122,7 +122,7 @@ var newDocumentsInMycenaeanGreek =
                         "646",
                         "759"
                     ],
-              "PY Jn 389 $310$": [
+              "PY Jn 389": [
                         "161",
                         "332",
                         "540",
@@ -145,7 +145,7 @@ var newDocumentsInMycenaeanGreek =
                         "603",
                         "761"
                     ],
-              "PY Ad 671 $290$": [
+              "PY Ad 671": [
                         "47",
                         "50",
                         "77",
@@ -154,7 +154,7 @@ var newDocumentsInMycenaeanGreek =
                         "618",
                         "756"
                     ],
-              "PY Eb 866 $149$": [
+              "PY Eb 866": [
                         "226",
                         "602",
                         "758"
@@ -185,7 +185,7 @@ var newDocumentsInMycenaeanGreek =
                         "642",
                         "761"
                     ],
-              "PY Un 6 [+] 1439 $6$": [
+              "PY Un 6 [+] 1439": [
                         "272",
                         "462",
                         "463",
@@ -213,12 +213,12 @@ var newDocumentsInMycenaeanGreek =
                         "606",
                         "760"
                     ],
-              "PY Un 249 + frr.(3) $-$ (Cii)": [
+              "PY Un 249 + frr.(3) (Cii)": [
                         "168",
                         "365",
                         "760"
                     ],
-              "PY Aq 64 $64$": [
+              "PY Aq 64": [
                         "94",
                         "95",
                         "96",
@@ -259,7 +259,7 @@ var newDocumentsInMycenaeanGreek =
                         "634",
                         "757"
                     ],
-              "PY Eb 473 $149$": [
+              "PY Eb 473": [
                         "226",
                         "758"
                     ],
@@ -267,7 +267,7 @@ var newDocumentsInMycenaeanGreek =
                         "559",
                         "761"
                     ],
-              "PY Ta 713 $641$": [
+              "PY Ta 713": [
                         "402",
                         "403",
                         "404",
@@ -279,7 +279,7 @@ var newDocumentsInMycenaeanGreek =
                         "629",
                         "760"
                     ],
-              "PY Vn 20 $-$": [
+              "PY Vn 20": [
                         "159",
                         "160",
                         "308",
@@ -305,18 +305,18 @@ var newDocumentsInMycenaeanGreek =
                         "480",
                         "761"
                     ],
-              "PY Ea 259 $28$": [
+              "PY Ea 259": [
                         "204",
                         "758"
                     ],
-              "PY Ad 686 $290$": [
+              "PY Ad 686": [
                         "45",
                         "52",
                         "620",
                         "640",
                         "756"
                     ],
-              "PY Ma 330 + fr. $90$": [
+              "PY Ma 330 + fr.": [
                         "289",
                         "314",
                         "523",
@@ -378,7 +378,7 @@ var newDocumentsInMycenaeanGreek =
                         "151",
                         "757"
                     ],
-              "PY Fn 7 + fr. + 1427 $-$": [
+              "PY Fn 7 + fr. + 1427": [
                         "80",
                         "153",
                         "496",
@@ -396,12 +396,12 @@ var newDocumentsInMycenaeanGreek =
                         "490",
                         "761"
                     ],
-              "KN K(1) 872 (102a)": [
+              "KN K(1) 872": [
                         "337",
                         "387",
                         "760"
                     ],
-              "PY An 830 + 907 + fr. + frr. + fr. $615$": [
+              "PY An 830 + 907 + fr. + frr. + fr.": [
                         "77",
                         "87",
                         "192",
@@ -415,7 +415,7 @@ var newDocumentsInMycenaeanGreek =
                         "654",
                         "756"
                     ],
-              "PY Ma 222 + fr. $90$": [
+              "PY Ma 222 + fr.": [
                         "288",
                         "291",
                         "759"
@@ -426,19 +426,19 @@ var newDocumentsInMycenaeanGreek =
                         "542",
                         "758"
                     ],
-              "PY Mn 162 [+] 1011 $90$": [
+              "PY Mn 162 [+] 1011": [
                         "292",
                         "293",
                         "551",
                         "759"
                     ],
-              "PY Es 646 $644$": [
+              "PY Es 646": [
                         "253",
                         "492",
                         "664",
                         "759"
                     ],
-              "PY Ma 393 $90$": [
+              "PY Ma 393": [
                         "291",
                         "601",
                         "759"
@@ -451,7 +451,7 @@ var newDocumentsInMycenaeanGreek =
                         "563",
                         "761"
                     ],
-              "KN Sd 4422 (128/?)": [
+              "KN Sd 4422": [
                         "437",
                         "549",
                         "661",
@@ -470,7 +470,7 @@ var newDocumentsInMycenaeanGreek =
                         "658",
                         "757"
                     ],
-              "PY An 654 $657$": [
+              "PY An 654": [
                         "94",
                         "103",
                         "254",
@@ -494,11 +494,11 @@ var newDocumentsInMycenaeanGreek =
                         "668",
                         "757"
                     ],
-              "PY Eb 339 [+] 409 $149$": [
+              "PY Eb 339 [+] 409": [
                         "224",
                         "618"
                     ],
-              "PY Ep 705 $74$": [
+              "PY Ep 705": [
                         "225",
                         "226",
                         "565",
@@ -508,13 +508,13 @@ var newDocumentsInMycenaeanGreek =
                         "657",
                         "758"
                     ],
-              "PY Va 482 $-$": [
+              "PY Va 482": [
                         "542",
                         "577",
                         "635",
                         "761"
                     ],
-              "PY Eo 471 [+] 855 $149$": [
+              "PY Eo 471 [+] 855": [
                         "217",
                         "758"
                     ],
@@ -522,7 +522,7 @@ var newDocumentsInMycenaeanGreek =
                         "559",
                         "761"
                     ],
-              "PY En 659 $74$": [
+              "PY En 659": [
                         "211",
                         "217",
                         "218",
@@ -554,7 +554,7 @@ var newDocumentsInMycenaeanGreek =
                         "442",
                         "761"
                     ],
-              "PY Ub 1315 $-$": [
+              "PY Ub 1315": [
                         "89",
                         "368",
                         "433",
@@ -578,7 +578,7 @@ var newDocumentsInMycenaeanGreek =
                         "348",
                         "759"
                     ],
-              "PY Ta 721 $641$": [
+              "PY Ta 721": [
                         "399",
                         "402",
                         "409",
@@ -591,7 +591,7 @@ var newDocumentsInMycenaeanGreek =
                         "671",
                         "761"
                     ],
-              "PY An 657 $657$": [
+              "PY An 657": [
                         "80",
                         "97",
                         "100",
@@ -619,7 +619,7 @@ var newDocumentsInMycenaeanGreek =
                         "661",
                         "757"
                     ],
-              "PY Eb 321 [+] 327 [+] 1153 + frr.(3) $149$": [
+              "PY Eb 321 [+] 327 [+] 1153 + frr.(3)": [
                         "62",
                         "223",
                         "224",
@@ -632,7 +632,7 @@ var newDocumentsInMycenaeanGreek =
                         "441",
                         "760"
                     ],
-              "PY Ta 711 $641$": [
+              "PY Ta 711": [
                         "393",
                         "397",
                         "410",
@@ -644,7 +644,7 @@ var newDocumentsInMycenaeanGreek =
                         "662",
                         "760"
                     ],
-              "PY Nn 831 $106$": [
+              "PY Nn 831": [
                         "296",
                         "302",
                         "304",
@@ -663,7 +663,7 @@ var newDocumentsInMycenaeanGreek =
                         "612",
                         "760"
                     ],
-              "PY Eq 213 $74$": [
+              "PY Eq 213": [
                         "94",
                         "99",
                         "235",
@@ -680,7 +680,7 @@ var newDocumentsInMycenaeanGreek =
                         "666",
                         "758"
                     ],
-              "PY Eb 818 $149$": [
+              "PY Eb 818": [
                         "198",
                         "221",
                         "545",
@@ -690,7 +690,7 @@ var newDocumentsInMycenaeanGreek =
                         "239",
                         "758"
                     ],
-              "PY Un 1322 + fr. $-$ (Cii)": [
+              "PY Un 1322 + fr. (Cii)": [
                         "51",
                         "490",
                         "525",
@@ -698,7 +698,7 @@ var newDocumentsInMycenaeanGreek =
                         "664",
                         "761"
                     ],
-              "PY Eo 278 $149$": [
+              "PY Eo 278": [
                         "213",
                         "218",
                         "435",
@@ -708,7 +708,7 @@ var newDocumentsInMycenaeanGreek =
                         "241",
                         "758"
                     ],
-              "PY Ea 102 + 107 $28$": [
+              "PY Ea 102 + 107": [
                         "200",
                         "204",
                         "758"
@@ -717,7 +717,7 @@ var newDocumentsInMycenaeanGreek =
                         "60",
                         "756"
                     ],
-              "PY Eq 36 + 1451 + 1452 + frr.(7) [+] 887 $74$": [
+              "PY Eq 36 + 1451 + 1452 + frr.(7) [+] 887": [
                         "192",
                         "199",
                         "233",
@@ -726,13 +726,13 @@ var newDocumentsInMycenaeanGreek =
                         "630",
                         "758"
                     ],
-              "PY Na 543 + frr.(3) $106$": [
+              "PY Na 543 + frr.(3)": [
                         "299",
                         "301",
                         "595",
                         "759"
                     ],
-              "PY Eo 224 $149$": [
+              "PY Eo 224": [
                         "61",
                         "206",
                         "214",
@@ -742,12 +742,12 @@ var newDocumentsInMycenaeanGreek =
                         "619",
                         "758"
                     ],
-              "PY Ed 847 $74$": [
+              "PY Ed 847": [
                         "231",
                         "566",
                         "758"
                     ],
-              "PY Ta 722 $641$": [
+              "PY Ta 722": [
                         "409",
                         "553",
                         "584",
@@ -761,7 +761,7 @@ var newDocumentsInMycenaeanGreek =
                         "559",
                         "761"
                     ],
-              "PY Jo 438 + fr. + frr. [+] 590 $-$ (Ci)": [
+              "PY Jo 438 + fr. + frr. [+] 590 (Ci)": [
                         "51",
                         "71",
                         "308",
@@ -784,7 +784,7 @@ var newDocumentsInMycenaeanGreek =
                         "655",
                         "759"
                     ],
-              "PY An 610 + frr.(9) + frr.(7) + fr. [+] 1151 $1$": [
+              "PY An 610 + frr.(9) + frr.(7) + fr. [+] 1151": [
                         "51",
                         "88",
                         "91",
@@ -806,7 +806,7 @@ var newDocumentsInMycenaeanGreek =
                         "669",
                         "757"
                     ],
-              "PY Er 312 + fr. $312$": [
+              "PY Er 312 + fr.": [
                         "238",
                         "260",
                         "262",
@@ -824,12 +824,12 @@ var newDocumentsInMycenaeanGreek =
                         "591",
                         "757"
                     ],
-              "PY Ma 123 $90$": [
+              "PY Ma 123": [
                         "288",
                         "292",
                         "759"
                     ],
-              "PY Ma 90 $90$": [
+              "PY Ma 90": [
                         "102",
                         "287",
                         "289",
@@ -842,7 +842,7 @@ var newDocumentsInMycenaeanGreek =
                         "603",
                         "761"
                     ],
-              "PY Ta 707 + fr. $641$": [
+              "PY Ta 707 + fr.": [
                         "407",
                         "613",
                         "635",
@@ -850,7 +850,7 @@ var newDocumentsInMycenaeanGreek =
                         "656",
                         "760"
                     ],
-              "PY Cn 131 $131$": [
+              "PY Cn 131": [
                         "115",
                         "124",
                         "131",
@@ -877,14 +877,14 @@ var newDocumentsInMycenaeanGreek =
                         "668",
                         "757"
                     ],
-              "PY Sa 487 $287$": [
+              "PY Sa 487": [
                         "406",
                         "589",
                         "651",
                         "664",
                         "761"
                     ],
-              "PY An 207 [+] 279 + fr. [+] 449 [+] 360 + frr. $-$": [
+              "PY An 207 [+] 279 + fr. [+] 449 [+] 360 + frr.": [
                         "82",
                         "87",
                         "92",
@@ -902,12 +902,12 @@ var newDocumentsInMycenaeanGreek =
                         "662",
                         "757"
                     ],
-              "PY Aa 792 $240$": [
+              "PY Aa 792": [
                         "49",
                         "591",
                         "756"
                     ],
-              "PY Ab 388 $186$": [
+              "PY Ab 388": [
                         "44"
                     ],
               "TH Fq 130": [
@@ -918,7 +918,7 @@ var newDocumentsInMycenaeanGreek =
                         "543",
                         "761"
                     ],
-              "PY Ad 670 $290$": [
+              "PY Ad 670": [
                         "50",
                         "643",
                         "756"
@@ -933,20 +933,20 @@ var newDocumentsInMycenaeanGreek =
                         "624",
                         "757"
                     ],
-              "PY Pn 30 $-$": [
+              "PY Pn 30": [
                         "236",
                         "365",
                         "367",
                         "644",
                         "760"
                     ],
-              "PY Na 248 $106$": [
+              "PY Na 248": [
                         "298",
                         "302",
                         "573",
                         "759"
                     ],
-              "PY Na 568 $106$": [
+              "PY Na 568": [
                         "298",
                         "302",
                         "590",
@@ -955,7 +955,7 @@ var newDocumentsInMycenaeanGreek =
               "KN Sf(1) 4428": [
                         "760"
                     ],
-              "PY En 467 + frr. $74$": [
+              "PY En 467 + frr.": [
                         "213",
                         "218",
                         "219",
@@ -964,7 +964,7 @@ var newDocumentsInMycenaeanGreek =
                         "655",
                         "758"
                     ],
-              "PY Ed 411 + fr. + frr. $74$ (41,1)": [
+              "PY Ed 411 + fr. + frr. (41,1)": [
                         "230",
                         "600",
                         "617",
@@ -1009,7 +1009,7 @@ var newDocumentsInMycenaeanGreek =
                         "662",
                         "756"
                     ],
-              "PY Vn 46 + fr. $-$ (Cii)": [
+              "PY Vn 46 + fr. (Cii)": [
                         "439",
                         "529",
                         "551",
@@ -1025,11 +1025,11 @@ var newDocumentsInMycenaeanGreek =
                         "651",
                         "761"
                     ],
-              "PY Sa 787 $287$": [
+              "PY Sa 787": [
                         "443",
                         "761"
                     ],
-              "PY Sh 740 $733$ (Cii)": [
+              "PY Sh 740 (Cii)": [
                         "439",
                         "448",
                         "761"
@@ -1040,7 +1040,7 @@ var newDocumentsInMycenaeanGreek =
                         "551",
                         "761"
                     ],
-              "PY Cn 3 $608$": [
+              "PY Cn 3": [
                         "101",
                         "105",
                         "134",
@@ -1054,7 +1054,7 @@ var newDocumentsInMycenaeanGreek =
                         "661",
                         "757"
                     ],
-              "PY Ma 365 + frr.(3) + fr. $90$": [
+              "PY Ma 365 + frr.(3) + fr.": [
                         "289",
                         "291",
                         "298",
@@ -1084,11 +1084,11 @@ var newDocumentsInMycenaeanGreek =
                         "666",
                         "757"
                     ],
-              "PY Sa 287 $287$": [
+              "PY Sa 287": [
                         "445",
                         "761"
                     ],
-              "PY Ed 317 $74$": [
+              "PY Ed 317": [
                         "223",
                         "229",
                         "230",
@@ -1118,7 +1118,7 @@ var newDocumentsInMycenaeanGreek =
                         "68",
                         "756"
                     ],
-              "PY Ep 704 $74$": [
+              "PY Ep 704": [
                         "95",
                         "185",
                         "190",
@@ -1144,7 +1144,7 @@ var newDocumentsInMycenaeanGreek =
                         "669",
                         "758"
                     ],
-              "PY Un 267 $2$": [
+              "PY Un 267": [
                         "130",
                         "168",
                         "171",
@@ -1168,7 +1168,7 @@ var newDocumentsInMycenaeanGreek =
                         "574",
                         "759"
                     ],
-              "PY Cn 1287 $-$": [
+              "PY Cn 1287": [
                         "138",
                         "551",
                         "554",
@@ -1190,7 +1190,7 @@ var newDocumentsInMycenaeanGreek =
                         "663",
                         "761"
                     ],
-              "KN Ak(3) 784 [+] 8019 (102a)": [
+              "KN Ak(3) 784 [+] 8019": [
                         "57",
                         "59",
                         "756"
@@ -1201,7 +1201,7 @@ var newDocumentsInMycenaeanGreek =
                         "522",
                         "756"
                     ],
-              "PY Tn 996 $-$ (Ciii)": [
+              "PY Tn 996 (Ciii)": [
                         "50",
                         "325",
                         "377",
@@ -1216,7 +1216,7 @@ var newDocumentsInMycenaeanGreek =
                         "642",
                         "760"
                     ],
-              "PY An 427 $298$": [
+              "PY An 427": [
                         "83",
                         "84",
                         "88",
@@ -1231,7 +1231,7 @@ var newDocumentsInMycenaeanGreek =
                         "627",
                         "757"
                     ],
-              "PY Na 334 $106$": [
+              "PY Na 334": [
                         "300",
                         "303",
                         "759"
@@ -1240,7 +1240,7 @@ var newDocumentsInMycenaeanGreek =
                         "354",
                         "760"
                     ],
-              "PY Es 650 $-$ + fr.": [
+              "PY Es 650 + fr.": [
                         "104",
                         "195",
                         "250",
@@ -1256,7 +1256,7 @@ var newDocumentsInMycenaeanGreek =
                         "360",
                         "759"
                     ],
-              "PY Ta 709 $641$": [
+              "PY Ta 709": [
                         "50",
                         "204",
                         "377",
@@ -1273,7 +1273,7 @@ var newDocumentsInMycenaeanGreek =
                         "671",
                         "760"
                     ],
-              "PY Un 853 + 971 [+] 878 [+] 869 [+] 870 [+] 876 + frr.(3) + frr. [+] 1513 $6$": [
+              "PY Un 853 + 971 [+] 878 [+] 869 [+] 870 [+] 876 + frr.(3) + frr. [+] 1513": [
                         "269",
                         "277",
                         "465",
@@ -1296,14 +1296,14 @@ var newDocumentsInMycenaeanGreek =
                         "659",
                         "759"
                     ],
-              "PY Ad 697 $290$": [
+              "PY Ad 697": [
                         "47",
                         "51",
                         "558",
                         "636",
                         "756"
                     ],
-              "PY Eo 444 + fr. + fr. $149$": [
+              "PY Eo 444 + fr. + fr.": [
                         "212",
                         "214",
                         "216",
@@ -1314,7 +1314,7 @@ var newDocumentsInMycenaeanGreek =
                         "488",
                         "761"
                     ],
-              "PY Ea 782 $28$": [
+              "PY Ea 782": [
                         "203",
                         "607",
                         "628",
@@ -1324,7 +1324,7 @@ var newDocumentsInMycenaeanGreek =
                         "430",
                         "760"
                     ],
-              "PY Un 138 $138$": [
+              "PY Un 138": [
                         "92",
                         "137",
                         "157",
@@ -1340,7 +1340,7 @@ var newDocumentsInMycenaeanGreek =
                         "628",
                         "758"
                     ],
-              "PY En 609 $74$": [
+              "PY En 609": [
                         "78",
                         "183",
                         "188",
@@ -1366,7 +1366,7 @@ var newDocumentsInMycenaeanGreek =
                         "663",
                         "758"
                     ],
-              "MY Ge 604 (58a)": [
+              "MY Ge 604": [
                         "174",
                         "175",
                         "578",
@@ -1383,19 +1383,19 @@ var newDocumentsInMycenaeanGreek =
                         "661",
                         "757"
                     ],
-              "PY Va 1324 $-$ (Cii)": [
+              "PY Va 1324 (Cii)": [
                         "527",
                         "567",
                         "761"
                     ],
-              "PY Na 245 $106$": [
+              "PY Na 245": [
                         "294",
                         "297",
                         "301",
                         "645",
                         "759"
                     ],
-              "PY An 607 $-$": [
+              "PY An 607": [
                         "61",
                         "62",
                         "222",
@@ -1437,7 +1437,7 @@ var newDocumentsInMycenaeanGreek =
                         "653",
                         "759"
                     ],
-              "MY Ge 603 + frr. (58a)": [
+              "MY Ge 603 + frr.": [
                         "163",
                         "169",
                         "170",
@@ -1457,7 +1457,7 @@ var newDocumentsInMycenaeanGreek =
                         "645",
                         "758"
                     ],
-              "PY Aa 62 $60$": [
+              "PY Aa 62": [
                         "29",
                         "48",
                         "597",
@@ -1472,7 +1472,7 @@ var newDocumentsInMycenaeanGreek =
                         "167",
                         "757"
                     ],
-              "PY Nn 228 $106$": [
+              "PY Nn 228": [
                         "295",
                         "296",
                         "298",
@@ -1483,28 +1483,28 @@ var newDocumentsInMycenaeanGreek =
                         "661",
                         "759"
                     ],
-              "PY Es 649 $644$": [
+              "PY Es 649": [
                         "253",
                         "550",
                         "759"
                     ],
-              "PY Aa 240 $240$": [
+              "PY Aa 240": [
                         "48",
                         "756"
                     ],
-              "PY Sa 682 $287$": [
+              "PY Sa 682": [
                         "445",
                         "654",
                         "761"
                     ],
-              "PY Ng 319 $106$": [
+              "PY Ng 319": [
                         "296",
                         "307",
                         "561",
                         "616",
                         "759"
                     ],
-              "PY Er 880 + fr. $312$": [
+              "PY Er 880 + fr.": [
                         "245",
                         "251",
                         "265",
@@ -1514,7 +1514,7 @@ var newDocumentsInMycenaeanGreek =
                         "646",
                         "759"
                     ],
-              "PY Cc 660 $4$": [
+              "PY Cc 660": [
                         "119",
                         "126",
                         "517",
@@ -1528,7 +1528,7 @@ var newDocumentsInMycenaeanGreek =
                         "55",
                         "756"
                     ],
-              "PY Na 926 $106$": [
+              "PY Na 926": [
                         "303",
                         "554",
                         "566",
@@ -1540,7 +1540,7 @@ var newDocumentsInMycenaeanGreek =
                         "166",
                         "757"
                     ],
-              "PY Es 644 $644$": [
+              "PY Es 644": [
                         "92",
                         "250",
                         "252",
@@ -1558,7 +1558,7 @@ var newDocumentsInMycenaeanGreek =
                         "295",
                         "759"
                     ],
-              "PY Cn 418 + fr. + 1471 + fr. + frr.(3) + frr. $-$ (Ciii)": [
+              "PY Cn 418 + fr. + 1471 + fr. + frr.(3) + frr. (Ciii)": [
                         "109",
                         "137",
                         "141",
@@ -1570,7 +1570,7 @@ var newDocumentsInMycenaeanGreek =
                         "665",
                         "757"
                     ],
-              "PY Ep 301 $74$": [
+              "PY Ep 301": [
                         "193",
                         "219",
                         "221",
@@ -1584,19 +1584,19 @@ var newDocumentsInMycenaeanGreek =
                         "625",
                         "758"
                     ],
-              "PY Sh 734 $733$ (Cii)": [
+              "PY Sh 734 (Cii)": [
                         "448",
                         "605",
                         "610",
                         "617",
                         "761"
                     ],
-              "PY Sa 790 $287$": [
+              "PY Sa 790": [
                         "342",
                         "444",
                         "761"
                     ],
-              "PY Eo 276 $149$": [
+              "PY Eo 276": [
                         "210",
                         "215",
                         "644",
@@ -1611,13 +1611,13 @@ var newDocumentsInMycenaeanGreek =
                         "654",
                         "759"
                     ],
-              "PY Eb 846 $149$": [
+              "PY Eb 846": [
                         "221",
                         "556",
                         "596",
                         "758"
                     ],
-              "PY Na 406 $106$": [
+              "PY Na 406": [
                         "266",
                         "303",
                         "614",
@@ -1635,7 +1635,7 @@ var newDocumentsInMycenaeanGreek =
                         "512",
                         "761"
                     ],
-              "PY Ab 553 $186$": [
+              "PY Ab 553": [
                         "49",
                         "50",
                         "412",
@@ -1648,13 +1648,13 @@ var newDocumentsInMycenaeanGreek =
                         "82",
                         "757"
                     ],
-              "PY Ta 708 + fr. $641$": [
+              "PY Ta 708 + fr.": [
                         "408",
                         "538",
                         "642",
                         "760"
                     ],
-              "PY Aa 717 $240$": [
+              "PY Aa 717": [
                         "48",
                         "557",
                         "643",
@@ -1671,14 +1671,14 @@ var newDocumentsInMycenaeanGreek =
                         "482",
                         "761"
                     ],
-              "PY Ja 749 $310$": [
+              "PY Ja 749": [
                         "328",
                         "335",
                         "617",
                         "658",
                         "759"
                     ],
-              "KN K(1) 875 (102a)": [
+              "KN K(1) 875": [
                         "70",
                         "336",
                         "337",
@@ -1686,7 +1686,7 @@ var newDocumentsInMycenaeanGreek =
                         "401",
                         "759"
                     ],
-              "PY An 656 $657$": [
+              "PY An 656": [
                         "103",
                         "105",
                         "137",
@@ -1709,7 +1709,7 @@ var newDocumentsInMycenaeanGreek =
                         "669",
                         "757"
                     ],
-              "PY Ta 716 $641$": [
+              "PY Ta 716": [
                         "11",
                         "395",
                         "396",
@@ -1732,12 +1732,12 @@ var newDocumentsInMycenaeanGreek =
                         "648",
                         "761"
                     ],
-              "PY Eb 895 [+] 906 $149$": [
+              "PY Eb 895 [+] 906": [
                         "221",
                         "539",
                         "758"
                     ],
-              "PY Tn 316 $-$": [
+              "PY Tn 316": [
                         "63",
                         "183",
                         "233",
@@ -1804,7 +1804,7 @@ var newDocumentsInMycenaeanGreek =
                         "670",
                         "760"
                     ],
-              "MY Ue 611 (60/-)": [
+              "MY Ue 611": [
                         "389",
                         "584",
                         "598",
@@ -1813,7 +1813,7 @@ var newDocumentsInMycenaeanGreek =
                         "636",
                         "760"
                     ],
-              "KN Ai(1) 63 (124-B)": [
+              "KN Ai(1) 63": [
                         "60",
                         "756"
                     ],
@@ -1839,7 +1839,7 @@ var newDocumentsInMycenaeanGreek =
                         "665",
                         "757"
                     ],
-              "PY Ta 642 + fr. $641$": [
+              "PY Ta 642 + fr.": [
                         "346",
                         "402",
                         "539",
@@ -1863,7 +1863,7 @@ var newDocumentsInMycenaeanGreek =
                         "594",
                         "760"
                     ],
-              "PY Ta 641 $641$": [
+              "PY Ta 641": [
                         "191",
                         "330",
                         "379",
@@ -1901,7 +1901,7 @@ var newDocumentsInMycenaeanGreek =
                         "453",
                         "761"
                     ],
-              "PY Aq 218 + fr. $64$": [
+              "PY Aq 218 + fr.": [
                         "94",
                         "102",
                         "103",
@@ -1917,7 +1917,7 @@ var newDocumentsInMycenaeanGreek =
                         "671",
                         "761"
                     ],
-              "PY Ab 379 $186$": [
+              "PY Ab 379": [
                         "49",
                         "576",
                         "597",
@@ -1965,7 +1965,7 @@ var newDocumentsInMycenaeanGreek =
                         "154",
                         "756"
                     ],
-              "PY An 35 $-$": [
+              "PY An 35": [
                         "75",
                         "294",
                         "552",
@@ -1974,12 +1974,12 @@ var newDocumentsInMycenaeanGreek =
                         "645",
                         "756"
                     ],
-              "PY Ma 378 $90$": [
+              "PY Ma 378": [
                         "290",
                         "645",
                         "759"
                     ],
-              "PY Eb 416 $149$": [
+              "PY Eb 416": [
                         "186",
                         "193",
                         "198",
@@ -1991,7 +1991,7 @@ var newDocumentsInMycenaeanGreek =
                         "661",
                         "758"
                     ],
-              "KN Sd 4409 + 4481 + frr.(3) (128/?)": [
+              "KN Sd 4409 + 4481 + frr.(3)": [
                         "435",
                         "667",
                         "760"
@@ -2012,14 +2012,14 @@ var newDocumentsInMycenaeanGreek =
                 "548",
                 "757"
             ],
-      "PY Eo 247 $149$": [
+      "PY Eo 247": [
                 "215",
                 "216",
                 "556",
                 "650",
                 "758"
             ],
-      "PY Ep 613 [+] 1131 + frr.(6) + fr. $74$": [
+      "PY Ep 613 [+] 1131 + frr.(6) + fr.": [
                 "186",
                 "191",
                 "192",
@@ -2051,7 +2051,7 @@ var newDocumentsInMycenaeanGreek =
                 "665",
                 "758"
             ],
-      "PY Jn 310 + frr. $310$": [
+      "PY Jn 310 + frr.": [
                 "194",
                 "330",
                 "331",
@@ -2070,7 +2070,7 @@ var newDocumentsInMycenaeanGreek =
                 "666",
                 "759"
             ],
-      "PY An 1281 + frr.(10) + fr. $-$": [
+      "PY An 1281 + frr.(10) + fr.": [
                 "63",
                 "78",
                 "157",
@@ -2090,7 +2090,7 @@ var newDocumentsInMycenaeanGreek =
                 "659",
                 "756"
             ],
-      "PY Ma 225 $90$": [
+      "PY Ma 225": [
                 "286",
                 "290",
                 "294",
@@ -2107,7 +2107,7 @@ var newDocumentsInMycenaeanGreek =
                 "661",
                 "761"
             ],
-      "KN Ce 59 (124-C)": [
+      "KN Ce 59": [
                 "145",
                 "559",
                 "602",
@@ -2115,7 +2115,7 @@ var newDocumentsInMycenaeanGreek =
                 "665",
                 "757"
             ],
-      "PY Ea 825 $28$": [
+      "PY Ea 825": [
                 "203",
                 "758"
             ],
@@ -2129,7 +2129,7 @@ var newDocumentsInMycenaeanGreek =
                 "178",
                 "758"
             ],
-      "PY Na 322 $106$": [
+      "PY Na 322": [
                 "296",
                 "301",
                 "759"
@@ -2138,13 +2138,13 @@ var newDocumentsInMycenaeanGreek =
                 "441",
                 "760"
             ],
-      "PY Ea 824 $28$": [
+      "PY Ea 824": [
                 "196",
                 "204",
                 "593",
                 "758"
             ],
-      "PY Eb 842 $149$": [
+      "PY Eb 842": [
                 "192",
                 "228",
                 "582",
@@ -2152,7 +2152,7 @@ var newDocumentsInMycenaeanGreek =
                 "656",
                 "758"
             ],
-      "PY Eo 268 $149$": [
+      "PY Eo 268": [
                 "218",
                 "758"
             ],
@@ -2160,7 +2160,7 @@ var newDocumentsInMycenaeanGreek =
                 "349",
                 "759"
             ],
-      "PY Cn 608 $608$": [
+      "PY Cn 608": [
                 "110",
                 "150",
                 "308",
@@ -2172,7 +2172,7 @@ var newDocumentsInMycenaeanGreek =
                 "647",
                 "759"
             ],
-      "PY Ae 264 + fr. $8$": [
+      "PY Ae 264 + fr.": [
                 "67",
                 "178",
                 "556",
@@ -2196,7 +2196,7 @@ var newDocumentsInMycenaeanGreek =
                 "559",
                 "761"
             ],
-      "PY Un 2 $2$": [
+      "PY Un 2": [
                 "85",
                 "177",
                 "179",
@@ -2207,7 +2207,7 @@ var newDocumentsInMycenaeanGreek =
                 "614",
                 "758"
             ],
-      "PY An 292 $240$": [
+      "PY An 292": [
                 "49",
                 "52",
                 "583",
@@ -2215,7 +2215,7 @@ var newDocumentsInMycenaeanGreek =
                 "648",
                 "756"
             ],
-      "PY Fn 50 + fr. $-$ (Ciii)": [
+      "PY Fn 50 + fr. (Ciii)": [
                 "79",
                 "80",
                 "85",
@@ -2234,7 +2234,7 @@ var newDocumentsInMycenaeanGreek =
                 "605",
                 "757"
             ],
-      "PY Un 718 $312$": [
+      "PY Un 718": [
                 "48",
                 "80",
                 "141",
@@ -2256,7 +2256,7 @@ var newDocumentsInMycenaeanGreek =
                 "660",
                 "759"
             ],
-      "PY En 74 + frr. $74$": [
+      "PY En 74 + frr.": [
                 "185",
                 "189",
                 "199",
@@ -2281,7 +2281,7 @@ var newDocumentsInMycenaeanGreek =
                 "662",
                 "758"
             ],
-      "PY Ae 134 $8$": [
+      "PY Ae 134": [
                 "68",
                 "124",
                 "551",
@@ -2294,17 +2294,17 @@ var newDocumentsInMycenaeanGreek =
                 "657",
                 "761"
             ],
-      "PY Eo 211 + fr. $149$": [
+      "PY Eo 211 + fr.": [
                 "208",
                 "214",
                 "758"
             ],
-      "PY Ea 71 $28$": [
+      "PY Ea 71": [
                 "203",
                 "593",
                 "758"
             ],
-      "PY Na 252 $106$": [
+      "PY Na 252": [
                 "297",
                 "302",
                 "573",
@@ -2319,7 +2319,7 @@ var newDocumentsInMycenaeanGreek =
                 "472",
                 "761"
             ],
-      "PY An 261 + fr. [+] 283 $-$": [
+      "PY An 261 + fr. [+] 283": [
                 "73",
                 "547",
                 "554",
@@ -2342,7 +2342,7 @@ var newDocumentsInMycenaeanGreek =
                 "629",
                 "757"
             ],
-      "PY Eb 338 + fr. $149$": [
+      "PY Eb 338 + fr.": [
                 "225",
                 "583",
                 "596",
@@ -2351,7 +2351,7 @@ var newDocumentsInMycenaeanGreek =
                 "669",
                 "758"
             ],
-      "PY An 661 $657$": [
+      "PY An 661": [
                 "104",
                 "106",
                 "132",
@@ -2368,7 +2368,7 @@ var newDocumentsInMycenaeanGreek =
                 "655",
                 "757"
             ],
-      "PY An 1 + fr. + fr. $1$": [
+      "PY An 1 + fr. + fr.": [
                 "52",
                 "90",
                 "91",
@@ -2381,7 +2381,7 @@ var newDocumentsInMycenaeanGreek =
                 "654",
                 "757"
             ],
-      "PY Na 520 $106$": [
+      "PY Na 520": [
                 "239",
                 "299",
                 "300",
@@ -2390,11 +2390,11 @@ var newDocumentsInMycenaeanGreek =
                 "304",
                 "759"
             ],
-      "PY Eo 351 $149$": [
+      "PY Eo 351": [
                 "217",
                 "758"
             ],
-      "PY Ea 800 $28$": [
+      "PY Ea 800": [
                 "203",
                 "205",
                 "607",
@@ -2426,7 +2426,7 @@ var newDocumentsInMycenaeanGreek =
                 "245",
                 "756"
             ],
-      "KN F(1) 51 (124-D)": [
+      "KN F(1) 51": [
                 "483",
                 "495",
                 "497",
@@ -2443,7 +2443,7 @@ var newDocumentsInMycenaeanGreek =
                 "623",
                 "760"
             ],
-      "PY Ed 901 +fr. $74$": [
+      "PY Ed 901 +fr.": [
                 "231",
                 "596",
                 "758"
@@ -2460,12 +2460,12 @@ var newDocumentsInMycenaeanGreek =
                 "559",
                 "761"
             ],
-      "PY Eo 160 $149$": [
+      "PY Eo 160": [
                 "216",
                 "594",
                 "758"
             ],
-      "PY Vn 10 $-$": [
+      "PY Vn 10": [
                 "135",
                 "329",
                 "372",
@@ -2476,7 +2476,7 @@ var newDocumentsInMycenaeanGreek =
                 "570",
                 "644"
             ],
-      "PY Ta 715 + fr. $641$": [
+      "PY Ta 715 + fr.": [
                 "406",
                 "539",
                 "569",
@@ -2484,7 +2484,7 @@ var newDocumentsInMycenaeanGreek =
                 "657",
                 "760"
             ],
-      "PY Ea 59 $28$": [
+      "PY Ea 59": [
                 "205",
                 "206",
                 "235",
@@ -2495,7 +2495,7 @@ var newDocumentsInMycenaeanGreek =
                 "649",
                 "758"
             ],
-      "KN Uc 160 [+] 8032 (124-D)": [
+      "KN Uc 160 [+] 8032": [
                 "381",
                 "387",
                 "547",
@@ -2508,7 +2508,7 @@ var newDocumentsInMycenaeanGreek =
                 "642",
                 "759"
             ],
-      "PY Ea 817 $28$": [
+      "PY Ea 817": [
                 "203",
                 "758"
             ],
@@ -2547,7 +2547,7 @@ var newDocumentsInMycenaeanGreek =
                 "57",
                 "756"
             ],
-      "PY Ma 126 $90$": [
+      "PY Ma 126": [
                 "175",
                 "286",
                 "288",
@@ -2558,7 +2558,7 @@ var newDocumentsInMycenaeanGreek =
                 "648",
                 "759"
             ],
-      "PY Ad 684 $290$": [
+      "PY Ad 684": [
                 "51",
                 "523",
                 "526",
@@ -2577,7 +2577,7 @@ var newDocumentsInMycenaeanGreek =
                 "612",
                 "761"
             ],
-      "PY On 300 + fr. + 375 + frr.(5) + 1074 + fr. + 1446 $300$ (Cii)": [
+      "PY On 300 + fr. + 375 + frr.(5) + 1074 + fr. + 1446 (Cii)": [
                 "144",
                 "154",
                 "271",
@@ -2595,7 +2595,7 @@ var newDocumentsInMycenaeanGreek =
                 "652",
                 "761"
             ],
-      "PY Ng 332 $106$": [
+      "PY Ng 332": [
                 "307",
                 "623",
                 "759"
@@ -2604,7 +2604,7 @@ var newDocumentsInMycenaeanGreek =
                 "168",
                 "757"
             ],
-      "PY Jn 658 $658$": [
+      "PY Jn 658": [
                 "333",
                 "553",
                 "557",
@@ -2626,7 +2626,7 @@ var newDocumentsInMycenaeanGreek =
                 "582",
                 "761"
             ],
-      "PY Ta 714 $641$": [
+      "PY Ta 714": [
                 "386",
                 "403",
                 "408",
@@ -2649,7 +2649,7 @@ var newDocumentsInMycenaeanGreek =
                 "664",
                 "757"
             ],
-      "PY Sh 736 $733$ (Cii)": [
+      "PY Sh 736 (Cii)": [
                 "136",
                 "443",
                 "449",
@@ -2661,12 +2661,12 @@ var newDocumentsInMycenaeanGreek =
                 "559",
                 "761"
             ],
-      "PY Sa 793 $287$": [
+      "PY Sa 793": [
                 "444",
                 "572",
                 "761"
             ],
-      "PY Fn 187 $-$": [
+      "PY Fn 187": [
                 "153",
                 "156",
                 "491",
@@ -2689,7 +2689,7 @@ var newDocumentsInMycenaeanGreek =
                 "671",
                 "761"
             ],
-      "PY An 724 + frr.(3) $657$": [
+      "PY An 724 + frr.(3)": [
                 "93",
                 "99",
                 "266",
@@ -2715,7 +2715,7 @@ var newDocumentsInMycenaeanGreek =
                 "56",
                 "756"
             ],
-      "PY Eb 297 $149$": [
+      "PY Eb 297": [
                 "200",
                 "223",
                 "224",
@@ -2727,7 +2727,7 @@ var newDocumentsInMycenaeanGreek =
                 "611",
                 "758"
             ],
-      "PY Ed 236 $74$": [
+      "PY Ed 236": [
                 "190",
                 "230",
                 "232",
@@ -2770,7 +2770,7 @@ var newDocumentsInMycenaeanGreek =
                 "246",
                 "758"
             ],
-      "PY Eo 281 $149$": [
+      "PY Eo 281": [
                 "218",
                 "638",
                 "758"
@@ -2790,7 +2790,7 @@ var newDocumentsInMycenaeanGreek =
                 "618",
                 "761"
             ],
-      "PY An 1282 $-$ (Ciii)": [
+      "PY An 1282 (Ciii)": [
                 "77",
                 "89",
                 "179",
@@ -2815,7 +2815,7 @@ var newDocumentsInMycenaeanGreek =
                 "609",
                 "757"
             ],
-      "PY Jn 829 $310$": [
+      "PY Jn 829": [
                 "101",
                 "166",
                 "211",
@@ -2838,7 +2838,7 @@ var newDocumentsInMycenaeanGreek =
                 "670",
                 "759"
             ],
-      "PY Ae 303 $8$": [
+      "PY Ae 303": [
                 "61",
                 "578",
                 "599",
@@ -2848,14 +2848,14 @@ var newDocumentsInMycenaeanGreek =
                 "131",
                 "757"
             ],
-      "PY Ad 676 $290$": [
+      "PY Ad 676": [
                 "50",
                 "756"
             ],
-      "KN As(2) 1517 (102b)": [
+      "KN As(2) 1517": [
                 "72"
             ],
-      "PY Sh 737 $733$ (Cii)": [
+      "PY Sh 737 (Cii)": [
                 "405",
                 "448",
                 "761"
@@ -2864,7 +2864,7 @@ var newDocumentsInMycenaeanGreek =
                 "373",
                 "760"
             ],
-      "PY Cn 719 + frr.(6) + fr. + fr. + fr. + frr. $719$": [
+      "PY Cn 719 + frr.(6) + fr. + fr. + fr. + frr.": [
                 "124",
                 "169",
                 "542",
