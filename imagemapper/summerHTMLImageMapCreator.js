@@ -536,8 +536,9 @@ var summerHtmlImageMapCreator = (function() {
                 domElements.img.src = '../' + encodeURIComponent(url);
                 state.image.src = '../' + url;
 
+                console.log(facsimiles, url);
                 // If it's a photo, show a facsimile for side by side comparison.
-                if (facsimiles.includes(url)) {
+                if (!facsimiles.includes(url)) {
                   let comparisonImage = `images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
                   domElements.comparison.src = encodeURIComponent("../" + comparisonImage);
                   domElements.comparison.style.display = "block";
