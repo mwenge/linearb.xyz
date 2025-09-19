@@ -704,10 +704,21 @@ textarea:focus, input:focus{
 .room-highlight {
   position: absolute;
 }
-.letter-highlight {
-  opacity: 0.5;
-  position: absolute;
+
+.img-wrapper > img {
+  position: relative;
+  pointer-events:none;
+  z-index: 11;
 }
+.letter-highlight {
+  position: absolute;
+  z-index: 0;
+}
+.letter-highlight-none {
+  background-color: none;
+  border: none;
+}
+
 #word-chart {
   position: fixed;
   max-width: 50%;

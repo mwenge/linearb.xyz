@@ -25450,7 +25450,7 @@ var inscriptions = new Map(
                 "images/photos/Py39_PN_0.jpg",
                 "images/photos/Py39_PN_1.jpg"
             ],
-            "label": "PY An 39 $39v$ (Ciii)",
+            "label": "PY An 39 (Ciii)",
             "name": "Py39",
             "parsedInscription": "          pu-ka-wo   X                VIR   16\n        me-ri-du-ma-te            VIR   10   X\n        mi-ka-ta   X                    VIR   3\n        o-pi-te-u-ke-e-we        VIR   4   X\n        e-to-wo-ko   X               VIR   5\n          ka-sa-to   X   VIR\n        pu-ka-wo   X              VIR   23\n        me-ri-da-ma-te                VIR   6\n        o-pi-]te-u-ke-e-we                 VIR   5   X\n      mi-ka-]ta                                         VIR   6   X\n      e-]to-wo-ko    VIR   4   a-to-po-qo   VIR   3\nv.\n        po-ru-da-ma-te     VIR   4\n                vac.\n        qa-ra2-te                VIR\n        pu-ko-ro                 VIR\n        a-ko-so-ta               VIR\n        pi-ri-ja-me-ja          VIR\n        e-ni-ja-u-si-jo         VIR\n        pte-jo-ko   VIR   qo-ta-wo   VIR[\n        a-ta              VIR   te-o-po-qo[   VIR\n                       vest.             [",
             "scribe": "",

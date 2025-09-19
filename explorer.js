@@ -1079,6 +1079,7 @@ function addWordTip(word, name, index) {
 }
 
 function setHighlightLettersInTranscription(name, index, highlight) {
+  console.log("here");
   var highlightedElements = [];
   for (var imageType of ["photo", "transcription"]) {
     var els = document.getElementsByClassName("image-" + imageType + "-" + name + "-word-highlight-" + index);
@@ -1086,43 +1087,11 @@ function setHighlightLettersInTranscription(name, index, highlight) {
       var elements = el.getElementsByClassName("letter-highlight");
       Array.from(elements).forEach( element => {
         element.style.backgroundColor = highlight;
-        element.style.border = highlight != "" ? "0.5px solid black" : "none";
         highlightedElements.push(element);
       });
     });
   }
   return highlightedElements;
-}
-
-function paintHighlightOnZoomImage(itemZoom, img, element ) {
-  return function(e) {
-    var canvas = document.createElement('canvas');
-    var ctx = canvas.getContext('2d', {alpha: false});
-
-    var imageWidth = img.naturalWidth;
-    var imageHeight = img.naturalHeight;
-    canvas.width = imageWidth;
-    canvas.height = imageHeight;
-    ctx.drawImage(img, 0, 0, imageWidth, imageHeight);
-
-    for (var i = 0; i < element.children.length; i++) {
-      var highlight = element.children[i];
-      if (highlight.tagName != "DIV") {
-        continue;
-      }
-      var x = Math.floor((imageWidth * parseFloat(highlight.style.left)) / 100)
-      var y = Math.floor((imageHeight * parseFloat(highlight.style.top)) / 100)
-      var width = Math.floor((imageWidth * parseFloat(highlight.style.width)) / 100)
-      var height = Math.floor((imageHeight * parseFloat(highlight.style.height)) / 100)
-      ctx.fillStyle = highlight.style.backgroundColor;
-      ctx.fillRect(x, y, width, height);
-      ctx.fillStyle = "black";
-      ctx.lineWidth = 0.2;
-      ctx.strokeRect(x, y, width, height);
-    }
-    var dataURI = canvas.toDataURL();
-    itemZoom.style.backgroundImage = "url('" + dataURI + "')";
-  }
 }
 
 function highlightWords(name, index) {
@@ -1138,8 +1107,8 @@ function highlightWords(name, index) {
         continue;
       }
       element.style.backgroundColor = "yellow";
-      setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
     }
+    setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.8)");
     var element = document.getElementById(name + "-transcription-" + index);
     addWordTip(element.textContent, name, index);
   }
