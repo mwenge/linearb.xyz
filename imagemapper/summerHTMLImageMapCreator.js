@@ -538,7 +538,7 @@ var summerHtmlImageMapCreator = (function() {
 
                 console.log(facsimiles, url);
                 // If it's a photo, show a facsimile for side by side comparison.
-                if (!facsimiles.includes(url)) {
+                if (facsimiles.includes(url)) {
                   let comparisonImage = `images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
                   domElements.comparison.src = encodeURIComponent("../" + comparisonImage);
                   domElements.comparison.style.display = "block";
@@ -3078,7 +3078,7 @@ var summerHtmlImageMapCreator = (function() {
             continue;
           }
           const imgURL = inscription.images[0];
-          app.loadImage(imgURL, false);
+          app.loadImage(imgURL, inscription.facsimileImages);
           app.updateInscriptionPanel(inscription);
           return true;
         }
