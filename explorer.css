@@ -58,6 +58,7 @@ body {
 .lemma {
   font-size: 12px;
   font-style: italic;
+  max-width: 20vw;
 }
 .concordance-label {
   font-family: 'Routed', serif;
@@ -375,7 +376,7 @@ dt, dd, font {
   border-radius: 10px;
   padding: 3px;
   opacity: 0.96;
-  z-index: 999999;
+  z-index: 99999999;
   right: 0;
   top: 0;
 }
