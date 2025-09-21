@@ -1086,8 +1086,10 @@ function setHighlightLettersInTranscription(name, index, highlight) {
     Array.from(els).forEach( el => {
       var elements = el.getElementsByClassName("letter-highlight");
       Array.from(elements).forEach( element => {
-        element.style.backgroundColor = highlight;
-        highlightedElements.push(element);
+        if (!highlightedSearchElements.includes(element)) {
+          element.style.backgroundColor = highlight;
+          highlightedElements.push(element);
+        }
       });
     });
   }
@@ -1136,8 +1138,8 @@ function clearHighlight(name, index) {
         continue;
       }
       element.style.backgroundColor = "";
-      setHighlightLettersInTranscription(name, index, "");
     }
+    setHighlightLettersInTranscription(name, index, "");
   }
 }
 
