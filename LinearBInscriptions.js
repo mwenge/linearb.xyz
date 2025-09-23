@@ -90023,7 +90023,9 @@ var inscriptions = new Map(
             "imageRights": "© University of Cincinnati",
             "imageRightsURL": "http://calibra.classics.cam.ac.uk/",
             "images": [
-                "images/photos/Py438_PN_0.jpg"
+                "images/photos/Py438_PN_1.jpg",
+                "images/photos/Py438_PN_2.jpg",
+                "images/photos/Py438_PN_3.jpg"
             ],
             "label": "PY Jo 438 + fr. + frr. [+] 590 (Ci)",
             "name": "Py438",

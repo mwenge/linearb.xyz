@@ -21,7 +21,6 @@ html, body, div, span, applet, object, h1, h2, h3, h4, h5, h6, p, a, em, img, st
   font-size: 1vw;
   color: lightgreen;
   font-weight: bold;
-  border: white 1px solid;
   display: inline-block;
   vertical-align: middle;
   padding: 0.1vw;
@@ -632,17 +631,17 @@ a:link, a:visited {
   {
   .detail_panel {
       font-size: 3vh;
-      max-width: 100%;
+      max-width: 90%;
   }
   .masthead-top {
-    font-size: 2.4vh;
+    font-size: 1.5vh;
   }
   .masthead-bottom {
-    font-size: 1.95vh;
+    font-size: 1vh;
     text-align: center;
   }
   #header {
-      font-size: 2vh;
+      font-size: 1.4vh;
       background: #000;
       padding: 0.5vh 0;
       position: fixed;
