@@ -189250,7 +189250,7 @@ var inscriptions = new Map(
             "imageRights": "© University of Cincinnati",
             "imageRightsURL": "http://calibra.classics.cam.ac.uk/",
             "images": [
-                "images/photos/Py418.jpg"
+                "images/photos/Py418_PN_0.jpg"
             ],
             "label": "PY Cn 418 + fr. + 1471 + fr. + frr.(3) + frr. (Ciii)",
             "name": "Py418",
