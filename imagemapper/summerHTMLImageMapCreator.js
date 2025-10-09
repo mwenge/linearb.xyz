@@ -536,10 +536,12 @@ var summerHtmlImageMapCreator = (function() {
                 domElements.img.src = '../' + encodeURIComponent(url);
                 state.image.src = '../' + url;
 
-                console.log(facsimiles, url);
+                const fileName = url.substring(url.lastIndexOf('/') + 1);
+                const facsimileFiles = facsimiles.map(x => x.substring(x.lastIndexOf('/') + 1));
+                console.log(facsimiles, fileName);
                 // If it's a photo, show a facsimile for side by side comparison.
-                if (facsimiles.includes(url)) {
-                  let comparisonImage = `images/facsimiles/${url.substring(url.lastIndexOf('/') + 1)}`
+                if (facsimileFiles.includes(fileName) && !url.includes("facsimile")) {
+                  let comparisonImage = `images/facsimiles/${fileName}`
                   domElements.comparison.src = encodeURIComponent("../" + comparisonImage);
                   domElements.comparison.style.display = "block";
                 } else {
